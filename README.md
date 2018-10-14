@@ -6,7 +6,7 @@ using the instructions at [react-gh-pages](https://github.com/gitname/react-gh-p
 
 1. Fork and clone the [gplus-archive](https://github.com/evilgeniuslabs/gplus-archive) repository.
 2. Open `gplus-archive/package.json` and change the `homepage` property to match your GitHub username.
-3. Open `gplus-archive/src/settins.json` and change the `homepage` property to match your GitHub username. 
+3. Open `gplus-archive/src/settings.json` and change the `homepage` property to match your GitHub username. 
 4. Download and install [Node.js and npm](https://www.npmjs.com/get-npm)
 5. From the `gplus-archive` directory, run `npm install`.
 6. [Export your G+ data](https://support.google.com/plus/answer/1045788?hl=en) in JSON format using [Google Takeout](https://takeout.google.com/settings/takeout).
