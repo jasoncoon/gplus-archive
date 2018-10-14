@@ -61,6 +61,22 @@
         "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
         "resourceName": "users/103867089694409269471"
       },
+      "content": "I got some of the fantastic FastLED examples (copied and adapted from <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/115124694226931502095\" oid=\"115124694226931502095\" >Stefan Petrick</a></span> and <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/112916219338292742137\" oid=\"112916219338292742137\" >Mark Kriegsman</a></span>) working on an Adafruit Medium 32x32 RGB LED matrix panel.  I used a Teensy v3.1 and the SmartMatrix shield and library from <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/114256455711582099215\" oid=\"114256455711582099215\" >Pixelmatix</a></span>.  More details to come, source available here: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pup05/SmartMatrix-FastLED-Examples\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pup05/SmartMatrix-FastLED-Examples</a>﻿",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/2wxAATRX54v",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "I got some of the fantastic FastLED examples (copied and adapted from <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/115124694226931502095\" oid=\"115124694226931502095\" >Stefan Petrick</a></span> and <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/112916219338292742137\" oid=\"112916219338292742137\" >Mark Kriegsman</a></span>) working on an Adafruit Medium 32x32 RGB LED matrix panel.  I used a Teensy v3.1 and the SmartMatrix shield and library from <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/114256455711582099215\" oid=\"114256455711582099215\" >Pixelmatix</a></span>.  More details to come, source available here: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pup05/SmartMatrix-FastLED-Examples\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pup05/SmartMatrix-FastLED-Examples</a>﻿",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=3HAJHI5mqQ8",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -130,6 +146,22 @@
         "profilePageUrl": "https://plus.google.com/+JasonCoon1",
         "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
         "resourceName": "users/103867089694409269471"
+      },
+      "content": "Congratulations to these geniuses!  Without them, our favorite hobby would be a lot less colorful.  :)",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/97wcV2R7mGn",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Congratulations to these geniuses!  Without them, our favorite hobby would be a lot less colorful.  :)",
+        "link": {
+          "title": "2014 Nobel Prize In Physics Awarded To the Inventors of the Blue LED - Slashdot",
+          "url": "http://beta.slashdot.org/story/208175"
+        },
+        "resourceName": "users/103867089694409269471/posts/Uggwi15tlgECU3gCoAEC"
       },
       "postAcl": {
         "communityAcl": {
@@ -358,6 +390,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "With a helpful tip from <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/115124694226931502095\" oid=\"115124694226931502095\" >Stefan Petrick</a></span>, I modified this pattern from using floating-point math to using FastLED 3.1&#39;s new beatsin8 function.  It&#39;s much simpler now.  Thanks <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/112916219338292742137\" oid=\"112916219338292742137\" >Mark Kriegsman</a></span> for the excellent work!",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/berTntUVkVP",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "This pattern is 32 points, each moving up and down independently, with speeds steadily increasing from left to right.  At different times, the pattern produces traveling waves, standing waves, beating, etc.<br><br>I&#39;ve tried several times to convert from using sin() to using FastLED&#39;s sin8(), but can never get it working, if anyone has any ideas/suggestions.<br><br>The code is here: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pixelmatix/aurora/blob/master/PatternPendulumWave.h\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pixelmatix/aurora/blob/master/PatternPendulumWave.h</a>",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=o7rNpv9lAho",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UgjPLLA_7AfMqngCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -379,6 +426,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "As much as I like this pattern, I really need to rewrite it to use FastLED palettes.",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/NFWx9bG3JmQ",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Here&#39;s another of my favorite patterns in Aurora.  This one was inspired by &quot;Rainbow Smoke&quot; by Jozsef Fejes: <a rel=\"nofollow\" target=\"_blank\" href=\"http://rainbowsmoke.hu\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://rainbowsmoke.hu</a>",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=jLi_VaPeJa4",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/Ugh_DBFMfqdRc3gCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -398,6 +460,22 @@
         "profilePageUrl": "https://plus.google.com/+JasonCoon1",
         "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
         "resourceName": "users/103867089694409269471"
+      },
+      "content": "Here&#39;s another of my favorite patterns in Aurora.  This one was inspired by &quot;Rainbow Smoke&quot; by Jozsef Fejes: <a rel=\"nofollow\" target=\"_blank\" href=\"http://rainbowsmoke.hu\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://rainbowsmoke.hu</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/NFWx9bG3JmQ",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Here&#39;s another of my favorite patterns in Aurora.  This one was inspired by &quot;Rainbow Smoke&quot; by Jozsef Fejes: <a rel=\"nofollow\" target=\"_blank\" href=\"http://rainbowsmoke.hu\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://rainbowsmoke.hu</a>",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=jLi_VaPeJa4",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/Ugh_DBFMfqdRc3gCoAEC"
       },
       "postAcl": {
         "communityAcl": {
@@ -468,6 +546,46 @@
         "profilePageUrl": "https://plus.google.com/+JasonCoon1",
         "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
         "resourceName": "users/103867089694409269471"
+      },
+      "content": "Got my BlinkyTile kit from Blinkinlabs in the mail today.  Got it assembled, and now I&#39;m off to write my own patterns.",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/YitoVR1iwZv",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Got my BlinkyTile kit from Blinkinlabs in the mail today.  Got it assembled, and now I&#39;m off to write my own patterns.",
+        "album": {
+          "media": [
+            {
+              "url": "https://plus.google.com/photos/103867089694409269471/albums/6095783783744772417/6095783783759076802",
+              "contentType": "video/*"
+            },
+            {
+              "url": "https://lh5.googleusercontent.com/-DMyOQjOEt5E/VJiTDQ2DD9I/AAAAAAABuPI/UmmdokLqJ9E/w3264-h2448/IMG_20141222_134610%257E2.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh6.googleusercontent.com/-OfVVI-yivCc/VJiTDUGM7nI/AAAAAAABuPI/0y7216CLvUI/w3264-h2448/IMG_20141222_140201.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh6.googleusercontent.com/-Cxtw2rgpdM8/VJiTDc2wwQI/AAAAAAABuPI/tiYvD4M38Ko/w3200-h2368/IMG_20141222_143608.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh6.googleusercontent.com/-lnalzWqGTD0/VJiTDTioAnI/AAAAAAABuPI/fVkRzyo7qa4/w3264-h2448/IMG_20141222_152823.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh6.googleusercontent.com/-OeXNlmRXFvk/VJiTDc2M9PI/AAAAAAABuPI/DXh4BVWeklA/w3264-h2448/IMG_20141222_153113.jpg",
+              "contentType": "image/*"
+            }
+          ]
+        },
+        "resourceName": "users/103867089694409269471/posts/Ugi9p7v8tYMvdXgCoAEC"
       },
       "postAcl": {
         "communityAcl": {
@@ -616,6 +734,37 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "I&#39;ve seen a few people in this community make similar lamps, and finally decided to try making my own.  I picked up a cheap lamp at IKEA and wired up an APA102 strip, a Teensy 3.1 and an infrared remote.  I added a few patterns contributed by FastLED members, along with adjustable brightness and color.",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/8gnaT9eKt7X",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "My latest project has been a remote controlled LED lamp: <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=SNaRzPEzEGE\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=SNaRzPEzEGE</a>",
+        "album": {
+          "media": [
+            {
+              "url": "https://lh5.googleusercontent.com/-_Ezss4-BvMc/VKcpR5sWDsI/AAAAAAABuiE/FS-kwxILeo8/w2448-h3264/IMG_20150101_173156.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh6.googleusercontent.com/-x5d19TK19pc/VKcpR_rbtOI/AAAAAAABuiE/HVce5DNJTss/w2448-h3264/IMG_20150101_173149.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh4.googleusercontent.com/-Ilr07HqESuc/VKcpRx75FLI/AAAAAAABuiE/icwXeGtAWWg/w3264-h2448/IMG_20150101_173035.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh5.googleusercontent.com/-0fzkShNgDWk/VKcpR3a-tqI/AAAAAAABuiE/A5Ca5Xqsnr4/w2448-h3264/IMG_20150101_173051.jpg",
+              "contentType": "image/*"
+            }
+          ]
+        },
+        "resourceName": "users/103867089694409269471/posts/Uggt84yvkrcixngCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -679,6 +828,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "I wired up the Teensy audio library&#39;s FFT to my APA102 LED lamp.  Here&#39;s the code: <a rel=\"nofollow\" target=\"_blank\" href=\"http://git.io/Rz17Ww\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://git.io/Rz17Ww</a>  I need to find some code for good automatic gain control and/or dynamic range compression.  I&#39;d like it to react well regardless of the volume level.  Anyone have any they&#39;d suggest?",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/Kp4QQau6nqp",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "I added reaction to music to my new LED lamp.",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=YQbqccvnx4E",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UghwdzuSrvLgS3gCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -725,6 +889,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "So apparently the BlinkyTile kit uses WS2822S LEDS, which are wired in parallel and use the DMX protocol.  Luckily, FastLED already supports DMX and it was simple to get running on an Arduino Uno.  I also tried it successfully on a Teensy 3.1.  This is Mark&#39;s ColorPalette example.  Thank you Daniel and Mark for all of your hard work at making this easy!",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/RPQQs9xZnaJ",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "A dodecahedron made of BlinkyTiles, running on an Arduino Uno using the FastLED library.  Source code and more information: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pup05/BlinkyTileFastLED\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pup05/BlinkyTileFastLED</a>﻿",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=ZVGWRow0m3g",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UgiRy8Vm8LWUT3gCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -772,6 +951,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "I added FastLED palette support to <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/115124694226931502095\" oid=\"115124694226931502095\" >Stefan Petrick</a></span>&#39;s noise smearing effects on a SmartMatrix 32x32 RGB LED display.  More info and source: <a rel=\"nofollow\" target=\"_blank\" href=\"https://gist.github.com/jasoncoon/d6bbf4ad4b9851a907e1\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://gist.github.com/jasoncoon/d6bbf4ad4b9851a907e1</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/SNerKmu5X8N",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Noise smearing effect with FastLED palettes on a SmartMatrix 32x32 RGB LED display.  More info and source: <a rel=\"nofollow\" target=\"_blank\" href=\"https://gist.github.com/pup05/d6bbf4ad4b9851a907e1\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://gist.github.com/pup05/d6bbf4ad4b9851a907e1</a>",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=zN9GT_sFby8",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UgiXsnnfZZtxQ3gCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -793,6 +987,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "This pattern includes some great changes from J.B. Langston to include more color, and uses Mark Kriegsman&#39;s fantastic FastLED palettes.",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/3tVotHTVhB7",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "I ported a &quot;Conway&#39;s Game of Life&quot; pattern to my SmartMatrix 32x32 RGB LED display.  More info and source: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pup05/SmartMatrixLife\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pup05/SmartMatrixLife</a>﻿",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=lLjxPQNDcus",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UggRQ_XnMI_NqngCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -814,6 +1023,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "I combined Stefan Petrick&#39;s &quot;Funky Noise&quot; smearing effects with Mark&#39;s FastLED palette blending.  I find the result mesmerizing.  Thanks to you both!",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/SNerKmu5X8N",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Noise smearing effect with FastLED palettes on a SmartMatrix 32x32 RGB LED display.  More info and source: <a rel=\"nofollow\" target=\"_blank\" href=\"https://gist.github.com/pup05/d6bbf4ad4b9851a907e1\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://gist.github.com/pup05/d6bbf4ad4b9851a907e1</a>",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=zN9GT_sFby8",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UgiXsnnfZZtxQ3gCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -835,6 +1059,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "BlinkyTile Dodecahedron v2 + accelerometer + FastLED.  Cordless this time.  :)",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/PegzxgLjqH5",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "I assembled another dodecahedron, but this time I used an Adafruit Trinket Pro 3v, LiPo battery and charger backpack, and an accelerometer, and packed it all inside. I added a few switches for power, brightness, and pattern selection. It charges via the micro USB port on the Trinket.",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=xRlQ6_sIits",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UgiHahhj6MX3xHgCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -944,6 +1183,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "Challenged by <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/110856759083002287912\" oid=\"110856759083002287912\" >Marc Miller</a></span>, I added a new pattern to Aurora using FastLED&#39;s beatsin8 function (I also created a &#39;companion&#39; beatcos8 function).  Inspired by Whitney Incremental Drift - 48 dots by Jim Bumgardner:  <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=GuQJN6fTUW0\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=GuQJN6fTUW0</a><br><br>Source code: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pixelmatix/aurora/blob/Aurora1.4/PatternIncrementalDrift.h\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pixelmatix/aurora/blob/Aurora1.4/PatternIncrementalDrift.h</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/5HKHenuwBom",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Challenged by <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/110856759083002287912\" oid=\"110856759083002287912\" >Marc Miller</a></span>, I added a new pattern to Aurora using FastLED&#39;s beatsin8 function (I also created a &#39;companion&#39; beatcos8 function).  Inspired by Whitney Incremental Drift - 48 dots by Jim Bumgardner:  <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=GuQJN6fTUW0\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=GuQJN6fTUW0</a>",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=fiNZL2WqHZw",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UggZmKEusXiYEHgCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -965,6 +1219,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "I added a new pattern to Aurora using FastLED&#39;s beatsin8 function (I also created a &#39;companion&#39; beatcos8 function).  Inspired by Whitney Incremental Drift - 48 dots by Jim Bumgardner:  <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=GuQJN6fTUW0\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=GuQJN6fTUW0</a><br><br>Source code: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pixelmatix/aurora/blob/Aurora1.4/PatternIncrementalDrift.h\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pixelmatix/aurora/blob/Aurora1.4/PatternIncrementalDrift.h</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/5HKHenuwBom",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Challenged by <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/110856759083002287912\" oid=\"110856759083002287912\" >Marc Miller</a></span>, I added a new pattern to Aurora using FastLED&#39;s beatsin8 function (I also created a &#39;companion&#39; beatcos8 function).  Inspired by Whitney Incremental Drift - 48 dots by Jim Bumgardner:  <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=GuQJN6fTUW0\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=GuQJN6fTUW0</a>",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=fiNZL2WqHZw",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UggZmKEusXiYEHgCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -1115,6 +1384,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "Source: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pixelmatix/aurora/blob/d087efe69b539e2c00a026dde2fa205210d4f3b3/PatternFire.h\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pixelmatix/aurora/blob/d087efe69b539e2c00a026dde2fa205210d4f3b3/PatternFire.h</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/Ziy9SdArcSa",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "I added Stefan Petrick&#39;s &quot;Noise Smearing&quot; to Mark Kriegsman&#39;s Fire, and I really like the combination.",
+        "media": {
+          "url": "https://www.youtube.com/watch?v=Atvs-d1x_p8&feature=autoshare",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UgjDpDwWhh-lr3gCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -1136,6 +1420,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "Source: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pixelmatix/aurora/blob/d087efe69b539e2c00a026dde2fa205210d4f3b3/PatternFire.h\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pixelmatix/aurora/blob/d087efe69b539e2c00a026dde2fa205210d4f3b3/PatternFire.h</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/Ziy9SdArcSa",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "I added Stefan Petrick&#39;s &quot;Noise Smearing&quot; to Mark Kriegsman&#39;s Fire, and I really like the combination.",
+        "media": {
+          "url": "https://www.youtube.com/watch?v=Atvs-d1x_p8&feature=autoshare",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UgjDpDwWhh-lr3gCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -1182,6 +1481,23 @@
         "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
         "resourceName": "users/103867089694409269471"
       },
+      "content": "SmartMatrix is live on Kickstarter!  Discount for backing this weekend! <a rel=\"nofollow\" target=\"_blank\" href=\"http://kck.st/1RUlTfb\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://kck.st/1RUlTfb</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+PixelmatixRGB/posts/7V823zTYZkn",
+        "author": {
+          "displayName": "Pixelmatix",
+          "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+          "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+          "resourceName": "users/114256455711582099215"
+        },
+        "content": "SmartMatrix is live on Kickstarter!  Discount for backing this weekend! <a rel=\"nofollow\" target=\"_blank\" href=\"http://kck.st/1RUlTfb\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://kck.st/1RUlTfb</a>",
+        "link": {
+          "title": "SmartMatrix - Dynamic LED Art Display and Music Visualizer by Pixelmatix — Kickstarter",
+          "url": "http://kck.st/1RUlTfb",
+          "imageUrl": "https://ksr-ugc.imgix.net/projects/979600/photo-original.JPG?v=1431226937&w=1536&h=1152&fit=crop&auto=format&q=92&s=62cfa86e399101ec30d2203ff6406337"
+        },
+        "resourceName": "users/114256455711582099215/posts/UggmxTXwLMULg3gCoAEC"
+      },
       "postAcl": {
         "visibleToStandardAcl": {
           "circles": [
@@ -1227,6 +1543,22 @@
         "profilePageUrl": "https://plus.google.com/+JasonCoon1",
         "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
         "resourceName": "users/103867089694409269471"
+      },
+      "content": "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/103867089694409269471\" oid=\"103867089694409269471\" >Jason Coon</a></span> and I met SmartMatrix contributor <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/113700969348903612932\" oid=\"113700969348903612932\" >Konstantin Gredeskoul</a></span> at Maker Faire!  It was great to meet SmartMatrix contributors and users, and see other peoples projects.<br><br>Take care of that finger Konstantin!",
+      "resharedPost": {
+        "url": "https://plus.google.com/+PixelmatixRGB/posts/7qLeqZyi5Tq",
+        "author": {
+          "displayName": "Pixelmatix",
+          "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+          "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+          "resourceName": "users/114256455711582099215"
+        },
+        "content": "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/103867089694409269471\" oid=\"103867089694409269471\" >Jason Coon</a></span> and I met SmartMatrix contributor <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/113700969348903612932\" oid=\"113700969348903612932\" >Konstantin Gredeskoul</a></span> at Maker Faire!  It was great to meet SmartMatrix contributors and users, and see other peoples projects.<br><br>Take care of that finger Konstantin!",
+        "media": {
+          "url": "https://lh3.googleusercontent.com/-twCgPads938/VVoy6_IiQKI/AAAAAAAAAMA/uzpBNNb-eAQ/w3264-h2448/15%2B-%2B1",
+          "contentType": "image/*"
+        },
+        "resourceName": "users/114256455711582099215/posts/Uggo2rnOsBVWDHgCoAEC"
       },
       "postAcl": {
         "visibleToStandardAcl": {
@@ -1301,6 +1633,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "IKEA LAMPAN lamp with 90 APA102C RGB LEDs, driven with a Particle Core and FastLED.  The LEDs are arranged into a 6x15 matrix.  Controlled with a small web app over Wi-Fi.  I&#39;ll post some build pics, source code, and more details soon.  Thank you all for the inspiration, and for making this stuff so much easier!",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/BhEh6C8qZ1Y",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Here&#39;s my second attempt at a RGB LED lamp, this time a bit smaller and using a Particle Core, which allows easy control over Wi-Fi.  I made a small 2D matrix of LEDs, instead of just a strip like the last lamp.  This allows effects that wrap around the lamp horizontally 360 degrees, in addition to vertical motion.",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=s3mbcSl60YI",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/Ugg_7wC9BUudr3gCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -1388,6 +1735,61 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "This was my first (and possibly last) attempt at making a matrix out of strips.  :)  I very strongly dislike soldering LED strips, especially the 144 per meter ones I used for this project.  Any pointers?  I soldered straight break away headers to each end, but had to sacrifice one LED per strip so I had a full pad on each end.<br><br>Aside from that, this was a pretty easy build.  There are build notes in the pictures, if you&#39;d like more details.<br><br>This was a fairly quick prototype build, I hope to rebuild it, and maybe bring the LEDs closer to the shade for a little less diffusion.<br><br>Any suggestions from you build pros out there?",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/MCpQ33iKeRb",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "More video and pics, and a peek inside my latest prototype lamp.  Source code and more details: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/jasoncoon/ParticleCoreMatrixLamp\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/jasoncoon/ParticleCoreMatrixLamp</a>",
+        "album": {
+          "media": [
+            {
+              "url": "https://plus.google.com/photos/103867089694409269471/albums/6162246797168578737/6162288125305296098",
+              "contentType": "video/*"
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-uwGBxeCEg78/VYSy0K95X0I/AAAAAAABy90/octwz_X1Ufo/w2448-h3264/IMG_20150619_182950.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-0irIvKL-EJc/VYSy0HsuNGI/AAAAAAABy90/Bkm-V6kpZ9g/w2448-h3264/IMG_20150619_182953.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-hkwJDsVqIi4/VYSy0OuJBbI/AAAAAAABy90/fCa7fPhBtM4/w2448-h3264/IMG_20150619_182955.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-5-iUS-iRGDI/VYSy0Pmet2I/AAAAAAABy90/JKbJqayVAvw/w2448-h3264/IMG_20150619_182957.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-LKRJuAZToe4/VYSy0Fmxh7I/AAAAAAABy90/Nf6O4iU99eE/w2448-h3264/IMG_20150619_184145.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-r2R1lDfhg-8/VYSy0P5pRvI/AAAAAAABy90/-t2nOuGjw5U/w2448-h3264/IMG_20150619_184156.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-ZnEnteUsxr0/VYSy0FHbJXI/AAAAAAABy90/hGAPigmNNy8/w2448-h3264/IMG_20150619_184218.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-p8QeCrg4cJk/VYSy0NIXz5I/AAAAAAABy90/26koiMPdHhk/w2448-h3264/IMG_20150619_184227.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-Wo25eOWFjEQ/VYSy0HiF4mI/AAAAAAABy90/U6dQbwme_5Y/w2448-h3264/IMG_20150619_184254.jpg",
+              "contentType": "image/*"
+            }
+          ]
+        },
+        "resourceName": "users/103867089694409269471/posts/Ugh4ylDtbVLgZngCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -1434,6 +1836,22 @@
         "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
         "resourceName": "users/103867089694409269471"
       },
+      "content": "In honor of today&#39;s historic (and long overdue) Supreme Court decision, I decided to make a new pattern for SmartMatrix and FastLED.  :)<br><br><a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pixelmatix/aurora/blob/master/PatternNoiseSmearing.h#L284\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pixelmatix/aurora/blob/master/PatternNoiseSmearing.h#L284</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/eTrCm1jNfEb",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "In honor of today&#39;s historic (and long overdue) Supreme Court decision, I decided to make a new pattern for SmartMatrix and FastLED.  :)<br><br><a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pixelmatix/aurora/blob/master/PatternNoiseSmearing.h#L284\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pixelmatix/aurora/blob/master/PatternNoiseSmearing.h#L284</a>",
+        "media": {
+          "url": "https://plus.google.com/photos/103867089694409269471/albums/6164865385619982849/6164865384296460082",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/Ugjf-d7qInav1HgCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -1453,6 +1871,22 @@
         "profilePageUrl": "https://plus.google.com/+JasonCoon1",
         "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
         "resourceName": "users/103867089694409269471"
+      },
+      "content": "In honor of today&#39;s historic (and long overdue) Supreme Court decision, I decided to make a new pattern for SmartMatrix and FastLED.  :)<br><br><a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pixelmatix/aurora/blob/master/PatternNoiseSmearing.h#L284\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pixelmatix/aurora/blob/master/PatternNoiseSmearing.h#L284</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/eTrCm1jNfEb",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "In honor of today&#39;s historic (and long overdue) Supreme Court decision, I decided to make a new pattern for SmartMatrix and FastLED.  :)<br><br><a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/pixelmatix/aurora/blob/master/PatternNoiseSmearing.h#L284\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/pixelmatix/aurora/blob/master/PatternNoiseSmearing.h#L284</a>",
+        "media": {
+          "url": "https://plus.google.com/photos/103867089694409269471/albums/6164865385619982849/6164865384296460082",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/Ugjf-d7qInav1HgCoAEC"
       },
       "postAcl": {
         "communityAcl": {
@@ -1475,6 +1909,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "Many thanks, as always, to <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/112916219338292742137\" oid=\"112916219338292742137\" >Mark Kriegsman</a></span> for sharing his FireworksXY code!<br><br>Source: <a rel=\"nofollow\" target=\"_blank\" href=\"https://gist.github.com/jasoncoon/0cccc5ba7ab108c0a373\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://gist.github.com/jasoncoon/0cccc5ba7ab108c0a373</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/Lkap7rWf4Lb",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Happy Independence Day!  :)",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=ISTYxVrddZY",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/Ugh2FgnZRk7KPHgCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -1496,6 +1945,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "Many thanks, as always, to Mark Kriegsman for sharing his FastLED FireworksXY code!<br><br>Source: <a rel=\"nofollow\" target=\"_blank\" href=\"https://gist.github.com/jasoncoon/0cccc5ba7ab108c0a373\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://gist.github.com/jasoncoon/0cccc5ba7ab108c0a373</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/Lkap7rWf4Lb",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Happy Independence Day!  :)",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=ISTYxVrddZY",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/Ugh2FgnZRk7KPHgCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -1719,6 +2183,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "Another huge thank you to Daniel and Mark for your work on FastLED, especially porting it to the Spark Core, and the FastLED community for sharing your work and inspiration!",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/S9Erjs8HVeZ",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "My latest creation.  Similar to my wireless BlinkyTile Dodecahedron, this is built with a Spark Core with Wi-Fi, 48 RGB LEDs, accelerometer/magnetometer, lipo battery, and charger.<br><br>Source code: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/evilgeniuslabs/PlasmaSphere\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/evilgeniuslabs/PlasmaSphere</a><br><br>Build details and pics: <a rel=\"nofollow\" target=\"_blank\" href=\"https://goo.gl/photos/GFF6yLdpjBrtcw666\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://goo.gl/photos/GFF6yLdpjBrtcw666</a>",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=VjsQvac_-Xg",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UgiWUILzVv45ongCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -1798,6 +2277,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "While I am looking forward to creating custom patterns specifically for this build, I really appreciate being able to get immediate gratification by using the fantastic patterns shared by this community.  I have yet to find a form-factor on which Mark&#39;s ColorWavesWithPalette and Pride2015 do not look amazing.  So far I&#39;ve tried them on strips, matrices, organic 2D layouts, rings, etc.  Thanks!",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/4w6j4bsURZv",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/112916219338292742137\" oid=\"112916219338292742137\" >Mark Kriegsman</a></span>&#39;s fantastically sublime &quot;ColorWavesWithPalette&quot; pattern running on the Plasma Sphere.",
+        "media": {
+          "url": "http://www.youtube.com/watch?v=Qoq6iEZ6Zlw",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UggXgyW9dcDKLXgCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -1845,6 +2339,53 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "I built these prototypes out of cardboard a while back, and have been waiting to share them until I built proper bodies out of wood (which still hasn&#39;t happened).  Built three different sizes, each with 60 APA102s: 5.22&quot; small (144/m), 10.44&quot; medium (72/m), and 12.53&quot; large (60/m).  I plan to build them with larger faces to block more direct lighting.  They diffuse very nicely out onto the wall on which they&#39;re hung.<br><br>I really need to step up my woodworking skills, so I found a local guild that has all the expensive equipment, and classes to learn how to use them.  Now I just need more spare time...  :)<br><br>Source: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/jasoncoon/SparkRing/blob/master/Firmware/spark-ring/spark-ring.ino\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/jasoncoon/SparkRing/blob/master/Firmware/spark-ring/spark-ring.ino</a>",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/FZjjxLNB737",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "Clock/circular display built with a Spark Core, syncs time automatically via Wi-Fi.  All you have to do is set the time zone.",
+        "album": {
+          "media": [
+            {
+              "url": "https://lh3.googleusercontent.com/-6-w4gWScvrQ/VOPB2tdVKkI/AAAAAAABvQs/qLF5_WnaBhk/w3264-h2448/IMG_20150217_154615.jpg",
+              "contentType": "image/*"
+            },
+            {
+              "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116975361238589266?sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac&sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+              "contentType": "video/*"
+            },
+            {
+              "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945967332472658?sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac&sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+              "contentType": "video/*"
+            },
+            {
+              "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945964981947794?sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac&sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+              "contentType": "video/*"
+            },
+            {
+              "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945967067714738?sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac&sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+              "contentType": "video/*"
+            },
+            {
+              "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945967413023746?sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac&sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+              "contentType": "video/*"
+            },
+            {
+              "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945964722252866?sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac&sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+              "contentType": "video/*"
+            },
+            {
+              "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945966320262930?sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac&sqi=109127054924227823508&sqsi=f932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+              "contentType": "video/*"
+            }
+          ]
+        },
+        "resourceName": "users/103867089694409269471/posts/UghXEzVxg8wU0ngCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -2160,6 +2701,22 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "I&#39;ve been out-tree&#39;d!  I&#39;m going to have to step up my game next year.  :)",
+      "resharedPost": {
+        "url": "https://plus.google.com/+Maniacallabs/posts/LcFwUQotB4e",
+        "author": {
+          "displayName": "Maniacal Labs LLC",
+          "profilePageUrl": "https://plus.google.com/+Maniacallabs",
+          "avatarImageUrl": "https://lh4.googleusercontent.com/-llIYIlsvD40/AAAAAAAAAAI/AAAAAAAAAIU/xPhQnJXxIFc/s64-c/photo.jpg",
+          "resourceName": "users/104486391541517922016"
+        },
+        "content": "Christmas Tree Light-Show with AllPixel, BiblioPixel, and PixelWeb<br><br>Ever since working on the Adafruit APA102 Disk, it seemed the next logical step was to apply the same idea to a Christmas tree. So, last year after all the holidays, when everything was on sale, I picked up a 7 foot tall white artificial tree. Green would…",
+        "link": {
+          "title": "Christmas Tree Light-Show with AllPixel, BiblioPixel, and PixelWeb",
+          "url": "http://maniacallabs.com/2015/11/17/christmas-tree-light-show-with-allpixel-bibliopixel-and-pixelweb/",
+          "imageUrl": "http://img.youtube.com/vi/Tisn1DXV-RQ/0.jpg"
+        },
+        "resourceName": "users/104486391541517922016/posts/Ugh1OlhOYR3sM3gCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
@@ -2256,6 +2813,21 @@
         "resourceName": "users/103867089694409269471"
       },
       "content": "Sorry if this is a double post.  I shared this from mobile, and then had someone tell me it didn&#39;t show up in the FastLED community.",
+      "resharedPost": {
+        "url": "https://plus.google.com/+JasonCoon1/posts/K8NNp1GYsEs",
+        "author": {
+          "displayName": "Jason Coon",
+          "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+          "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+          "resourceName": "users/103867089694409269471"
+        },
+        "content": "I wired up a stereo MSGEQ7 board and added a couple of music reactive patterns.<br><br>I switched to a thinner section of 2.5&quot; PVC pipe, which makes the spiral taller and provides more distance between the LEDs and the frosted glass for better diffusion.  I also added a rolled sheet of vellum paper inside the glass for even more diffusion.<br><br>Added a couple more pics: <a rel=\"nofollow\" target=\"_blank\" href=\"https://goo.gl/photos/CSTDgXTopRSXpjJA7\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://goo.gl/photos/CSTDgXTopRSXpjJA7</a><br><br>Source: <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/evilgeniuslabs/torch\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/evilgeniuslabs/torch</a>﻿",
+        "media": {
+          "url": "https://youtu.be/R79r7mAE6_A",
+          "contentType": "video/*"
+        },
+        "resourceName": "users/103867089694409269471/posts/UghsX-A5qhQYNHgCoAEC"
+      },
       "postAcl": {
         "communityAcl": {
           "community": {
