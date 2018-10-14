@@ -1,0 +1,229 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/MVsHr6JW15Z",
+  "creationTime": "2015-03-31 18:13:32-0400",
+  "updateTime": "2015-03-31 18:13:32-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Challenged by \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110856759083002287912\" oid\u003d\"110856759083002287912\" \u003eMarc Miller\u003c/a\u003e\u003c/span\u003e, I added a new pattern to Aurora using FastLED\u0026#39;s beatsin8 function (I also created a \u0026#39;companion\u0026#39; beatcos8 function).  Inspired by Whitney Incremental Drift - 48 dots by Jim Bumgardner:  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/watch?v\u003dGuQJN6fTUW0\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/watch?v\u003dGuQJN6fTUW0\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eSource code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/blob/Aurora1.4/PatternIncrementalDrift.h\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/blob/Aurora1.4/PatternIncrementalDrift.h\u003c/a\u003e",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/5HKHenuwBom",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Challenged by \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110856759083002287912\" oid\u003d\"110856759083002287912\" \u003eMarc Miller\u003c/a\u003e\u003c/span\u003e, I added a new pattern to Aurora using FastLED\u0026#39;s beatsin8 function (I also created a \u0026#39;companion\u0026#39; beatcos8 function).  Inspired by Whitney Incremental Drift - 48 dots by Jim Bumgardner:  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/watch?v\u003dGuQJN6fTUW0\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/watch?v\u003dGuQJN6fTUW0\u003c/a\u003e",
+    "media": {
+      "url": "http://www.youtube.com/watch?v\u003dfiNZL2WqHZw",
+      "contentType": "video/*",
+      "width": 1280,
+      "height": 720,
+      "description": "Incremental Drift pattern from Aurora. Inspired by Whitney Incremental Drift - 48 dots by Jim Bumgardner: https://www.youtube.com/watch?v\u003dGuQJN6fTUW0 Source ...",
+      "resourceName": "media/EgtmaU5aTDJXcUhadw\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UggZmKEusXiYEHgCoAEC"
+  },
+  "comments": [{
+    "creationTime": "2015-03-31 18:37:28-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Nice!  I was wondering how well this pattern could work on a square LED matrix.  32x32 seems to work just fine!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MVsHr6JW15Z",
+    "resourceName": "users/103867089694409269471/posts/Ugh6jDv-cV92AHgCoAEC/comments/CiF6MTIwaXR6Z2V3enpzeGxudTIzcWoxMnJtdWVhaHh0MHAQyu7p8tPTxAI"
+  }, {
+    "creationTime": "2015-03-31 20:03:03-0400",
+    "author": {
+      "displayName": "Jon Burroughs",
+      "profilePageUrl": "https://plus.google.com/105445034001275025240",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-3n1amsNf4UQ/AAAAAAAAAAI/AAAAAAAACIY/LVE4Z_Es1w4/s64-c/photo.jpg",
+      "resourceName": "users/105445034001275025240"
+    },
+    "content": "Now that was some quick work! Looks great, could you take advantage of the blur() functions with FastLED and get globs that move like this?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MVsHr6JW15Z",
+    "resourceName": "users/103867089694409269471/posts/Ugh6jDv-cV92AHgCoAEC/comments/CiF6MTIwaXR6Z2V3enpzeGxudTIzcWoxMnJtdWVhaHh0MHAQjrqGg-fTxAI"
+  }, {
+    "creationTime": "2015-03-31 20:16:08-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks!  All of the hard work was done by Daniel, Mark, and Louis.  They make this stuff easy.  :)  I\u0026#39;ll try blur to make the dots bigger.  I\u0026#39;m already playing with dimming by varying amounts to leave motion blur trails.  I\u0026#39;ll upload more video later.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MVsHr6JW15Z",
+    "resourceName": "users/103867089694409269471/posts/Ugh6jDv-cV92AHgCoAEC/comments/CiF6MTIwaXR6Z2V3enpzeGxudTIzcWoxMnJtdWVhaHh0MHAQ2oir-enTxAI"
+  }, {
+    "creationTime": "2015-04-01 01:11:34-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Jim is providing more fun for you \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e.\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://youtu.be/02ZUSIHGxcw\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://youtu.be/02ZUSIHGxcw\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MVsHr6JW15Z",
+    "resourceName": "users/103867089694409269471/posts/Ugh6jDv-cV92AHgCoAEC/comments/CiF6MTIwaXR6Z2V3enpzeGxudTIzcWoxMnJtdWVhaHh0MHAQ6reB_qvUxAI"
+  }, {
+    "creationTime": "2015-04-01 17:59:01-0400",
+    "author": {
+      "displayName": "Jon Burroughs",
+      "profilePageUrl": "https://plus.google.com/105445034001275025240",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-3n1amsNf4UQ/AAAAAAAAAAI/AAAAAAAACIY/LVE4Z_Es1w4/s64-c/photo.jpg",
+      "resourceName": "users/105445034001275025240"
+    },
+    "content": "Just cause I just noticed this and I\u0026#39;m curious, the original video has the inner dots moving the fastest while the outside dots barely move. Are you able to recreate that too?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MVsHr6JW15Z",
+    "resourceName": "users/103867089694409269471/posts/Ugh6jDv-cV92AHgCoAEC/comments/CiF6MTIwaXR6Z2V3enpzeGxudTIzcWoxMnJtdWVhaHh0MHAQhrmXlY3WxAI"
+  }, {
+    "creationTime": "2015-04-01 18:49:34-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Ah, yes, good eye Jon.  I\u0026#39;m able to recreate that by just inverting the bpm (highest to lowest, from inside to out).  I\u0026#39;ll try to upload the source and more video later.  Thanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MVsHr6JW15Z",
+    "resourceName": "users/103867089694409269471/posts/Ugh6jDv-cV92AHgCoAEC/comments/CiF6MTIwaXR6Z2V3enpzeGxudTIzcWoxMnJtdWVhaHh0MHAQgc7Nu5jWxAI"
+  }, {
+    "creationTime": "2015-04-01 19:37:55-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Video: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://youtu.be/VwpI_fZJy9Q\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://youtu.be/VwpI_fZJy9Q\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eSource: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/blob/Aurora1.4/PatternIncrementalDrift.h\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/blob/Aurora1.4/PatternIncrementalDrift.h\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MVsHr6JW15Z",
+    "resourceName": "users/103867089694409269471/posts/Ugh6jDv-cV92AHgCoAEC/comments/CiF6MTIwaXR6Z2V3enpzeGxudTIzcWoxMnJtdWVhaHh0MHAQ3dfooqPWxAI"
+  }, {
+    "creationTime": "2015-04-01 21:42:36-0400",
+    "author": {
+      "displayName": "Jon Burroughs",
+      "profilePageUrl": "https://plus.google.com/105445034001275025240",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-3n1amsNf4UQ/AAAAAAAAAAI/AAAAAAAACIY/LVE4Z_Es1w4/s64-c/photo.jpg",
+      "resourceName": "users/105445034001275025240"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e YES!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MVsHr6JW15Z",
+    "resourceName": "users/103867089694409269471/posts/Ugh6jDv-cV92AHgCoAEC/comments/CiF6MTIwaXR6Z2V3enpzeGxudTIzcWoxMnJtdWVhaHh0MHAQ4dOckr_WxAI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ugh6jDv-cV92AHgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Adam bluebottleyellowboxyellyfish",
+      "profilePageUrl": "https://plus.google.com/107742111066361257243",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-qaRE2xXv5Ro/AAAAAAAAAAI/AAAAAAAAABg/sIYg1QxLdtI/s64-c/photo.jpg",
+      "resourceName": "users/107742111066361257243"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Daniel C",
+      "profilePageUrl": "https://plus.google.com/102198396006782809244",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-P4SZz8vfsdo/AAAAAAAAAAI/AAAAAAAAALE/TEhBGM0NYhQ/s64-c/photo.jpg",
+      "resourceName": "users/102198396006782809244"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kyle Schwab",
+      "profilePageUrl": "https://plus.google.com/101084239966777410219",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-NWk29U7h_RU/AAAAAAAAAAI/AAAAAAAAPsQ/NKg_ONii7T8/s64-c/photo.jpg",
+      "resourceName": "users/101084239966777410219"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Vicky Bilaniuk",
+      "profilePageUrl": "https://plus.google.com/+VickyBilaniuk",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-GLwdeW6uGf0/AAAAAAAAAAI/AAAAAAAAHWY/hkCnSoYR9ZY/s64-c/photo.jpg",
+      "resourceName": "users/114696958484464281987"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stuart Taylor",
+      "profilePageUrl": "https://plus.google.com/+StuartTaylorEsquire",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-1o8DVHoVssI/AAAAAAAAAAI/AAAAAAAAAzs/hKSNdcgBEP0/s64-c/photo.jpg",
+      "resourceName": "users/114324245599374478371"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/103064351079181214877",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Ri1pO7bCmBs/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXkv70UuhkBWbK_ovpfwbl6zmXesA/s64-c/photo.jpg",
+      "resourceName": "users/103064351079181214877"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Robert Atkins",
+      "profilePageUrl": "https://plus.google.com/112974620627169436992",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q_fU1LZ0S7c/AAAAAAAAAAI/AAAAAAAAACk/ceI8vaRTgA8/s64-c/photo.jpg",
+      "resourceName": "users/112974620627169436992"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Eric F.",
+      "profilePageUrl": "https://plus.google.com/103960442935547307936",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-2IweRMlBB8U/AAAAAAAAAAI/AAAAAAAAAtg/fRLCv2hZy0o/s64-c/photo.jpg",
+      "resourceName": "users/103960442935547307936"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/110856759083002287912",
+        "displayName": "Marc Miller"
+      }]
+    }
+  }
+}

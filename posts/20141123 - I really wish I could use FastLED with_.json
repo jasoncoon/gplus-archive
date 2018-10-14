@@ -1,0 +1,70 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/JWjkJgSrjwK",
+  "creationTime": "2014-11-23 21:13:34-0500",
+  "updateTime": "2015-02-22 10:11:07-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I really wish I could use FastLED with the Spark Core.  I hope they fix their library support soon...  :)\u003cbr\u003e\u003cbr\u003eI wrote a simple sketch and a web app to control the pattern, brightness, etc: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/SparkRing\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/SparkRing\u003c/a\u003e",
+  "media": {
+    "url": "https://plus.google.com/photos/103867089694409269471/albums/6085088404049395857/6085088414464214514",
+    "contentType": "image/*",
+    "width": 306,
+    "height": 408,
+    "resourceName": "media/CixBRjFRaXBOY004R1RtLUNnd2ZsWXBxRzUtdEFXejlDNUVwWHFrTDRCNjhLdA\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2014-11-23 21:23:50-0500",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "There\u0026#39;s more to supporting spark core than their library - I also have to add support for the STM32 arm core they\u0026#39;re using. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JWjkJgSrjwK",
+    "resourceName": "users/103867089694409269471/posts/Ughos55UgLF1jngCoAEC/comments/CiF6MTJiaXJsZzV0MzVpanFmYzIzcWoxMnJtdWVhaHh0MHAQn8Wv4ZeSwgI"
+  }, {
+    "creationTime": "2014-11-23 21:26:54-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Cool, no rush, I know you\u0026#39;re busy.  I was just wishing out loud.  :)\u003cbr\u003e\u003cbr\u003eThanks for all the hard work you\u0026#39;ve already put in to FastLED!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JWjkJgSrjwK",
+    "resourceName": "users/103867089694409269471/posts/Ughos55UgLF1jngCoAEC/comments/CiF6MTJiaXJsZzV0MzVpanFmYzIzcWoxMnJtdWVhaHh0MHAQleqSuZiSwgI"
+  }, {
+    "creationTime": "2014-11-24 06:07:38-0500",
+    "author": {
+      "displayName": "Mark Ortiz",
+      "profilePageUrl": "https://plus.google.com/+MarkOrtiz1",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rr3IeLFo1ro/AAAAAAAAAAI/AAAAAAAACNo/9QseMvLcnAg/s64-c/photo.jpg",
+      "resourceName": "users/113382150942778753214"
+    },
+    "content": "I experimented with the Spark, and got the \u0026#39;other\u0026#39; library that shall not be named ;-) working - but also will be pleased when FastLED is on it. I\u0026#39;m also look forward to next year\u0026#39;s cheaper more powerful version.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JWjkJgSrjwK",
+    "resourceName": "users/103867089694409269471/posts/Ughos55UgLF1jngCoAEC/comments/CiF6MTJiaXJsZzV0MzVpanFmYzIzcWoxMnJtdWVhaHh0MHAQ2NLT64yTwgI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ughos55UgLF1jngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Mark Ortiz",
+      "profilePageUrl": "https://plus.google.com/+MarkOrtiz1",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rr3IeLFo1ro/AAAAAAAAAAI/AAAAAAAACNo/9QseMvLcnAg/s64-c/photo.jpg",
+      "resourceName": "users/113382150942778753214"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

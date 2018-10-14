@@ -1,0 +1,132 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/berTntUVkVP",
+  "creationTime": "2014-12-10 20:15:59-0500",
+  "updateTime": "2014-12-10 20:15:59-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "This pattern is 32 points, each moving up and down independently, with speeds steadily increasing from left to right.  At different times, the pattern produces traveling waves, standing waves, beating, etc.\u003cbr\u003e\u003cbr\u003eI\u0026#39;ve tried several times to convert from using sin() to using FastLED\u0026#39;s sin8(), but can never get it working, if anyone has any ideas/suggestions.\u003cbr\u003e\u003cbr\u003eThe code is here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/blob/master/PatternPendulumWave.h\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/blob/master/PatternPendulumWave.h\u003c/a\u003e",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003do7rNpv9lAho",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Pendulum Wave pattern from Aurora. This pattern is 32 pixels each moving independently in a vertical sine wave, with speeds steadily increasing from left to ...",
+    "resourceName": "media/EgtvN3JOcHY5bEFobw\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2014-12-10 23:50:08-0500",
+    "author": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    },
+    "content": "I like at roughly 15 seconds in when it looks like there are three lines rotating along a cylinder, I wonder how it would look if it stayed at that speed for a while.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/berTntUVkVP",
+    "resourceName": "users/103867089694409269471/posts/UgjPLLA_7AfMqngCoAEC/comments/CiN6MTJwZG5iejB6dTN1dDVxajA0Y2l0dzRleWZkY3RycjQybxC-uceVmL3CAg"
+  }, {
+    "creationTime": "2014-12-11 06:07:08-0500",
+    "updateTime": "2014-12-11 06:31:46-0500",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "Nice one! Try out the new beatsin88 function (since 2 days in the 3.1 branch) which allows you to specify the bpm as an accum88 datatype: 256 steps for the integer part and 256 steps for the fractional part. Like 1bpm \u003d 256, 2bpm \u003d 512, 0.5bpm \u003d 128. That should make it easy to detune the frequencies slighly.\u003cbr\u003eRight now you use a static stepwidth between the oscillator frequencies. It looks also nice when you increase the stepwidth with every step... until it becomes just chaotic.\u003cbr\u003eedit: with beatsin8 it would be like\u003cbr\u003ey \u003d beatsin8( bpm, 0, MATRIX_HEIGHT - 1 );\u003cbr\u003efor just one point.\u003cbr\u003eDone. :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/berTntUVkVP",
+    "resourceName": "users/103867089694409269471/posts/UgjPLLA_7AfMqngCoAEC/comments/CiN6MTJwZG5iejB6dTN1dDVxajA0Y2l0dzRleWZkY3RycjQybxCV7ee37L3CAg"
+  }, {
+    "creationTime": "2014-12-11 09:20:10-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, Stefan!  I\u0026#39;ll try this out tonight.  I\u0026#39;d seen Mark talking about nice new stuff in FastLED 3.1 (beat, blur, etc), but haven\u0026#39;t checked it out yet.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/berTntUVkVP",
+    "resourceName": "users/103867089694409269471/posts/UgjPLLA_7AfMqngCoAEC/comments/CiN6MTJwZG5iejB6dTN1dDVxajA0Y2l0dzRleWZkY3RycjQybxDD56bKl77CAg"
+  }, {
+    "creationTime": "2014-12-11 09:25:27-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/114256455711582099215\" oid\u003d\"114256455711582099215\" \u003ePixelmatix\u003c/a\u003e\u003c/span\u003e I\u0026#39;ll add that to my to-do list.  :)  In this pattern, each dot moves only vertically at its own unique but constant rate.  Maintaining a specific wave pattern would require each dot to move at the same rate, with their offset dictating the pattern displayed.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/berTntUVkVP",
+    "resourceName": "users/103867089694409269471/posts/UgjPLLA_7AfMqngCoAEC/comments/CiN6MTJwZG5iejB6dTN1dDVxajA0Y2l0dzRleWZkY3RycjQybxD_8dXhmL7CAg"
+  }, {
+    "creationTime": "2014-12-11 10:22:24-0500",
+    "updateTime": "2014-12-11 14:18:47-0500",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "You could also use beatsin88 to lock a specific wave pattern. Have them all swinging with the same frequency and specify an individual phase shift for each one. Something like:\u003cbr\u003efor (x\u003d...\u003cbr\u003e   y\u003dbeatsin88(bpm, 0, 31, 0, x*1000);\u003cbr\u003eHave a look at the end of lib8tion.h for details.\u003cbr\u003e\u003cbr\u003eedit: EVERY_N_MILLIS and EVERY_N_SECONDS are also pretty practical.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/berTntUVkVP",
+    "resourceName": "users/103867089694409269471/posts/UgjPLLA_7AfMqngCoAEC/comments/CiN6MTJwZG5iejB6dTN1dDVxajA0Y2l0dzRleWZkY3RycjQybxCnl-e-pb7CAg"
+  }, {
+    "creationTime": "2014-12-11 19:15:01-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, Stefan, for the help with FastLED 3.1\u0026#39;s new beatsin8 function!  The code changed from:\u003cbr\u003e\u003cbr\u003ey \u003d 16 * (1 + sin((float) fmod((timeStep * (x / 500.02 + 0.02F)), (float)TWO_PI)));\u003cbr\u003e\u003cbr\u003eto:\u003cbr\u003e\u003cbr\u003ey \u003d beatsin8(x + MATRIX_WIDTH, 0, MATRIX_HEIGHT);\u003cbr\u003e\u003cbr\u003eMuch cleaner, and likely much faster without the floating point operations.  I\u0026#39;m going to hold off on pushing this change to the Aurora repo on GitHub until FastLED 3.1 is released, or I have time to make a new branch.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/berTntUVkVP",
+    "resourceName": "users/103867089694409269471/posts/UgjPLLA_7AfMqngCoAEC/comments/CiN6MTJwZG5iejB6dTN1dDVxajA0Y2l0dzRleWZkY3RycjQybxDY_4nFnL_CAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgjPLLA_7AfMqngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "queralt gran ciu",
+      "profilePageUrl": "https://plus.google.com/117625770923854577470",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-1LQDZmffhZE/AAAAAAAAAAI/AAAAAAAAACk/vJpe7kGpAt0/s64-c/photo.jpg",
+      "resourceName": "users/117625770923854577470"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      },
+      "users": [{
+        "resourceName": "users/114256455711582099215",
+        "displayName": "Pixelmatix"
+      }]
+    }
+  }
+}

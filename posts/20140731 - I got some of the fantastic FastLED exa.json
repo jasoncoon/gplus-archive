@@ -1,0 +1,297 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/2wxAATRX54v",
+  "creationTime": "2014-07-31 08:28:44-0400",
+  "updateTime": "2015-02-22 10:15:46-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I got some of the fantastic FastLED examples (copied and adapted from \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e and \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112916219338292742137\" oid\u003d\"112916219338292742137\" \u003eMark Kriegsman\u003c/a\u003e\u003c/span\u003e) working on an Adafruit Medium 32x32 RGB LED matrix panel.  I used a Teensy v3.1 and the SmartMatrix shield and library from \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/114256455711582099215\" oid\u003d\"114256455711582099215\" \u003ePixelmatix\u003c/a\u003e\u003c/span\u003e.  More details to come, source available here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/SmartMatrix-FastLED-Examples\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/SmartMatrix-FastLED-Examples\u003c/a\u003e﻿",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003d3HAJHI5mqQ8",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Source: https://github.com/pup05/SmartMatrix-FastLED-Examples/tree/master/FunkyCloudsSpiral based on the work of +Stefan Petrick https://www.youtube.com/watc...",
+    "resourceName": "media/EgszSEFKSEk1bXFROA\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2014-07-31 09:29:56-0400",
+    "author": {
+      "displayName": "Randal B",
+      "profilePageUrl": "https://plus.google.com/117967252176302163816",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Y-G97o9cuqw/AAAAAAAAAAI/AAAAAAAAACs/8KdqcaAWLhw/s64-c/photo.jpg",
+      "resourceName": "users/117967252176302163816"
+    },
+    "content": "looks great!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQt-6bptTvvwI"
+  }, {
+    "creationTime": "2014-07-31 09:43:27-0400",
+    "author": {
+      "displayName": "Randal B",
+      "profilePageUrl": "https://plus.google.com/117967252176302163816",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Y-G97o9cuqw/AAAAAAAAAAI/AAAAAAAAACs/8KdqcaAWLhw/s64-c/photo.jpg",
+      "resourceName": "users/117967252176302163816"
+    },
+    "content": "Your source is nice and super organized! wish i had time to adapt some of this for my weekend show coming up",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQj6X4qNfvvwI"
+  }, {
+    "creationTime": "2014-07-31 13:38:40-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, but I can\u0026#39;t take credit for the organization.  The code is just copied and adapted from others.  Now that I have it working on the SmartMatrix and understand it, I plan to start on my own projects.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQvcil8ovwvwI"
+  }, {
+    "creationTime": "2014-07-31 15:23:20-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Smooth.  I dig it!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQyciPpaPwvwI"
+  }, {
+    "creationTime": "2014-08-05 12:09:39-0400",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "I will soon be adding support for SmartMatrix directly into FastLED (I have it running locally already) - it just becomes another controller.  \u003cbr\u003e\u003cbr\u003eFastLED.addLeds\u0026lt;SmartMatrix\u0026gt;(leds, NUM_LEDS);\u003cbr\u003e\u003cbr\u003e:)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQ35-rqcH8vwI"
+  }, {
+    "creationTime": "2014-08-06 01:46:50-0400",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "So, not only have I managed to get the above working (in a way that also still lets you use SmartMatrix\u0026#39;s drawing primitives and scrolling text) - and there\u0026#39;s even a mode for working with the original SmartMatrix library, no changes needed.\u003cbr\u003e\u003cbr\u003eHowever, because I can\u0026#39;t leave well enough alone,  i\u0026#39;ve also managed to bump the performance of SmartMatrix up a bit.  I\u0026#39;ve gotten it from 40% CPU usage at 120Hz refresh down to 23% CPU usage at 120Hz refresh rates.  (And from 68% at 240Hz down to 30%).  I still have a little bit more performance work that I want to do, but if \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/101433779981299302803\" oid\u003d\"101433779981299302803\" \u003eLouis Beaudoin\u003c/a\u003e\u003c/span\u003e takes my changes, it should help all SmartMatrix users, FastLED integrated or not.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQ9_On_ff9vwI"
+  }, {
+    "creationTime": "2014-08-06 10:50:36-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "That sounds fantastic, Daniel!  If Louis doesn\u0026#39;t want them, I\u0026#39;ll take them!  :)  Feel free to fork SmartMatrix on GitHub and push your changes.  I\u0026#39;ll pull and test them.  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/SmartMatrix\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/SmartMatrix\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQre23wvH-vwI"
+  }, {
+    "creationTime": "2014-08-11 18:32:07-0400",
+    "author": {
+      "displayName": "Robert Atkins",
+      "profilePageUrl": "https://plus.google.com/112974620627169436992",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q_fU1LZ0S7c/AAAAAAAAAAI/AAAAAAAAACk/ceI8vaRTgA8/s64-c/photo.jpg",
+      "resourceName": "users/112974620627169436992"
+    },
+    "content": "I\u0026#39;ve just adapted Funky Clouds for the Technocolour Dreamcoat, and as \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117967252176302163816\" oid\u003d\"117967252176302163816\" \u003eRandal B\u003c/a\u003e\u003c/span\u003e says the source is really nicely laid out and it only took me a couple of minutes. Thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e! On the physically bigger (~20 x 36) \u0026quot;display\u0026quot; of the coat, the movement is a little \u0026quot;bitty\u0026quot;, is there an easy way for me to speed it up? I\u0026#39;m running FastLED.show() in a loop every 1/60th of a second.\u003cbr\u003e\u003cbr\u003eAlso, I\u0026#39;ve got no idea how this oscillator stuff works conceptually. Is there any way I could adapt it to treat my matrix as \u0026quot;toroidal\u0026quot;, where if one of the clouds goes off the left of the array it appears on the right, and over the top, to the bottom and vice versa?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQ_v-CgKKMwAI"
+  }, {
+    "creationTime": "2014-08-12 10:50:06-0400",
+    "updateTime": "2014-08-12 14:44:44-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112974620627169436992\" oid\u003d\"112974620627169436992\" \u003eRobert Atkins\u003c/a\u003e\u003c/span\u003e, if you want it to run faster, make sure to remove any calls to delay, or replace them with calls to FastLED.delay, which will handle dithering at lower brightness and continually refresh the display.  Are you running the \u0026quot;compendium\u0026quot; AutoRun mode, or just one pattern in particular?  I can take a look and see if there are any optimizations to be made.  What hardware are you running it on?  My fork is meant specifically for the SmartMatrix board which uses a Teensy v3.1, which is much faster than Arduinos and uses DMA to drive the display.  Each source file should have a link to Stefan\u0026#39;s original source, which is meant for use with just the FastLED library, and may work better on your hardware.\u003cbr\u003e\u003cbr\u003eAs for the oscillators, they just use sin8 to move some points around in sine waves.  The patterns use them in different ways, like Dots1 and Dots2 just draw pixels at some of the points.  The effects work by moving or dimming the colors in different ways.  Instead of clearing the display each frame, the patterns place light, which then gets moved and/or smeared around by the effects.  You can change where the patterns place the light, and you can change the way the effects move the light around.  You could modify the HorizontalStream method, for example, to wrap color from the right side of the display to the left.  I stared at the code for quite a while before I figured out how it worked well enough to adapt it.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQ9bnIzPyNwAI"
+  }, {
+    "creationTime": "2014-08-12 11:03:31-0400",
+    "author": {
+      "displayName": "Robert Atkins",
+      "profilePageUrl": "https://plus.google.com/112974620627169436992",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q_fU1LZ0S7c/AAAAAAAAAAI/AAAAAAAAACk/ceI8vaRTgA8/s64-c/photo.jpg",
+      "resourceName": "users/112974620627169436992"
+    },
+    "content": "I realised as I was drifting off to sleep last night that there were delays implied in the timer \u0026quot;tact\u0026quot; properties; my code works by only calling the main draw method every 60ms, so I probably want to shorten some of those delays. I\u0026#39;ll take a look at the original code again tonight, that might provide more hints.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQ_qjAzP-NwAI"
+  }, {
+    "creationTime": "2014-08-12 14:41:06-0400",
+    "author": {
+      "displayName": "Robert Atkins",
+      "profilePageUrl": "https://plus.google.com/112974620627169436992",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q_fU1LZ0S7c/AAAAAAAAAAI/AAAAAAAAACk/ceI8vaRTgA8/s64-c/photo.jpg",
+      "resourceName": "users/112974620627169436992"
+    },
+    "content": "And now I\u0026#39;ve just realised what else is making Funky Clouds look odd on my setup:\u003cbr\u003e\u003cbr\u003e1) It\u0026#39;s additive between frames (I blank the whole leds[] array after every frame in my setup)\u003cbr\u003e\u003cbr\u003e2) My matrix has \u0026quot;holes\u0026quot; (well, I\u0026#39;ve got to put my neck and arms somewhere!) and the funky clouds operations reference previously written parts of the matrix, for which I\u0026#39;m returning a dummy value in some circumstances. This gets me a shimmering chunk of whitish always-on pixels on my right shoulder. I think I can fix this though...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQpsKdnbCOwAI"
+  }, {
+    "creationTime": "2014-09-24 05:11:55-0400",
+    "updateTime": "2014-09-24 05:19:54-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "When I have the SmartMatrix here I will optimize the effects for the bigger size and there are some bug fixes on the to do list, too.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQgf23msH5wAI"
+  }, {
+    "creationTime": "2014-09-24 05:35:22-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "One more remark: the spiral code as it is right now defines a center point and a radius. That means the area it affects has allways an odd sidelength. It was basically a dirty hack that turned out to work so well that it survived until today. A work arround for now would be to only draw the emitter line in the by the spiral affected area to avoid the dead pixels at the right and down column/row. A spiral code for a square with an even sidelength is noted on the to do list... as many many other things...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQkfubucb5wAI"
+  }, {
+    "creationTime": "2014-09-24 09:34:24-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yeah, I fixed the \u0026#39;dead\u0026#39; pixels in the spiral effect, but not sure if I pushed that change to the SmartMatrix-FastLED-Examples repo.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQ_ab57_v5wAI"
+  }, {
+    "creationTime": "2014-10-03 22:36:18-0400",
+    "author": {
+      "displayName": "Scott Bennett",
+      "profilePageUrl": "https://plus.google.com/113588922510473194509",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-VYEj0LY3HvM/AAAAAAAAAAI/AAAAAAAABZY/5pb-CH2fMeM/s64-c/photo.jpg",
+      "resourceName": "users/113588922510473194509"
+    },
+    "content": "Excellent work on Aurora -- and thanks for rebuilding the hex -- although I\u0026#39;d just gotten it to build and make the same lzw size update.  I just got the Sparkfun remote and hooked it up and I discovered I had the RTC sitting around so I just added that and it worked on the first try!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQmNritvuRwQI"
+  }, {
+    "creationTime": "2014-10-06 11:23:18-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113588922510473194509\" oid\u003d\"113588922510473194509\" \u003eScott Bennett\u003c/a\u003e\u003c/span\u003e Thanks!  Glad to hear everything is working for you.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2wxAATRX54v",
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC/comments/CiF6MTJseno0amF1dmtlZm9rZjIzcWoxMnJtdWVhaHh0MHAQrdG5zKqYwQI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Lyoson Lenus",
+      "profilePageUrl": "https://plus.google.com/113995260145773476327",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-m019EyeBx9g/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVtGl8CyEyg-6V2FI-Tic8OSPGMMg/s64-c/photo.jpg",
+      "resourceName": "users/113995260145773476327"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jason Podmore",
+      "profilePageUrl": "https://plus.google.com/+JasonPodmore",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-STm5uuPBxvc/AAAAAAAAAAI/AAAAAAAAAM0/6MIe5J4HXx8/s64-c/photo.jpg",
+      "resourceName": "users/111554233026954981140"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brad Williamson",
+      "profilePageUrl": "https://plus.google.com/+BradWilliamson25",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nJfUAC4_3pM/AAAAAAAAAAI/AAAAAAAAKkU/yvMkWI_gPaI/s64-c/photo.jpg",
+      "resourceName": "users/105433710531981771365"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "David Nettles",
+      "profilePageUrl": "https://plus.google.com/+DavidNettles",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-LKkMu1VERrE/AAAAAAAAAAI/AAAAAAAAFwY/oTbA9oBu-s4/s64-c/photo.jpg",
+      "resourceName": "users/118201316725329580315"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Randal B",
+      "profilePageUrl": "https://plus.google.com/117967252176302163816",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Y-G97o9cuqw/AAAAAAAAAAI/AAAAAAAAACs/8KdqcaAWLhw/s64-c/photo.jpg",
+      "resourceName": "users/117967252176302163816"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/112916219338292742137",
+        "displayName": "Mark Kriegsman"
+      }, {
+        "resourceName": "users/115124694226931502095",
+        "displayName": "Stefan Petrick"
+      }, {
+        "resourceName": "users/117967252176302163816",
+        "displayName": "Randal B"
+      }, {
+        "resourceName": "users/118122134674138132630",
+        "displayName": "Louis Beaudoin"
+      }, {
+        "resourceName": "users/113588922510473194509",
+        "displayName": "Scott Bennett"
+      }, {
+        "resourceName": "users/114256455711582099215",
+        "displayName": "Pixelmatix"
+      }, {
+        "resourceName": "users/101433779981299302803",
+        "displayName": "Louis Beaudoin"
+      }, {
+        "resourceName": "users/112974620627169436992",
+        "displayName": "Robert Atkins"
+      }]
+    }
+  }
+}

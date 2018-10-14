@@ -1,0 +1,293 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/F8RcSuY9EQr",
+  "creationTime": "2015-10-17 13:18:57-0400",
+  "updateTime": "2015-10-17 13:18:57-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I put a larger diameter face plate on my large clock/lamp to better hide the LEDS, and I think it looks much better.  The face is thin and ~13.5\u0026quot; in diameter.  The 1m 60 APA102 LED strip is mounted around a ~12.5\u0026quot; diameter disc.  The Spark Core is inside a hollowed-out section on the back.\u003cbr\u003e\u003cbr\u003eI really like Mark\u0026#39;s Juggle pattern on it.  I\u0026#39;ll be sharing more soon.  Just tell me if you\u0026#39;re getting tired of my posts, and I\u0026#39;ll cut back.  :)",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dOM4Ad-Sr1Ro",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Available from Evil Genius Labs: http://www.evilgeniuslabs.org Clock and art display, built with 60 APA102 RGB LEDs, controlled with a Spark Core, using the ...",
+    "resourceName": "media/EgtPTTRBZC1TcjFSbw\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2015-10-17 13:24:07-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Almost perfect...   you really gotta hide that wire !",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/F8RcSuY9EQr",
+    "resourceName": "users/103867089694409269471/posts/UghUd0BzxH7Mq3gCoAEC/comments/CiF6MTJwdG55eDNybWJoMWl1bzIzcWoxMnJtdWVhaHh0MHAQ54Le74LKyAI"
+  }, {
+    "creationTime": "2015-10-17 13:25:42-0400",
+    "updateTime": "2015-10-17 13:26:04-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yeah, thought about using a battery pack, there\u0026#39;s lots of space inside on the back.  I\u0026#39;m not going to drill holes in the wall.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/F8RcSuY9EQr",
+    "resourceName": "users/103867089694409269471/posts/UghUd0BzxH7Mq3gCoAEC/comments/CiF6MTJwdG55eDNybWJoMWl1bzIzcWoxMnJtdWVhaHh0MHAQ0pT4nIPKyAI"
+  }, {
+    "creationTime": "2015-10-17 13:27:05-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e But it\u0026#39;s so easy !!   ;-) ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/F8RcSuY9EQr",
+    "resourceName": "users/103867089694409269471/posts/UghUd0BzxH7Mq3gCoAEC/comments/CiF6MTJwdG55eDNybWJoMWl1bzIzcWoxMnJtdWVhaHh0MHAQs-zMxIPKyAI"
+  }, {
+    "creationTime": "2015-10-17 13:29:28-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Also noticed the face plate seems to have rough edges. If this is just a prototype, I agree about no hole in the wall.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/F8RcSuY9EQr",
+    "resourceName": "users/103867089694409269471/posts/UghUd0BzxH7Mq3gCoAEC/comments/CiF6MTJwdG55eDNybWJoMWl1bzIzcWoxMnJtdWVhaHh0MHAQjI_MiITKyAI"
+  }, {
+    "creationTime": "2015-10-17 13:32:02-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yeah, still a cardboard prototype.  Should be creating wood bodies soon.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/F8RcSuY9EQr",
+    "resourceName": "users/103867089694409269471/posts/UghUd0BzxH7Mq3gCoAEC/comments/CiF6MTJwdG55eDNybWJoMWl1bzIzcWoxMnJtdWVhaHh0MHAQg6Cq0oTKyAI"
+  }, {
+    "creationTime": "2015-10-17 18:18:48-0400",
+    "author": {
+      "displayName": "Jarrod Wagner",
+      "profilePageUrl": "https://plus.google.com/100368959376184065851",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-_-QvYpLpnjk/AAAAAAAAAAI/AAAAAAAAAEU/wi9LwnuNh50/s64-c/photo.jpg",
+      "resourceName": "users/100368959376184065851"
+    },
+    "content": "Hmmm... I\u0026#39;m putting up drywall in my office soon... I think I may just have to put in a clock height outlet ;) ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/F8RcSuY9EQr",
+    "resourceName": "users/103867089694409269471/posts/UghUd0BzxH7Mq3gCoAEC/comments/CiF6MTJwdG55eDNybWJoMWl1bzIzcWoxMnJtdWVhaHh0MHAQ6sDf3sTKyAI"
+  }, {
+    "creationTime": "2015-10-18 05:52:00-0400",
+    "author": {
+      "displayName": "Dushyant Ahuja",
+      "profilePageUrl": "https://plus.google.com/+DushyantAhuja",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-sva8lHLHSMA/AAAAAAAAAAI/AAAAAAAAuKE/S0J3fcd1EFQ/s64-c/photo.jpg",
+      "resourceName": "users/102046189032208678773"
+    },
+    "content": "Looks cool. Can you please share the code - I\u0026#39;d love to run it on my infinity mirror clock. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/F8RcSuY9EQr",
+    "resourceName": "users/103867089694409269471/posts/UghUd0BzxH7Mq3gCoAEC/comments/CiF6MTJwdG55eDNybWJoMWl1bzIzcWoxMnJtdWVhaHh0MHAQkfyP19_LyAI"
+  }, {
+    "creationTime": "2015-10-18 07:30:33-0400",
+    "author": {
+      "displayName": "Peter Buelow",
+      "profilePageUrl": "https://plus.google.com/+PeterBuelow",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-YfiK91CA3wc/AAAAAAAAAAI/AAAAAAAAAoQ/bTKE1PynEwM/s64-c/photo.jpg",
+      "resourceName": "users/110184361351184232055"
+    },
+    "content": "This gives me a great idea for some sort of battery wall clock for my daughters room. I love it. Thanks. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/F8RcSuY9EQr",
+    "resourceName": "users/103867089694409269471/posts/UghUd0BzxH7Mq3gCoAEC/comments/CiF6MTJwdG55eDNybWJoMWl1bzIzcWoxMnJtdWVhaHh0MHAQ-9Pw2vXLyAI"
+  }, {
+    "creationTime": "2015-10-18 10:03:11-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102046189032208678773\" oid\u003d\"102046189032208678773\" \u003eDushyant Ahuja\u003c/a\u003e\u003c/span\u003e, the source code is linked in the description of the video on YouTube.  Mark\u0026#39;s Juggle pattern is here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com/kriegsman/a916be18d32ec675fea8#file-timecodeperformance-ino-L195\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com/kriegsman/a916be18d32ec675fea8#file-timecodeperformance-ino-L195\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eThe full source for my Spark Core powered projects is here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/SparkRing\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/SparkRing\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/F8RcSuY9EQr",
+    "resourceName": "users/103867089694409269471/posts/UghUd0BzxH7Mq3gCoAEC/comments/CiF6MTJwdG55eDNybWJoMWl1bzIzcWoxMnJtdWVhaHh0MHAQ2p7X6ZfMyAI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UghUd0BzxH7Mq3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dirk Vinkx",
+      "profilePageUrl": "https://plus.google.com/111463457504893100350",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-ZUdiWv9c5-s/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVcK_P70CfdCZM4swoZEyodNLMG-w/s64-c/photo.jpg",
+      "resourceName": "users/111463457504893100350"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "John Hendy",
+      "profilePageUrl": "https://plus.google.com/112862299986769821819",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-DxZVv_yU60s/AAAAAAAAAAI/AAAAAAAAANk/bCX1I-mDPnE/s64-c/photo.jpg",
+      "resourceName": "users/112862299986769821819"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ivars Duntavs",
+      "profilePageUrl": "https://plus.google.com/105228110381512546854",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jWVehN0C1_Q/AAAAAAAAAAI/AAAAAAAAACE/DWrS1Es0u5A/s64-c/photo.jpg",
+      "resourceName": "users/105228110381512546854"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dougal Campbell",
+      "profilePageUrl": "https://plus.google.com/+DougalCampbell",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-FXQyDVKRJjc/AAAAAAAAAAI/AAAAAAAAErw/fZAdUCezrNs/s64-c/photo.jpg",
+      "resourceName": "users/104640897934960019410"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Sheldon McLeod",
+      "profilePageUrl": "https://plus.google.com/112319013684238352621",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-k6sAMO3LgRQ/AAAAAAAAAAI/AAAAAAAAkLU/vSny2xFlHI4/s64-c/photo.jpg",
+      "resourceName": "users/112319013684238352621"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Gerard Westendorp",
+      "profilePageUrl": "https://plus.google.com/100749485701818304238",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-UtA-g58ZOz8/AAAAAAAAAAI/AAAAAAAAACY/zY2ffRJUAgE/s64-c/photo.jpg",
+      "resourceName": "users/100749485701818304238"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "brent hoffman",
+      "profilePageUrl": "https://plus.google.com/102406067157380961684",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ro1f4WW0gWM/AAAAAAAAAAI/AAAAAAAANhA/-XCA73P49rU/s64-c/photo.jpg",
+      "resourceName": "users/102406067157380961684"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Rose Harpster",
+      "profilePageUrl": "https://plus.google.com/110825493511438535887",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-IPKXUMjAVsE/AAAAAAAAAAI/AAAAAAAARUc/9gYR3WrJhDQ/s64-c/photo.jpg",
+      "resourceName": "users/110825493511438535887"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ajay Kumar",
+      "profilePageUrl": "https://plus.google.com/113533209191604054306",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-UBWrp676ubE/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUn-wsE3yqtlZBpFO10mxTMCaxAmQ/s64-c/photo.jpg",
+      "resourceName": "users/113533209191604054306"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andy Baldeo",
+      "profilePageUrl": "https://plus.google.com/102565807346748967916",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-UkyuXhHu8OQ/AAAAAAAAAAI/AAAAAAAANvw/wDGDRlsdnvk/s64-c/photo.jpg",
+      "resourceName": "users/102565807346748967916"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "theodorus brian",
+      "profilePageUrl": "https://plus.google.com/+theodorusbrian",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-FquaCMNCqkI/AAAAAAAAAAI/AAAAAAAAJ6s/U8RWH1pliko/s64-c/photo.jpg",
+      "resourceName": "users/107128636424109439792"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "SERGIY CHE",
+      "profilePageUrl": "https://plus.google.com/102792863351369379212",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-RjKAGgk-HOo/AAAAAAAAAAI/AAAAAAAARoM/bYEWznWTmyk/s64-c/photo.jpg",
+      "resourceName": "users/102792863351369379212"
+    }
+  }, {
+    "resharer": {
+      "displayName": "Ivars Duntavs",
+      "profilePageUrl": "https://plus.google.com/105228110381512546854",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jWVehN0C1_Q/AAAAAAAAAAI/AAAAAAAAACE/DWrS1Es0u5A/s64-c/photo.jpg",
+      "resourceName": "users/105228110381512546854"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/102046189032208678773",
+        "displayName": "Dushyant Ahuja"
+      }]
+    }
+  }
+}

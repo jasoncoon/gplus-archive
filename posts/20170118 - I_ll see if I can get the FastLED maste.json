@@ -1,0 +1,315 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/YuKpb5dkKBb",
+  "creationTime": "2017-01-18 15:27:24-0500",
+  "updateTime": "2017-01-23 13:45:28-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I\u0026#39;ll see if I can get the FastLED master branch working on the Photon.  :)\u003cbr\u003e\u003cbr\u003e\u0026quot;Improved Arduino library compatibility: Most Arduino libraries can now be copy/pasted into our library manager without modification\u0026quot;\u003cbr\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://blog.particle.io/2017/01/23/particle-libraries\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://blog.particle.io/2017/01/23/particle-libraries\u003c/a\u003e",
+  "comments": [{
+    "creationTime": "2017-01-18 15:54:13-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "Good luck, I\u0026#39;ve got one somewhere, looking forward to using it with the latest FastLED.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxCIuof0yczRAg"
+  }, {
+    "creationTime": "2017-01-18 19:36:28-0500",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "So far, in the past, their library management didn\u0026#39;t work terribly well for libraries with complex layouts (like, say, FastLED) - but curious to hear if it works, it\u0026#39;d be nice if, when I got back to dealing with FastLED regularly, I didn\u0026#39;t have to keep a separate tree just for the particle folks.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxDOkdjK-8zRAg"
+  }, {
+    "creationTime": "2017-01-18 22:02:53-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Well, no luck so far, giving up for the night.  I followed the instructions here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://docs.particle.io/guide/tools-and-features/libraries/#contributing-libraries\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://docs.particle.io/guide/tools-and-features/libraries/#contributing-libraries\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eHad to rename the library (otherwise it gave an error saying I didn\u0026#39;t own the library).  Had to add \u003ca rel\u003d\"nofollow\" class\u003d\"ot-hashtag bidi_isolate\" href\u003d\"https://plus.google.com/s/%23define/posts\" \u003e#define\u003c/a\u003e STM32F10X_MD to the top of my example sketch to get it to compile without trying to use AVR defs.  \u003cbr\u003e\u003cbr\u003eHere\u0026#39;s the build error output, if anyone\u0026#39;s interested: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com/jasoncoon/220899196ca6b650364bfaec9cc6a672\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com/jasoncoon/220899196ca6b650364bfaec9cc6a672\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI\u0026#39;ll pick up here tomorrow night.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxDT1_SnnM3RAg"
+  }, {
+    "creationTime": "2017-01-20 00:18:58-0500",
+    "updateTime": "2017-01-20 00:21:00-0500",
+    "author": {
+      "displayName": "Keith Evans",
+      "profilePageUrl": "https://plus.google.com/111845370273130396190",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NtccU33eKbI/AAAAAAAAAAI/AAAAAAAAA8Y/GZiAKKkKX-U/s64-c/photo.jpg",
+      "resourceName": "users/111845370273130396190"
+    },
+    "content": "FYI - It looks like they removed that post from the particle blog. I could still find a cached version via google though.\u003cbr\u003e\u003cbr\u003eIt looks like it may have been posted a bit early? \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://community.particle.io/t/particle-libraries-v2-0/25478/16\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://community.particle.io/t/particle-libraries-v2-0/25478/16\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxDdjczL_M_RAg"
+  }, {
+    "creationTime": "2017-01-20 09:39:41-0500",
+    "updateTime": "2017-01-20 09:43:14-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "+Keith Evans thanks, it looks like they jumped the gun on the blog post. Might explain why I had to jump through so many hoops to get the tools downloaded and running, only to encounter build errors.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxCT-Oj1-dDRAg"
+  }, {
+    "creationTime": "2017-01-20 13:53:04-0500",
+    "author": {
+      "displayName": "Keith Evans",
+      "profilePageUrl": "https://plus.google.com/111845370273130396190",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NtccU33eKbI/AAAAAAAAAAI/AAAAAAAAA8Y/GZiAKKkKX-U/s64-c/photo.jpg",
+      "resourceName": "users/111845370273130396190"
+    },
+    "content": "I hope that they have a non-beta release soon, and then you have a better experience. I\u0026#39;m new to FastLED, but do have some Particle boards and am looking forward to being able to use the main release. I\u0026#39;m excited to be able to do OTA updates to remote systems without having to do much work ;-)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxCthrPHstHRAg"
+  }, {
+    "creationTime": "2017-01-20 13:54:21-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yeah, agreed.  :) Have you tried out an ESP8266 yet?  I\u0026#39;ve been really impressed with the Arduino support for them lately.  I use the Wemos D1 Mini a lot.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxCvpZDsstHRAg"
+  }, {
+    "creationTime": "2017-01-20 16:30:00-0500",
+    "author": {
+      "displayName": "Keith Evans",
+      "profilePageUrl": "https://plus.google.com/111845370273130396190",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NtccU33eKbI/AAAAAAAAAAI/AAAAAAAAA8Y/GZiAKKkKX-U/s64-c/photo.jpg",
+      "resourceName": "users/111845370273130396190"
+    },
+    "content": "Yes - I\u0026#39;ve seen your work and need to take a closer look at some of your projects. Thanks for putting all of the code and writeups online. For fun I built a simple example for an Arduino Leonardo, Particle, and ESP8266 board just to confirm that they all work. I want to be able to work with a friend remotely and the Particle OTA may be very handy to have since he\u0026#39;s not a programmer. I don\u0026#39;t think that I could easily remotely load a new release on an ESP8266 board could I? (e.g. from another city.) But I should order some Wemos boards as well. My only ESP8266 board is a old SparkFun board that\u0026#39;s quite limited.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxC6s6DR1dHRAg"
+  }, {
+    "creationTime": "2017-01-20 16:31:44-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "It\u0026#39;s certainly not as easy to do OTA updates with an ESP8266 as with a Photon, but it\u0026#39;s possible.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxCrtOOC1tHRAg"
+  }, {
+    "creationTime": "2017-01-20 16:46:02-0500",
+    "author": {
+      "displayName": "Keith Evans",
+      "profilePageUrl": "https://plus.google.com/111845370273130396190",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NtccU33eKbI/AAAAAAAAAAI/AAAAAAAAA8Y/GZiAKKkKX-U/s64-c/photo.jpg",
+      "resourceName": "users/111845370273130396190"
+    },
+    "content": "Do you have any pointers to someone doing an OTA to an ESP8266 on a different network? That would be interesting to see. (I also thought that Particle\u0026#39;s cellular options are potentially interesting for some people if the costs are low enough. There\u0026#39;s another company \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://hologram.io\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehologram.io\u003c/a\u003e that also has cellular, but I\u0026#39;m not sure how easy it would be to get FastLED up on that.)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxCMhu2b2dHRAg"
+  }, {
+    "creationTime": "2017-01-20 16:50:46-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Here\u0026#39;s an article on the subject: \u003cbr\u003e\u003cbr\u003eYou could update a device on another network by forwarding the port (exposing it to the internet), or by having it check a remote web server for updates (periodically, when a button is pressed, etc).\u003cbr\u003e\u003cbr\u003eMake sure to read the sections on security \u0026amp; safety.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "link": {
+      "title": "OTA Update · ESP8266 Arduino Core",
+      "url": "http://esp8266.github.io/Arduino/versions/2.0.0/doc/ota_updates/ota_updates.html",
+      "imageUrl": "http://esp8266.github.io/Arduino/versions/2.0.0/doc/ota_updates/ota-ide-sketch-selection.png"
+    },
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxCX6Mej2tHRAg"
+  }, {
+    "creationTime": "2017-01-20 17:02:29-0500",
+    "author": {
+      "displayName": "Keith Evans",
+      "profilePageUrl": "https://plus.google.com/111845370273130396190",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NtccU33eKbI/AAAAAAAAAAI/AAAAAAAAA8Y/GZiAKKkKX-U/s64-c/photo.jpg",
+      "resourceName": "users/111845370273130396190"
+    },
+    "content": "I think that using the remote web server would be most appropriate for me. It\u0026#39;s definitely a good idea to consider security carefully. If it can be made to work, then it would be nice to have a method that would work even if the particle cloud ceases to exist.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxCjvtTy3NHRAg"
+  }, {
+    "creationTime": "2017-01-23 13:21:07-0500",
+    "author": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    },
+    "content": "One thought on the compile errors you\u0026#39;re getting: Particle may not support nested folders yet, even with Libraries 2.0.  An easy way to check might be to take an existing simple library, and move a header file (and the references to it) into a nested folder.\u003cbr\u003e\u003cbr\u003eI just got an email from Particle with the Libraries 2.0 announcement, and the blog post is back up.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxC869mB8djRAg"
+  }, {
+    "creationTime": "2017-03-08 16:41:40-0500",
+    "author": {
+      "displayName": "Keith Evans",
+      "profilePageUrl": "https://plus.google.com/111845370273130396190",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NtccU33eKbI/AAAAAAAAAAI/AAAAAAAAA8Y/GZiAKKkKX-U/s64-c/photo.jpg",
+      "resourceName": "users/111845370273130396190"
+    },
+    "content": "Has anyone been building FastLED apps on the Particle cloud? Today I\u0026#39;m having some issues. So I just tried creating a brand new empty app and including FastLED (3.1.5) and it won\u0026#39;t build. The error is a conflict for the RwReg typedef.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxDal8vz78fSAg"
+  }, {
+    "creationTime": "2017-03-08 17:42:30-0500",
+    "author": {
+      "displayName": "Keith Evans",
+      "profilePageUrl": "https://plus.google.com/111845370273130396190",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NtccU33eKbI/AAAAAAAAAAI/AAAAAAAAA8Y/GZiAKKkKX-U/s64-c/photo.jpg",
+      "resourceName": "users/111845370273130396190"
+    },
+    "content": "As far as I can tell the issue is using system firmware 0.6.0 versus 0.5.3. I guess the webide updated this behind my back. It\u0026#39;s not a real fix, but I\u0026#39;ll revert to 0.5.3 for now. If anyone else can confirm this problem that would be great.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxD869q__cfSAg"
+  }, {
+    "creationTime": "2017-04-18 21:28:26-0400",
+    "author": {
+      "displayName": "Peter Buelow",
+      "profilePageUrl": "https://plus.google.com/+PeterBuelow",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-YfiK91CA3wc/AAAAAAAAAAI/AAAAAAAAAoQ/bTKE1PynEwM/s64-c/photo.jpg",
+      "resourceName": "users/110184361351184232055"
+    },
+    "content": "There are issues with the 0.6.x firmware and FastLED. I just tried 0.6.1 and we get multiple define on the interrupt functions (sei, etc) and it won\u0026#39;t build. I\u0026#39;m still buiding with 3.0.3 from an old setup, but I\u0026#39;m assuming that stuff hasn\u0026#39;t changed.\u003cbr\u003e\u003cbr\u003eI think getting FastLED for Particle is going to take a lot of work and defining a unique device to compile with. Something like -DPHOTON and then enable/disable some parts as needed. I wish I had the time, but for now, 0.5.3 still works with 3.0.3.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t give up the new device management console they have. I love being able to push an update to all my online devices at once (backyard install of tiki lights on a big 12V solar recharge battery). I have close to 10 photons running a neat little candle display with wifi off 99% of the time to limit current draw. It\u0026#39;s a very pleasant and low key kinda thing. Having to push updates to each one and manage that would be difficult no matter what. This is just super easy. It wakes up, checks in, and downloads if needed. Always works.\u003cbr\u003e\u003cbr\u003eHoping someone can get it working. I may give it another spin in a few (4-6) weeks, but right now just don\u0026#39;t have time.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxD_2JyHr6_TAg"
+  }, {
+    "creationTime": "2017-04-19 05:18:02-0400",
+    "author": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    },
+    "content": "Try 0.6.2, they broke some Arduino library compatibility in 0.6.1 and this specifically addresses that. Also try including Arduino.h as they mention. I haven\u0026#39;t tried yet myself. \u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "link": {
+      "title": "firmware",
+      "url": "https://github.com/spark/firmware/releases/tag/v0.6.2-rc.1",
+      "imageUrl": "https://avatars0.githubusercontent.com/u/2348966?v\u003d3\u0026s\u003d400"
+    },
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxC3vuKCmLDTAg"
+  }, {
+    "creationTime": "2017-04-19 10:04:03-0400",
+    "author": {
+      "displayName": "Peter Buelow",
+      "profilePageUrl": "https://plus.google.com/+PeterBuelow",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-YfiK91CA3wc/AAAAAAAAAAI/AAAAAAAAAoQ/bTKE1PynEwM/s64-c/photo.jpg",
+      "resourceName": "users/110184361351184232055"
+    },
+    "content": "OK, I get to FastLED compile errors with some work to command line build and FastLED directly included as a subdir of my project. I patch based on the ekelex 3.0.3 Photon github repository which adds the Photon -D options to enable the HW. \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102282558639672545743\" oid\u003d\"102282558639672545743\" \u003eDaniel Garcia\u003c/a\u003e\u003c/span\u003e, would it be OK to submit a patch that adds -DSTM32FXX from that github for Photon HW support? It doesn\u0026#39;t get all the way there, but is a start.\u003cbr\u003e\u003cbr\u003eThere are a ton of scoping issues with CPixelView it seems. I have been investigating, but haven\u0026#39;t figure out what the root cause is. I also noticed that they build system didn\u0026#39;t like ::scale8 even though the namespace is declared. Changing to scale8 or NSFastLED::scale8 fixes it.\u003cbr\u003e\u003cbr\u003eIf I can find time, I\u0026#39;ll move back to a version prior to CPIxelView and see if that builds.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxCCntP517DTAg"
+  }, {
+    "creationTime": "2017-04-20 15:37:47-0400",
+    "author": {
+      "displayName": "Peter Buelow",
+      "profilePageUrl": "https://plus.google.com/+PeterBuelow",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-YfiK91CA3wc/AAAAAAAAAAI/AAAAAAAAAoQ/bTKE1PynEwM/s64-c/photo.jpg",
+      "resourceName": "users/110184361351184232055"
+    },
+    "content": "OK, so basically, pixelset.h seems to do things a bit differently than other files in the system, but I don\u0026#39;t see why. The file pixelset.h doesn\u0026#39;t define FASLED_NAMESPACE_* so it seems to scope funny in my environment. But when you add the namespace to the header, then the global scope resolution functions fail. I hardcode them to NSFastLED:: and the whole thing compiles.\u003cbr\u003e\u003cbr\u003eI would bet money this is a compiler version/build issue as I noticed now that I\u0026#39;m using the mac arm-none-eabi-g++ (4.9.3) which is what I remember the Particle folks used to recommend for getting it up and running with Eclipse. I have done it this way for a while, so I assumed I used a cross from them. Seems not.\u003cbr\u003e\u003cbr\u003eCan anyone tell me why pixelset.h is done this way? I get that it uses the same function names internally, which causes some issues, but it seems to both depend on the namespace, and not depend on the namespace at the same time.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxD82am05LPTAg"
+  }, {
+    "creationTime": "2017-04-20 15:42:22-0400",
+    "author": {
+      "displayName": "Peter Buelow",
+      "profilePageUrl": "https://plus.google.com/+PeterBuelow",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-YfiK91CA3wc/AAAAAAAAAAI/AAAAAAAAAoQ/bTKE1PynEwM/s64-c/photo.jpg",
+      "resourceName": "users/110184361351184232055"
+    },
+    "content": "If anyone see what I did to make this work, you can find my patch here.\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/YuKpb5dkKBb",
+    "link": {
+      "title": "0001-Fixes-related-getting-this-to-build-for-Particle.io.patch - Google Drive",
+      "url": "https://drive.google.com/file/d/0B04RZ-7QDqcUcTB1NzN3TDY3bjg/view?usp\u003dsharing"
+    },
+    "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC/comments/CiN6MTNuajFmaWRydTJ3MXJoeTA0Y2l0dzRleWZkY3RycjQybxCBlOG35bPTAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ugi-uwAr6St4ZngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Simon Hermansen",
+      "profilePageUrl": "https://plus.google.com/100974243336906340371",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ao8HERIGX88/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUz8Wrk5SuaSIw6ec2ghuQ6NCNBcA/s64-c/photo.jpg",
+      "resourceName": "users/100974243336906340371"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Bart-Jan Herweijer",
+      "profilePageUrl": "https://plus.google.com/118298951563960181849",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-aQ9CVh3CKJw/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DW_1Ahvu-eGyeNiTKG2rBht0-VS6g/s64-c/photo.jpg",
+      "resourceName": "users/118298951563960181849"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Keith Evans",
+      "profilePageUrl": "https://plus.google.com/111845370273130396190",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NtccU33eKbI/AAAAAAAAAAI/AAAAAAAAA8Y/GZiAKKkKX-U/s64-c/photo.jpg",
+      "resourceName": "users/111845370273130396190"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Ortiz",
+      "profilePageUrl": "https://plus.google.com/+MarkOrtiz1",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rr3IeLFo1ro/AAAAAAAAAAI/AAAAAAAACNo/9QseMvLcnAg/s64-c/photo.jpg",
+      "resourceName": "users/113382150942778753214"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James Armstrong",
+      "profilePageUrl": "https://plus.google.com/+JamesArmstrong3",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-RUmD5yBNKBo/AAAAAAAAAAI/AAAAAAAAbvM/Ak0NECnOQOw/s64-c/photo.jpg",
+      "resourceName": "users/102161322800777005688"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/111845370273130396190",
+        "displayName": "Keith Evans"
+      }, {
+        "resourceName": "users/102282558639672545743",
+        "displayName": "Daniel Garcia"
+      }]
+    }
+  }
+}

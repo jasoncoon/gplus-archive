@@ -1,0 +1,276 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/V911sH3Uvue",
+  "creationTime": "2016-02-21 09:50:09-0500",
+  "updateTime": "2016-02-21 09:50:09-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Fibonacci v1 is off to a new home, so of course I had to build another.  :)  Version 2 has the same physical layout as v3d, but in a 12\u0026quot; x 12\u0026quot; x 2.5\u0026quot; square white frame with a metal face.  I completed polar mapping, and am working on new patterns that utilize it.  More pics and details coming soon: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/TA2RXFS82G9uapnJA\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/TA2RXFS82G9uapnJA\u003c/a\u003e",
+  "media": {
+    "url": "https://youtu.be/hsEWp_qMHcY?list\u003dPLUYGVM-2vDxLanVedYG1cMMBDzuQ_ecQd",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Available from Evil Genius Labs: http://www.evilgeniuslabs.org Hemispherical light art display, built with 100 WS2812B RGB LEDs, driven with a Teensy v3.2 us...",
+    "resourceName": "media/Egtoc0VXcF9xTUhjWQ\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2016-02-21 10:17:47-0500",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi Jason,  too lazy to dig through the older post... what are your LEDs ? MCU ? How exactly did you draw that pattern and place them LEDs ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/V911sH3Uvue",
+    "resourceName": "users/103867089694409269471/posts/UgioOckYBjUTOXgCoAEC/comments/CiN6MTJ3dWhwNWxrMmx6NWI1YzA0Y2l0dzRleWZkY3RycjQybxCSg_S_k4nLAg"
+  }, {
+    "creationTime": "2016-02-21 10:43:32-0500",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Beautiful!  Looks so good Jason.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/V911sH3Uvue",
+    "resourceName": "users/103867089694409269471/posts/UgioOckYBjUTOXgCoAEC/comments/CiN6MTJ3dWhwNWxrMmx6NWI1YzA0Y2l0dzRleWZkY3RycjQybxCEmIKhmYnLAg"
+  }, {
+    "creationTime": "2016-02-21 10:46:12-0500",
+    "updateTime": "2016-02-21 11:10:15-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Hey JP, it\u0026#39;s 100 x 8mm WS2812, Teensy 3.2, IR remote.  I made the pattern with math and science.  :)  Here\u0026#39;s a great video that explains it better than I can: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/watch?v\u003dlOIP_Z_-0Hs\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/watch?v\u003dlOIP_Z_-0Hs\u003c/a\u003e (\u003cb\u003ewarning\u003c/b\u003e: watching this video can lead to hours of watching awesome Vi Hart videos).\u003cbr\u003e\u003cbr\u003eThere\u0026#39;s some more conversation and a template generator shared by Jim Bumgardner in the comments here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://plus.google.com/u/0/+JasonCoon1/posts/Q4UtKLkALXX\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://plus.google.com/u/0/+JasonCoon1/posts/Q4UtKLkALXX\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI drilled the holes manually with a drill press.  The holes are just big enough for the LEDs to fit snugly, used a hot glue gun to make sure they stay.  I used wood for v1 and v3d, and the LEDs are just friction fit.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/V911sH3Uvue",
+    "resourceName": "users/103867089694409269471/posts/UgioOckYBjUTOXgCoAEC/comments/CiN6MTJ3dWhwNWxrMmx6NWI1YzA0Y2l0dzRleWZkY3RycjQybxCCnoXtmYnLAg"
+  }, {
+    "creationTime": "2016-02-21 19:31:13-0500",
+    "author": {
+      "displayName": "Rex Heck",
+      "profilePageUrl": "https://plus.google.com/105984949694313949913",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-66_GP4RrWrQ/AAAAAAAAAAI/AAAAAAAAAfQ/3cafNz9fj2Y/s64-c/photo.jpg",
+      "resourceName": "users/105984949694313949913"
+    },
+    "content": "Nice work Jason. Smooth and organic. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/V911sH3Uvue",
+    "resourceName": "users/103867089694409269471/posts/UgioOckYBjUTOXgCoAEC/comments/CiN6MTJ3dWhwNWxrMmx6NWI1YzA0Y2l0dzRleWZkY3RycjQybxDJyfKZj4rLAg"
+  }, {
+    "creationTime": "2016-02-21 21:18:32-0500",
+    "author": {
+      "displayName": "Ashley M. Kirchner [Norym]",
+      "profilePageUrl": "https://plus.google.com/+AshleyMKirchner",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-_zt5HdFS5Oo/AAAAAAAAAAI/AAAAAAAASXY/DSPAJKY2WX4/s64-c/photo.jpg",
+      "resourceName": "users/112889495015752015404"
+    },
+    "content": "You should set the camera to manual focus, so it doesn\u0026#39;t constantly try to refocus like it does (assuming you can actually do that.) Other than that, awesome build. Love the colors and patterns.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/V911sH3Uvue",
+    "resourceName": "users/103867089694409269471/posts/UgioOckYBjUTOXgCoAEC/comments/CiN6MTJ3dWhwNWxrMmx6NWI1YzA0Y2l0dzRleWZkY3RycjQybxCNkLuYp4rLAg"
+  }, {
+    "creationTime": "2016-02-21 21:21:02-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks!  Yeah, I\u0026#39;ve been meaning to look for a good digital camcorder with manual focus.  I\u0026#39;ve been using my phone (Nexus 5), which doesn\u0026#39;t seem to have the option.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/V911sH3Uvue",
+    "resourceName": "users/103867089694409269471/posts/UgioOckYBjUTOXgCoAEC/comments/CiN6MTJ3dWhwNWxrMmx6NWI1YzA0Y2l0dzRleWZkY3RycjQybxDLmMvfp4rLAg"
+  }, {
+    "creationTime": "2016-02-21 21:38:01-0500",
+    "author": {
+      "displayName": "Ashley M. Kirchner [Norym]",
+      "profilePageUrl": "https://plus.google.com/+AshleyMKirchner",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-_zt5HdFS5Oo/AAAAAAAAAAI/AAAAAAAASXY/DSPAJKY2WX4/s64-c/photo.jpg",
+      "resourceName": "users/112889495015752015404"
+    },
+    "content": "Yeah that\u0026#39;s why I said, assuming you had that option. With most (all?) phones being auto focus, you\u0026#39;re kinda stuck with that.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/V911sH3Uvue",
+    "resourceName": "users/103867089694409269471/posts/UgioOckYBjUTOXgCoAEC/comments/CiN6MTJ3dWhwNWxrMmx6NWI1YzA0Y2l0dzRleWZkY3RycjQybxDO2ufFq4rLAg"
+  }, {
+    "creationTime": "2016-02-22 21:40:41-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Actually, I just found \u0026quot;Open Camera\u0026quot; that provides manual exposure and focus controls on the Nexus 5 and other Android phones.  Now I have to re-shoot all of my videos...  :)  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://play.google.com/store/apps/details?id\u003dnet.sourceforge.opencamera\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://play.google.com/store/apps/details?id\u003dnet.sourceforge.opencamera\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/V911sH3Uvue",
+    "resourceName": "users/103867089694409269471/posts/UgioOckYBjUTOXgCoAEC/comments/CiN6MTJ3dWhwNWxrMmx6NWI1YzA0Y2l0dzRleWZkY3RycjQybxD1-dKA7ozLAg"
+  }, {
+    "creationTime": "2016-02-22 21:50:05-0500",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Oooh nice find Jason, thanks. I\u0026#39;m going to have to try that out on my Nexus 5 also.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/V911sH3Uvue",
+    "resourceName": "users/103867089694409269471/posts/UgioOckYBjUTOXgCoAEC/comments/CiN6MTJ3dWhwNWxrMmx6NWI1YzA0Y2l0dzRleWZkY3RycjQybxCowsiN8IzLAg"
+  }, {
+    "creationTime": "2016-03-07 10:18:44-0500",
+    "author": {
+      "displayName": "Scott Anderson",
+      "profilePageUrl": "https://plus.google.com/114395265270523345001",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-cM7e9f1KlWk/AAAAAAAAAAI/AAAAAAAAKe4/7e11fJWOW58/s64-c/photo.jpg",
+      "resourceName": "users/114395265270523345001"
+    },
+    "content": "Nice stuff. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/V911sH3Uvue",
+    "resourceName": "users/103867089694409269471/posts/UgioOckYBjUTOXgCoAEC/comments/CiN6MTJ3dWhwNWxrMmx6NWI1YzA0Y2l0dzRleWZkY3RycjQybxDY_rLY767LAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgioOckYBjUTOXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Scott Anderson",
+      "profilePageUrl": "https://plus.google.com/114395265270523345001",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-cM7e9f1KlWk/AAAAAAAAAAI/AAAAAAAAKe4/7e11fJWOW58/s64-c/photo.jpg",
+      "resourceName": "users/114395265270523345001"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Maddy V",
+      "profilePageUrl": "https://plus.google.com/113683911955112550690",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-d7BVYt-4-Wg/AAAAAAAAAAI/AAAAAAAAAF0/tvMqBF8tyc4/s64-c/photo.jpg",
+      "resourceName": "users/113683911955112550690"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "1icri - Old Account",
+      "profilePageUrl": "https://plus.google.com/+Techy4198",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-aKO8TFuO3IM/AAAAAAAAAAI/AAAAAAAAD4A/5Douh6kqyaA/s64-c/photo.jpg",
+      "resourceName": "users/109789728586812118406"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jonas Vorwerk",
+      "profilePageUrl": "https://plus.google.com/106461657512143768817",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-bA8ZID1BAnM/AAAAAAAAAAI/AAAAAAAAADE/dquYyKber4c/s64-c/photo.jpg",
+      "resourceName": "users/106461657512143768817"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Hung Vu",
+      "profilePageUrl": "https://plus.google.com/112617373002583887721",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-IA3A-wZodfo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVqTTCh-p2EEL6v4UzvTxZOWYR1PA/s64-c/photo.jpg",
+      "resourceName": "users/112617373002583887721"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Saso Dzuljo Petrovski",
+      "profilePageUrl": "https://plus.google.com/+SasoDzuljoPetrovski",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-hMLitk7Sny0/AAAAAAAAAAI/AAAAAAAAekA/uAuOWYtiHMc/s64-c/photo.jpg",
+      "resourceName": "users/109421065405097980189"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Rex Heck",
+      "profilePageUrl": "https://plus.google.com/105984949694313949913",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-66_GP4RrWrQ/AAAAAAAAAAI/AAAAAAAAAfQ/3cafNz9fj2Y/s64-c/photo.jpg",
+      "resourceName": "users/105984949694313949913"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ivars Duntavs",
+      "profilePageUrl": "https://plus.google.com/105228110381512546854",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jWVehN0C1_Q/AAAAAAAAAAI/AAAAAAAAACE/DWrS1Es0u5A/s64-c/photo.jpg",
+      "resourceName": "users/105228110381512546854"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Myron Lo",
+      "profilePageUrl": "https://plus.google.com/117967907587283460512",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-MzTeofQwGpM/AAAAAAAAAAI/AAAAAAAAAFg/U3ybP2LKCtI/s64-c/photo.jpg",
+      "resourceName": "users/117967907587283460512"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Alexander Nolting",
+      "profilePageUrl": "https://plus.google.com/+AlexanderNolting",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-9dWI1gTsnOE/AAAAAAAAAAI/AAAAAAAAOxc/vwvJgH7oIsY/s64-c/photo.jpg",
+      "resourceName": "users/109141459210065659338"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Ivars Duntavs",
+      "profilePageUrl": "https://plus.google.com/105228110381512546854",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jWVehN0C1_Q/AAAAAAAAAAI/AAAAAAAAACE/DWrS1Es0u5A/s64-c/photo.jpg",
+      "resourceName": "users/105228110381512546854"
+    }
+  }, {
+    "resharer": {
+      "displayName": "Thomas Wolf",
+      "profilePageUrl": "https://plus.google.com/+ThomasWolfEnstein",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Zvi9TlFemUI/AAAAAAAAAAI/AAAAAAAAGKM/B5T1TApP4rQ/s64-c/photo.jpg",
+      "resourceName": "users/107606680371383075409"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

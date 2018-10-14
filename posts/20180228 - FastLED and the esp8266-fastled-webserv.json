@@ -1,0 +1,167 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/MQ7DekanDjS",
+  "creationTime": "2018-02-28 15:03:54-0500",
+  "updateTime": "2018-02-28 15:03:54-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "FastLED and the esp8266-fastled-webserver are apparently running on a robotic coffee maker launching on Kickstarter tomorrow!\u003cbr\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.heymugsy.com/\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.heymugsy.com/\u003c/a\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.instagram.com/p/Bfv61uVjXeQ/\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.instagram.com/p/Bfv61uVjXeQ/\u003c/a\u003e",
+  "media": {
+    "url": "https://plus.google.com/photos/103867089694409269471/albums/6527698457609376417/6527698459416560274",
+    "contentType": "video/*",
+    "width": 640,
+    "height": 362,
+    "description": "FastLED and the esp8266-fastled-webserver are apparently running on a robotic coffee maker launching on Kickstarter tomorrow!\n\nhttp://www.heymugsy.com/\nhttps://www.instagram.com/p/Bfv61uVjXeQ/",
+    "resourceName": "media/CixBRjFRaXBPM3gzVHZoTjZLOER6aG1Bbzd4blFVWHpjNTR2WDk5dTQ2a1p0Qg\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2018-03-01 12:31:58-0500",
+    "author": {
+      "displayName": "Nikolay Hristov",
+      "profilePageUrl": "https://plus.google.com/+NikolayHristov81",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jleUWCGWYLQ/AAAAAAAAAAI/AAAAAAAANGU/_5NN_7Kf_e8/s64-c/photo.jpg",
+      "resourceName": "users/102508051272173516103"
+    },
+    "content": "You know I love your work , man - especially audio enabled version :) Currently working on way to use it without msgeq7 - Keep great work ! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MQ7DekanDjS",
+    "resourceName": "users/103867089694409269471/posts/Ugh59D2wVHoChXgCoAEC/comments/CiF6MTIyc2Z1NTNrcXZjenludDIzcWoxMnJtdWVhaHh0MHAQ1uLg5NPL2QI"
+  }, {
+    "creationTime": "2018-03-01 12:38:46-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102508051272173516103\" oid\u003d\"102508051272173516103\" \u003eNikolay Hristov\u003c/a\u003e\u003c/span\u003e!  I used the Teensy 3.2\u0026#39;s FFT a while back: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/SpectrumAnalyzerStrip\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/SpectrumAnalyzerStrip\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI hear the ESP32 can handle FFT as well, hope to try it out soon!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MQ7DekanDjS",
+    "resourceName": "users/103867089694409269471/posts/Ugh59D2wVHoChXgCoAEC/comments/CiF6MTIyc2Z1NTNrcXZjenludDIzcWoxMnJtdWVhaHh0MHAQtaTJp9XL2QI"
+  }, {
+    "creationTime": "2018-03-01 12:43:38-0500",
+    "updateTime": "2018-03-01 13:05:37-0500",
+    "author": {
+      "displayName": "Nikolay Hristov",
+      "profilePageUrl": "https://plus.google.com/+NikolayHristov81",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jleUWCGWYLQ/AAAAAAAAAAI/AAAAAAAANGU/_5NN_7Kf_e8/s64-c/photo.jpg",
+      "resourceName": "users/102508051272173516103"
+    },
+    "content": "I use currently Impulse library for python which uses FFTW and multicast spectrum packets in my network - so One-out multiple-ins works pretty smooth / Will share code when is polished \u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/ianhalpern/Impulse\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/ianhalpern/Impulse\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eEDIT: Just for not flooding your post another idea came in mind recently with development of esp32 version something like this: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://audio-lab.github.io/gl-spectrum/\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://audio-lab.github.io/gl-spectrum/\u003c/a\u003e -- could be hosted on device and take currently playng stream peak via websocket or udp ;-) will be more platform independent and usefull\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MQ7DekanDjS",
+    "resourceName": "users/103867089694409269471/posts/Ugh59D2wVHoChXgCoAEC/comments/CiF6MTIyc2Z1NTNrcXZjenludDIzcWoxMnJtdWVhaHh0MHAQocvWstbL2QI"
+  }, {
+    "creationTime": "2018-03-01 17:52:34-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": " \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102508051272173516103\" oid\u003d\"102508051272173516103\" \u003eNikolay Hristov\u003c/a\u003e\u003c/span\u003e , I\u0026#39;ve nearly finished porting \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e \u0026#39;s collection of audio patterns to run with FFT on an ESP32. They\u0026#39;re nearly done, but I\u0026#39;ve been distracted by adding an accelerometer. Had lots of I2C issues, but fixed them today :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MQ7DekanDjS",
+    "resourceName": "users/103867089694409269471/posts/Ugh59D2wVHoChXgCoAEC/comments/CiF6MTIyc2Z1NTNrcXZjenludDIzcWoxMnJtdWVhaHh0MHAQk_GluZvM2QI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ugh59D2wVHoChXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Mario Wiegleb",
+      "profilePageUrl": "https://plus.google.com/111877398099696932439",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-wVdST4p6WNI/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWyAiS5SwNOlx5yYlk-x8Sg1JMLcw/s64-c/photo.jpg",
+      "resourceName": "users/111877398099696932439"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stephen Co",
+      "profilePageUrl": "https://plus.google.com/102469120456332256887",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-yCsF1S5aRbs/AAAAAAAAAAI/AAAAAAAAFn4/JV0Sf5CfQ9E/s64-c/photo.jpg",
+      "resourceName": "users/102469120456332256887"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ivan Fominskiy",
+      "profilePageUrl": "https://plus.google.com/118394434555643147118",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-SWRMJE66JJM/AAAAAAAAAAI/AAAAAAAAAEk/P1oE6pnMj6g/s64-c/photo.jpg",
+      "resourceName": "users/118394434555643147118"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nikolay Hristov",
+      "profilePageUrl": "https://plus.google.com/+NikolayHristov81",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jleUWCGWYLQ/AAAAAAAAAAI/AAAAAAAANGU/_5NN_7Kf_e8/s64-c/photo.jpg",
+      "resourceName": "users/102508051272173516103"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Al Linke",
+      "profilePageUrl": "https://plus.google.com/+AlLinke",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-T-ghtJLr5Jw/AAAAAAAAAAI/AAAAAAAAONE/SibJiQy4To4/s64-c/photo.jpg",
+      "resourceName": "users/113534147100834786263"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tom Schubert",
+      "profilePageUrl": "https://plus.google.com/+TomSchubert",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Wqk8DBhq_ZM/AAAAAAAAAAI/AAAAAAAB13g/8GfFUa-ymcg/s64-c/photo.jpg",
+      "resourceName": "users/101234992960778397599"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chris Rees",
+      "profilePageUrl": "https://plus.google.com/102857052697355852278",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-C_6sBArYGDo/AAAAAAAAAAI/AAAAAAAAAts/IM0voADBx7w/s64-c/photo.jpg",
+      "resourceName": "users/102857052697355852278"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nail ENVY",
+      "profilePageUrl": "https://plus.google.com/109048588330518029928",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-R7HWKoXqVJg/AAAAAAAAAAI/AAAAAAAAALA/MFDpIshuZEs/s64-c/photo.jpg",
+      "resourceName": "users/109048588330518029928"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James G.",
+      "profilePageUrl": "https://plus.google.com/114312362882399477330",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-EuJssl3FskQ/AAAAAAAAAAI/AAAAAAAADSE/Y6I8vOF2zpY/s64-c/photo.jpg",
+      "resourceName": "users/114312362882399477330"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/102508051272173516103",
+        "displayName": "Nikolay Hristov"
+      }]
+    }
+  }
+}

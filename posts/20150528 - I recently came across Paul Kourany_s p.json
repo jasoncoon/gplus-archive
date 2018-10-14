@@ -1,0 +1,37 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/e4ZhEMoGRRL",
+  "creationTime": "2015-05-28 21:30:59-0400",
+  "updateTime": "2015-05-28 21:30:59-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I recently came across Paul Kourany\u0026#39;s port of Pong Clock (\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pkourany/RGBPongClock\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pkourany/RGBPongClock\u003c/a\u003e). It\u0026#39;s a fork of Andrew Holmes\u0026#39; Pong Clock, which, in turn, is \u0026quot;Inspired by, and shamelessly derived from Nick\u0026#39;s LED Projects\u0026quot;.\u003cbr\u003e\u003cbr\u003eThe 2 players automatically win and lose so their scores show the hours and minutes.\u003cbr\u003e\u003cbr\u003eAnyway, once I saw it, I knew I had to port it to SmartMatrix/FastLED.  :)",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dFjqOhjIZhtQ",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Pong Clock on SmartMatrix SmartMatrix is a Kickstarter Staff Pick! http://kck.st/1RUlTfb SmartMatrix is a beautiful music visualizer, dynamic art display, vi...",
+    "resourceName": "media/EgtGanFPaGpJWmh0UQ\u003d\u003d"
+  },
+  "resourceName": "users/103867089694409269471/posts/Ugjdk216xVAJ23gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Jim In Ashland",
+      "profilePageUrl": "https://plus.google.com/+JimChamberlainCloud",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-BxtofR3TaVE/AAAAAAAAAAI/AAAAAAAAGgo/nJMA2Rf5MmI/s64-c/photo.jpg",
+      "resourceName": "users/102250433590250377468"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

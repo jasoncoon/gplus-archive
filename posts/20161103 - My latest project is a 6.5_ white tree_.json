@@ -1,0 +1,1261 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/QzGu3HTQgXr",
+  "creationTime": "2016-11-03 20:15:58-0400",
+  "updateTime": "2016-11-03 20:20:33-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "My latest project is a 6.5\u0026#39; white tree with 250 WS2811 LEDs, an ESP8266 microcontroller, controlled with a web app over WiFi and/or an infrared remote control.  Currently at 35 procedural animations using a fully 3D mapped layout (X, Y, and Z axes, plus radius and angle), allowing scrolling and rotating in any direction.\u003cbr\u003e\u003cbr\u003eMore videos: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/playlist?list\u003dPLUYGVM-2vDxJKi8lgQGImMW3xGfPCup2E\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/playlist?list\u003dPLUYGVM-2vDxJKi8lgQGImMW3xGfPCup2E\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eFull write-up with parts list, pics, and details (maybe just short of a full tutorial): \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.evilgeniuslabs.org/tree-v2.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.evilgeniuslabs.org/tree-v2.html\u003c/a\u003e",
+  "media": {
+    "url": "https://youtu.be/fpioieRDVrk?list\u003dPLUYGVM-2vDxJKi8lgQGImMW3xGfPCup2E",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "6.5\u0027 white tree with 250 WS2811 RGB LEDs, driven by an ESP8266 microcontroller using the FastLED library, controlled with a web app over WiFi and/or an infra...",
+    "resourceName": "media/EgtmcGlvaWVSRFZyaw\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2016-11-03 20:30:40-0400",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "You and Stefan are pure gold!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDY76LF7I3QAg"
+  }, {
+    "creationTime": "2016-11-03 20:34:01-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Zzzzeeeeeee!  Where did I put my red/blue glasses?  ;)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCSuumk7Y3QAg"
+  }, {
+    "creationTime": "2016-11-03 20:44:21-0400",
+    "author": {
+      "displayName": "Rich Plakas",
+      "profilePageUrl": "https://plus.google.com/+RichPlakas",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-N0lLaCqQrGE/AAAAAAAAAAI/AAAAAAABhi0/rfNpRo9jgF4/s64-c/photo.jpg",
+      "resourceName": "users/105527688378437478949"
+    },
+    "content": "You\u0026#39;re costing me money 💵 ;-) Great work! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDchsnM743QAg"
+  }, {
+    "creationTime": "2016-11-03 21:06:41-0400",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "Wowwww. This is stunning. I was literally hypnotized for a minute. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxD4_7nL9I3QAg"
+  }, {
+    "creationTime": "2016-11-03 21:07:10-0400",
+    "author": {
+      "displayName": "Chad Eby",
+      "profilePageUrl": "https://plus.google.com/103032700739943796663",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-T6lGtCnWsak/AAAAAAAAAAI/AAAAAAAAAcE/V2QqRS0dHAI/s64-c/photo.jpg",
+      "resourceName": "users/103032700739943796663"
+    },
+    "content": "Fantastic!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDhvKbZ9I3QAg"
+  }, {
+    "creationTime": "2016-11-03 21:22:28-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks everyone!  I cannot even imagine trying to create stuff like this without this amazing library and helpful community.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDTi5mP-I3QAg"
+  }, {
+    "creationTime": "2016-11-03 21:31:59-0400",
+    "author": {
+      "displayName": "James G.",
+      "profilePageUrl": "https://plus.google.com/114312362882399477330",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-EuJssl3FskQ/AAAAAAAAAAI/AAAAAAAADSE/Y6I8vOF2zpY/s64-c/photo.jpg",
+      "resourceName": "users/114312362882399477330"
+    },
+    "content": "This is, beyond a doubt, the best tree I\u0026#39;ve ever seen, and my wife now hates you for it, as she now sees the glimmer in my eyes and the $$$ leaving the account :-)\u003cbr\u003eThanks so much for sharing the detailed project, as I will definitely be gracing our home with it this year!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCN7aef-o3QAg"
+  }, {
+    "creationTime": "2016-11-04 05:07:30-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "looking amazing prob silly question but what is the  SN74HCT245N Level Shifter used for gonna try this project",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDustmH4I7QAg"
+  }, {
+    "creationTime": "2016-11-04 07:07:36-0400",
+    "author": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    },
+    "content": "Spectacular!   Thank you for sharing your code.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCQ84H0-o7QAg"
+  }, {
+    "creationTime": "2016-11-04 09:24:32-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e the SN74HCT245N Level Shifter is used to convert the 3.3v logic level from the ESP8266 digital output pin to the 5v logic level that the WS2811 LEDs require.  I\u0026#39;ve built a lot of projects that worked without using level shifters, but it never hurts.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxC_1u3BmY_QAg"
+  }, {
+    "creationTime": "2016-11-04 14:15:30-0400",
+    "author": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e How are you liking the Wemos Mini Pro?  Any noticeable difference with signal strength since it is using a ceramic antenna?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDwwcHG2o_QAg"
+  }, {
+    "creationTime": "2016-11-04 15:04:11-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104280782569289072986\" oid\u003d\"104280782569289072986\" \u003eBrian Lewis\u003c/a\u003e\u003c/span\u003e honestly, the only difference I\u0026#39;ve noticed is better reliability when uploading firmware \u0026amp; SPIFFS.  I haven\u0026#39;t noticed a single failure with the Pro, used to have to retry fairly frequently.  I don\u0026#39;t think the Arduino core has been updated to reflect the increased flash space.  My projects so far have all been indoor and relatively short range.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCTxaW35Y_QAg"
+  }, {
+    "creationTime": "2016-11-06 12:42:35-0500",
+    "author": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    },
+    "content": "There is one important animation missing: Fire2012! ;-)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxD-qZ321pTQAg"
+  }, {
+    "creationTime": "2016-11-06 12:51:28-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/101332413535253547436\" oid\u003d\"101332413535253547436\" \u003eThomas Runge\u003c/a\u003e\u003c/span\u003e it\u0026#39;s at 1:45 in this video, and more at 1:30 here: ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "media": {
+      "url": "https://youtu.be/EPT1tTUMgv4",
+      "contentType": "video/*",
+      "width": 1280,
+      "height": 720,
+      "description": "6.5\u0027 white tree with 250 WS2811 RGB LEDs, driven by an ESP8266 microcontroller using the FastLED library, controlled with a web app over WiFi and/or an infra...",
+      "resourceName": "media/EgtFUFQxdFRVTWd2NA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDXw5f02JTQAg"
+  }, {
+    "creationTime": "2016-11-13 09:58:48-0500",
+    "author": {
+      "displayName": "Marko S",
+      "profilePageUrl": "https://plus.google.com/111806709733848631416",
+      "resourceName": "users/111806709733848631416"
+    },
+    "content": "Jason Coon could you maybe also please add support for MQTT protocol? 😃",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCOiLav_6XQAg"
+  }, {
+    "creationTime": "2016-11-13 10:31:23-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/111806709733848631416\" oid\u003d\"111806709733848631416\" \u003eMarko S\u003c/a\u003e\u003c/span\u003e I\u0026#39;m not familiar with MQTT.  Can you explain your need for it?  This tree project is already completely open source and open hardware, please feel free to add MQTT in a fork and submit a pull request: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/evilgeniuslabs/tree-v2\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/evilgeniuslabs/tree-v2\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDxhLjThqbQAg"
+  }, {
+    "creationTime": "2016-11-13 10:32:23-0500",
+    "author": {
+      "displayName": "Marko S",
+      "profilePageUrl": "https://plus.google.com/111806709733848631416",
+      "resourceName": "users/111806709733848631416"
+    },
+    "content": "Its the most popular protocol for iot. I need it for interfacing with home automation controller.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCFqIPwhqbQAg"
+  }, {
+    "creationTime": "2016-11-29 10:58:30-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e I\u0026#39;m tackling your tree project and have the board all wired up and code and spiffs loaded but I have no idea how to access the web app. I\u0026#39;m using a mac. I tried the ip address. I installed jqueery and bootstrap and home brew (though really not sure what I was doing there). What am I missing? Any clues would be much appreciated!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxD785LHqs7QAg"
+  }, {
+    "creationTime": "2016-11-29 11:05:11-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117248218984375176714\" oid\u003d\"117248218984375176714\" \u003eCharity Stolarz\u003c/a\u003e\u003c/span\u003e Cool!  Have you uploaded the web app to SPIFFS?  Have you set the SSID and password for your wireless network?  You should be able to watch the serial monitor, it\u0026#39;ll print the IP address.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCX57aGrM7QAg"
+  }, {
+    "creationTime": "2016-11-29 11:15:19-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "yes and I get this:\u003cbr\u003e\u003cbr\u003eHostname: ESP8266-2c153c\u003cbr\u003eConnecting to Castle Greyskull\u003cbr\u003eHTTP web server started\u003cbr\u003eWeb socket server started\u003cbr\u003eip:192.168.1.15,mask:255.255.255.0,gw:192.168.1.1\u003cbr\u003e\u003cbr\u003eThe first 2 won\u0026#39;t load and says the server isn\u0026#39;t responding. The last ne just brings me to my router settings",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDKy4-ors7QAg"
+  }, {
+    "creationTime": "2016-11-29 11:22:56-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "OK, so your boards IP address is 192.168.1.15.  You can use Google Chrome Developer Tools to troubleshoot from here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/DgDh3d\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/DgDh3d\u003c/a\u003e  Open a new tab, then open the Developer Tools.  Go to the network tab, then enter the IP address in the address bar of the new tab and hit enter.  You should see a request to the IP address.  Click it and make sure it\u0026#39;s getting a response.  Let me know if you see any errors in the response or console.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCMypWCsM7QAg"
+  }, {
+    "creationTime": "2016-11-29 11:27:28-0500",
+    "author": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117248218984375176714\" oid\u003d\"117248218984375176714\" \u003eCharity Stolarz\u003c/a\u003e\u003c/span\u003e​ If you are using Internet explorer you will want to put http:// in front of the IP address.  \u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://192.168.1.15\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://192.168.1.15\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDDgtCDsc7QAg"
+  }, {
+    "creationTime": "2016-11-29 11:28:40-0500",
+    "author": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117248218984375176714\" oid\u003d\"117248218984375176714\" \u003eCharity Stolarz\u003c/a\u003e\u003c/span\u003e​ nevermind. I just saw that you said you were using a Mac. You could still give it a shot though.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxC0xpmmsc7QAg"
+  }, {
+    "creationTime": "2016-11-29 11:41:35-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "Thanks - i saw your tip about chrome dev tools in your other esp8266 web app thread but couldn\u0026#39;t find it!  But it just keeps saying pending and then failed...\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCW1d2XtM7QAg"
+  }, {
+    "creationTime": "2016-11-29 11:42:29-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "oh I just reinstalled the ino and spiffs and it loaded! \u003cbr\u003eBut still saying \u0026quot;pending autoplay\u0026quot;\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCZsaextM7QAg"
+  }, {
+    "creationTime": "2016-11-29 11:43:02-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Can you try \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://192.168.1.15/all\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://192.168.1.15/all\u003c/a\u003e ?  That should respond with a bunch of JSON data.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDztpTBtM7QAg"
+  }, {
+    "creationTime": "2016-11-29 11:46:14-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "It looks like it\u0026#39;s working but nothing is happening with the lights. I have to run out and grab my daughter from preschool and will get back. Maybe I have something wired wrong. You have the power going into the board from the same jst for data right? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDAwdOctc7QAg"
+  }, {
+    "creationTime": "2016-11-29 11:54:32-0500",
+    "updateTime": "2016-11-29 11:55:19-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "If \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://192.168.1.15/all\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://192.168.1.15/all\u003c/a\u003e works, but \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://192.168.1.15/\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://192.168.1.15/\u003c/a\u003e or \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://192.168.1.15/index.htm\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://192.168.1.15/index.htm\u003c/a\u003e doesn\u0026#39;t work, you should make sure that you\u0026#39;ve used the \u0026quot;ESP8266 Sketch Data Upload\u0026quot; tool to upload the web app to SPIFFS: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/Qygsfm\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/Qygsfm\u003c/a\u003e  You should be able to see the files listed at \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://192.168.1.15/edit.htm\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://192.168.1.15/edit.htm\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eEven without the web app working, the LEDs should work.  Yeah, I used a four way splitter to power the LEDs, and then power and ground from the LEDs connect to the board through the same JST connector used for data.\u003cbr\u003e\u003cbr\u003eYou should also be able to test by just connecting one LED string to the board, and powering it all through USB.\u003cbr\u003e\u003cbr\u003eHave you modified the sketch or web app files at all?  If so, it\u0026#39;d help to see your changes (on GitHub, Gist, or Pastebin).",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxC5l_yJt87QAg"
+  }, {
+    "creationTime": "2016-11-29 11:58:05-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Sorry, I just noticed your \u0026quot;it loaded\u0026quot; comment.  I must have missed it somehow.  :)  Sorry, what do you mean it\u0026#39;s still saying \u0026quot;pending autoplay\u0026quot;?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCF07_vt87QAg"
+  }, {
+    "creationTime": "2016-11-29 12:57:42-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "I haven\u0026#39;t modified anything with this one. I had a different one going with a nodemcu board and no level shifter and the timing for the lights seemed really off. Lots of flashing and flickering and the first light sketch was a mess. So I figured it might need that shift register which came in along with the wemos d1. Then noticed you had updated the code and just took it whole cloth. As soon as I get this kiddo her lunch and an acceptable teletubbies episode I\u0026#39;ll go back and take another look at my wiring. I did it pretty late last night so it\u0026#39;s probably something silly",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDN1pWZxc7QAg"
+  }, {
+    "creationTime": "2016-11-29 16:58:32-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e I\u0026#39;m striking out now completely. Can you take a look at my wiring and see if I screwed something up? I didn\u0026#39;t really know what was going on either the shift register so just tried to copy you. Data is connected to D7 and B1 then out of A1 to data in. Dir to ground, vcc to +. (???) thanks so much with your help on this. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/1MNTFJv8xrYXbHKOWUseMi3XykTatoUpnY6NNhi-_1bwVtAN69MHEPLDdIiR4KNbgeQWIGZT_w",
+      "contentType": "image/*",
+      "width": 2048,
+      "height": 1260,
+      "resourceName": "media/CixBRjFRaXBPVldWYWVDczhhTWdWbVNCWnA5LXNyam9ZU1IzN2hZeHpNVldOMw\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxC2qMeD-87QAg"
+  }, {
+    "creationTime": "2016-11-29 16:59:40-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "Also I used a 470 ohm thatbyou listed in materials - but it looks like a 220 on your board?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCli5Ok-87QAg"
+  }, {
+    "creationTime": "2016-11-29 17:00:29-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "Is OE supposed to connect to ground too?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDO9pq7-87QAg"
+  }, {
+    "creationTime": "2016-11-29 17:07:37-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Looks good, except OE and GND on the level shifter should be connected to ground: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.ti.com/lit/ds/symlink/sn74hct245.pdf\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.ti.com/lit/ds/symlink/sn74hct245.pdf\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eLooks like I missed that on my board and diagram, sorry.  :(  I\u0026#39;ll get it updated.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "link": {
+      "title": "i.imgur.com/hessqF5.png",
+      "url": "http://i.imgur.com/hessqF5.png",
+      "imageUrl": "http://i.imgur.com/hessqF5.png"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCIgNWH_c7QAg"
+  }, {
+    "creationTime": "2016-11-29 17:10:48-0500",
+    "updateTime": "2016-11-29 17:11:07-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Also, I always wire up on a breadboard and test before transferring the circuit to a PCB or perma-proto and starting to solder.  I should have recommended that in the article.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDuzM3i_c7QAg"
+  }, {
+    "creationTime": "2016-11-29 20:13:54-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I\u0026#39;ve updated the Fritzing diagram after reading the level shifter datasheet.  You\u0026#39;re supposed to tie any unused inputs/outputs to ground.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/02N1fxtFYUvVHuE6VHMFU7kGi6xAzoMtImi2ue-_CGG-zkhXP8nqvxHI0flJdDRkScRVEp-5iN8",
+      "contentType": "image/*",
+      "width": 912,
+      "height": 1092,
+      "resourceName": "media/CixBRjFRaXBOX25OeENORTlhVjFEVWl2ZTl1cGw5LTlySUlVajgxRUpHc1NFSQ\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxC5t_HYps_QAg"
+  }, {
+    "creationTime": "2016-11-29 23:24:14-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "Oh cool! I was trying to make sense of it too. But it worked fine for you before? I went ahead and started over with the solderless board that finally let itself be found. I redid everything exactly as your other fritz diagram and still nothing. Then I just stripped it down to this and its fine",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/QLwfFBVJLKyC0tDEwgXo_HuR_ggNsT7alAzZKyKtNB5jur6X9nm--qnLW5av6Ur6lgsdciW2cQ",
+      "contentType": "image/*",
+      "width": 2048,
+      "height": 1536,
+      "resourceName": "media/CixBRjFRaXBNRmlUZjZQZkFzdHUzbmpPNF9rei1GOVE5T0d1Und2ejI3dHFiSw\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDtxNme0c_QAg"
+  }, {
+    "creationTime": "2016-11-29 23:25:02-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "It\u0026#39;s just v,g and data",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDNiLO10c_QAg"
+  }, {
+    "creationTime": "2016-11-29 23:25:33-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "I will try again with all the extra pins on the shifter tied to ground",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxD3463E0c_QAg"
+  }, {
+    "creationTime": "2016-11-29 23:41:19-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "And now a question for the morning (getting ahead of myself of course): is there a way to control multiple esp8266 boards running this script with the same web app? So if I made a few trees they could run patterns in sync? The 2 different boards have given me different ips ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxC568eH1c_QAg"
+  }, {
+    "creationTime": "2016-11-30 09:39:57-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "Welp, I did up the board exactly like the fritzing diagram and it\u0026#39;s not lighting up anything and the board started getting extremely hot. I have to change the batteries in my multimeter for further investigation. What\u0026#39;s the worst that could happen if I skip the logic level converter \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e? The web app is working perfectly with just +, -, and data hooked up. I\u0026#39;m eager to get into the tree building",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDa2JPu2tDQAg"
+  }, {
+    "creationTime": "2016-11-30 09:44:50-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117248218984375176714\" oid\u003d\"117248218984375176714\" \u003eCharity Stolarz\u003c/a\u003e\u003c/span\u003e, sorry for all of the trouble.  :(  I\u0026#39;ll double check the Fritzing diagram tonight.  If it works without the level shifter, definitely leave it out.  I went a long time without using them, but they\u0026#39;re \u003cb\u003esupposed\u003c/b\u003e to always help, and never hurt.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxD4ivf529DQAg"
+  }, {
+    "creationTime": "2016-11-30 11:27:37-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "Please don\u0026#39;t apologize! I\u0026#39;m so grateful for all of your help and providing the awesome project in the first place! I\u0026#39;m going to try the level shifter out with the nodemcu boards I have that were giving me crazy timing- they don\u0026#39;t have the 5v pin only 3.3.  Did you see my question about controlling multiple boards like clones of each other through 1 web app? Or do you know of any code examples that set up one board to send commands to multiple other esp8266 at the same time? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCC3Nz28tDQAg"
+  }, {
+    "creationTime": "2016-11-30 11:32:21-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I haven\u0026#39;t done any work on trying to sync multiple boards.  It shouldn\u0026#39;t be too difficult to modify the web app to send commands to multiple IP addresses.  That wouldn\u0026#39;t precisely sync them, but would allow you set the pattern, brightness, power, etc.  I think if you powered them all on simultaneously they should be pretty closely synched.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxD4-IP-89DQAg"
+  }, {
+    "creationTime": "2016-12-02 05:44:49-0500",
+    "author": {
+      "displayName": "Stéphane FRANÇOIS",
+      "profilePageUrl": "https://plus.google.com/117492528749609965529",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-FwD03RqrWEo/AAAAAAAAAAI/AAAAAAAAAfU/Ciw3_477f7c/s64-c/photo.jpg",
+      "resourceName": "users/117492528749609965529"
+    },
+    "content": "Hello Jason. I\u0026#39;m trying to build a tree with a simpler layout. Just a 4x50 ws2812b led strip going along the tree. I don\u0026#39;t understand how to change the hardcoded map.h to match my own layout. Let\u0026#39;s say I have 8 rows. 60+48+36+24+18+8+4+1\u003d199 (I have 1 dead led at the end of the 4th strip). How to make the matrix? I\u0026#39;d like to have some animations (like meteor shower) going from the top to the bottom of the tree following the pol. coordonates (to go vertically instead of following the strip). My final goal is implementing the flaschen-taschen for ESP8266 client. Best regards,",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCQ1dyEqtXQAg"
+  }, {
+    "creationTime": "2016-12-12 15:42:56-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "Hey i have a quick question on this project. Ive always used my WS2812B\u0026#39;s on a 3.7V lipo battery and never had any issues with flickering or random resets. Is the level shifter really necessary? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDchZ-wwu_QAg"
+  }, {
+    "creationTime": "2016-12-13 11:23:43-0500",
+    "updateTime": "2016-12-13 11:24:43-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e and the gang! The saga continues... so I had everything working great- I decided to map it for my cypress outside with 500 pixels instead of 250. I set them up using the demo100 and then fixed the mapping (rather loosely). The problem now is that (I think) the global variables are now too big, tipping from 59% to 62%. Leaving heap only at 30k and it\u0026#39;s now resetting before connecting to the IP. It won\u0026#39;t even do autoplay. I tried to make it smaller by commenting out all of the IR stuff (since I\u0026#39;m not using it) and the radii mapping with inward outward patterns. But that only gets it down to 61%. As soon as I switch the mapping back to 250 it works fine. Any suggestions?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDrrsqmyvHQAg"
+  }, {
+    "creationTime": "2016-12-13 11:31:19-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104232521683450572261\" oid\u003d\"104232521683450572261\" \u003eCristian Martinez\u003c/a\u003e\u003c/span\u003e I got it to work without it- who knows if it\u0026#39;ll last though",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDnrfH_y_HQAg"
+  }, {
+    "creationTime": "2016-12-13 12:12:39-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117248218984375176714\" oid\u003d\"117248218984375176714\" \u003eCharity Stolarz\u003c/a\u003e\u003c/span\u003e​ i mean ive never had any problem running them at 3.7V but at 3.3 that may be different. Im gonna power them from 5V anyways straight from the power supply. Fingers crossed its a good steady power supply. I tried a cheap one once and it was crap. The whole strip was going crazy.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxD0_cCe1fHQAg"
+  }, {
+    "creationTime": "2016-12-13 12:38:50-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104232521683450572261\" oid\u003d\"104232521683450572261\" \u003eCristian Martinez\u003c/a\u003e\u003c/span\u003e yeah I\u0026#39;m doing the same- powering the controller separately- actually when I hooked up my ws2812b strips they were freaking out and I got them to work well with the level shifter. But the 2811s (5v) were fine. Then I hooked up the ws2812 strip accidentally (just buried in piles of wires over here) with 2811 chipset listed in ide and they worked fine.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCgrMaL2_HQAg"
+  }, {
+    "creationTime": "2016-12-13 13:41:02-0500",
+    "author": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    },
+    "content": "I\u0026#39;ve got it working with my 500 num_leds map if I delete the IR, apMode, noise, twinkleFOX and meteors. But I kinda want those patterns back... might try deleting the \u0026quot;simple\u0026quot; webpage. If anyone else has an idea of things I could cut to save memory I would appreciate the advice. I have no idea what I\u0026#39;m doing! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDj07D_6PHQAg"
+  }, {
+    "creationTime": "2016-12-13 16:14:21-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "Lol i feel you there! Im a noob too. All ive got going for me are some custom PCBs with several circuits built around an Attiny85 but when it comes to software im still in my ABCs lol",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCPmO-hi_LQAg"
+  }, {
+    "creationTime": "2016-12-13 16:14:21-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "Lol i feel you there! Im a noob too. All ive got going for me are some custom PCBs with several circuits built around an Attiny85 but when it comes to software im still in my ABCs lol",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxD50PKhi_LQAg"
+  }, {
+    "creationTime": "2016-12-13 20:52:21-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117248218984375176714\" oid\u003d\"117248218984375176714\" \u003eCharity Stolarz\u003c/a\u003e\u003c/span\u003e, that\u0026#39;s very strange.  The meteors patterns are still very much a work in progress, and I was never very happy with the noise patterns on the tree, so definitely toss those.  Tried just adding back in the TwinkleFOX patterns?  You could also try commenting out the WebSockets, update server, and mDNS.  Those aren\u0026#39;t absolutely required.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDpvcOzyfLQAg"
+  }, {
+    "creationTime": "2016-12-13 22:12:57-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ how good is the WEMOS D1 mini pro? Im fixing to buy a few. Is it a good product? Or is there a better one that you recommend?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCd-au12_LQAg"
+  }, {
+    "creationTime": "2016-12-13 22:27:00-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104232521683450572261\" oid\u003d\"104232521683450572261\" \u003eCristian Martinez\u003c/a\u003e\u003c/span\u003e I\u0026#39;ve been very happy with them, the best ESP8266 board I\u0026#39;ve found.  I\u0026#39;ve bought several of them.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDs1ZTH3vLQAg"
+  }, {
+    "creationTime": "2016-12-13 22:31:11-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "Ok im gonna give them a try. Hopefully i dont burn one of them out like i did the NodeMCU lol",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCDsfS-3_LQAg"
+  }, {
+    "creationTime": "2016-12-16 21:01:28-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Many thanks to \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/105076277442225776356\" oid\u003d\"105076277442225776356\" \u003eChris Creel\u003c/a\u003e\u003c/span\u003e for noticing some errors on the Tree v2 page, which I\u0026#39;ve now fixed: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.evilgeniuslabs.org/tree-v2.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.evilgeniuslabs.org/tree-v2.html\u003c/a\u003e  I linked to the wrong capacitor, and there were a bunch of connections to 5V instead of ground in the Fritzing diagram.  Sorry if that caused any issues for you \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117248218984375176714\" oid\u003d\"117248218984375176714\" \u003eCharity Stolarz\u003c/a\u003e\u003c/span\u003e, or anyone else.  :(",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxD2m8-EkfrQAg"
+  }, {
+    "creationTime": "2016-12-16 21:06:20-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "Its all good brother! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDMpeWPkvrQAg"
+  }, {
+    "creationTime": "2016-12-16 21:06:34-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "Im still waiting on my boards lol",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxD62pmWkvrQAg"
+  }, {
+    "creationTime": "2016-12-20 22:36:57-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ how did you write your web app? Im wanting to write my own but dont know where to start",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDtzfvqrYTRAg"
+  }, {
+    "creationTime": "2016-12-20 23:30:07-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I\u0026#39;d start by learning the basics of client-side web development: HTML and JavaScript.  Here\u0026#39;s a basic tutorial to get you started: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.w3schools.com/js/\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.w3schools.com/js/\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCHlrvcuYTRAg"
+  }, {
+    "creationTime": "2016-12-21 05:30:13-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "Thanks! :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDa5_OaioXRAg"
+  }, {
+    "creationTime": "2016-12-21 14:47:14-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ hey man sorry to keep bugging you. I have a quick question with how your program works. Ive always used switch case to change patterns in my programs but that only allows me to change patterns in numerical order and thats not how your program is setup. What fuction did you use to choose what patterns are selected? Id like to learn more about it so i can make better programs.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDF36nbhobRAg"
+  }, {
+    "creationTime": "2016-12-21 15:07:30-0500",
+    "updateTime": "2016-12-21 15:08:09-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104232521683450572261\" oid\u003d\"104232521683450572261\" \u003eCristian Martinez\u003c/a\u003e\u003c/span\u003e no problem at all.  The other fine folks here have helped me learn so much in the last few years.  :)\u003cbr\u003e\u003cbr\u003eI use a method like the excellent DemoReel100 example: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/FastLED/FastLED/blob/master/examples/DemoReel100/DemoReel100.ino\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/FastLED/FastLED/blob/master/examples/DemoReel100/DemoReel100.ino\u003c/a\u003e  This allows you to change patterns on an interval, on user input (button, switch, dial, web, IR, etc), or any other means.\u003cbr\u003e\u003cbr\u003eI highly recommend reading through, trying out, and modifying this and all the other examples included with FastLED, Mark\u0026#39;s Gist (\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com/kriegsman\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com/kriegsman\u003c/a\u003e), etc.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxC-r5afi4bRAg"
+  }, {
+    "creationTime": "2016-12-21 15:13:04-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ Lol i actually took the DemoReel100 and added the patterns to a switch case to change patterns with a push button and used millis for timing. Never actually paid attention to how the demo changed patterns. Thanx for pointing that out for me! :) and yeah ill definitely try those out. Gonna give it a shot adding my own patterns since im wanting to use the web app for a snowflake. Already have the XYMap.h file written out. Youre a big help man. This is probably still my first year messing around with arduino boards.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxC4j4--jIbRAg"
+  }, {
+    "creationTime": "2016-12-21 17:29:39-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ i have an interesting question. I took your ESP8266 fastled webserver project. Downloaded it as a .zip file. Extracted the files. Removed master from the folder name and tried to compile it without any modifications and got an error message saying \u0026quot;patterns\u0026quot; was not declared. Im using Arduino 1.6.13",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxC_xoOCq4bRAg"
+  }, {
+    "creationTime": "2016-12-21 18:58:53-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "never mind on that i just tried again and it compiled just fine, weird",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDRk4X7vobRAg"
+  }, {
+    "creationTime": "2016-12-22 17:11:19-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Hey man i uploaded the program to my D1 mini pro and then uploaded the SPIFFS to the board but i cant get the app to open in my browser",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCk2Y_k6IjRAg"
+  }, {
+    "creationTime": "2016-12-22 23:04:35-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "it was working earlier but now it wont open it in the browser, should i try to upload the app to SPIFFS again?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCHvIfft4nRAg"
+  }, {
+    "creationTime": "2016-12-23 08:12:59-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104232521683450572261\" oid\u003d\"104232521683450572261\" \u003eCristian Martinez\u003c/a\u003e\u003c/span\u003e have you looked at the serial monitor, verified it\u0026#39;s connected to wifi, verified the IP address, checked Chrome Dev Tools network tab to make sure it\u0026#39;s responding, etc?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCDnfWosorRAg"
+  }, {
+    "creationTime": "2016-12-23 15:48:00-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ yes and it all looked right. I reuploaded the program to the board then the app to SPIFFS and checked the serial monitor. Waited for it to tell me to connect and it allowed me to pull up the app. Make a few changes and within 5 minutes the app stopped responding refreshed the page and it wouldnt pull it up anymore but the last pattern i selected kept playing on the board just fine so im really not sure whats happening?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDB5K-DmIvRAg"
+  }, {
+    "creationTime": "2016-12-25 17:44:39-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "Well this just happened. The right side stopped responding lol. But the webserver finally came back up. Not sure what happened. Its done it before it might start working again later but that just looks hilarious lol\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/PgjnjAFiNPPiom_c3g0UVtov2YC76AFm8kGLW_T265ZqxqqgWsCjPZqc9boDMxQd6bPi-S0YMA",
+      "contentType": "image/*",
+      "width": 500,
+      "height": 281,
+      "resourceName": "media/CixBRjFRaXBOZHFuNlg5WVhXVXlBUUw4d09JcjJITkRGbWs1RW8tSEhNM3RaUw\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCKvqLqtZDRAg"
+  }, {
+    "creationTime": "2016-12-25 18:51:40-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e im getting the following error on the serial monitor - \u003cbr\u003e\u003cbr\u003eHeap: 39944\u003cbr\u003eBoot Vers: 31\u003cbr\u003eCPU: 80\u003cbr\u003eSDK: 1.5.3(aec24ac9)\u003cbr\u003eChip ID: 1648786\u003cbr\u003eFlash ID: 1589487\u003cbr\u003eFlash Size: 16777216\u003cbr\u003eVcc: 65535\u003cbr\u003e\u003cbr\u003escandone\u003cbr\u003estate: 0 \u003cdel\u003e\u0026gt; 2 (b0)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003estate: 2 -\u0026gt; 2 (2a0)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eFS File: /css/styles.css, size: 229396\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eFS File: /favicon.ico, size: 4286\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eFS File: /fonts/glyphico.eot, size: 20127\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eFS File: /fonts/glyphico.svg, size: 108738\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eFS File: /fonts/glyphico.ttf, size: 45404\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eFS File: /fonts/glyphico.woff, size: 23424\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eFS File: /fonts/glyphico.woff2, size: 18028\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eFS File: /images/atom196.png, size: 5469\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eFS File: /index.htm, size: 5110\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eFS File: /js/scripts.js, size: 154332\u003c/del\u003e\u003cbr\u003e\u003cbr\u003e\u003cdel\u003eConnecting to MyCharterWiFi3e-2G\u003c/del\u003e\u003cbr\u003e\u003cdel\u003e.state: 2 -\u0026gt; 0 (2)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003ereconnect\u003c/del\u003e\u003cbr\u003e\u003cdel\u003ef 0, scandone\u003c/del\u003e\u003cbr\u003e\u003cdel\u003estate: 0 -\u0026gt; 2 (b0)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003estate: 2 -\u0026gt; 3 (0)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003estate: 3 -\u0026gt; 5 (10)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eadd 0\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eaid 7\u003c/del\u003e\u003cbr\u003e\u003cdel\u003ecnt \u003c/del\u003e\u003cbr\u003e\u003cdel\u003e...................state: 5 -\u0026gt; 2 (2c0)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003erm 0\u003c/del\u003e\u003cbr\u003e\u003cdel\u003estate: 2 -\u0026gt; 2 (7a0)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003e..reconnect\u003c/del\u003e\u003cbr\u003e\u003cdel\u003estate: 2 -\u0026gt; 0 (0)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003ef r0, scandone\u003c/del\u003e\u003cbr\u003e\u003cdel\u003estate: 0 -\u0026gt; 2 (b0)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003estate: 2 -\u0026gt; 3 (0)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003estate: 3 -\u0026gt; 5 (10)\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eadd 0\u003c/del\u003e\u003cbr\u003e\u003cdel\u003eaid 7\u003c/del\u003e\u003cbr\u003e\u003cdel\u003ecnt\u003c/del\u003e\u003cbr\u003e\u003cbr\u003e\u003cdel\u003e-------------------------------------\u003c/del\u003e\u003cbr\u003eany reason why? i mean i have the right login information for my WiFi network",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxCQys7nxJDRAg"
+  }, {
+    "creationTime": "2016-12-25 22:21:37-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104232521683450572261\" oid\u003d\"104232521683450572261\" \u003eCristian Martinez\u003c/a\u003e\u003c/span\u003e sorry, not sure. How far are you from your wifi access point/router?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDsrIbe85DRAg"
+  }, {
+    "creationTime": "2016-12-25 22:23:36-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "Im on the second floor right above it. My laptop and xbox are further and have no problem",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxDSxYOX9JDRAg"
+  }, {
+    "creationTime": "2017-02-27 13:21:30-0500",
+    "author": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    },
+    "content": "I made one of these back in December and still can\u0026#39;t take it down.  On those late night programming ventures I see this out of the corner of my eye and keep pushing on, true inspiration.  Amazing tree, thank you so much for sharing!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QzGu3HTQgXr",
+    "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC/comments/CiN6MTJzeWRnbzBrYnVocGg0ajA0Y2l0dzRleWZkY3RycjQybxC57Ziw8rDSAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgiPaWugEAyyMXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Mason Sanborn",
+      "profilePageUrl": "https://plus.google.com/118117474866685247786",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-n4StTZvlt1k/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWN9ve5ZjoVXxk3SgMu69Z1DhfOBw/s64-c/photo.jpg",
+      "resourceName": "users/118117474866685247786"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Michael Barrett",
+      "profilePageUrl": "https://plus.google.com/118269916799542240177",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-7QIuCWv-a9s/AAAAAAAAAAI/AAAAAAAANr4/W8WQSNy-tNU/s64-c/photo.jpg",
+      "resourceName": "users/118269916799542240177"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ed Lawrence",
+      "profilePageUrl": "https://plus.google.com/106884495581672932103",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-SQLzrxw-uYU/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVAh1m4Trmn21KFHhYRxIWrHXAx3A/s64-c/photo.jpg",
+      "resourceName": "users/106884495581672932103"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Charles Schmitt",
+      "profilePageUrl": "https://plus.google.com/109464289813565992532",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-un-BoeCIjeE/AAAAAAAAAAI/AAAAAAAACFw/9hq94v9Rfng/s64-c/photo.jpg",
+      "resourceName": "users/109464289813565992532"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James G.",
+      "profilePageUrl": "https://plus.google.com/114312362882399477330",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-EuJssl3FskQ/AAAAAAAAAAI/AAAAAAAADSE/Y6I8vOF2zpY/s64-c/photo.jpg",
+      "resourceName": "users/114312362882399477330"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ron Senykoff",
+      "profilePageUrl": "https://plus.google.com/+RonSenykoff",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Jgfw0qq72KA/AAAAAAAAAAI/AAAAAAAA0ho/kE-eGsZKB90/s64-c/photo.jpg",
+      "resourceName": "users/101896241175525147999"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nicola Croft",
+      "profilePageUrl": "https://plus.google.com/100042377497996776756",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-zuoonOP4SpY/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUL6ZKRRPlocwOBBfaoN7it06A2_g/s64-c/photo.jpg",
+      "resourceName": "users/100042377497996776756"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mario Wiegleb",
+      "profilePageUrl": "https://plus.google.com/111877398099696932439",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-wVdST4p6WNI/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWyAiS5SwNOlx5yYlk-x8Sg1JMLcw/s64-c/photo.jpg",
+      "resourceName": "users/111877398099696932439"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jonathan Lemoine",
+      "profilePageUrl": "https://plus.google.com/+JonathanLemoine",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-28Qgj_GeNcw/AAAAAAAAAAI/AAAAAAAApCM/14Ccwsc1Qss/s64-c/photo.jpg",
+      "resourceName": "users/108815773347874342399"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "arpan choudhury",
+      "profilePageUrl": "https://plus.google.com/108834522502450669797",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-FL9DpN3FQhA/AAAAAAAAAAI/AAAAAAAAAh4/FFg28t90g0A/s64-c/photo.jpg",
+      "resourceName": "users/108834522502450669797"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jasper Poppe",
+      "profilePageUrl": "https://plus.google.com/111925589669990547106",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-MnJMUJ5DorU/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUZSGlie-o1V1KXxi7dCEKsKNciHA/s64-c/photo.jpg",
+      "resourceName": "users/111925589669990547106"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "allanGEE",
+      "profilePageUrl": "https://plus.google.com/106033221351737716750",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-EuWdnfGn3VY/AAAAAAAAAAI/AAAAAAAAAJA/KA7-ipLAOZc/s64-c/photo.jpg",
+      "resourceName": "users/106033221351737716750"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jonas Vorwerk",
+      "profilePageUrl": "https://plus.google.com/106461657512143768817",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-bA8ZID1BAnM/AAAAAAAAAAI/AAAAAAAAADE/dquYyKber4c/s64-c/photo.jpg",
+      "resourceName": "users/106461657512143768817"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Simon Hermansen",
+      "profilePageUrl": "https://plus.google.com/100974243336906340371",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ao8HERIGX88/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUz8Wrk5SuaSIw6ec2ghuQ6NCNBcA/s64-c/photo.jpg",
+      "resourceName": "users/100974243336906340371"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Justin Onimus",
+      "profilePageUrl": "https://plus.google.com/112073438417733391086",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-TdUuuzv1B2I/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXbpXXqJ5vJSvuAkkP4bAs3Ha5CXQ/s64-c/photo.jpg",
+      "resourceName": "users/112073438417733391086"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "alireza abdiyan",
+      "profilePageUrl": "https://plus.google.com/103598531290170183719",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TC_hB0pAxrE/AAAAAAAAAAI/AAAAAAAABnw/05LG3Z0Q4uU/s64-c/photo.jpg",
+      "resourceName": "users/103598531290170183719"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Jozefiak",
+      "profilePageUrl": "https://plus.google.com/+MarkJozefiak",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-SjqD0_qeoD8/AAAAAAAAAAI/AAAAAAACHlY/XWsvgKKfpHY/s64-c/photo.jpg",
+      "resourceName": "users/106490224318624380967"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Terrance Clayton",
+      "profilePageUrl": "https://plus.google.com/+TerranceClayton",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-7qvN9zNJffs/AAAAAAAAAAI/AAAAAAAAJX8/oJSUoOLxoJk/s64-c/photo.jpg",
+      "resourceName": "users/100305959087284089227"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tomas Olah",
+      "profilePageUrl": "https://plus.google.com/112516237716472234332",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-K22tiBqfA6Y/AAAAAAAAAAI/AAAAAAAATdY/xgC1T-QVVJs/s64-c/photo.jpg",
+      "resourceName": "users/112516237716472234332"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tim Lukasik",
+      "profilePageUrl": "https://plus.google.com/100542328320334100166",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-4Kskcwha5a8/AAAAAAAAAAI/AAAAAAABpB0/nzdKSaBilNs/s64-c/photo.jpg",
+      "resourceName": "users/100542328320334100166"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Roger Guess",
+      "profilePageUrl": "https://plus.google.com/104147776173934362280",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-QMC2VcZKn7o/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWvi3pGi3mvC0kLx7JtVbs0hlUlzw/s64-c/photo.jpg",
+      "resourceName": "users/104147776173934362280"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Rinke",
+      "profilePageUrl": "https://plus.google.com/+StefanRinke",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Mjyrd-LWm4E/AAAAAAAAAAI/AAAAAAAAAs0/ir2iNqVNyYc/s64-c/photo.jpg",
+      "resourceName": "users/107906012431034553445"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Saso Dzuljo Petrovski",
+      "profilePageUrl": "https://plus.google.com/+SasoDzuljoPetrovski",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-hMLitk7Sny0/AAAAAAAAAAI/AAAAAAAAekA/uAuOWYtiHMc/s64-c/photo.jpg",
+      "resourceName": "users/109421065405097980189"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brian van vlymen",
+      "profilePageUrl": "https://plus.google.com/+Brianvanvlymen",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-T9VcHE6ihfE/AAAAAAAAAAI/AAAAAAAAhV0/b8OK6gHosMI/s64-c/photo.jpg",
+      "resourceName": "users/102962316948693360023"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Amelia T",
+      "profilePageUrl": "https://plus.google.com/+AmeliaT",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-SQRXif2E3Jo/AAAAAAAAAAI/AAAAAAAAARM/MqKCACGJWfo/s64-c/photo.jpg",
+      "resourceName": "users/110193816007223216283"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ezio Perinot",
+      "profilePageUrl": "https://plus.google.com/105609192361870272609",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-vX7NMCA-dN0/AAAAAAAAAAI/AAAAAAAAAas/Z4ZE5YfMj3A/s64-c/photo.jpg",
+      "resourceName": "users/105609192361870272609"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christian Eaton",
+      "profilePageUrl": "https://plus.google.com/103444591588894282321",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-S4-2DsUkfgY/AAAAAAAAAAI/AAAAAAAAAG0/dIiqeJcMjZw/s64-c/photo.jpg",
+      "resourceName": "users/103444591588894282321"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Matthijs Neppelenbroek",
+      "profilePageUrl": "https://plus.google.com/115541976021399726257",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-RYOzmaTX2cA/AAAAAAAAAAI/AAAAAAAAc-s/m8V3Hw1bEa8/s64-c/photo.jpg",
+      "resourceName": "users/115541976021399726257"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NBqJ3BQopJo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUjZtH-NDpU8Y--VLfH8gc42O891A/s64-c/photo.jpg",
+      "resourceName": "users/112392188627004225254"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dushyant Ahuja",
+      "profilePageUrl": "https://plus.google.com/+DushyantAhuja",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-sva8lHLHSMA/AAAAAAAAAAI/AAAAAAAAuKE/S0J3fcd1EFQ/s64-c/photo.jpg",
+      "resourceName": "users/102046189032208678773"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mike Katchmar",
+      "profilePageUrl": "https://plus.google.com/109651986377400054686",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-0vBXNh_IPf0/AAAAAAAAAAI/AAAAAAAADQ0/ttIgsw7WIeY/s64-c/photo.jpg",
+      "resourceName": "users/109651986377400054686"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chad Eby",
+      "profilePageUrl": "https://plus.google.com/103032700739943796663",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-T6lGtCnWsak/AAAAAAAAAAI/AAAAAAAAAcE/V2QqRS0dHAI/s64-c/photo.jpg",
+      "resourceName": "users/103032700739943796663"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Rich Plakas",
+      "profilePageUrl": "https://plus.google.com/+RichPlakas",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-N0lLaCqQrGE/AAAAAAAAAAI/AAAAAAABhi0/rfNpRo9jgF4/s64-c/photo.jpg",
+      "resourceName": "users/105527688378437478949"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/101332413535253547436",
+        "displayName": "Thomas Runge"
+      }, {
+        "resourceName": "users/117248218984375176714",
+        "displayName": "Charity Stolarz"
+      }, {
+        "resourceName": "users/111806709733848631416",
+        "displayName": "Marko S"
+      }, {
+        "resourceName": "users/104244816294991900225",
+        "displayName": "dave windsor"
+      }, {
+        "resourceName": "users/104232521683450572261",
+        "displayName": "Cristian Martinez"
+      }, {
+        "resourceName": "users/104280782569289072986",
+        "displayName": "Brian Lewis"
+      }, {
+        "resourceName": "users/105076277442225776356",
+        "displayName": "Chris Creel"
+      }]
+    }
+  }
+}

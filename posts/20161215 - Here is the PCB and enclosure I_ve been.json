@@ -1,0 +1,540 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/WjojSLJS3ij",
+  "creationTime": "2016-12-15 21:31:32-0500",
+  "updateTime": "2016-12-29 17:27:29-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Here is the PCB and enclosure I\u0026#39;ve been working on for the Wemos D1 Mini \u0026amp; Pro.  It\u0026#39;s all THT (through-hole soldering), no SMD (tiny surface mount).  It brings out all the pins, and runs D5 - D8 through a level shifter.  It should support four parallel sets of three wire LEDs (WS281x), or two sets of four wire  LEDs (APA102).  It also includes a spot for a large 1000uF capacitor, IR receiver, and data/clock line resistors.  I\u0026#39;ve tested it out pretty thoroughly.  One is currently running my 250 LED tree.\u003cbr\u003e\u003cbr\u003eI have two spare PCBs (can order more), and I\u0026#39;m waiting on a shipment from Wemos (should be in any day now).  Would anyone be interested?  Just the PCB?  Enclosure?  Full kit?  Fully assembled?  Let me know if you\u0026#39;re interested, or if you have any questions, comments, suggestions, etc in the comments.  Thanks!\u003cbr\u003e\u003cbr\u003eMore pics, with details in the comments: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/8b7nrKiCQwB8vZGbA\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/8b7nrKiCQwB8vZGbA\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003eUpdate\u003c/b\u003e The board and enclosure are now available on Tindie: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.tindie.com/products/jasoncoon/wemos-d1-mini-esp8266-led-and-level-shifter-shield\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.tindie.com/products/jasoncoon/wemos-d1-mini-esp8266-led-and-level-shifter-shield\u003c/a\u003e",
+  "album": {
+    "media": [{
+      "url": "https://lh3.googleusercontent.com/-iqRhZHsCx5o/WFNSBF99PSI/AAAAAAACHBU/hs9R9X0nWqogNI7VNEatkm0LzmT9dN84gCJoC/w200-h190/Wemos%2BD1%2BMini%2BPro%2BLED%2BBreakout%2Bv2.png",
+      "contentType": "image/*",
+      "width": 200,
+      "height": 190,
+      "resourceName": "media/CixBRjFRaXBNa1Z4SlExT0hORThEWkxmUF95WU1XN05VSU1ES1pTWmZMcUd6MA\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-EBL18aoELQA/WFNSBAl4CaI/AAAAAAACHBU/DnKKZ3CXor8InssDgztewJq22Xe5YWmTwCJoC/w1632-h928/Wemos%2BD1%2BMini%2BPro%2BLED%2BBreakout%2BEnclosure%2B%2526%2BLid.jpg",
+      "contentType": "image/*",
+      "width": 1632,
+      "height": 928,
+      "resourceName": "media/CixBRjFRaXBQelo5N0Z3MFJPR09qZ0RuNFZPOU4yV3NyT0txLVYwWVVQMkhqZw\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-ORlClNoLw6s/WFNSBM62-AI/AAAAAAACHBU/788EZpVcEeMwjgO7bOxG-eb32gdLKBrHQCJoC/w4032-h3024/IMG_20161215_202542.jpg",
+      "contentType": "image/*",
+      "width": 4032,
+      "height": 3024,
+      "resourceName": "media/CixBRjFRaXBQbVI5blh2Q0pETlo0WUM0XzZsZ1VvX1JnT0VWblJXYU5IdW9QaA\u003d\u003d"
+    }]
+  },
+  "comments": [{
+    "creationTime": "2016-12-15 22:44:47-0500",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "Awesome stuff. I am very interested in the PCB and enclosure. I have a couple D1s and many level shifters. I was about to (and probably still will) solder one up myself, but this form factor is perfect. Out of curiosity, do you know of the top of your head what pins I should use for 2 sets of 4 wire chipsets? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxCO-9eh5vfQAg"
+  }, {
+    "creationTime": "2016-12-15 22:46:47-0500",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "Ha, should have looked at the pinout on the bottom in the photos before asking the questions about which pins. Even in photos that PCB is helping me out. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxDnkeLa5vfQAg"
+  }, {
+    "creationTime": "2016-12-15 23:03:35-0500",
+    "author": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    },
+    "content": "Looks like it would be very helpful and much cleaner than what I usually end up with. I\u0026#39;d be interested in both. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxCx8NK76vfQAg"
+  }, {
+    "creationTime": "2016-12-15 23:31:43-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, guys!  I\u0026#39;ll try to figure up the cost/price and let you know.  What about the enclosure color?  Is white alright?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxC077fg8PfQAg"
+  }, {
+    "creationTime": "2016-12-15 23:42:07-0500",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e the color does not matter at all if white is easiest, but orange is my jam. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxD_24iK8_fQAg"
+  }, {
+    "creationTime": "2016-12-16 02:10:14-0500",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "Wow amazing cant wait to find out cost and colour as said doesn\u0026#39;t matter the colour ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxD6pMeXlPjQAg"
+  }, {
+    "creationTime": "2016-12-16 02:11:31-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "I sell loads of WeMos stuff on eBay here in the UK, would you be interested in a licensing deal of some kind?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxDp3K28lPjQAg"
+  }, {
+    "creationTime": "2016-12-16 02:42:31-0500",
+    "author": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    },
+    "content": "I got a few Wemos D1 a week ago and they are running 100 APA102 quite nice without a level shifter. Is a level shifter really needed? Any experiences?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxDTlKCzm_jQAg"
+  }, {
+    "creationTime": "2016-12-16 05:29:11-0500",
+    "author": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/101332413535253547436\" oid\u003d\"101332413535253547436\" \u003eThomas Runge\u003c/a\u003e\u003c/span\u003e if you want to drive the APA102 at high frequencies, you absouletely need a voltage level shifter or will need to conect a mull.pixel close to the d1\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxDKwrXTwPjQAg"
+  }, {
+    "creationTime": "2016-12-16 05:30:48-0500",
+    "author": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e This is great Jason, can i ask what is the maximum frequency that those level shifters can take?? I have started using simple AND gates for high speed shifting with great results. This enclosure is an awesome idea, i build many similar ones(but nastier looking) for all my projects.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxDhsvKBwfjQAg"
+  }, {
+    "creationTime": "2016-12-16 06:32:19-0500",
+    "author": {
+      "displayName": "Gareth Jones",
+      "profilePageUrl": "https://plus.google.com/+GarethJonessportsnapper",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Qfdwj-sMcq4/AAAAAAAAAAI/AAAAAAAABBg/nKGHUb2DQX0/s64-c/photo.jpg",
+      "resourceName": "users/117106852251146484153"
+    },
+    "content": "Looks rather good. Being able to get the boards in the UK would be even better. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxCczd3hzvjQAg"
+  }, {
+    "creationTime": "2016-12-16 07:25:56-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102639486677013343669\" oid\u003d\"102639486677013343669\" \u003eLeon Yuhanov\u003c/a\u003e\u003c/span\u003e​, I run the SMD version of the same shifter at 24mhz with APA102s with good results. I\u0026#39;ve not tried to go faster.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxCMsIjg2vjQAg"
+  }, {
+    "creationTime": "2016-12-16 10:05:07-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks again, everyone!  I just ordered more boards, but they usually take a few weeks to come in.  If anyone would like one, PM me, or use the contact form here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://evilgeniuslabs.org/contact\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://evilgeniuslabs.org/contact\u003c/a\u003e  Eventually I\u0026#39;ll get them on Tindie.\u003cbr\u003e\u003cbr\u003eYour feedback on price is most welcome.  I think I\u0026#39;ll need around $8 for the PCB, $8 for the enclosure, $30 for a full kit (PCB, enclosure, Wemos, level shifter, and all the parts).  All those prices are without shipping, of course.\u003cbr\u003e\u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e definitely!  Send me a PM, or use the contact link above.\u003cbr\u003e\u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102639486677013343669\" oid\u003d\"102639486677013343669\" \u003eLeon Yuhanov\u003c/a\u003e\u003c/span\u003e, I haven\u0026#39;t measured yet, and honestly don\u0026#39;t have a scope or analyzer capable of measuring it with.  The 74HCT245 is the most highly recommended shifter here.  Can I ship you one and get your feedback?  PM me or use the contact link above if you\u0026#39;re interested.\u003cbr\u003e\u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/101332413535253547436\" oid\u003d\"101332413535253547436\" \u003eThomas Runge\u003c/a\u003e\u003c/span\u003e, what Leon said.  I\u0026#39;ve also had lots of great experiences without level shifters, but sometimes I\u0026#39;ve been completely unable to get an installation working without one.  You don\u0026#39;t need one until you do.  :)\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxCd0fOp_vjQAg"
+  }, {
+    "creationTime": "2016-12-16 11:11:15-0500",
+    "author": {
+      "displayName": "Stefan Le Breton",
+      "profilePageUrl": "https://plus.google.com/107147994736583550641",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-aCV0yhrHecI/AAAAAAAAAAI/AAAAAAAAnpY/iMO_TIkng2c/s64-c/photo.jpg",
+      "resourceName": "users/107147994736583550641"
+    },
+    "content": "I would take 5 pcbs.. but shipment to germany seems to be quite expensive :/",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxDlo_2NjfnQAg"
+  }, {
+    "creationTime": "2016-12-16 11:32:42-0500",
+    "author": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107147994736583550641\" oid\u003d\"107147994736583550641\" \u003eStefan Le Breton\u003c/a\u003e\u003c/span\u003e : why not sending the layout to \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://dirtypcbs.com\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003edirtypcbs.com\u003c/a\u003e? Could be faster and maybe cheaper.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxC2__vzkfnQAg"
+  }, {
+    "creationTime": "2016-12-16 12:00:32-0500",
+    "author": {
+      "displayName": "Stuart Taylor",
+      "profilePageUrl": "https://plus.google.com/+StuartTaylorEsquire",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-1o8DVHoVssI/AAAAAAAAAAI/AAAAAAAAAzs/hKSNdcgBEP0/s64-c/photo.jpg",
+      "resourceName": "users/114324245599374478371"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107147994736583550641\" oid\u003d\"107147994736583550641\" \u003eStefan Le Breton\u003c/a\u003e\u003c/span\u003e​ take a look at borderlinx. Its made my shipping from USA and China more palatable.\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxC07qaQmPnQAg"
+  }, {
+    "creationTime": "2016-12-16 12:09:24-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107147994736583550641\" oid\u003d\"107147994736583550641\" \u003eStefan Le Breton\u003c/a\u003e\u003c/span\u003e, \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117106852251146484153\" oid\u003d\"117106852251146484153\" \u003eGareth Jones\u003c/a\u003e\u003c/span\u003e, and anyone else interested in just the PCB: send me a PM and I think I can have them shipped directly to you with free but slow shipping.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxDNi-mNmvnQAg"
+  }, {
+    "creationTime": "2016-12-16 13:03:43-0500",
+    "author": {
+      "displayName": "yosef18",
+      "profilePageUrl": "https://plus.google.com/106017539039239737739",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-UIH6MzQrP2I/AAAAAAAAAAI/AAAAAAAAACw/sAhkT7XWHKo/s64-c/photo.jpg",
+      "resourceName": "users/106017539039239737739"
+    },
+    "content": "Hi Jason, is a very nice job ! what you use to design ? i wish to design too, but my tools are not good\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxCU3t2fpvnQAg"
+  }, {
+    "creationTime": "2016-12-16 14:03:28-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106017539039239737739\" oid\u003d\"106017539039239737739\" \u003eyosef18\u003c/a\u003e\u003c/span\u003e Thanks!  I\u0026#39;ve used KiCad and Eagle for PCBs, Sketchup and Fusion 360 for 3D design/printing.  What are you using?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxC6rMHNs_nQAg"
+  }, {
+    "creationTime": "2016-12-16 16:31:21-0500",
+    "author": {
+      "displayName": "Tommy Sciano",
+      "profilePageUrl": "https://plus.google.com/+TommySciano",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-s-ZtjTbmA2M/AAAAAAAAAAI/AAAAAAAAFrA/dE8qUsA2t_k/s64-c/photo.jpg",
+      "resourceName": "users/100424731209524235577"
+    },
+    "content": "this is awesome\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxChiZPU1PnQAg"
+  }, {
+    "creationTime": "2016-12-17 14:18:59-0500",
+    "author": {
+      "displayName": "Lyoson Lenus",
+      "profilePageUrl": "https://plus.google.com/113995260145773476327",
+      "resourceName": "users/113995260145773476327"
+    },
+    "content": "Wow nice work, i might be interrested in ! What trace width did you use to support the current (how much can it support actually) ? And what power supply do you use ? Thanks for the clarifications, that\u0026#39;s an awesome job\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxCphIb4-PvQAg"
+  }, {
+    "creationTime": "2016-12-17 14:32:31-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113995260145773476327\" oid\u003d\"113995260145773476327\" \u003eLyoson Lenus\u003c/a\u003e\u003c/span\u003e Thanks!  The traces are only .6.  I don\u0026#39;t actually feed power for the strips through the board.  The power and ground connectors on the bottom are actually meant to power the board from the strips, so current flowing through the traces should be minimal.  For larger installations, I use splitters to inject power at regular intervals along the strip/string.  Does that make sense and answer your question?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxCQzKD7-_vQAg"
+  }, {
+    "creationTime": "2016-12-17 16:51:10-0500",
+    "author": {
+      "displayName": "Lyoson Lenus",
+      "profilePageUrl": "https://plus.google.com/113995260145773476327",
+      "resourceName": "users/113995260145773476327"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Ok i understand, thank you for your anwser, i will keep you updated for the order ;)\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxC1ou35mvzQAg"
+  }, {
+    "creationTime": "2016-12-17 21:01:46-0500",
+    "author": {
+      "displayName": "yosef18",
+      "profilePageUrl": "https://plus.google.com/106017539039239737739",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-UIH6MzQrP2I/AAAAAAAAAAI/AAAAAAAAACw/sAhkT7XWHKo/s64-c/photo.jpg",
+      "resourceName": "users/106017539039239737739"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Kicad \u0026amp; fusion too, i consider you a Good Genius ! i wish a partner like you in near future, i\u0026#39;m starting a business of IOT, and you will be very welcome",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxDz4Ob70vzQAg"
+  }, {
+    "creationTime": "2016-12-22 00:41:05-0500",
+    "author": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    },
+    "content": "Thank you",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxChjJO5i4fRAg"
+  }, {
+    "creationTime": "2016-12-29 17:31:31-0500",
+    "updateTime": "2017-05-28 16:22:47-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cb\u003eUpdate\u003c/b\u003e: now available on Tindie: \u003cbr\u003e\u003cbr\u003eI have 8 PCBs and two enclosures available to ship immediately.  Right now I only have shipping rates on Tindie for US \u0026amp; Canada.  If you\u0026#39;re elsewhere or you want to save on shipping and don\u0026#39;t mind waiting, PM me and I can have them shipped directly from the manufacturer anywhere in the world for free.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "link": {
+      "title": "Wemos D1 Mini ESP8266 LED \u0026 Level Shifter Shield",
+      "url": "https://www.tindie.com/products/jasoncoon/wemos-d1-mini-esp8266-led-and-level-shifter-shield",
+      "imageUrl": "https://d3s5r33r268y59.cloudfront.net/13194/products/thumbs/2016-12-28T15:26:32.289Z-IMG_20161228_092037.jpg.855x570_q85_pad_rcrop.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxDp85utuprRAg"
+  }, {
+    "creationTime": "2017-05-28 16:21:11-0400",
+    "updateTime": "2017-05-28 16:22:38-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cb\u003eUpdate\u003c/b\u003e: a smaller version of the shield is now available on Tindie: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.tindie.com/products/edit/wemos-d1-mini-esp8266-level-shifter-mini-shield/\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.tindie.com/products/edit/wemos-d1-mini-esp8266-level-shifter-mini-shield/\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eThis version uses the smaller, four channel 74HCT125 level shifter, and still has spots for a small decoupling capacitor and resistors, but does not have space for the large 1000uF capacitor.  This one is the same size as other Wemos D1 Mini ESP8266 shields, like the OLED one.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/rTPr6dZ7Yfe1rUAhaJZlBsPjuZRA0epVBjCDC2R-bRNSkiL1ZeWrWdybbUyEmP8THc6Yr9KL0Yw",
+      "contentType": "image/*",
+      "width": 2637,
+      "height": 1978,
+      "resourceName": "media/CixBRjFRaXBPbU55aXBqQlZ4VkJEc2RMUTEwRVo2LVZwZGZxZzJRMGM2UWlZQg\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxC4nIn-tJPUAg"
+  }, {
+    "creationTime": "2017-05-28 21:25:49-0400",
+    "author": {
+      "displayName": "yosef18",
+      "profilePageUrl": "https://plus.google.com/106017539039239737739",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-UIH6MzQrP2I/AAAAAAAAAAI/AAAAAAAAACw/sAhkT7XWHKo/s64-c/photo.jpg",
+      "resourceName": "users/106017539039239737739"
+    },
+    "content": "Hi Jason, this is with hct125 instead 245 ? why you changed ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxDWvq6J-ZPUAg"
+  }, {
+    "creationTime": "2017-05-28 21:40:24-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106017539039239737739\" oid\u003d\"106017539039239737739\" \u003eyosef18\u003c/a\u003e\u003c/span\u003e yeah, using the four channel SN74HCT125N, which is the same family as the eight channel SN74HCT245N used in the bigger shield.  Don\u0026#39;t need the extra channels, and it\u0026#39;s smaller.  Even then, it\u0026#39;s a tight fit.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/WjojSLJS3ij",
+    "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC/comments/CiN6MTNlY3IzZ2l1MmR2M3RobDA0Y2l0dzRleWZkY3RycjQybxCalcuq_JPUAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgixysSdAcNF1HgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "OSH Park",
+      "profilePageUrl": "https://plus.google.com/+Oshpark",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-QxgixVgbVCc/AAAAAAAAAAI/AAAAAAAAADk/aCTRH95MeRw/s64-c/photo.jpg",
+      "resourceName": "users/100779964808096572793"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Camiel van Es",
+      "profilePageUrl": "https://plus.google.com/107031462447702436054",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-mFInIXb0Rcs/AAAAAAAAAAI/AAAAAAAANBg/xtgtYZwsadk/s64-c/photo.jpg",
+      "resourceName": "users/107031462447702436054"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Timo Lejeune",
+      "profilePageUrl": "https://plus.google.com/+TimoLejeune",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-kfje8M3CGCA/AAAAAAAAAAI/AAAAAAAAAj0/ch8Hv9KfGu4/s64-c/photo.jpg",
+      "resourceName": "users/102552750233682937009"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Magne Strige",
+      "profilePageUrl": "https://plus.google.com/108880817054983726243",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-f9JYaUtlWEs/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUXrdFU2e1cfwHB34s-39jeq7BOOg/s64-c/photo.jpg",
+      "resourceName": "users/108880817054983726243"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Le Breton",
+      "profilePageUrl": "https://plus.google.com/107147994736583550641",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-aCV0yhrHecI/AAAAAAAAAAI/AAAAAAAAnpY/iMO_TIkng2c/s64-c/photo.jpg",
+      "resourceName": "users/107147994736583550641"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tommy Sciano",
+      "profilePageUrl": "https://plus.google.com/+TommySciano",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-s-ZtjTbmA2M/AAAAAAAAAAI/AAAAAAAAFrA/dE8qUsA2t_k/s64-c/photo.jpg",
+      "resourceName": "users/100424731209524235577"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Serafin Tirado",
+      "profilePageUrl": "https://plus.google.com/114084595825764126438",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-P17zuxj6SHM/AAAAAAAAAAI/AAAAAAAAHEI/Kl9PngdwzsQ/s64-c/photo.jpg",
+      "resourceName": "users/114084595825764126438"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Michael Albert",
+      "profilePageUrl": "https://plus.google.com/102788818465614419399",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-_EZM2M412iQ/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVKM4O1bHYTEDEjv6P1OhJLix3FdA/s64-c/photo.jpg",
+      "resourceName": "users/102788818465614419399"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jesus Climent",
+      "profilePageUrl": "https://plus.google.com/+JesusCliment",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-vrvmXxGC2Lo/AAAAAAAAAAI/AAAAAAAAEYM/e1VyKf901oI/s64-c/photo.jpg",
+      "resourceName": "users/115333106814663615671"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dan McDougall",
+      "profilePageUrl": "https://plus.google.com/+DanMcDougall",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-kAfb1NlIDRA/AAAAAAAAAAI/AAAAAAAATF4/EzSUhj1oNq8/s64-c/photo.jpg",
+      "resourceName": "users/108158236112651581131"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ben Delarre",
+      "profilePageUrl": "https://plus.google.com/114825475221343681660",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-u-Clg04Svvg/AAAAAAAAAAI/AAAAAAAAAI0/-ImKmP5IfOU/s64-c/photo.jpg",
+      "resourceName": "users/114825475221343681660"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/107147994736583550641",
+        "displayName": "Stefan Le Breton"
+      }, {
+        "resourceName": "users/106017539039239737739",
+        "displayName": "yosef18"
+      }, {
+        "resourceName": "users/102639486677013343669",
+        "displayName": "Leon Yuhanov"
+      }, {
+        "resourceName": "users/101332413535253547436",
+        "displayName": "Thomas Runge"
+      }, {
+        "resourceName": "users/116805483424237205778",
+        "displayName": "Jeremy Spencer"
+      }, {
+        "resourceName": "users/113995260145773476327",
+        "displayName": "Lyoson Lenus"
+      }, {
+        "resourceName": "users/117106852251146484153",
+        "displayName": "Gareth Jones"
+      }]
+    }
+  }
+}

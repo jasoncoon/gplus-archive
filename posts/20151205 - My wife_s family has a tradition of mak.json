@@ -1,0 +1,98 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/cPDvLZjjvVC",
+  "creationTime": "2015-12-05 15:38:18-0500",
+  "updateTime": "2015-12-05 15:38:18-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "My wife\u0026#39;s family has a tradition of making jewelry trees.  My daughter and her grandparents made one, and I helped add a little color to it.\u003cbr\u003e\u003cbr\u003eBuilt with 30 8mm WS2811 RGB LEDs, a Teensy 3.1, the FastLED library, and an infrared receiver and remote control.\u003cbr\u003e\u003cbr\u003eBuild pics and details (click the info button on the pics): \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://photos.google.com/album/AF1QipMp3wwAzU9HrsRP40a0yCmx8zOzwEGdoiVD8cCB\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://photos.google.com/album/AF1QipMp3wwAzU9HrsRP40a0yCmx8zOzwEGdoiVD8cCB\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eSource code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/jewelrytree-teensy-ir\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/jewelrytree-teensy-ir\u003c/a\u003e",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dWQbUC53BRLU",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "My wife\u0027s family has a tradition of making jewelry trees. My daughter and her grandparents made one, and I wired it up with individually-addressable RGB LEDs...",
+    "resourceName": "media/EgtXUWJVQzUzQlJMVQ\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2015-12-05 16:08:04-0500",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "What a cool idea.  Lighting is an excellent addition.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/cPDvLZjjvVC",
+    "resourceName": "users/103867089694409269471/posts/UgjTisL34YR5R3gCoAEC/comments/CiN6MTMzejU0Z2d6dmpmMWxpbjA0Y2l0dzRleWZkY3RycjQybxCG5fKo0MXJAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgjTisL34YR5R3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Nail ENVY",
+      "profilePageUrl": "https://plus.google.com/109048588330518029928",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-R7HWKoXqVJg/AAAAAAAAAAI/AAAAAAAAALA/MFDpIshuZEs/s64-c/photo.jpg",
+      "resourceName": "users/109048588330518029928"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Bastien Buchaca",
+      "profilePageUrl": "https://plus.google.com/109059703956807158404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/--lzd52DxWA0/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DV_pYS_Yb0LB31I4nSQ_G6UdC9jJA/s64-c/photo.jpg",
+      "resourceName": "users/109059703956807158404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Adam bluebottleyellowboxyellyfish",
+      "profilePageUrl": "https://plus.google.com/107742111066361257243",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-qaRE2xXv5Ro/AAAAAAAAAAI/AAAAAAAAABg/sIYg1QxLdtI/s64-c/photo.jpg",
+      "resourceName": "users/107742111066361257243"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "kalill nieto",
+      "profilePageUrl": "https://plus.google.com/101869332960723694269",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-HGxIkKIFghE/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXtDQZ_suvFu_34T0ce3NwmVIKOJw/s64-c/photo.jpg",
+      "resourceName": "users/101869332960723694269"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Hanaa Zahraa",
+      "profilePageUrl": "https://plus.google.com/101768146544872010335",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-D3fuZuMMSTA/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVIKj_HcNU303pFpeOAn8RwleHkng/s64-c/photo.jpg",
+      "resourceName": "users/101768146544872010335"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

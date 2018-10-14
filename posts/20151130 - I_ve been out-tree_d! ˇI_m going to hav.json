@@ -1,0 +1,163 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/Dhbm4dcY153",
+  "creationTime": "2015-11-30 18:39:18-0500",
+  "updateTime": "2015-11-30 18:39:18-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I\u0026#39;ve been out-tree\u0026#39;d!  I\u0026#39;m going to have to step up my game next year.  :)",
+  "resharedPost": {
+    "url": "https://plus.google.com/+Maniacallabs/posts/LcFwUQotB4e",
+    "author": {
+      "displayName": "Maniacal Labs LLC",
+      "profilePageUrl": "https://plus.google.com/+Maniacallabs",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-llIYIlsvD40/AAAAAAAAAAI/AAAAAAAAAIU/xPhQnJXxIFc/s64-c/photo.jpg",
+      "resourceName": "users/104486391541517922016"
+    },
+    "content": "Christmas Tree Light-Show with AllPixel, BiblioPixel, and PixelWeb\u003cbr\u003e\u003cbr\u003eEver since working on the Adafruit APA102 Disk, it seemed the next logical step was to apply the same idea to a Christmas tree. So, last year after all the holidays, when everything was on sale, I picked up a 7 foot tall white artificial tree. Green would…",
+    "link": {
+      "title": "Christmas Tree Light-Show with AllPixel, BiblioPixel, and PixelWeb",
+      "url": "http://maniacallabs.com/2015/11/17/christmas-tree-light-show-with-allpixel-bibliopixel-and-pixelweb/",
+      "imageUrl": "http://img.youtube.com/vi/Tisn1DXV-RQ/0.jpg"
+    },
+    "resourceName": "users/104486391541517922016/posts/Ugh1OlhOYR3sM3gCoAEC"
+  },
+  "comments": [{
+    "creationTime": "2015-11-30 18:45:45-0500",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "Wowser! What an awesome display.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Dhbm4dcY153",
+    "resourceName": "users/103867089694409269471/posts/UghL7aLuTK9iMngCoAEC/comments/CiF6MTJ0Z2RqajV3bml5bHhtZjIzcWoxMnJtdWVhaHh0MHAQ5pTbnqq5yQI"
+  }, {
+    "creationTime": "2015-11-30 18:47:38-0500",
+    "updateTime": "2015-11-30 19:45:12-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yeah, it\u0026#39;s a string of 350 8mm WS2811.  He did a fantastic job with the mapping.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Dhbm4dcY153",
+    "resourceName": "users/103867089694409269471/posts/UghL7aLuTK9iMngCoAEC/comments/CiF6MTJ0Z2RqajV3bml5bHhtZjIzcWoxMnJtdWVhaHh0MHAQls2T1Kq5yQI"
+  }, {
+    "creationTime": "2015-11-30 21:37:14-0500",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, thanks for that link !!\u003cbr\u003eIt is very very close to what I need to do for my own tree...    will definitely assimilate that LEDcircle class !\u003cbr\u003eHowever, I see that all the 350 LEDs in his tree are physically laid out in a single cone shape.\u003cbr\u003eIn my case the LEDs are not just on the surface of the tree but also inside as well. I could describe it as a number of cones stacked up on top of each other, kinda like them Russian dolls !\u003cbr\u003eStill it is an impressive set of animations that I hope to reproduce before Xmas !",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Dhbm4dcY153",
+    "resourceName": "users/103867089694409269471/posts/UghL7aLuTK9iMngCoAEC/comments/CiF6MTJ0Z2RqajV3bml5bHhtZjIzcWoxMnJtdWVhaHh0MHAQsqi8yNC5yQI"
+  }, {
+    "creationTime": "2015-12-01 10:30:25-0500",
+    "updateTime": "2015-12-01 13:19:58-0500",
+    "author": {
+      "displayName": "Stéphane FRANÇOIS",
+      "profilePageUrl": "https://plus.google.com/117492528749609965529",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-FwD03RqrWEo/AAAAAAAAAAI/AAAAAAAAAfU/Ciw3_477f7c/s64-c/photo.jpg",
+      "resourceName": "users/117492528749609965529"
+    },
+    "content": "Grrr... He did it faster than me. That\u0026#39;s my plan too this year. Just received some extra WS2811 8mm strings and 50 PL9823 F5 for my star coz last year I miserably failed using the WS2812B 144Leds/m strip. It was way too tight between the sections of the strings to make the star shape.\u003cbr\u003e\u003cbr\u003eThe cool thing using polar coordinates is you can also use the tree as a led matrix if you get enough columns / rows. It allows to show some simple icons, text scrollers and so so on...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Dhbm4dcY153",
+    "resourceName": "users/103867089694409269471/posts/UghL7aLuTK9iMngCoAEC/comments/CiF6MTJ0Z2RqajV3bml5bHhtZjIzcWoxMnJtdWVhaHh0MHAQjMS9sf26yQI"
+  }, {
+    "creationTime": "2015-12-03 08:22:36-0500",
+    "author": {
+      "displayName": "Adam Haile",
+      "profilePageUrl": "https://plus.google.com/+AdamHaile",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-MkVshugzZlQ/AAAAAAAAAAI/AAAAAAAAKq8/o6tZfMzDkBM/s64-c/photo.jpg",
+      "resourceName": "users/118014254683938675401"
+    },
+    "content": "Thanks! Only reason I beat people to it is because I set it up on November 1st so I could beta test some new animation code and have enough time to write a blog post about it to give users of our AllPixel time to do it themselves before Christmas :) I would normally never put up the tree that early :)\u003cbr\u003e\u003cbr\u003eI like the cones inside cones idea :) The original LEDCircle was designed for a disk, so purely 2D... for the tree I figured it was just an extruded disk over a point. But I\u0026#39;ll have to look into having stacking cones :) shouldn\u0026#39;t be too bad. Instead of (ring, angle) as coordinates you could just do (level, ring, angle).  Would also work well for what I imagine would be a really bad-ass volumetric cylindrical display :) Cause I don\u0026#39;t have enough huge displays to build these days...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Dhbm4dcY153",
+    "resourceName": "users/103867089694409269471/posts/UghL7aLuTK9iMngCoAEC/comments/CiF6MTJ0Z2RqajV3bml5bHhtZjIzcWoxMnJtdWVhaHh0MHAQm-aTxuS_yQI"
+  }, {
+    "creationTime": "2015-12-03 09:27:35-0500",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/118014254683938675401\" oid\u003d\"118014254683938675401\" \u003eAdam Haile\u003c/a\u003e\u003c/span\u003e,\u003cbr\u003eLove your tree and I am just about ready to dig into your code to adapt it to my own tree.\u003cbr\u003eI would change my description of \u0026#39;stacked cones\u0026#39; as it is not accurate. It would be slightly more accurate to describe it as \u0026#39;stacked cylinders\u0026#39; but even that does not describe accurately the quite irregular alignement of my LEDs. You probably have the best description...   it is a really bad-ass volumetric cylindrical display !!\u003cbr\u003eHere\u0026#39;s some links to pictures \u0026amp; videos I took last year that should help understand the physical layout of my tree...\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://plus.google.com/106626345342202981932/posts/VYor6qPKyM5\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://plus.google.com/106626345342202981932/posts/VYor6qPKyM5\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://plus.google.com/106626345342202981932/posts/Kvo9C8YiHgn\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://plus.google.com/106626345342202981932/posts/Kvo9C8YiHgn\u003c/a\u003e\u003cbr\u003eI would appreciate any hints you can provide as to how I could efficiently adapt your code. Keep in mind that this all to be  done on an Arduino MEGA. I hope I have enough processing power there to get the job done as I can\u0026#39;t change that this year ! \u003cbr\u003eMy best regards, JP",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Dhbm4dcY153",
+    "resourceName": "users/103867089694409269471/posts/UghL7aLuTK9iMngCoAEC/comments/CiF6MTJ0Z2RqajV3bml5bHhtZjIzcWoxMnJtdWVhaHh0MHAQ_eSmifO_yQI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UghL7aLuTK9iMngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "jason brader",
+      "profilePageUrl": "https://plus.google.com/114818457013981398487",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-uRkk9lZkRgk/AAAAAAAAAAI/AAAAAAAAAKg/p_UbyeNUY9o/s64-c/photo.jpg",
+      "resourceName": "users/114818457013981398487"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stéphane FRANÇOIS",
+      "profilePageUrl": "https://plus.google.com/117492528749609965529",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-FwD03RqrWEo/AAAAAAAAAAI/AAAAAAAAAfU/Ciw3_477f7c/s64-c/photo.jpg",
+      "resourceName": "users/117492528749609965529"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/118014254683938675401",
+        "displayName": "Adam Haile"
+      }]
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/8SPcyFdpv7g",
+  "creationTime": "2015-04-17 21:33:09-0400",
+  "updateTime": "2015-04-17 21:44:42-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Source: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/blob/d087efe69b539e2c00a026dde2fa205210d4f3b3/PatternFire.h\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/blob/d087efe69b539e2c00a026dde2fa205210d4f3b3/PatternFire.h\u003c/a\u003e",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/Ziy9SdArcSa",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I added Stefan Petrick\u0026#39;s \u0026quot;Noise Smearing\u0026quot; to Mark Kriegsman\u0026#39;s Fire, and I really like the combination.",
+    "media": {
+      "url": "https://www.youtube.com/watch?v\u003dAtvs-d1x_p8\u0026feature\u003dautoshare",
+      "contentType": "video/*",
+      "description": "Fire pattern from Aurora.\n\nhttps://github.com/pixelmatix/aurora/blob/d087efe69b539e2c00a026dde2fa205210d4f3b3/PatternFire.h\n\nBased on Fire2012WithPalette by Mark Kriegsman https://github.com/FastLED/FastLED/blob/master/examples/Fire2012WithPalette/Fire2012WithPalette.ino\n\nUses \"Noise Smearing\" by Stefan Petrick: https://gist.githubusercontent.com/embedded-creations/5cd47d83cb0e04f4574d/raw/ebf6a82b4755d55cfba3bf6598f7b19047f89daf/NoiseSmearing.ino",
+      "resourceName": "media/EktWaWRlb09iamVjdFYyLWh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QXR2cy1kMXhfcDgmZmVhdHVyZT1hdXRvc2hhcmU\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjDpDwWhh-lr3gCoAEC"
+  },
+  "comments": [{
+    "creationTime": "2015-04-18 12:57:08-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "Looking good!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQ0fn5sqmAxQI"
+  }, {
+    "creationTime": "2015-05-06 19:44:47-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "Does anybody did this but with just regular led strips, not with the smart matrix?\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQm_b6iqauxQI"
+  }, {
+    "creationTime": "2015-05-11 16:37:35-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "It\u0026#39;s no difference - it all happens in a 24 bit color space. So the actual output device doesen\u0026#39;t matter.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQ2tPkyMW6xQI"
+  }, {
+    "creationTime": "2015-06-28 21:31:12-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e stefan i understand that the output can be converted to leds(i) , so it should be some code to delete from the smart matrix, and some code to modify to remap to leds(i) on the 2812 matrix . otherwise it won\u0026#39;t work  with the strips ,  am i wright ,  ?,",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQlsWq3OCzxgI"
+  }, {
+    "creationTime": "2015-06-29 04:10:35-0400",
+    "updateTime": "2015-06-29 04:11:44-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "Long story short: I recommend to don\u0026#39;t touch the calculations of the leds array. See it as a \u0026quot;virtual matrix\u0026quot;: Just use a second CRGB array and define a mapping according to your hardware setup. Like custom(i)\u003dleds(...). The only 2 things you need to comment out is LEDS.addLeds\u0026lt;SMART_MATRIX\u0026gt;(leds,NUM_LEDS); and the SM specific color correction (if I remember it right). Add your 2812 controller linked to the custom array instead. Which matrix size are you going to use, \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107480761240011957432\" oid\u003d\"107480761240011957432\" \u003eGustavo K\u003c/a\u003e\u003c/span\u003e ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQ_9_O_rm0xgI"
+  }, {
+    "creationTime": "2015-07-03 19:44:31-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e stefan, when compiling oi receive no errors, but a warning : ^\u003cbr\u003enoiseSmear.ino: In function \u0026#39;void MoveFractionalNoiseX(byte)\u0026#39;:\u003cbr\u003enoiseSmear.ino:336:8: warning: unused variable \u0026#39;fractions\u0026#39; [-Wunused-variable]\u003cbr\u003enoiseSmear.ino: In function \u0026#39;void MoveFractionalNoiseY(byte)\u0026#39;:\u003cbr\u003enoiseSmear.ino:398:8: warning: unused variable \u0026#39;fractions\u0026#39; [-Wunused-variable]\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eand no single led on, they staty just in the previous state ( prior test)\u003cbr\u003eany suggestions ?thanks",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQ5p_smZLAxgI"
+  }, {
+    "creationTime": "2015-07-05 05:20:29-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "Please upload your complete code to Gist or somewhere. We also need detailed informations about your physical led setup + used micrcontroller. Without that informations it´s all just guessing...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQ7emD59TDxgI"
+  }, {
+    "creationTime": "2015-07-05 11:12:45-0400",
+    "updateTime": "2015-07-05 11:15:55-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e thanks stefan , this is the code link : gnkarn / gist:df9e0a098fea228ff173\u003cbr\u003eit si teensy 3.1, 2812 , serpentine layout in a 30x8 matrix .\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com/gnkarn/df9e0a098fea228ff173\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com/gnkarn/df9e0a098fea228ff173\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQu56dxaPExgI"
+  }, {
+    "creationTime": "2015-07-05 11:22:50-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107480761240011957432\" oid\u003d\"107480761240011957432\" \u003eGustavo K\u003c/a\u003e\u003c/span\u003e found that have to set , \u003ca rel\u003d\"nofollow\" class\u003d\"ot-hashtag bidi_isolate\" href\u003d\"https://plus.google.com/s/%23define/posts\" \u003e#define\u003c/a\u003e MATRIX_HEIGHT 8 // redefined\u003cbr\u003e\u003ca rel\u003d\"nofollow\" class\u003d\"ot-hashtag bidi_isolate\" href\u003d\"https://plus.google.com/s/%23define/posts\" \u003e#define\u003c/a\u003e MATRIX_WIDTH 30  // redefined  , because they were defined inside smart matrix , but nothing changed .",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQ8v_95aXExgI"
+  }, {
+    "creationTime": "2015-07-05 11:29:56-0400",
+    "updateTime": "2015-07-05 11:30:14-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107480761240011957432\" oid\u003d\"107480761240011957432\" \u003eGustavo K\u003c/a\u003e\u003c/span\u003e could it be that im not properly setting  the kmatrix coordinates and the physical matrix coordinates?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQyvLqsKfExgI"
+  }, {
+    "creationTime": "2015-07-05 15:43:32-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "Please set kMatrixWidth and kMatrixHeight back to 32. The math depends on it.\u003cbr\u003eReplace\u003cbr\u003eFastLED.addLeds\u0026lt;CHIPSET, LED_PIN, COLOR_ORDER\u0026gt;(leds, NUM_LEDS).setCorrection(TypicalSMD5050); by\u003cbr\u003e\u003cbr\u003eFastLED.addLeds\u0026lt;CHIPSET, LED_PIN, COLOR_ORDER\u0026gt;(leds2, 30*8).setCorrection(TypicalSMD5050);\u003cbr\u003e\u003cbr\u003eBefore calling FastLED.show();\u003cbr\u003eyou need to copy the calculated data from the CRGB leds into leds2.\u003cbr\u003e\u003cbr\u003eSo write a copy function which takes the data from the (non serpentine) leds into your serpentine leds2. You will need a second XY function too to do so.\u003cbr\u003e\u003cbr\u003eSo basically something like (pseudocode)\u003cbr\u003evoid FILL_LEDS2\u003cbr\u003efor x \u003d 0 to 29\u003cbr\u003e  for y \u003d 0 to 7\u003cbr\u003e    leds2(YOURXY(x,y)) \u003d leds (XY(x,y))",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQ4JbViODExgI"
+  }, {
+    "creationTime": "2015-07-05 15:47:18-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "ANd CRGB leds2[kMatrixWidth * kMatrixHeight];\u003cbr\u003e  needs to become CRGB leds2[30*8];\u003cbr\u003e ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQ-Jy79ODExgI"
+  }, {
+    "creationTime": "2015-07-05 19:02:56-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e thank you , so the leds array should work on the 32x32 space, and the leds2, on the leds physical space ,?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQw5nG0YzFxgI"
+  }, {
+    "creationTime": "2015-07-05 19:18:15-0400",
+    "updateTime": "2015-07-05 19:21:18-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107480761240011957432\" oid\u003d\"107480761240011957432\" \u003eGustavo K\u003c/a\u003e\u003c/span\u003e so if leds2 is now the  led mapping matrix, it seams that many other functions needs to be changed, in order not to go beyond matrix limits, because the XY translation function is only one ( probably have to make another XY converter , one for leds, and other for leds2?\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com/gnkarn/df9e0a098fea228ff173\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com/gnkarn/df9e0a098fea228ff173\u003c/a\u003e\u003cbr\u003eI understand that there is something still wrong, to make it work with a rectangular matrix ...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQzPDRh5DFxgI"
+  }, {
+    "creationTime": "2015-07-06 01:29:14-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "\u0026quot;probably have to make another XY converter , one for leds, and other for leds2?\u0026quot;\u003cbr\u003e\u003cbr\u003eYes, you need another XY function (with a different name) for leds2.\u003cbr\u003e\u003cbr\u003eThat´s the trick: leave all the calculations of leds as they are. Just at the very end (before FastLED.show) you need to copy SOME of the leds data into leds2. The rectangular leds2 is no problem, because it is smaller than leds. leds has 32*32\u003d1024  entrys. But you copy just 30 columns and just 8 rows from that. So 240 out of 1024 entrys.\u003cbr\u003e\u003cbr\u003eLater we can talk about a more sophisticated mapping which basically scales the 32*32 into your 30*8. (It´s not trivial - when I did it the first time it took me 2 days...)\u003cbr\u003e\u003cbr\u003eBut for now I suggest to really just copy a part of leds into leds2.\u003cbr\u003e\u003cbr\u003eI will be offline for (at least) 2 days - so good luck and cheers for now!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQ8ca1_eLFxgI"
+  }, {
+    "creationTime": "2015-07-06 20:51:26-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e ok, just up`dating , a third leds matrix is needed, leds was the smart matrix physical, now is the output \u0026quot;simulated\u0026quot; matrix, leds2 is an intermediate matrix, and leds3 is the output physical matrix ,  is now working but  i have to check if other mods are needed , as the effects are nowhere near , the originals .. !!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/8SPcyFdpv7g",
+    "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC/comments/CiF6MTNidXJpem5xdmt5cGl0ZzIzcWoxMnJtdWVhaHh0MHAQkIuo4ObHxgI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Uggsd6sLbm7Vz3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Reed Morse",
+      "profilePageUrl": "https://plus.google.com/+ReedMorse",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-wBKtaI3XPJI/AAAAAAAAAAI/AAAAAAAAFbs/zRCPw1ftYpw/s64-c/photo.jpg",
+      "resourceName": "users/117116621786089717494"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Peter Chestna",
+      "profilePageUrl": "https://plus.google.com/116265788926162401547",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-oOthwwceLDk/AAAAAAAAAAI/AAAAAAAAhXM/a0xz6U2RKGI/s64-c/photo.jpg",
+      "resourceName": "users/116265788926162401547"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Krzysztof Komisarczyk",
+      "profilePageUrl": "https://plus.google.com/105530337928001836801",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-QjO3dRphTdg/AAAAAAAAAAI/AAAAAAAAIq4/llYMwmzL07Y/s64-c/photo.jpg",
+      "resourceName": "users/105530337928001836801"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Daniel C",
+      "profilePageUrl": "https://plus.google.com/102198396006782809244",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-P4SZz8vfsdo/AAAAAAAAAAI/AAAAAAAAALE/TEhBGM0NYhQ/s64-c/photo.jpg",
+      "resourceName": "users/102198396006782809244"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Justin Onimus",
+      "profilePageUrl": "https://plus.google.com/112073438417733391086",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-TdUuuzv1B2I/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXbpXXqJ5vJSvuAkkP4bAs3Ha5CXQ/s64-c/photo.jpg",
+      "resourceName": "users/112073438417733391086"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Göran Öberg",
+      "profilePageUrl": "https://plus.google.com/+GöranÖberg",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-YfukiJSOnnk/AAAAAAAAAAI/AAAAAAAABOk/Ga1z3S2jrLA/s64-c/photo.jpg",
+      "resourceName": "users/107992646982708864432"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NBqJ3BQopJo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUjZtH-NDpU8Y--VLfH8gc42O891A/s64-c/photo.jpg",
+      "resourceName": "users/112392188627004225254"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Gottfried Mayer",
+      "profilePageUrl": "https://plus.google.com/109724468732455410411",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-BLlyVOCgLbQ/AAAAAAAAAAI/AAAAAAAACLw/fZ6ZmM-gz2s/s64-c/photo.jpg",
+      "resourceName": "users/109724468732455410411"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JOSE LUIS SANTIAGO MORALES",
+      "profilePageUrl": "https://plus.google.com/109325652266435219995",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-8Ywn-hljI3A/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVt0qQetR_Wu17ItpDESIyoEG4cyQ/s64-c/photo.jpg",
+      "resourceName": "users/109325652266435219995"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christopher Gaul",
+      "profilePageUrl": "https://plus.google.com/+ChristopherGaul",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-EN_w5rTEKRc/AAAAAAAAAAI/AAAAAAAAUaE/dpEVCvYOZvw/s64-c/photo.jpg",
+      "resourceName": "users/106460272334827467471"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jürgen Skrotzky",
+      "profilePageUrl": "https://plus.google.com/+JürgenSkrotzky",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-O3ZaJZn16Cs/AAAAAAAAAAI/AAAAAAAABpQ/m9yRDU8m08o/s64-c/photo.jpg",
+      "resourceName": "users/104432154942486982966"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jon Burroughs",
+      "profilePageUrl": "https://plus.google.com/105445034001275025240",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-3n1amsNf4UQ/AAAAAAAAAAI/AAAAAAAACIY/LVE4Z_Es1w4/s64-c/photo.jpg",
+      "resourceName": "users/105445034001275025240"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/107480761240011957432",
+        "displayName": "Gustavo K"
+      }, {
+        "resourceName": "users/115124694226931502095",
+        "displayName": "Stefan Petrick"
+      }]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/K8NNp1GYsEs",
+  "creationTime": "2015-12-15 22:21:39-0500",
+  "updateTime": "2015-12-15 22:23:13-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I wired up a stereo MSGEQ7 board and added a couple of music reactive patterns.\u003cbr\u003e\u003cbr\u003eI switched to a thinner section of 2.5\u0026quot; PVC pipe, which makes the spiral taller and provides more distance between the LEDs and the frosted glass for better diffusion.  I also added a rolled sheet of vellum paper inside the glass for even more diffusion.\u003cbr\u003e\u003cbr\u003eAdded a couple more pics: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/CSTDgXTopRSXpjJA7\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/CSTDgXTopRSXpjJA7\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eSource: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/evilgeniuslabs/torch\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/evilgeniuslabs/torch\u003c/a\u003e﻿",
+  "media": {
+    "url": "https://youtu.be/R79r7mAE6_A",
+    "contentType": "video/*",
+    "width": 640,
+    "height": 360,
+    "description": "Available from Evil Genius Labs: http://www.evilgeniuslabs.org Cylindrical, music-reactive light art display, built with 240 WS2812B RGB LEDs, controlled wit...",
+    "resourceName": "media/EgtSNzlyN21BRTZfQQ\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2015-12-17 05:04:47-0500",
+    "author": {
+      "displayName": "Juris Perkons",
+      "profilePageUrl": "https://plus.google.com/103512039118630699091",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-GsODo_qHJq8/AAAAAAAAAAI/AAAAAAAAACM/XVhb_-RHsBo/s64-c/photo.jpg",
+      "resourceName": "users/103512039118630699091"
+    },
+    "content": "Looks good! :) I should probably try Your construction, couse I am like that - trying almost everything \u0026quot;music-to-light\u0026quot; related that I come across :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/K8NNp1GYsEs",
+    "resourceName": "users/103867089694409269471/posts/UghsX-A5qhQYNHgCoAEC/comments/CiF6MTJ1ZjFvYWtuZTN6bGZ2ZzIzcWoxMnJtdWVhaHh0MHAQ6ZmKudLiyQI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UghsX-A5qhQYNHgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Myron Lo",
+      "profilePageUrl": "https://plus.google.com/117967907587283460512",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-MzTeofQwGpM/AAAAAAAAAAI/AAAAAAAAAFg/U3ybP2LKCtI/s64-c/photo.jpg",
+      "resourceName": "users/117967907587283460512"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

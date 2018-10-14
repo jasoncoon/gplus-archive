@@ -1,0 +1,113 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/3VKoBkAh6as",
+  "creationTime": "2015-01-04 21:36:42-0500",
+  "updateTime": "2015-01-04 21:36:42-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I wired up the Teensy audio library\u0026#39;s FFT to my APA102 LED lamp.  Here\u0026#39;s the code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://git.io/Rz17Ww\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://git.io/Rz17Ww\u003c/a\u003e  I need to find some code for good automatic gain control and/or dynamic range compression.  I\u0026#39;d like it to react well regardless of the volume level.  Anyone have any they\u0026#39;d suggest?",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/Kp4QQau6nqp",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I added reaction to music to my new LED lamp.",
+    "media": {
+      "url": "http://www.youtube.com/watch?v\u003dYQbqccvnx4E",
+      "contentType": "video/*",
+      "width": 1280,
+      "height": 720,
+      "description": "HOLMÖ Lamp from IKEA, 64 APA102 LEDs, a Teensy 3.1, and audio out from my computer. Project information and source code: https://github.com/pup05/SpectrumAna...",
+      "resourceName": "media/EgtZUWJxY2N2bng0RQ\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UghwdzuSrvLgS3gCoAEC"
+  },
+  "comments": [{
+    "creationTime": "2015-01-05 03:28:30-0500",
+    "author": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "resourceName": "users/112392188627004225254"
+    },
+    "content": "The teensy audio board has an auto gain control. But I think for your sketch you don\u0026#39;t need the audio board only the teensy. I would be also interested in a software agc.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3VKoBkAh6as",
+    "resourceName": "users/103867089694409269471/posts/UggO4HkyxM-KkHgCoAEC/comments/CiF6MTJjZGZqcGFwbW5keHcwaTIzcWoxMnJtdWVhaHh0MHAQm5-7zbf8wgI"
+  }, {
+    "creationTime": "2015-01-05 09:37:53-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, Lars.  I have a Teensy audio board but haven\u0026#39;t tried it yet.  I\u0026#39;ll investigate its AGC.\u003cbr\u003e\u003cbr\u003eI have tried Paul\u0026#39;s suggestion for simple software AGC here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://forum.pjrc.com/threads/24793-Audio-Library?p\u003d39585\u0026amp;viewfull\u003d1#post39585\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://forum.pjrc.com/threads/24793-Audio-Library?p\u003d39585\u0026amp;viewfull\u003d1#post39585\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e\u0026quot;... perhaps compute an average by just summing up the samples (inverting the negative ones, of course). Or maybe you\u0026#39;d square them and add them all up? Then you might adjust your gain slightly if the average is above or below the target, which of course would be a private member variable, and multiply all 128 samples by the gain setting...\u0026quot;\u003cbr\u003e\u003cbr\u003eI\u0026#39;ll post what I\u0026#39;ve tried, but it\u0026#39;s likely too simple and doesn\u0026#39;t seem to respond well.  I assume I need something more advanced that uses an adjustable attack, release, etc.  Or I\u0026#39;m just doing it wrong.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3VKoBkAh6as",
+    "resourceName": "users/103867089694409269471/posts/UggO4HkyxM-KkHgCoAEC/comments/CiF6MTJjZGZqcGFwbW5keHcwaTIzcWoxMnJtdWVhaHh0MHAQ-ry6lYr9wgI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UggO4HkyxM-KkHgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Stoyan Nakov",
+      "profilePageUrl": "https://plus.google.com/+StoyanNakov",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-EBbOPokqapY/AAAAAAAAAAI/AAAAAAAAAms/jJ-qmC7OgZU/s64-c/photo.jpg",
+      "resourceName": "users/104190452547155384006"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Anthony Ollerton",
+      "profilePageUrl": "https://plus.google.com/+AnthonyOllerton",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Ywn_D06KJNs/AAAAAAAAAAI/AAAAAAAAANA/YItySFkBDsg/s64-c/photo.jpg",
+      "resourceName": "users/103431286795636351602"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NBqJ3BQopJo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUjZtH-NDpU8Y--VLfH8gc42O891A/s64-c/photo.jpg",
+      "resourceName": "users/112392188627004225254"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ivars Duntavs",
+      "profilePageUrl": "https://plus.google.com/105228110381512546854",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jWVehN0C1_Q/AAAAAAAAAAI/AAAAAAAAACE/DWrS1Es0u5A/s64-c/photo.jpg",
+      "resourceName": "users/105228110381512546854"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Ivars Duntavs",
+      "profilePageUrl": "https://plus.google.com/105228110381512546854",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jWVehN0C1_Q/AAAAAAAAAAI/AAAAAAAAACE/DWrS1Es0u5A/s64-c/photo.jpg",
+      "resourceName": "users/105228110381512546854"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

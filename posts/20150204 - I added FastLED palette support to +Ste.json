@@ -1,0 +1,108 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/CtXEXeVHWR5",
+  "creationTime": "2015-02-04 21:43:47-0500",
+  "updateTime": "2015-02-22 10:10:41-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I added FastLED palette support to \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e\u0026#39;s noise smearing effects on a SmartMatrix 32x32 RGB LED display.  More info and source: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com/jasoncoon/d6bbf4ad4b9851a907e1\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com/jasoncoon/d6bbf4ad4b9851a907e1\u003c/a\u003e",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/SNerKmu5X8N",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Noise smearing effect with FastLED palettes on a SmartMatrix 32x32 RGB LED display.  More info and source: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com/pup05/d6bbf4ad4b9851a907e1\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com/pup05/d6bbf4ad4b9851a907e1\u003c/a\u003e",
+    "media": {
+      "url": "http://www.youtube.com/watch?v\u003dzN9GT_sFby8",
+      "contentType": "video/*",
+      "width": 1280,
+      "height": 720,
+      "description": "This pattern is a combination of Stefan Patrick\u0027s noise based smearing effects and Mark Kriegsman\u0027s color palette blending. Running on a SmartMatrix display:...",
+      "resourceName": "media/Egt6TjlHVF9zRmJ5OA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiXsnnfZZtxQ3gCoAEC"
+  },
+  "comments": [{
+    "creationTime": "2015-02-04 22:00:38-0500",
+    "author": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    },
+    "content": "We should really get this code in a GitHub repo for better collaboration.  \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e can you commit any version of Noise Smearing to a GitHub repo and share the link?  I\u0026#39;d prefer you started the repo so all forks can trace back to you as the project creator.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CtXEXeVHWR5",
+    "resourceName": "users/103867089694409269471/posts/UghHE1Mod_su6HgCoAEC/comments/CiF6MTNvaHZ2NXprem14ZDJlYjIzcWoxMnJtdWVhaHh0MHAQlKrpkejJwwI"
+  }, {
+    "creationTime": "2015-02-05 04:01:49-0500",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "Hi Louis, hopefully I\u0026#39;ll manage it next week to get this done. But don\u0026#39;t wait for me case you feel inspired NOW! At the moment I\u0026#39;m pretty far away from programming leds. Doing photography and terraforming my garden right now...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CtXEXeVHWR5",
+    "resourceName": "users/103867089694409269471/posts/UghHE1Mod_su6HgCoAEC/comments/CiF6MTNvaHZ2NXprem14ZDJlYjIzcWoxMnJtdWVhaHh0MHAQjtaQ77jKwwI"
+  }, {
+    "creationTime": "2015-02-05 14:15:11-0500",
+    "updateTime": "2015-02-22 10:17:18-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks again for sharing this great effect.  I\u0026#39;ve created a repo on github for it, with your original code.  I\u0026#39;ll commit my additions shortly: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/NoiseSmearing\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/NoiseSmearing\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CtXEXeVHWR5",
+    "resourceName": "users/103867089694409269471/posts/UghHE1Mod_su6HgCoAEC/comments/CiF6MTNvaHZ2NXprem14ZDJlYjIzcWoxMnJtdWVhaHh0MHAQvZ__-8HLwwI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UghHE1Mod_su6HgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "David Elias Flores Escalante",
+      "profilePageUrl": "https://plus.google.com/117329495728626227352",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-AtJinAhkrQs/AAAAAAAAAAI/AAAAAAAAALc/m2WzZUGwz40/s64-c/photo.jpg",
+      "resourceName": "users/117329495728626227352"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "J.B. Langston",
+      "profilePageUrl": "https://plus.google.com/110414581290182795947",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-oCVwBqjpJjo/AAAAAAAAAAI/AAAAAAAABCY/RE3YBoOZbAM/s64-c/photo.jpg",
+      "resourceName": "users/110414581290182795947"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      },
+      "users": [{
+        "resourceName": "users/115124694226931502095",
+        "displayName": "Stefan Petrick"
+      }]
+    }
+  }
+}

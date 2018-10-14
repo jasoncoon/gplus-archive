@@ -1,0 +1,554 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/CgqPJZa6suL",
+  "creationTime": "2016-09-07 20:10:49-0400",
+  "updateTime": "2016-09-07 20:10:49-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "After a short break, I\u0026#39;m back with my latest project: Ducenti (Lux Phyllotaxis).  It\u0026#39;s very similar to my last project (Fermat), but with twice as many LEDs!    It\u0026#39;s an 11 inch stainless steel hemisphere with 200 8mm WS2811 RGB LEDs.  It\u0026#39;s currently driven by a Teensy 3.2, but I\u0026#39;m planning to swap it out for an ESP8266 soon.\u003cbr\u003e\u003cbr\u003eI\u0026#39;m using a SN74HCT245N level shifter, TSOP38238 IR receiver, 5V 10A power supply, etc.\u003cbr\u003e\u003cbr\u003eMore videos: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://youtu.be/_QrlcxV9vOw?list\u003dPLUYGVM-2vDxJ_wbXZH5qWYUxle7hjN0CF\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://youtu.be/_QrlcxV9vOw?list\u003dPLUYGVM-2vDxJ_wbXZH5qWYUxle7hjN0CF\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eBuild pics (sorry, I didn\u0026#39;t document this build very well): \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/VTCBmkZ8aZh4pSj79\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/VTCBmkZ8aZh4pSj79\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eRunning code very similar to these projects:\u003cbr\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver\u003c/a\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/evilgeniuslabs/fibonacci-v3d\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/evilgeniuslabs/fibonacci-v3d\u003c/a\u003e﻿",
+  "media": {
+    "url": "https://youtu.be/_QrlcxV9vOw?list\u003dPLUYGVM-2vDxJ_wbXZH5qWYUxle7hjN0CF",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Available from Evil Genius Labs: http://www.evilgeniuslabs.org Stainless steel Hemispherical light art display, built with 200 WS2812B RGB LEDs, driven with ...",
+    "resourceName": "media/EgtfUXJsY3hWOXZPdw\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2016-09-07 20:43:53-0400",
+    "author": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    },
+    "content": "very cool",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQ46XOl8X-zgI"
+  }, {
+    "creationTime": "2016-09-08 00:36:35-0400",
+    "author": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    },
+    "content": "Really looks great, I wonder what it would look like inside of a Chinese paper lantern for diffusion. \u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "link": {
+      "title": "Amazon.com: Just Artifacts 24\" White Chinese/Japanese Paper Lantern/Lamp 24\" Diameter - Just Artifacts Brand: Home Improvement",
+      "url": "https://www.amazon.com/Just-Artifacts-Chinese-Japanese-Diameter/dp/B0026XVQ3Y",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/418u%2BukGaiL._SX342_.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQq5yemfn-zgI"
+  }, {
+    "creationTime": "2016-09-08 00:40:54-0400",
+    "author": {
+      "displayName": "Kelvin Mead",
+      "profilePageUrl": "https://plus.google.com/+KelvinMead",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-5F3QHovLgUs/AAAAAAAAAAI/AAAAAAAAAAA/qynp7x8eBUU/s64-c/photo.jpg",
+      "resourceName": "users/114689543789013665296"
+    },
+    "content": "How do you even code these amazing patterns! \u003cbr\u003eSimply awesome! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQ2Of1lPr-zgI"
+  }, {
+    "creationTime": "2016-09-08 04:14:26-0400",
+    "author": {
+      "displayName": "José Manuel",
+      "profilePageUrl": "https://plus.google.com/104252613779916507530",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-34OZtuOz2CU/AAAAAAAAAAI/AAAAAAAACGM/G0iK2skCsN0/s64-c/photo.jpg",
+      "resourceName": "users/104252613779916507530"
+    },
+    "content": "Great stuff!!\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQl_708an_zgI"
+  }, {
+    "creationTime": "2016-09-08 05:17:17-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "Great mapping and animations! I love it.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQzpeb-Lf_zgI"
+  }, {
+    "creationTime": "2016-09-08 21:16:32-0400",
+    "author": {
+      "displayName": "Sebastien Letourneau",
+      "profilePageUrl": "https://plus.google.com/116893453706710195985",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-hwBcMposo20/AAAAAAAAAAI/AAAAAAAAVHY/8YA1G9epXso/s64-c/photo.jpg",
+      "resourceName": "users/116893453706710195985"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/109880295151012248990\" oid\u003d\"109880295151012248990\" \u003eDigitalJax\u003c/a\u003e\u003c/span\u003e Any idea where one would buy the flat paper for these?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQyPbNrI6BzwI"
+  }, {
+    "creationTime": "2016-09-08 21:47:55-0400",
+    "author": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116893453706710195985\" oid\u003d\"116893453706710195985\" \u003eSebastien Letourneau\u003c/a\u003e\u003c/span\u003e Any art store will have something like that. Its called white tissue paper(not for blowing your nose in) same stuff you would use to flatten leaves into a book",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQzaHLrpWBzwI"
+  }, {
+    "creationTime": "2016-09-09 08:50:33-0400",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "Stefan and Jason have some incredible animations and projects.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQ55fGvKmCzwI"
+  }, {
+    "creationTime": "2016-09-09 16:52:49-0400",
+    "author": {
+      "displayName": "Justin Eastman",
+      "profilePageUrl": "https://plus.google.com/+JustinEastman",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-AaXASfEuHzk/AAAAAAAAAAI/AAAAAAAAAaM/dvWerKf0AsA/s64-c/photo.jpg",
+      "resourceName": "users/103949376857798317079"
+    },
+    "content": "Which pixels did you use?  The bullet style?  Or just the diffuse led on its own? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQ3I-TopWDzwI"
+  }, {
+    "creationTime": "2016-09-09 17:05:09-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103949376857798317079\" oid\u003d\"103949376857798317079\" \u003eJustin Eastman\u003c/a\u003e\u003c/span\u003e I used 200 (4 strings of 50) 8mm WS2811, IP-33 (non-waterproof), like these: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.aliexpress.com/item/50pcs12mm-WS2811-2811-Pixel-node-String-Addressable-Module-Light-LED-Module-Non-waterproof-DC5V/1547858563.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.aliexpress.com/item/50pcs12mm-WS2811-2811-Pixel-node-String-Addressable-Module-Light-LED-Module-Non-waterproof-DC5V/1547858563.html\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQ08qRg5iDzwI"
+  }, {
+    "creationTime": "2016-09-09 18:40:36-0400",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "I\u0026quot;m wondering about that stainless steel sphere and how you measure the holes and then cut into it. Sounds hellish.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQ5aGcrq2DzwI"
+  }, {
+    "creationTime": "2016-09-10 05:31:49-0400",
+    "author": {
+      "displayName": "José Manuel",
+      "profilePageUrl": "https://plus.google.com/104252613779916507530",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-34OZtuOz2CU/AAAAAAAAAAI/AAAAAAAACGM/G0iK2skCsN0/s64-c/photo.jpg",
+      "resourceName": "users/104252613779916507530"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116893453706710195985\" oid\u003d\"116893453706710195985\" \u003eSebastien Letourneau\u003c/a\u003e\u003c/span\u003e You can do it yourself with Google Sketchup plugin ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "link": {
+      "title": "Unwrap and Flatten Faces | SketchUp Extension Warehouse",
+      "url": "https://extensions.sketchup.com/es/content/flatten-faces",
+      "imageUrl": "https://assets.sketchup.com/web/ewh/s3fs-public/screenshot%201.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQ96ac9b6EzwI"
+  }, {
+    "creationTime": "2016-09-10 11:39:48-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117226587425513750918\" oid\u003d\"117226587425513750918\" \u003eAndrew Tuline\u003c/a\u003e\u003c/span\u003e I made a papercraft template with the hole locations, then marked and drilled each hole.  There are pics in the album for this and the last hemisphere I made of the process.  Click on a pic, then click the info button for more details: ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "link": {
+      "title": "Fermat (Lux Phyllotaxis)",
+      "url": "https://goo.gl/photos/yMJLEGrmUm88v7ym7",
+      "imageUrl": "https://lh3.googleusercontent.com/AZtZ5uD6lxzX97Er38r_1-BdlDO0isbX4C61QNScDC90pxd8JtDZcAH2GLAaRuP3YBmxpeXaML3l8Q\u003dw600-h315-p-k"
+    },
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQs9vPlZGFzwI"
+  }, {
+    "creationTime": "2016-09-10 12:40:05-0400",
+    "author": {
+      "displayName": "Justin Eastman",
+      "profilePageUrl": "https://plus.google.com/+JustinEastman",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-AaXASfEuHzk/AAAAAAAAAAI/AAAAAAAAAaM/dvWerKf0AsA/s64-c/photo.jpg",
+      "resourceName": "users/103949376857798317079"
+    },
+    "content": "Is that a mixing bowl from ikea?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQn5Si0p6FzwI"
+  }, {
+    "creationTime": "2016-09-10 13:28:07-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yep :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CgqPJZa6suL",
+    "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC/comments/CiF6MTN4c3JxcWVwZTR2cnZ1NTIzcWoxMnJtdWVhaHh0MHAQrdSxsKmFzwI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UghF3uxKqVaF-3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Party Pods",
+      "profilePageUrl": "https://plus.google.com/107247986904447702162",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pAn93l7qEdM/AAAAAAAAAAI/AAAAAAAAAVc/2-SOOYzzOQs/s64-c/photo.jpg",
+      "resourceName": "users/107247986904447702162"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "KC KC",
+      "profilePageUrl": "https://plus.google.com/113187775352241094287",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Bw5Zbn5_7xM/AAAAAAAAAAI/AAAAAAAASbs/pbev_oPQMqU/s64-c/photo.jpg",
+      "resourceName": "users/113187775352241094287"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jo Miller",
+      "profilePageUrl": "https://plus.google.com/103341289176473342280",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-oPLCDKcOyVU/AAAAAAAAAAI/AAAAAAAAADw/HJnmETTiYps/s64-c/photo.jpg",
+      "resourceName": "users/103341289176473342280"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Martin Cowell",
+      "profilePageUrl": "https://plus.google.com/117537439416194977565",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-8byBLL5s32A/AAAAAAAAAAI/AAAAAAAAAiw/SVXuvPIgyAM/s64-c/photo.jpg",
+      "resourceName": "users/117537439416194977565"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Michal Hipner",
+      "profilePageUrl": "https://plus.google.com/107904026095248150292",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-LCMEir4dUg4/AAAAAAAAAAI/AAAAAAAAAgo/P6_7OnOl85E/s64-c/photo.jpg",
+      "resourceName": "users/107904026095248150292"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Shawn Liu",
+      "profilePageUrl": "https://plus.google.com/101668552747975094498",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-eCvh1-bhUkQ/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVxxaOliUf-Z_MQtcrHDLMhyE7OHQ/s64-c/photo.jpg",
+      "resourceName": "users/101668552747975094498"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kyle Beck",
+      "profilePageUrl": "https://plus.google.com/+KyleBeck",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Jg0wpNrzRvI/AAAAAAAAAAI/AAAAAAAAbFs/nd51Xm9iNmk/s64-c/photo.jpg",
+      "resourceName": "users/100849929412329938415"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jasper Poppe",
+      "profilePageUrl": "https://plus.google.com/111925589669990547106",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-MnJMUJ5DorU/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUZSGlie-o1V1KXxi7dCEKsKNciHA/s64-c/photo.jpg",
+      "resourceName": "users/111925589669990547106"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrey Pushkov",
+      "profilePageUrl": "https://plus.google.com/113207525760287785760",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-jVfErgjYJqM/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUSbVHZOTxM5YIAegpu_ueYZ2bWKg/s64-c/photo.jpg",
+      "resourceName": "users/113207525760287785760"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chris Roberts",
+      "profilePageUrl": "https://plus.google.com/116328175019405297243",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-HHkpVuEXPoI/AAAAAAAAAAI/AAAAAAAADrQ/xpuCMPJIGok/s64-c/photo.jpg",
+      "resourceName": "users/116328175019405297243"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tim Lukasik",
+      "profilePageUrl": "https://plus.google.com/100542328320334100166",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-4Kskcwha5a8/AAAAAAAAAAI/AAAAAAABpB0/nzdKSaBilNs/s64-c/photo.jpg",
+      "resourceName": "users/100542328320334100166"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tomas Wiklund",
+      "profilePageUrl": "https://plus.google.com/108127727451512650482",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-9htAxBtow6Q/AAAAAAAAAAI/AAAAAAAAGZQ/s2Jl3pDiMxk/s64-c/photo.jpg",
+      "resourceName": "users/108127727451512650482"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Simon Hermansen",
+      "profilePageUrl": "https://plus.google.com/100974243336906340371",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ao8HERIGX88/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUz8Wrk5SuaSIw6ec2ghuQ6NCNBcA/s64-c/photo.jpg",
+      "resourceName": "users/100974243336906340371"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Sam Freeman",
+      "profilePageUrl": "https://plus.google.com/109407510536125923983",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-XwCAr-wClZ0/AAAAAAAAAAI/AAAAAAAAEWE/m7i54Eg25eo/s64-c/photo.jpg",
+      "resourceName": "users/109407510536125923983"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Le Breton",
+      "profilePageUrl": "https://plus.google.com/107147994736583550641",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-aCV0yhrHecI/AAAAAAAAAAI/AAAAAAAAnpY/iMO_TIkng2c/s64-c/photo.jpg",
+      "resourceName": "users/107147994736583550641"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Richard Everitt",
+      "profilePageUrl": "https://plus.google.com/109267541091202583931",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-X40RzkTKVdw/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVMlnghNYe3W3BDFm-OI70C2a9PgQ/s64-c/photo.jpg",
+      "resourceName": "users/109267541091202583931"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Julian S",
+      "profilePageUrl": "https://plus.google.com/113363233336867822584",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-V_FXfgIrUcw/AAAAAAAAAAI/AAAAAAAAAIk/5PnNqLjty7o/s64-c/photo.jpg",
+      "resourceName": "users/113363233336867822584"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Michael Burg",
+      "profilePageUrl": "https://plus.google.com/101306036890333195277",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-69mkimCPNQ8/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVNL8AJrCA46b1QIrP60NG40xppEQ/s64-c/photo.jpg",
+      "resourceName": "users/101306036890333195277"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brian van vlymen",
+      "profilePageUrl": "https://plus.google.com/+Brianvanvlymen",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-T9VcHE6ihfE/AAAAAAAAAAI/AAAAAAAAhV0/b8OK6gHosMI/s64-c/photo.jpg",
+      "resourceName": "users/102962316948693360023"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kjetil Eik",
+      "profilePageUrl": "https://plus.google.com/112499723613505973221",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-VDmxB-bOmIk/AAAAAAAAAAI/AAAAAAAAAQ0/nsFARPjdygw/s64-c/photo.jpg",
+      "resourceName": "users/112499723613505973221"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "José Manuel",
+      "profilePageUrl": "https://plus.google.com/104252613779916507530",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-34OZtuOz2CU/AAAAAAAAAAI/AAAAAAAACGM/G0iK2skCsN0/s64-c/photo.jpg",
+      "resourceName": "users/104252613779916507530"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "arpan choudhury",
+      "profilePageUrl": "https://plus.google.com/108834522502450669797",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-FL9DpN3FQhA/AAAAAAAAAAI/AAAAAAAAAh4/FFg28t90g0A/s64-c/photo.jpg",
+      "resourceName": "users/108834522502450669797"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ben Delarre",
+      "profilePageUrl": "https://plus.google.com/114825475221343681660",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-u-Clg04Svvg/AAAAAAAAAAI/AAAAAAAAAI0/-ImKmP5IfOU/s64-c/photo.jpg",
+      "resourceName": "users/114825475221343681660"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Becknauld",
+      "profilePageUrl": "https://plus.google.com/104722061025067447803",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-rNpNEi3OeQU/AAAAAAAAAAI/AAAAAAAAADM/kKrg3k6tf_s/s64-c/photo.jpg",
+      "resourceName": "users/104722061025067447803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "alireza abdiyan",
+      "profilePageUrl": "https://plus.google.com/103598531290170183719",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TC_hB0pAxrE/AAAAAAAAAAI/AAAAAAAABnw/05LG3Z0Q4uU/s64-c/photo.jpg",
+      "resourceName": "users/103598531290170183719"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Uwe Kessler",
+      "profilePageUrl": "https://plus.google.com/110594415169711343581",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-ePfvWnyzpOM/AAAAAAAAAAI/AAAAAAAANgc/drnRkpAgRjM/s64-c/photo.jpg",
+      "resourceName": "users/110594415169711343581"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dushyant Ahuja",
+      "profilePageUrl": "https://plus.google.com/+DushyantAhuja",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-sva8lHLHSMA/AAAAAAAAAAI/AAAAAAAAuKE/S0J3fcd1EFQ/s64-c/photo.jpg",
+      "resourceName": "users/102046189032208678773"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Rex Heck",
+      "profilePageUrl": "https://plus.google.com/105984949694313949913",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-66_GP4RrWrQ/AAAAAAAAAAI/AAAAAAAAAfQ/3cafNz9fj2Y/s64-c/photo.jpg",
+      "resourceName": "users/105984949694313949913"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Myron Lo",
+      "profilePageUrl": "https://plus.google.com/117967907587283460512",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-MzTeofQwGpM/AAAAAAAAAAI/AAAAAAAAAFg/U3ybP2LKCtI/s64-c/photo.jpg",
+      "resourceName": "users/117967907587283460512"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jonathan Lemoine",
+      "profilePageUrl": "https://plus.google.com/+JonathanLemoine",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-28Qgj_GeNcw/AAAAAAAAAAI/AAAAAAAApCM/14Ccwsc1Qss/s64-c/photo.jpg",
+      "resourceName": "users/108815773347874342399"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kailash Goswami",
+      "profilePageUrl": "https://plus.google.com/100028956116453561718",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-JraNHhW7AdM/AAAAAAAAAAI/AAAAAAAAA08/JJDxFrP90x4/s64-c/photo.jpg",
+      "resourceName": "users/100028956116453561718"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christoffer Terp",
+      "profilePageUrl": "https://plus.google.com/105951550142328101680",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-fsS7IZwtEiU/AAAAAAAAAAI/AAAAAAAABs0/jRn1B9-L9Ew/s64-c/photo.jpg",
+      "resourceName": "users/105951550142328101680"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "nwestwind",
+      "profilePageUrl": "https://plus.google.com/111436139117455068094",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-MwQatDjwAf8/AAAAAAAAAAI/AAAAAAAAAt8/IyRl3qYirkM/s64-c/photo.jpg",
+      "resourceName": "users/111436139117455068094"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/117226587425513750918",
+        "displayName": "Andrew Tuline"
+      }, {
+        "resourceName": "users/109880295151012248990",
+        "displayName": "DigitalJax"
+      }, {
+        "resourceName": "users/116893453706710195985",
+        "displayName": "Sebastien Letourneau"
+      }, {
+        "resourceName": "users/103949376857798317079",
+        "displayName": "Justin Eastman"
+      }]
+    }
+  }
+}

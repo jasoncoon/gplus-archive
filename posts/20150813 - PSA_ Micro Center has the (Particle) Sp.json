@@ -1,0 +1,123 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/12FjuQDiKCG",
+  "creationTime": "2015-08-13 18:21:02-0400",
+  "updateTime": "2015-08-13 18:21:02-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "PSA: Micro Center has the (Particle) Spark Core with Chip Antenna for $24, or with u.FL Connector for $27, in store only.  Almost as cheap as the Photon, but with FastLED compatibility!  Also a small breadboard, and a micro USB cable.  I just picked up a few.  :)",
+  "link": {
+    "title": "Micro Center - Computers and Electronics",
+    "url": "http://www.microcenter.com/product/436897/Core_and_Chip_Antenna",
+    "imageUrl": "http://c773974.r74.cf2.rackcdn.com/436897_395038_01_front_thumbnail.jpg"
+  },
+  "comments": [{
+    "creationTime": "2015-08-13 18:24:15-0400",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "Mostly just commenting to say Holy Shit!  Microcenter still exists?  \u003cbr\u003e\u003cbr\u003e(Yeah yeah, I know, I need to get the Photon support done already)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/12FjuQDiKCG",
+    "resourceName": "users/103867089694409269471/posts/UggAIRgwyGHznXgCoAEC/comments/CiB6MTJpeWoxeTNsbTNnZzQwa3huc2Nwd3FtbG5qaWM1YxCc-IndjKfHAg"
+  }, {
+    "creationTime": "2015-08-13 18:28:11-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": ":)  I have one right down the street, which is really handy when you need something fast.  They have a decent hobby electronics section, and can be somewhat competitive on price, especially since you don\u0026#39;t pay shipping (or wait weeks for shipment from Asia).",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/12FjuQDiKCG",
+    "resourceName": "users/103867089694409269471/posts/UggAIRgwyGHznXgCoAEC/comments/CiB6MTJpeWoxeTNsbTNnZzQwa3huc2Nwd3FtbG5qaWM1YxCwz9HNjafHAg"
+  }, {
+    "creationTime": "2015-08-13 18:28:52-0400",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "I used to go to the one on mem drive in Cambridge, back in my east coast days.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/12FjuQDiKCG",
+    "resourceName": "users/103867089694409269471/posts/UggAIRgwyGHznXgCoAEC/comments/CiB6MTJpeWoxeTNsbTNnZzQwa3huc2Nwd3FtbG5qaWM1YxC5sarhjafHAg"
+  }, {
+    "creationTime": "2015-08-13 18:29:36-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Oh, and don\u0026#39;t rush on the Photon support on my account.  I know you\u0026#39;re busy.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/12FjuQDiKCG",
+    "resourceName": "users/103867089694409269471/posts/UggAIRgwyGHznXgCoAEC/comments/CiB6MTJpeWoxeTNsbTNnZzQwa3huc2Nwd3FtbG5qaWM1YxDJ2If2jafHAg"
+  }, {
+    "creationTime": "2015-08-14 21:45:05-0400",
+    "updateTime": "2015-08-14 21:49:33-0400",
+    "author": {
+      "displayName": "Simon Hermansen",
+      "profilePageUrl": "https://plus.google.com/100974243336906340371",
+      "resourceName": "users/100974243336906340371"
+    },
+    "content": "There is no reason to get the Core over the Photon.\u003cbr\u003eI\u0026#39;ve just got my Photons (6) and I\u0026#39;m planing to work on a android/PC controlled moodLamp this week. I still have not compiled it yet, but until now it\u0026#39;s the Particle stuff that\u0026#39;s failing :)\u003cbr\u003eI will see if can get it running myself, it would actually be some good training, it\u0026#39;s about time i lean porting myself.. But it would be really nice if i could just focus on making the android app sick, and making some nice animations..\u003cbr\u003e\u003cbr\u003eI have actually waited on those Photons since they were announced, and that\u0026#39;s a very long not working on my favourite hobby!  :(\u003cbr\u003e\u003cbr\u003eSo now i got some cool ideas  I want to try out the last week the holidays :) I got some Cores so can test some of the work tho\u003cbr\u003eso no rush.. juuust a little from here ;)\u003cbr\u003e\u003cbr\u003eBut they are very VERY similar so maybe i can port it myself, witch i was going to try all the way (fingers crossed).\u003cbr\u003e\u003cbr\u003eAnd if some one want to collab, I am here.\u003cbr\u003e\u003cbr\u003eI think the Photon will be a great device for running FastLED, with the spec !\u003cbr\u003e\u003cbr\u003eBroadcom BCM43362 Wi-Fi chip\u003cbr\u003e802.11b/g/n Wi-Fi\u003cbr\u003eSTM32F205 120Mhz ARM Cortex M3\u003cbr\u003e1MB flash, 128KB RAM",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/12FjuQDiKCG",
+    "resourceName": "users/103867089694409269471/posts/UggAIRgwyGHznXgCoAEC/comments/CiB6MTJpeWoxeTNsbTNnZzQwa3huc2Nwd3FtbG5qaWM1YxCk18q9-6nHAg"
+  }, {
+    "creationTime": "2015-08-14 22:01:00-0400",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "\u0026quot;There is no reason to get the Core over the Photon.\u0026quot;\u003cbr\u003e\u003cbr\u003eRight now there is, I haven\u0026#39;t ported FastLED 3.1 over to the Photon, while the Core has FastLED support (albeit for an older version of the 3.1 branch) - the low level GPIO interface is different between the two, and who knows what\u0026#39;s changed in the build environment since I did the spark core port.\u003cbr\u003e\u003cbr\u003eAt least I haven\u0026#39;t done hardware SPI support yet - I suspect that is likely different between the two devices as well.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/12FjuQDiKCG",
+    "resourceName": "users/103867089694409269471/posts/UggAIRgwyGHznXgCoAEC/comments/CiB6MTJpeWoxeTNsbTNnZzQwa3huc2Nwd3FtbG5qaWM1YxDat52F_6nHAg"
+  }, {
+    "creationTime": "2015-08-15 08:18:43-0400",
+    "updateTime": "2015-08-15 12:07:19-0400",
+    "author": {
+      "displayName": "Simon Hermansen",
+      "profilePageUrl": "https://plus.google.com/100974243336906340371",
+      "resourceName": "users/100974243336906340371"
+    },
+    "content": "True, and accessibility as mentioned could also be a good reason :) I have had very happy with the port job you did on the Core! :)\u003cbr\u003eThe Core did just not have enough ram for what i was trying to do, and how ofc. I was trying to run OSC, but that is not even necessary.\u003cbr\u003eAnd that is some time ago, they have may have optimised it since. I actually really hope the build environment will improve, for me it kinda weird to upload code over wifi to a cloud, when it\u0026#39;s plugged directly in the USB port. So for now i\u0026#39;m still using NetBeans to compile and do DFU.\u003cbr\u003eI am trying to get the \u0026quot;latest\u0026quot; branch running so it would be compatible with both my Photons and Cores.\u003cbr\u003e\u003cbr\u003eIs the smt32 parts of the 3.1 branch the same as the one on the sparkcore branch?\u003cbr\u003eFor me the pin out on the photon and the core seems very similar, at least the GIPO\u0026#39;s but im ofc not in to the low level stuff as you say.\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://docs.particle.io/datasheets/photon-datasheet/#pin-out-diagrams\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://docs.particle.io/datasheets/photon-datasheet/#pin-out-diagrams\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eThen my Photons will lay still and wait for the right time to stand in for my Cores :D It is the possibility of making a hotspot I really like, it makes it very easy to connect it to a phone.\u003cbr\u003e\u003cbr\u003eI will see if some of the community guys can answer me more correctly, maybe they can even help with some  of the porting?\u003cbr\u003eI know you guys can\u0026#39;t doing ANYTHING half, big kudos to you, love you!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/12FjuQDiKCG",
+    "resourceName": "users/103867089694409269471/posts/UggAIRgwyGHznXgCoAEC/comments/CiB6MTJpeWoxeTNsbTNnZzQwa3huc2Nwd3FtbG5qaWM1YxDQ4f2NiavHAg"
+  }, {
+    "creationTime": "2015-08-15 15:34:52-0400",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "(Yes, the code under platforms/arm/stm32 is the same as what\u0026#39;s used for the Spark Core)) There are more differences between the STM32F103 and the STM32F205 than just the port to pin mapping.  The actual I/O registers used are different.  I\u0026#39;m hoping to spend some time on the photons over the next week or so, we\u0026#39;ll see how time goes.\u003cbr\u003e\u003cbr\u003e(Also - those datasheets aren\u0026#39;t the ones that I used when supporting a new chipset - what I use are the 500-1500 page documents referred to as \u0026quot;reference guides\u0026quot; or \u0026quot;user manuals\u0026quot; depending on who the chip manufacturer is :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/12FjuQDiKCG",
+    "resourceName": "users/103867089694409269471/posts/UggAIRgwyGHznXgCoAEC/comments/CiB6MTJpeWoxeTNsbTNnZzQwa3huc2Nwd3FtbG5qaWM1YxCDrtrM6qvHAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UggAIRgwyGHznXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

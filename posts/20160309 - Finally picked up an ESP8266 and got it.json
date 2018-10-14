@@ -1,0 +1,1315 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/QhFE7hwmxBn",
+  "creationTime": "2016-03-09 20:01:02-0500",
+  "updateTime": "2016-03-09 20:01:02-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Finally picked up an ESP8266 and got it controlling a small 24 NeoPixel Ring with FastLED, via a web app stored in SPIFFS (on-board flash memory).\u003cbr\u003e\u003cbr\u003eThe web app is a single page app with separate files for js and css, using jQuery and Bootstrap.  It has buttons for On/Off, a slider for brightness, a pattern selector, and a color picker.  Event handlers for the controls are wired up, so you don\u0026#39;t have to click a \u0026#39;Send\u0026#39; button after making changes.  The brightness slider and the color picker use a delayed event handler, to prevent from flooding the ESP8266 web server with too many requests too quickly.\u003cbr\u003e\u003cbr\u003eThe only drawback to SPIFFS that I\u0026#39;ve found so far is uploading the files is extremely slow, requiring several minutes, regardless of how large the files are.  Is it this slow for anyone else, or just me?  It\u0026#39;s so slow that I\u0026#39;ve been just developing the web app and debugging locally on my desktop (with a hard-coded IP for the ESP8266), before uploading to SPIFFS and testing on the ESP8266.\u003cbr\u003e\u003cbr\u003eThe firmware implements basic RESTful web services using the ESP8266WebServer library.  It can run in connected or standalone access point modes.  Current values are requested with HTTP GETs, and values are set with POSTs using query string parameters.\u003cbr\u003e\u003cbr\u003eThanks to \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e for sharing your code and inspiring me to take a crack at it myself.  Thanks to \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102872743704528102328\" oid\u003d\"102872743704528102328\" \u003eGarrett Durland\u003c/a\u003e\u003c/span\u003e for pointing out SPIFFS!  And, of course, thank you to \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102282558639672545743\" oid\u003d\"102282558639672545743\" \u003eDaniel Garcia\u003c/a\u003e\u003c/span\u003e and \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112916219338292742137\" oid\u003d\"112916219338292742137\" \u003eMark Kriegsman\u003c/a\u003e\u003c/span\u003e for getting FastLED working on the ESP8266 and sharing all of your fantastic code!\u003cbr\u003e\u003cbr\u003eSource code (firmware and web) is all there.  It\u0026#39;s all pretty standard jQuery and Bootstrap.  Let me know if you have any questions, comments, suggestions.",
+  "link": {
+    "title": "jasoncoon/esp8266-fastled-webserver",
+    "url": "https://github.com/jasoncoon/esp8266-fastled-webserver",
+    "imageUrl": "https://github.com/jasoncoon/esp8266-fastled-webserver/raw/master/webapp.png"
+  },
+  "comments": [{
+    "creationTime": "2016-03-09 20:12:37-0500",
+    "updateTime": "2016-03-09 20:17:25-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Oh, almost forgot.  IR remote control also works!  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/markszabo/IRremoteESP8266\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/markszabo/IRremoteESP8266\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eThis gives the ESP8266 a major advantage over the Photon, since nobody seems to have ported the IRremote library to the Photon yet (and I lack the skill required).  Plus the lower price, better dev tools, local compile, faster compile/upload, and ability to use the FastLED master branch code instead of a fork.  I think I have a new favorite dev board...  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDKnfOU-LTLAg"
+  }, {
+    "creationTime": "2016-03-09 20:37:31-0500",
+    "author": {
+      "displayName": "Gordon McLellan",
+      "profilePageUrl": "https://plus.google.com/+GordonMcLellan",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-MuZhtF5I5ow/AAAAAAAAAAI/AAAAAAAAsUM/LQaqPXV0LaI/s64-c/photo.jpg",
+      "resourceName": "users/104319022208295935487"
+    },
+    "content": "I\u0026#39;ve found spiffs upload via Arduino ide is very slow... It is because the entire file system gets uploaded not just the changed or used portion. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD7s6_d_bTLAg"
+  }, {
+    "creationTime": "2016-03-10 02:50:07-0500",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Wow! This is exactly what I was hoping for! Thank you so much for your work.\u003cbr\u003eHow can I give you 100 points?\u003cbr\u003e\u003cbr\u003eSet it up right away and was able to connect as AP or WebServer; \u003cbr\u003ehowever when I open the URL I get on the page just a \u0026quot;Not found: /\u0026quot;.\u003cbr\u003eI assume that the files of the data folder were not uploaded.\u003cbr\u003eCould you please explain how to load those files into SPIFFS (Win 10)\u003cbr\u003eWRT to the upload speed: On my PC it takes roughly 20 secs; regardless of Flash Mode DIO or QIO\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.esp8266.com/viewtopic.php?f\u003d33\u0026amp;t\u003d3838\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.esp8266.com/viewtopic.php?f\u003d33\u0026amp;t\u003d3838\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDj7rSB0bXLAg"
+  }, {
+    "creationTime": "2016-03-10 04:52:06-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, thank you so much for building this, it is also just what I have been trying to build/ looking for.\u003cbr\u003e\u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e, have you installed the SPIFFS tool? \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/esp8266/arduino-esp8266fs-plugin\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/esp8266/arduino-esp8266fs-plugin\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCQw62j7LXLAg"
+  }, {
+    "creationTime": "2016-03-10 09:38:23-0500",
+    "updateTime": "2016-03-10 12:52:07-0500",
+    "author": {
+      "displayName": "Stéphane FRANÇOIS",
+      "profilePageUrl": "https://plus.google.com/117492528749609965529",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-FwD03RqrWEo/AAAAAAAAAAI/AAAAAAAAAfU/Ciw3_477f7c/s64-c/photo.jpg",
+      "resourceName": "users/117492528749609965529"
+    },
+    "content": "I love your jQuery color picker. Great work. It\u0026#39;s a nice improvement of the code posted by Juergen Bruegl a few days ago. I was already experimenting on it, adding some of the effects I used for my xmas light last december ;) Can\u0026#39;t wait to play with the polar coordinates lib next year. Thanks for the share.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCMu5eirLbLAg"
+  }, {
+    "creationTime": "2016-03-10 15:47:46-0500",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e ahhh, I love this community! Now I was able to upload the data bin. \u003cbr\u003eI get it in my browser, but whatever I do I can\u0026#39;t get it to change anything (e.g. pressing the status button or power ON/OFF or reloading the browser window). It just sits there showing white. Reflashed the code, as well as the SPIFFS. My settings for flash size are  4M(3M SPIFFS)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCWyajq_rbLAg"
+  }, {
+    "creationTime": "2016-03-10 18:57:51-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Uploading firmware and SPIFFS is quite a bit faster now that I increased the \u0026#39;Upload Speed\u0026#39; setting.  Adafruit\u0026#39;s instructions say to use 115200, but it seems to work fine even at 921600.  SPIFFS upload takes about 30 seconds now, compared to several minutes before.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxClr6uoqbfLAg"
+  }, {
+    "creationTime": "2016-03-10 19:42:45-0500",
+    "author": {
+      "displayName": "Gordon McLellan",
+      "profilePageUrl": "https://plus.google.com/+GordonMcLellan",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-MuZhtF5I5ow/AAAAAAAAAAI/AAAAAAAAsUM/LQaqPXV0LaI/s64-c/photo.jpg",
+      "resourceName": "users/104319022208295935487"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Depending on which ESP you\u0026#39;re using, look at ArduinoOTA, makes the code and spiffs upload really fast.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxC_z_mss7fLAg"
+  }, {
+    "creationTime": "2016-03-11 02:03:52-0500",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e just be careful. I already bricked one Huzzah as soon as I changed the upload speed to 256000.\u003cbr\u003eNo fix on that  :(\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://forums.adafruit.com/viewtopic.php?f\u003d19\u0026amp;t\u003d81073\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://forums.adafruit.com/viewtopic.php?f\u003d19\u0026amp;t\u003d81073\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCKu_PEiLjLAg"
+  }, {
+    "creationTime": "2016-03-11 02:25:44-0500",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "great work i cant get the SPIFFS tools to show up anyhelp please have downloaded java file and put it in tools folder ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDh57u2jbjLAg"
+  }, {
+    "creationTime": "2016-03-11 02:48:26-0500",
+    "updateTime": "2016-03-11 02:48:49-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "I\u0026#39;ve got a D1 mini module and a nodemcu board.\u003cbr\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://s.aliexpress.com/3YJfUJJ7\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://s.aliexpress.com/3YJfUJJ7\u003c/a\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://s.aliexpress.com/Y73a6r6v\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://s.aliexpress.com/Y73a6r6v\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eAnd I have the same problem as \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e​​. I\u0026#39;ve tried various pin conjugations, and will keep trying others.\u003cbr\u003e\u003cbr\u003eThe other thing I noticed is that only three patterns are uploaded to the pattern chooser.\u003cbr\u003e\u003cbr\u003eUploading at 921600 is fine on both boards.\u003cbr\u003e\u003cbr\u003eWhen I get it working I\u0026#39;ll let you know.\u003cbr\u003e﻿",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxC32YTAkrjLAg"
+  }, {
+    "creationTime": "2016-03-11 02:50:52-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e​, did you get the path exactly right? \u003cbr\u003e\u003cbr\u003ehome_dir\u0026gt;/Arduino/tools/ESP8266FS/tool/esp8266fs.jar",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD1muiFk7jLAg"
+  }, {
+    "creationTime": "2016-03-11 03:11:09-0500",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e Had the same problem first. Then I downloaded from the release page\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/esp8266/arduino-esp8266fs-plugin/releases/tag/0.2.0\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/esp8266/arduino-esp8266fs-plugin/releases/tag/0.2.0\u003c/a\u003e\u003cbr\u003elooked in Arduino IDE preferences for the Sketchbook location (in my case: C:\\Users\\ASUS\\Documents\\Arduino )\u003cbr\u003eand installed the zip file there.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDFy_rJl7jLAg"
+  }, {
+    "creationTime": "2016-03-11 04:35:43-0500",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e  cool thanks ill make sure and the mini d1 has different pin outputs ill post a picture in few min hope it helps  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCQ9Ma9qrjLAg"
+  }, {
+    "creationTime": "2016-03-11 04:40:00-0500",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://lh3.googleusercontent.com/7rg8uXo4qf5fp7SbiQM_C9zcajD4KrFvEBmVc6XDC81g_f03XZUr6RBLBLXKIIT8HaEs\u003dw1680-h1050-rw-no\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://lh3.googleusercontent.com/7rg8uXo4qf5fp7SbiQM_C9zcajD4KrFvEBmVc6XDC81g_f03XZUr6RBLBLXKIIT8HaEs\u003dw1680-h1050-rw-no\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD-rd63q7jLAg"
+  }, {
+    "creationTime": "2016-03-11 08:31:37-0500",
+    "updateTime": "2016-03-11 09:03:03-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "I\u0026#39;m not sure, but I think the problem I have is with the java side of things.  The webpage loads with just three patterns to choose from, it never manages to call the java function getAll(), so the number of patterns in the selection box is just the three hard coded into index.htm.  This also means that there is no web control :(  \u003cbr\u003e\u003cbr\u003eI\u0026#39;m using Arduino 1.6.5, ESP8266 2.1.0 (and have tried 2.0.0), and the latest FastLED. \u003cbr\u003e\u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, should there be  jQuery and or bootstrap files in the data folder? Thanks :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDp_Lya37jLAg"
+  }, {
+    "creationTime": "2016-03-11 09:40:24-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I combined all of the js files (jQuery, Bootstrap,  and my own) into the one scripts.js file, to cut down on the number of requests the browser has to make to the ESP.  I did the same with the css files.  The browser downloads and parses index.htm, and immediately issues simultaneous requests for all the resources specified.  The ESP was crashing trying to handle them all at once.  I found a few suggestions online to have everything inline in the html file, but that seemed excessive, and this strategy works fine on my board.\u003cbr\u003e\u003cbr\u003eIf you\u0026#39;re having problems with the web app, I would suggest making sure the sketch is working fine on its own first.  Set autoplayEnabled \u003d true on line 113, and make sure it starts up, connect to your wifi (or starts up its own access point), and then cycles through all of the patterns.\u003cbr\u003e\u003cbr\u003eThen, if everything works fine, start troubleshooting the web app.  Get used to working with your browser\u0026#39;s dev tools (I use Chrome, which is great).  Open a new browser tab, go to the network tab in dev tools, then navigate to the index.htm page.  You should see the browser\u0026#39;s requests for the index.html, scripts.js, styles.css, etc.  If everything gets loaded, you should then see a GET request for /all.  Click the On button, and you should see a POST request for /power?value\u003d1.  Each control in the web form should send a request and receive a response.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCD4qHK7rjLAg"
+  }, {
+    "creationTime": "2016-03-11 11:19:07-0500",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e\u003cbr\u003eI got it !!\u003cbr\u003eThe app is calling for 192.168.1.24 but there is no such IP address defined in my settings.\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://drive.google.com/file/d/0B95I9Cyf8XgnazVUWFJRTlcwSG8/view\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://drive.google.com/file/d/0B95I9Cyf8XgnazVUWFJRTlcwSG8/view\u003c/a\u003e\u003cbr\u003eThe URL is defined in \\data\\js\\scripts.js\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://drive.google.com/file/d/0B95I9Cyf8XgnVE01bHpYd203TUE/view?usp\u003dsharing\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://drive.google.com/file/d/0B95I9Cyf8XgnVE01bHpYd203TUE/view?usp\u003dsharing\u003c/a\u003e\u003cbr\u003eThe solution is simple: comment out line 25 and uncomment line 26. \u003cbr\u003eUpload the data bin again and now it works BEAUTYFULLY. Thanks a million to Jason for his great job !\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCx4-nShLnLAg"
+  }, {
+    "creationTime": "2016-03-11 11:27:13-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e, I\u0026#39;ve just found the very same thing :) It\u0026#39;s showing as lines 86 and 87 in scripts.js on my editor.  Comment out line 86 and uncomment line 87.  Then it works fantastically well, thank you \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxC6nqG6hrnLAg"
+  }, {
+    "creationTime": "2016-03-11 11:28:16-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Ah, sorry, I meant to switch that back before committing to GitHub.  :)  Glad you got it working!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCO5sbYhrnLAg"
+  }, {
+    "creationTime": "2016-03-11 12:43:21-0500",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e after it finally works I have a suggestion for improvement:\u003cbr\u003eIt always is a hassle if the router assigns a different IP address through DHCP because you have to open the serial monitor to see what\u0026#39;s going on. I was already about to install in my lamps a little display, but the I found the solution.\u003cbr\u003eSo it is much easier if you can set a static IP:\u003cbr\u003eI wasn\u0026#39;t able to put it so neatly into the code like you, so I just commented in and out;  but here is the recipe:\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://pastebin.com/Kd2s4iB4\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://pastebin.com/Kd2s4iB4\u003c/a\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDcmPC8l7nLAg"
+  }, {
+    "creationTime": "2016-03-12 01:36:31-0500",
+    "author": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    },
+    "content": "I got it to work using Arduino IDE 1.6.5, thanks! An interesting usage note: I forgot to put in my WiFi credentials, and it still is able to connect to my WiFi router. My WeMos D1 Mini must have the SSID and password stored somewhere in there. Here\u0026#39;s the text from the serial monitor on startup:\u003cbr\u003eConnecting to\u003cbr\u003e.......ip:192.168.1.107,mask:255.255.255.0,gw:192.168.1.1\u003cbr\u003e.Connected! Open \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://192.168.1.107\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://192.168.1.107\u003c/a\u003e in your browser",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCCjYylxLrLAg"
+  }, {
+    "creationTime": "2016-03-12 06:52:51-0500",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "hi have lost my sketch on my pc which one should i download is their a working one ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD2u9L_irvLAg"
+  }, {
+    "creationTime": "2016-03-12 09:08:35-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "The original link I posted should work.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDVjtmqqbvLAg"
+  }, {
+    "creationTime": "2016-03-12 11:29:44-0500",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e thanks what about the changes which have been talked about do i need to do them thanks",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCX3J7xyLvLAg"
+  }, {
+    "creationTime": "2016-03-12 11:33:45-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Have you tried it yet?  Only one tiny js code change was required, and the code on GitHub has already been updated.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDblK3kybvLAg"
+  }, {
+    "creationTime": "2016-03-13 04:07:22-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e have just tryed got the data folder uploaded but get loads of errors  when try uploading the sketch just trying a clean install of arduino dont know if the 3 versions iam running are messing each other up lol\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDwqPe6mr3LAg"
+  }, {
+    "creationTime": "2016-03-13 09:14:23-0400",
+    "updateTime": "2016-03-13 09:15:09-0400",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e​​, I used arduino 1.6.5, with ESP 2.1.0 and the ESP SPIFFS uploader 0.2.0.  This works fine with the latest FastLed :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDJ1eaK373LAg"
+  }, {
+    "creationTime": "2016-03-14 07:11:55-0400",
+    "updateTime": "2016-03-14 12:24:23-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e or anyone got this error coming up have moved to my quicker laptop to try and upload the sketch",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDRzoPKhcDLAg"
+  }, {
+    "creationTime": "2016-03-14 09:48:29-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e Can you please move those errors to \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://pastebin.com\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://pastebin.com\u003c/a\u003e or \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com\u003c/a\u003e and just post a link to them here?\u003cbr\u003e\u003cbr\u003eNot sure what\u0026#39;s causing your error, but you might try it with Arduino 1.6.5.  Also, it looks like you\u0026#39;ve got sketches (fibonacci and esp8266-fastled-webserver) in your libraries directory.  Should probably move those to your sketchbook directory to avoid conflicts.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCjtqTJqMDLAg"
+  }, {
+    "creationTime": "2016-03-14 10:06:24-0400",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "go to board manager look for esp8266, click on more info, and select version 2.0.0",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDNnfjJrMDLAg"
+  }, {
+    "creationTime": "2016-03-14 14:02:01-0400",
+    "author": {
+      "displayName": "Olaf Meier",
+      "profilePageUrl": "https://plus.google.com/113942256385327945719",
+      "resourceName": "users/113942256385327945719"
+    },
+    "content": "Probably I do have the same issue as Jeremy Spencer above. The HTML code is loaded but obviously not the Java Script as well as the Fonts and the png. Viewing the serial output during booting phase, the following beside others can be seen:\u003cbr\u003eFS File: /favicon.ico, size: 4286\u003cbr\u003eFS File: /images/atom196.png, size: 0\u003cbr\u003eFS File: /index.htm, size: 5110\u003cbr\u003eFS File: /css/styles.css, size: 33792\u003cbr\u003escandone\u003cbr\u003estate: 0 -\u0026gt; 2 (b0)\u003cbr\u003eFS File: /js/scripts.js, size: 0\u003cbr\u003eFS File: /fonts/glyphico.eot, size: 0\u003cbr\u003eI am using the 8pin Header ESP8266-01 with 512kB Flash and 64k SPIFFS according the Arduino IDE 1.6.5. The ESP extention is 2.0.0.\u003cbr\u003eCould it be the case, that the memory is much to less or that I have chosen the wrong board? Actually I have selected the generic ESP8266 Module. \u003cbr\u003eHopefully one of you can guide me a little while I am preparing a different board. Many thanks in advance!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCXsPSe4cDLAg"
+  }, {
+    "creationTime": "2016-03-14 15:17:11-0400",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113942256385327945719\" oid\u003d\"113942256385327945719\" \u003eOlaf Meier\u003c/a\u003e\u003c/span\u003e  ESP-01 seems too small; look for a ESP with 4M like ESP-07 or ESP-12\u003cbr\u003eI recommend Adafruit\u0026#39;s Huzzah or Feather Huzzah. They are dirt cheap and you can get it from EXP-Tech.de\u003cbr\u003eIf you want to use your ESP-01 you have to settle for my old code w/o the nice color picker\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://pastebin.com/Pydqx6n2\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://pastebin.com/Pydqx6n2\u003c/a\u003e\u003cbr\u003eGreetings to Hanover !\u003cbr\u003e ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCAy6-F8sDLAg"
+  }, {
+    "creationTime": "2016-03-14 15:31:01-0400",
+    "author": {
+      "displayName": "Olaf Meier",
+      "profilePageUrl": "https://plus.google.com/113942256385327945719",
+      "resourceName": "users/113942256385327945719"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e Many thanks for your immediate  feedback. I started already soldering the ESP-07. Based on your feedback, I am in a good mood now. Keep you updated :-)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDRvLKR9cDLAg"
+  }, {
+    "creationTime": "2016-03-15 15:14:48-0400",
+    "author": {
+      "displayName": "Olaf Meier",
+      "profilePageUrl": "https://plus.google.com/113942256385327945719",
+      "resourceName": "users/113942256385327945719"
+    },
+    "content": "Just to keep you updated. The ESP-07 I got, is supporting only 1MB instead of 4MB. Means, also too small for this project. But \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e his Sketch is working fine on the ESP-07! I arranged to borrow tomorrow an ESP-12 with definitely 4MB. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDJqo2ws8PLAg"
+  }, {
+    "creationTime": "2016-03-15 15:26:45-0400",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "... and on the ESP-01   ;)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDEk-2FtsPLAg"
+  }, {
+    "creationTime": "2016-03-15 17:55:10-0400",
+    "updateTime": "2016-03-15 17:57:17-0400",
+    "author": {
+      "displayName": "Olaf Meier",
+      "profilePageUrl": "https://plus.google.com/113942256385327945719",
+      "resourceName": "users/113942256385327945719"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e I quickly tested your code on one of my ESP-01. It is working there as well. Just with 0,5MB Flash.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDt3JWc18PLAg"
+  }, {
+    "creationTime": "2016-03-15 18:03:56-0400",
+    "author": {
+      "displayName": "Olaf Meier",
+      "profilePageUrl": "https://plus.google.com/113942256385327945719",
+      "resourceName": "users/113942256385327945719"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Please do not worry!! I will go ahead with your sketch as soon I have catched up a device with more Flash. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD_wumW2cPLAg"
+  }, {
+    "creationTime": "2016-03-16 19:30:20-0400",
+    "author": {
+      "displayName": "Olaf Meier",
+      "profilePageUrl": "https://plus.google.com/113942256385327945719",
+      "resourceName": "users/113942256385327945719"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e\u003cbr\u003eActually I am back home from our \u0026quot;Arduino Treffpunkt Hannover\u0026quot; with some devices in my luggage. Quickly I connected a brandnew D1 mini to my Computer and downloaded the files.\u003cbr\u003eEverything is fine at last. 4MB Flash make me happy.\u003cbr\u003eMany thanks for your support!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDK7MytrsbLAg"
+  }, {
+    "creationTime": "2016-03-24 09:23:46-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e,  need your help with the problem I have trying to get my Esp-01 module working.\u003cbr\u003eTried Juergen\u0026#39;s original sketch but can\u0026#39;t get it working. Reading through this post comments I understand that the Esp-01 is probably too small for your sketch.\u003cbr\u003eAny suggestions ?   Thanks ! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDXhbnZtdnLAg"
+  }, {
+    "creationTime": "2016-03-24 09:40:47-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106626345342202981932\" oid\u003d\"106626345342202981932\" \u003eJP Roy\u003c/a\u003e\u003c/span\u003e Sorry, I\u0026#39;ve only tried it on the Adafruit Huzzah.  My web app is about 600 KB, but it doesn\u0026#39;t seem you\u0026#39;re getting far enough for that to be the issue.  You\u0026#39;re still getting the compile errors you posted in Juergen\u0026#39;s post, right?  That seems like an issue with the ESP8266 tools.  If you enable verbose compilation output, copy the output to a pastebin or gist, and post a link to it here, I\u0026#39;ll try to take a look.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDF957AudnLAg"
+  }, {
+    "creationTime": "2016-03-24 09:45:53-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, yes I can\u0026#39;t get past that compile error.\u003cbr\u003eTried with the newer Arduino IDE 1.6.8, no changes.\u003cbr\u003eNow I am wondering about the tool you are describing, is that different from the stuff you get when loading the ESP8266 support in the board manager ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCpiInSutnLAg"
+  }, {
+    "creationTime": "2016-03-24 09:47:38-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I followed these instructions: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eIf you want me to help, I need the verbose compiler output in a gist or pastebin...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD9po6Eu9nLAg"
+  }, {
+    "creationTime": "2016-03-24 09:52:16-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e,  here is the link to that compiler output I get...\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com/jpro56/309931d032314d693c31\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com/jpro56/309931d032314d693c31\u003c/a\u003e ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDd09SIvNnLAg"
+  }, {
+    "creationTime": "2016-03-24 09:57:06-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Do you have the latest from the FastLED master branch?  Did you enable verbose compiler output in the Arduino preferences?  The output you posted seems a little light for verbose.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCqofSSvdnLAg"
+  }, {
+    "creationTime": "2016-03-24 10:06:50-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, thanks for helping here, greatly appreciated !\u003cbr\u003eI am going through Adafruit\u0026#39;s stuff now and will see if I pickup anything there...\u003cbr\u003eI have FastLED 3.1 but did not fetch the latest version for a while so will do so asap.\u003cbr\u003eI did turn on verbose compiler output and that is what I got as output :(",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxClsbupv9nLAg"
+  }, {
+    "creationTime": "2016-03-24 11:28:57-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, \u003cbr\u003eWent through the Adafruit\u0026#39;s instructions and all went great !!\u003cbr\u003eLoaded latest from FastLED Master and I was able to compile and flash Juergen\u0026#39;s code.\u003cbr\u003eIt is now running in access point mode and I have 4 WS2811 LEDs hooked up and they are rapidly dancing to some default pattern in his sketch. Looks ok I guess ;)\u003cbr\u003e Now I tried using the suggested IP adress (192.168.4.1) as suggested in the sketch but that fails to connect, I am a bit lost with IP and web access details. Should I specify an IP address that is more specific to my own setup ??\u003cbr\u003eAlso tried to locate the new wifi \u0026quot;ESP_FastLED_Access_Point\u0026quot; from a tablet but it is not listed. I do see a bunch of available access points but none with names that could apply here. Any suggestions ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxC1oIzX0dnLAg"
+  }, {
+    "creationTime": "2016-03-24 11:31:55-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yeah, if it\u0026#39;s in access point mode, you\u0026#39;ll have to connect to its wireless network.  Check the serial output and verify the SSID and IP address.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxC0iuer0tnLAg"
+  }, {
+    "creationTime": "2016-03-24 11:38:13-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e  OK showing my age here...  ;-)\u003cbr\u003eI get nothing in the serial monitor.\u003cbr\u003eI managed to get the Adafruit 2nd example going where I used my wifi and password and the Adafruit server responded as indicated.\u003cbr\u003eI did update Juergen\u0026#39;s sketch with the correct SSID and Password (double-checked here...  )\u003cbr\u003eNow, how do I check the serial output and IP address ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD8qqXg09nLAg"
+  }, {
+    "creationTime": "2016-03-24 11:41:12-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hmmm.... just tried the serial monitor again while resetting the Esp-01 and I get gibberish info at 115200 which is the baud rate I used for the download",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDSk8u11NnLAg"
+  }, {
+    "creationTime": "2016-03-24 11:41:23-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Looks like his sketch isn\u0026#39;t writing anything to serial, shame on him.  :)  Is your ap mode password at least 8 characters?  I think it fails silently if not.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxC3kb261NnLAg"
+  }, {
+    "creationTime": "2016-03-24 11:42:39-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Yes the PW is 10 char long and it did work with the Adafruit sketch",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDBgune1NnLAg"
+  }, {
+    "creationTime": "2016-03-24 11:43:32-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Weird.  Try a different SSID?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxC43oz41NnLAg"
+  }, {
+    "creationTime": "2016-03-24 11:45:58-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e  For SSID, I used the name that we assigned to our home wifi router. I do not have any other access points that I could try ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDf78e91dnLAg"
+  }, {
+    "creationTime": "2016-03-24 11:50:43-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "In access point mode, you need to use a different SSID.  In station mode, you use your home wifi SSID and password.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDJqPHF1tnLAg"
+  }, {
+    "creationTime": "2016-03-24 11:55:46-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Alright, showing my age again...\u003cbr\u003eHis sketch has 2 options \u0026#39;Access Point\u0026#39; and \u0026#39;Web Server\u0026#39;  I follow the Access Point method, how is \u0026#39;station mode\u0026#39; different from either of these ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCbkP_V19nLAg"
+  }, {
+    "creationTime": "2016-03-24 11:58:04-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "In access point mode, the ESP8266 sets up its own wifi network.  In station mode, it joins another wifi network.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDHxIuY2NnLAg"
+  }, {
+    "creationTime": "2016-03-24 11:58:56-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "OK, something I just noticed in his sketch is that he sets... Serial.begin(9600);\u003cbr\u003eand he does try to output some info on the serial port\u003cbr\u003eJust changed the Serial monitor to 9600, reset the Esp-01 and I still get gibberish characters !?!?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDUvfGw2NnLAg"
+  }, {
+    "creationTime": "2016-03-24 13:22:47-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e,  THANKS !!  I finally got something going here...\u003cbr\u003eI changed the SSID to some random name \u0026#39;jpsid\u0026#39; and created a password for it and I was able to connect to the ESP-01 with  my Samsung tablet and play with some of the LEDs settings as advertised!\u003cbr\u003eNow, I changed that SSID to \u0026#39;myESP8266\u0026#39; and remove the password then uploaded the mods to the ESP-01 successfully but strangely enough, the tablet still displays that old SSID name \u0026#39;jpsid\u0026#39; when I power-up the ESP-01 and insists on me providing that password I had initially specified and when I comply it does work as before. \u003cbr\u003eDo you think this is just a weird behavior of my Samsung tablet or am I missing something on the sketch side to effectively change it\u0026#39;s SSID/Password ?\u003cbr\u003eThanks Jason !!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDdoOSP69nLAg"
+  }, {
+    "creationTime": "2016-03-24 13:51:55-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I think there\u0026#39;s a command you can add to the sketch to erase any stored settings.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD2y4bR8dnLAg"
+  }, {
+    "creationTime": "2016-03-24 14:12:11-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, just tried to reload the Adafruit wifi test that (I think...) sets the ESP-01 in station mode as you described it.\u003cbr\u003eThat worked fine...\u003cbr\u003eReloaded Juegen\u0026#39;s modified sketch with the new SSID name and no password as I would prefer to have and still the wifi name that appears on my Samsung tablet is the initial name and I must enter a password like I initially provided.\u003cbr\u003eI could not find any place in the sketch that would erase old settings. I would assume that reloading new SSID and password info into the ESP-01 would overwrite any previous data !\u003cbr\u003eI will try later with another wifi capable device to see if it is a weird Android /Samsung behaviour.\u003cbr\u003eThanks for any more suggestions about this !  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCon5mV9tnLAg"
+  }, {
+    "creationTime": "2016-03-24 14:16:07-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Tried ESP.eraseConfig()?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxC9u86F99nLAg"
+  }, {
+    "creationTime": "2016-03-24 14:17:05-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "From within the sketch ??",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCRiqWh99nLAg"
+  }, {
+    "creationTime": "2016-03-24 14:48:52-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yes.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD2--qu_tnLAg"
+  }, {
+    "creationTime": "2016-03-24 15:02:17-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, really sorry to bug you about this as it is working at this point and I just can\u0026#39;t understand what is happening when I load a new sketch with new parameters and somehow see that the older parameters got stuck somehow !?!?\u003cbr\u003eI did confirm one thing, I used another wifi enabled device and it also sees the old SSID indicating that the problem is with loading new parameters to the ESP-01 and definitely not a Samsung/Android funny.\u003cbr\u003eWill look into that ESP.eraseConfig() and figure out how to use it.\u003cbr\u003eThanks for all the help !",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDHiNSugdrLAg"
+  }, {
+    "creationTime": "2016-03-27 01:08:20-0400",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106626345342202981932\" oid\u003d\"106626345342202981932\" \u003eJP Roy\u003c/a\u003e\u003c/span\u003e​ first set up as webserver and provide your home wifi name and pw. Connect and test. Then pick any  NEW AP name and leave pw blank (\u0026quot;\u0026quot;).  There can\u0026#39;t be two wifis w the same name.  Make sure you comment out the webserver part in the beginning and also in setup After upload open serial monitor, reset and You see the settings. Take your phone and search for wifi in range. You will find the name you assigned. Then open in your browser the Ip address  (e.g. 192.168.4.1 )",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCZkqTHjODLAg"
+  }, {
+    "creationTime": "2016-03-28 13:30:43-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e, back on this issue after long Easter weekend...\u003cbr\u003eI managed to get both Webserver and Access Point modes working just fine but for whatever reason, my mobile devices always see that old name when I flash into Access Point mode with a new name for my SSID !?!?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCL79it9OPLAg"
+  }, {
+    "creationTime": "2016-03-28 13:50:43-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Also tried Jason\u0026#39;s suggestion of adding ESP.eraseConfig(); within setup and it made no difference.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDwstPp-OPLAg"
+  }, {
+    "creationTime": "2016-03-31 00:53:29-0400",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "Hi JP\u003cbr\u003eI\u0026#39;m so glad that it finally works for you. I\u0026#39;m for 3 weeks on a trip w\u003cbr\u003esporadic mail access.\u003cbr\u003eAll in all it took me 6 months to figure out the ESP, and just like you I\u003cbr\u003ehad to learn a lot about IP and HTML. But once you get a grip on it and\u003cbr\u003edon\u0026#39;t fish in muddy water anymore the ESP is great. That \u0026#39;s why I thought I\u003cbr\u003eshare it with everyone.\u003cbr\u003eAlready looking forward with what you\u0026#39;ll come up with next.\u003cbr\u003eBest\u003cbr\u003eJuergen",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDxobfZkOrLAg"
+  }, {
+    "creationTime": "2016-03-31 01:08:51-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Yeah, nice little program you did there...\u003cbr\u003eI intend to use it as a control panel for my cube instead of having physical knobs, switches, lcd display etc...\u003cbr\u003eBut that is low on my ever growing to-do list. I will need to dig into the web page design and see what I can do. Did you ever get more bells and whistles into that sketch ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCU09qQlOrLAg"
+  }, {
+    "creationTime": "2016-03-31 02:20:32-0400",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106626345342202981932\" oid\u003d\"106626345342202981932\" \u003eJP Roy\u003c/a\u003e\u003c/span\u003e​ nope, just changed background and wording. In my original sketch I made a version with the funkboxing animations, plus RGB and speed sliders, but not ported yet to this css version \u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/100898903212768945471\" oid\u003d\"100898903212768945471\" \u003eThomas Eldredge\u003c/a\u003e\u003c/span\u003e​ do you have any interest in this stuff?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCH9seTpOrLAg"
+  }, {
+    "creationTime": "2016-04-28 20:03:00-0400",
+    "author": {
+      "displayName": "Clint Fisher",
+      "profilePageUrl": "https://plus.google.com/105938766956449019499",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-8odxgS0hqHk/AAAAAAAAAAI/AAAAAAAAAHA/6HgNElPF2m8/s64-c/photo.jpg",
+      "resourceName": "users/105938766956449019499"
+    },
+    "content": "Great job +Jason Coon (and other contributors)!!\u003cbr\u003e\u003cbr\u003eWhat a great starting-off point!   Once I figured out that I had to add  \u003ca rel\u003d\"nofollow\" class\u003d\"ot-hashtag bidi_isolate\" href\u003d\"https://plus.google.com/s/%23define/posts\" \u003e#define\u003c/a\u003e FASTLED_ESP8266_RAW_PIN_ORDER to get mine working, it works great!   THANK YOU!!!\u003cbr\u003e\u003cbr\u003eI\u0026#39;ve been considering wrapping patterns in C++ classes since most patterns have common attributes, such as speed, base-colors, and other parameters that might need to be saved to EEPROM.   I\u0026#39;d love to hear if others have wrapped FastLED patterns in classes for this reason.\u003cbr\u003e\u003cbr\u003eI plan on adding a speed slider to the page, as well as allowing the color picker to apply new base-colors to patterns where it may apply.\u003cbr\u003e\u003cbr\u003eThe next step will be to make dynamically saveable patterns, where a base pattern can be modified, with different base-colors, or speed, for example, and then saved as a sub-set of the pattern.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDto7jtxbLMAg"
+  }, {
+    "creationTime": "2016-05-09 06:47:27-0400",
+    "author": {
+      "displayName": "Danny Evans",
+      "profilePageUrl": "https://plus.google.com/118334779491718995818",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Pc70ykKqRNQ/AAAAAAAAAAI/AAAAAAAAAfw/LGFwviPLB7I/s64-c/photo.jpg",
+      "resourceName": "users/118334779491718995818"
+    },
+    "content": "Just got this running today... Awesome!\u003cbr\u003e\u003cbr\u003eHoping to make some little standalone LED strip controllers I can walk around a party and change settings on.\u003cbr\u003e\u003cbr\u003eJust gotta figure out how to change the supplied patterns to different ones and I\u0026#39;m set.\u003cbr\u003e\u003cbr\u003eThanks to those that figured out the hard stuff!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCoueTG6MzMAg"
+  }, {
+    "creationTime": "2016-05-09 13:06:49-0400",
+    "updateTime": "2016-05-09 13:07:33-0400",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/118334779491718995818\" oid\u003d\"118334779491718995818\" \u003eDanny Evans\u003c/a\u003e\u003c/span\u003e you have to set it up as webserver, assign different static IP addresses to the modules and save the HTML links to short-cuts. \u003cbr\u003eIF you are a HTML wiz you could look into writing a code with module selection  \u003cbr\u003eand - please - share your code.\u003cbr\u003eWRT to changing over to your patterns:\u003cbr\u003eLeave Jason\u0026#39;s names and just paste new patterns in the void pattern_name()\u003cbr\u003eNot very elegant but serves the purpose ;)\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCX2b-svc3MAg"
+  }, {
+    "creationTime": "2016-05-09 20:21:44-0400",
+    "author": {
+      "displayName": "Danny Evans",
+      "profilePageUrl": "https://plus.google.com/118334779491718995818",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Pc70ykKqRNQ/AAAAAAAAAAI/AAAAAAAAAfw/LGFwviPLB7I/s64-c/photo.jpg",
+      "resourceName": "users/118334779491718995818"
+    },
+    "content": "Thank you Juergen, I understand that this was built from your previous work, or at least inspired by it. Great job!\u003cbr\u003e\u003cbr\u003eI\u0026#39;m no HTML wiz unfortunately... But I\u0026#39;ll have a go.\u003cbr\u003e\u003cbr\u003eI was going to attempt to add/replace the patterns just as they have been done so far in the code, I like running in AP mode. Though in practice that seems unlikely with the code I\u0026#39;m trying at the moment as I can\u0026#39;t figure out how to modify a pattern to run properly in place of another already in the code. I\u0026#39;ll try some simpler code ;)\u003cbr\u003e\u003cbr\u003eIf I get it figured out I\u0026#39;ll definitely share any code I modify.\u003cbr\u003e\u003cbr\u003eI can see this maturing into something amazing if these little chips have the power to run as I imagine.\u003cbr\u003e\u003cbr\u003eWould be awesome If I can one day have separate sets of lights controllable via web app that I can sync together wirelessly.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCdwb_Hns7MAg"
+  }, {
+    "creationTime": "2016-05-10 01:29:16-0400",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "Here is my previous code (without CSS) \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://pastebin.com/Pydqx6n2\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://pastebin.com/Pydqx6n2\u003c/a\u003e\u003cbr\u003eYou have 3 parts: HTML that displays the options,\u003cbr\u003eHTML that reacts on changes (drop-down, slider, button); and\u003cbr\u003eFastLED for the animation.\u003cbr\u003eNote that with AP mode you have to connect with your device to the\u003cbr\u003eWiFi of the ESP. You can\u0026#39;t control more than one at a time.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDXmoGm487MAg"
+  }, {
+    "creationTime": "2016-05-10 09:41:37-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/118334779491718995818\" oid\u003d\"118334779491718995818\" \u003eDanny Evans\u003c/a\u003e\u003c/span\u003e, it should be simple to replace any/all of the patterns included in the sketch.  The only changes you\u0026#39;ll need to make are in the .ino file: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver/blob/master/esp8266-fastled-webserver.ino#L270-L281\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver/blob/master/esp8266-fastled-webserver.ino#L270-L281\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eUse the same syntax shown there to specify the pattern functions and names.  The pattern functions should return void and only draw a single frame without any calls to delay.\u003cbr\u003e\u003cbr\u003eThe web app requests the list of pattern names from the esp8266 when loaded.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCwx7-s0c_MAg"
+  }, {
+    "creationTime": "2016-08-10 03:42:09-0400",
+    "author": {
+      "displayName": "Hamid s k",
+      "profilePageUrl": "https://plus.google.com/106722914355038967861",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-GG5_53AdjV0/AAAAAAAAAAI/AAAAAAAABQE/h-no38QDY_0/s64-c/photo.jpg",
+      "resourceName": "users/106722914355038967861"
+    },
+    "content": "hi Jason , I made sketch so can made scenario of predefined effect with ESP module , however my wifi  connection get lost after a while , I open ticket at following links and I really appreciated if you could look at it , thanks\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/FastLED/FastLED/issues/337#issuecomment-238694433\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/FastLED/FastLED/issues/337#issuecomment-238694433\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD3k57LrLbOAg"
+  }, {
+    "creationTime": "2016-08-10 13:57:05-0400",
+    "updateTime": "2016-08-10 13:59:35-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I haven\u0026#39;t noticed that issue, but haven\u0026#39;t been using it heavily and may just not have noticed.  You might try commenting out the calls to FastLED.delay.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eEdit\u003c/b\u003e: you might also try commenting out the calls to delay as well.  Also, try it without any FastLED code at all, as the issue may have nothing to do with FastLED, and may be a more general ESP8266 issue.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCu3rSEtrfOAg"
+  }, {
+    "creationTime": "2016-08-10 15:26:51-0400",
+    "author": {
+      "displayName": "Hamid s k",
+      "profilePageUrl": "https://plus.google.com/106722914355038967861",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-GG5_53AdjV0/AAAAAAAAAAI/AAAAAAAABQE/h-no38QDY_0/s64-c/photo.jpg",
+      "resourceName": "users/106722914355038967861"
+    },
+    "content": "there is no issue  when FastLED not in loop() and that\u0026#39;s why I open ticket in FastLED repo, the problem  somehow is , the   interrupt chock the wifi stack , I was hopping find the way to decrease this conflict ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCA---MyrfOAg"
+  }, {
+    "creationTime": "2016-09-02 08:17:56-0400",
+    "author": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "resourceName": "users/112392188627004225254"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Great example! Thank you very much. At the moment im digging into the code and have build my own example with a bootstrap switch button which works great. For performance I have gzipped the index.htm and the .css and .js but my Brwoser always opens a download dialog. Can you say, where I have to add what so that the browser decompresses the files. Thanks ;)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDvsa-Q1fDOAg"
+  }, {
+    "creationTime": "2016-09-02 20:59:45-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112392188627004225254\" oid\u003d\"112392188627004225254\" \u003eLars Walpurgis\u003c/a\u003e\u003c/span\u003e!  Hrm, do your files have a .gz extension?  Can you post a link to your code?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDnxuqz__HOAg"
+  }, {
+    "creationTime": "2016-09-04 12:44:27-0400",
+    "author": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "resourceName": "users/112392188627004225254"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ thanks I will post it tomorrow ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDIgOa2lPbOAg"
+  }, {
+    "creationTime": "2016-09-04 18:50:02-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "Hi jason , after two weeks of chasing the same problem im looking for help .\u003cbr\u003emy project is similar to yours in a way, but also based on others, and it is working fine if i use my computer to run the web page , but if i use the ESP address most of the times it fails , and almost always fails when trying to load the CSS file .\u003cbr\u003e\u003cbr\u003ei tried everything, purifying the css, minifying, gzip, changing load order ,... no luck \u003cbr\u003e\u003cbr\u003ehave you experienced unreliable behavior , on esp, as a good web server?\u003cbr\u003e\u003cbr\u003edo you know if there is a way, to improve it ?\u003cbr\u003e\u003cbr\u003emy esp, uses one CSS ( i have loaded all peaces into one), the the JQM.js , a wheelcolorpicker.js , and my own JS .\u003cbr\u003enormally, all JS, loads ok, and 99_% of the time the CSS failed to load with the classical : net::ERR_CONTENT_LENGTH_MISMATCH , error\u003cbr\u003e\u003cbr\u003eappreciate any advice,\u003cbr\u003ethanks \u003cbr\u003e ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCtj4qS5vbOAg"
+  }, {
+    "creationTime": "2016-09-05 09:46:26-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107480761240011957432\" oid\u003d\"107480761240011957432\" \u003eGustavo K\u003c/a\u003e\u003c/span\u003e Does it work if you don\u0026#39;t gzip the files?  If the files are gzipped the file name should end in .gz (like styles.css.gz).  That\u0026#39;s how the ESP web server knows to send it with the Content-Encoding set to gzip.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDgmdPArvjOAg"
+  }, {
+    "creationTime": "2016-09-05 18:34:13-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "yes it does on the computer server, but on the ESPSERVER it complains by sending the ERR_CONTENT_LENGHTH....  message  when loading the page .it seams im reaching  some of  the ESP8266 Server  limitations ..",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD5wc68pPnOAg"
+  }, {
+    "creationTime": "2016-09-06 01:30:38-0400",
+    "author": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "resourceName": "users/112392188627004225254"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e here is my Example. \u003cbr\u003e\u003cbr\u003e\u003cbr\u003eIn this example my source of code was the bootstrap switch button test.html which is in the same folder. These shows only 2 bootstrap switch buttons(no functionality). I changed the code like in your example... copied the js und css folders together. (Why have you to to that? Cant the esp handle more files?) And in the arduino sketch folder is my code with the data folder. This code and data works, but it needs a lot of time to load. At first you see 2 checkboxes than he loads the css and at least he transforms these into the switch buttons. But i think this could be faster. So I gzipped the html , css and js files. (files are in the folder data gzipped) And exchanged the two lines to: server.serveStatic(\u0026quot;/\u0026quot;, SPIFFS, \u0026quot;/test.htm.gz\u0026quot;);\u003cbr\u003e\tserver.serveStatic(\u0026quot;/test.htm.gz\u0026quot;, SPIFFS, \u0026quot;/test.htm.gz\u0026quot;);\u003cbr\u003eBut the webserver doesnt find a htm file. Why? And why do I have to use the two lines? Where is the difference between them?\u003cbr\u003eThanks for help!\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "link": {
+      "title": "ESP Webserver",
+      "url": "https://www.dropbox.com/sh/2fyvx6k6pyy42tq/AADfOMvrtAjs0FnaAF04EP7Ra?dl\u003d0",
+      "imageUrl": "https://cf.dropboxstatic.com/static/images/icons128/folder_dropbox.png"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCO16rGgfrOAg"
+  }, {
+    "creationTime": "2016-09-06 08:17:44-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112392188627004225254\" oid\u003d\"112392188627004225254\" \u003eLars Walpurgis\u003c/a\u003e\u003c/span\u003e try it without the .gz (\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://test.htm\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003etest.htm\u003c/a\u003e instead of \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://test.htm.gz\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003etest.htm.gz\u003c/a\u003e) in the calls to \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://server.serveStatic\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003eserver.serveStatic\u003c/a\u003e.  The actual file should end in .gz, but not the path passed to serveStatic.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCx57XF3PrOAg"
+  }, {
+    "creationTime": "2016-09-06 13:44:20-0400",
+    "author": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "resourceName": "users/112392188627004225254"
+    },
+    "content": "Thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e it works ;) can you answer me the question why I have to copy all css and js files in one file? And why do I need these two lines? server.serveStatic(\u0026quot;/\u0026quot;, SPIFFS, \u0026quot;/test.htm\u0026quot;);\u003cbr\u003eserver.serveStatic(\u0026quot;/test.htm.gz\u0026quot;, SPIFFS, \u0026quot;/test.htm\u0026quot;);\u003cbr\u003eThanks a lot!!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDFyNLFpfvOAg"
+  }, {
+    "creationTime": "2016-09-07 11:59:04-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112392188627004225254\" oid\u003d\"112392188627004225254\" \u003eLars Walpurgis\u003c/a\u003e\u003c/span\u003e You don\u0026#39;t have to combine the css and js, but it cuts down on the number of requests the ESP8266 has to serve.  It seemed to speed up the load time.\u003cbr\u003e\u003cbr\u003eI think the line server.serveStatic(\u0026quot;/\u0026quot;, SPIFFS, \u0026quot;/index.htm\u0026quot;); makes it serve the index page for requests to /, so you don\u0026#39;t have to type in ipaddress/htm in your browser.\u003cbr\u003e\u003cbr\u003eYou shouldn\u0026#39;t need the line server.serveStatic(\u0026quot;/test.htm.gz\u0026quot;, SPIFFS, \u0026quot;/test.htm\u0026quot;);  I have no idea where that came from.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDupNbwz_3OAg"
+  }, {
+    "creationTime": "2016-11-02 09:45:24-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "Hi Jason, I found very interesting the way you update the effect list on the html code at startup , could you please Give a basic explanation on how this part of the code work on both sides?\u003cbr\u003eThank you",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDxpLC5morQAg"
+  }, {
+    "creationTime": "2016-11-02 10:04:35-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Hey thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107480761240011957432\" oid\u003d\"107480761240011957432\" \u003eGustavo K\u003c/a\u003e\u003c/span\u003e. In esp8266-fastled-webserver.ino, line 580 (\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/umbjCm\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/umbjCm\u003c/a\u003e), I build a JSON string array of the pattern names, which ends up looking like:\u003cbr\u003e\u003cbr\u003e\u0026quot;patterns\u0026quot;: [\u0026quot;Pattern 1\u0026quot;, \u0026quot;Pattern 2\u0026quot;, ...]\u003cbr\u003e\u003cbr\u003eThis list, along with all of the other current variable values exposed via HTTP REST services (brightness, color, etc), are returned with a GET request to /all.\u003cbr\u003e\u003cbr\u003eIn /data/js/scripts.js, line 94 (\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/fuAguA\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/fuAguA\u003c/a\u003e), the web app sends the GET request to /all and updates the controls in the web page (using jQuery).  On line 110 it reads the pattern name list and adds then to the drop down list.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCAwKPenorQAg"
+  }, {
+    "creationTime": "2016-12-23 02:10:40-0500",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, have you ever had multiple ESPs running the webserver program at once?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDzoO6q4YnRAg"
+  }, {
+    "creationTime": "2016-12-23 08:14:33-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/105076277442225776356\" oid\u003d\"105076277442225776356\" \u003eChris Creel\u003c/a\u003e\u003c/span\u003e I have three running right now.  :)  Why, are you having issues?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCT04PWsorRAg"
+  }, {
+    "creationTime": "2016-12-23 11:46:39-0500",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "Yes, unfortunately. I keep getting the same error that we were emailing about. It looked like it might not be connecting to an ip, so I wondered if me having another webserver running might be the problem. Here\u0026#39;s the error again in case anyone has an idea. This is running the tree_v2 master:\u003cbr\u003e\u003cbr\u003eHeap: 25072\u003cbr\u003eBoot Vers: 31\u003cbr\u003eCPU: 160\u003cbr\u003eSDK: 1.5.3(aec24ac9)\u003cbr\u003eChip ID: 2887081\u003cbr\u003eFlash ID: 1589487\u003cbr\u003eFlash Size: 16777216\u003cbr\u003eVcc: 65535\u003cbr\u003e\u003cbr\u003escandone\u003cbr\u003estate: 0 -\u0026gt; 2 (b0)\u003cbr\u003estate: 2 -\u0026gt; 3 (0)\u003cbr\u003estate: 3 -\u0026gt; 5 (10)\u003cbr\u003eadd 0\u003cbr\u003eaid 2\u003cbr\u003ecnt \u003cbr\u003eFS File: /css/bootstrap.min.css, size: 121093\u003cbr\u003eFS File: /css/jquery.minicolors.min.css, size: 96597\u003cbr\u003eFS File: /css/simple.css, size: 237\u003cbr\u003eFS File: /css/styles.css, size: 31\u003cbr\u003eFS File: /edit.htm, size: 7887\u003cbr\u003eFS File: /favicon.ico, size: 4286\u003cbr\u003eFS File: /fonts/glyphicons.eot, size: 20127\u003cbr\u003eFS File: /fonts/glyphicons.svg, size: 108738\u003cbr\u003eFS File: /fonts/glyphicons.ttf, size: 45404\u003cbr\u003eFS File: /fonts/glyphicons.woff, size: 23424\u003cbr\u003eFS File: /fonts/glyphicons.woff2, size: 18028\u003cbr\u003eFS File: /images/atom196.png, size: 5469\u003cbr\u003eFS File: /index.htm, size: 11096\u003cbr\u003eFS File: /js/app.js, size: 12933\u003cbr\u003eFS File: /js/bootstrap.min.js, size: 37045\u003cbr\u003eFS File: /js/jquery-3.1.1.min.js, size: 86709\u003cbr\u003eFS File: /js/jquery.minicolors.min.js, size: 15463\u003cbr\u003eFS File: /js/r-websocket.min.js, size: 3100\u003cbr\u003eFS File: /js/simple.js, size: 6261\u003cbr\u003eFS File: /simple.htm, size: 2203\u003cbr\u003e\u003cbr\u003eHostname: ESP8266-2c0da9\u003cbr\u003eConnecting to House of Jack\u003cbr\u003eHTTP web server started\u003cbr\u003eWeb socket server started\u003cbr\u003estate: 5 -\u0026gt; 2 (2c0)\u003cbr\u003erm 0\u003cbr\u003ereconnect\u003cbr\u003estate: 2 -\u0026gt; 0 (0)\u003cbr\u003ef r0, scandone\u003cbr\u003estate: 0 -\u0026gt; 2 (b0)\u003cbr\u003estate: 2 -\u0026gt; 3 (0)\u003cbr\u003estate: 3 -\u0026gt; 5 (10)\u003cbr\u003eadd 0\u003cbr\u003eaid 2\u003cbr\u003ecnt \u003cbr\u003estate: 5 -\u0026gt; 2 (2c0)\u003cbr\u003erm 0\u003cbr\u003ereconnect\u003cbr\u003estate: 2 -\u0026gt; 0 (0)\u003cbr\u003ef r0, scandone\u003cbr\u003estate: 0 -\u0026gt; 2 (b0)\u003cbr\u003estate: 2 -\u0026gt; 3 (0)\u003cbr\u003estate: 3 -\u0026gt; 5 (10)\u003cbr\u003eadd 0\u003cbr\u003eaid 2\u003cbr\u003ecnt",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDUoPqJ4orRAg"
+  }, {
+    "creationTime": "2016-12-23 14:37:28-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yeah, looks like it\u0026#39;s still not getting an IP address.  Tried disconnecting the board and bringing it closer to your access point?  This might be a case where you need to use the external antenna connector: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://forum.wemos.cc/topic/849/wemos-d1-mini-pro-wifi-antenna/7\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://forum.wemos.cc/topic/849/wemos-d1-mini-pro-wifi-antenna/7\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxDPq6ihiIvRAg"
+  }, {
+    "creationTime": "2016-12-23 18:54:11-0500",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "Hmm. I was sitting five feet away from the router. This error was from a spare. The one running on the roof is still peachy. I\u0026#39;ll keep messing with it. Thanks",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxCm3vvRwYvRAg"
+  }, {
+    "creationTime": "2017-01-10 16:30:13-0500",
+    "author": {
+      "displayName": "Sean Smith",
+      "profilePageUrl": "https://plus.google.com/117753502748933503094",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-j_CeZesDz2M/AAAAAAAAAAI/AAAAAAAADTc/g5RJeekNwZI/s64-c/photo.jpg",
+      "resourceName": "users/117753502748933503094"
+    },
+    "content": "I\u0026#39;m sorry if this is a stupid question but how do you include animations like, for example, Fire 2012 or others?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QhFE7hwmxBn",
+    "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC/comments/CiN6MTNxdnRqeGltbmlzYnA0aDA0Y2l0dzRleWZkY3RycjQybxD8ov6Dw7jRAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgiNqA7pRc_ebXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Papa Pau",
+      "profilePageUrl": "https://plus.google.com/112275240268112274020",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-FKOqTXRWuJ4/AAAAAAAAAAI/AAAAAAAAAB8/QolSRHIViVA/s64-c/photo.jpg",
+      "resourceName": "users/112275240268112274020"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NBqJ3BQopJo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUjZtH-NDpU8Y--VLfH8gc42O891A/s64-c/photo.jpg",
+      "resourceName": "users/112392188627004225254"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jamie Evans",
+      "profilePageUrl": "https://plus.google.com/115855607685127963560",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-ss7IcDycsWM/AAAAAAAAAAI/AAAAAAAADgc/DXBX6l3T4nA/s64-c/photo.jpg",
+      "resourceName": "users/115855607685127963560"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Saso Dzuljo Petrovski",
+      "profilePageUrl": "https://plus.google.com/+SasoDzuljoPetrovski",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-hMLitk7Sny0/AAAAAAAAAAI/AAAAAAAAekA/uAuOWYtiHMc/s64-c/photo.jpg",
+      "resourceName": "users/109421065405097980189"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James Reegan",
+      "profilePageUrl": "https://plus.google.com/112978853797159757166",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-04pjbeLrRA4/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUQW7rNOwwcbyPOxw2plhPRYhSGCA/s64-c/photo.jpg",
+      "resourceName": "users/112978853797159757166"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Clint Fisher",
+      "profilePageUrl": "https://plus.google.com/105938766956449019499",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-8odxgS0hqHk/AAAAAAAAAAI/AAAAAAAAAHA/6HgNElPF2m8/s64-c/photo.jpg",
+      "resourceName": "users/105938766956449019499"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juris Perkons",
+      "profilePageUrl": "https://plus.google.com/103512039118630699091",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-GsODo_qHJq8/AAAAAAAAAAI/AAAAAAAAACM/XVhb_-RHsBo/s64-c/photo.jpg",
+      "resourceName": "users/103512039118630699091"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Peter Hanse",
+      "profilePageUrl": "https://plus.google.com/102338616602830154188",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q-TwsnOSW64/AAAAAAAAAAI/AAAAAAAAAtQ/-Wc2Ewsic2s/s64-c/photo.jpg",
+      "resourceName": "users/102338616602830154188"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stéphane FRANÇOIS",
+      "profilePageUrl": "https://plus.google.com/117492528749609965529",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-FwD03RqrWEo/AAAAAAAAAAI/AAAAAAAAAfU/Ciw3_477f7c/s64-c/photo.jpg",
+      "resourceName": "users/117492528749609965529"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jay Rama",
+      "profilePageUrl": "https://plus.google.com/+JayRamaNZ",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-nsqYMH5fpHI/AAAAAAAAAAI/AAAAAAAAKlM/KMpzVRF2UWg/s64-c/photo.jpg",
+      "resourceName": "users/104775471546730600390"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Myron Lo",
+      "profilePageUrl": "https://plus.google.com/117967907587283460512",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-MzTeofQwGpM/AAAAAAAAAAI/AAAAAAAAAFg/U3ybP2LKCtI/s64-c/photo.jpg",
+      "resourceName": "users/117967907587283460512"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "alireza abdiyan",
+      "profilePageUrl": "https://plus.google.com/103598531290170183719",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TC_hB0pAxrE/AAAAAAAAAAI/AAAAAAAABnw/05LG3Z0Q4uU/s64-c/photo.jpg",
+      "resourceName": "users/103598531290170183719"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mike Barela",
+      "profilePageUrl": "https://plus.google.com/+MikeBarela",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-DU3sjU4apU8/AAAAAAAAAAI/AAAAAAAAS3M/hH_GF_0ZFEY/s64-c/photo.jpg",
+      "resourceName": "users/107347561024591163743"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Gordon McLellan",
+      "profilePageUrl": "https://plus.google.com/+GordonMcLellan",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-MuZhtF5I5ow/AAAAAAAAAAI/AAAAAAAAsUM/LQaqPXV0LaI/s64-c/photo.jpg",
+      "resourceName": "users/104319022208295935487"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Peter Hanse",
+      "profilePageUrl": "https://plus.google.com/102338616602830154188",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q-TwsnOSW64/AAAAAAAAAAI/AAAAAAAAAtQ/-Wc2Ewsic2s/s64-c/photo.jpg",
+      "resourceName": "users/102338616602830154188"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/112916219338292742137",
+        "displayName": "Mark Kriegsman"
+      }, {
+        "resourceName": "users/112392188627004225254",
+        "displayName": "Lars Walpurgis"
+      }, {
+        "resourceName": "users/100898903212768945471",
+        "displayName": "Thomas Eldredge"
+      }, {
+        "resourceName": "users/113942256385327945719",
+        "displayName": "Olaf Meier"
+      }, {
+        "resourceName": "users/116805483424237205778",
+        "displayName": "Jeremy Spencer"
+      }, {
+        "resourceName": "users/107480761240011957432",
+        "displayName": "Gustavo K"
+      }, {
+        "resourceName": "users/102282558639672545743",
+        "displayName": "Daniel Garcia"
+      }, {
+        "resourceName": "users/104244816294991900225",
+        "displayName": "dave windsor"
+      }, {
+        "resourceName": "users/102872743704528102328",
+        "displayName": "Garrett Durland"
+      }, {
+        "resourceName": "users/106626345342202981932",
+        "displayName": "JP Roy"
+      }, {
+        "resourceName": "users/116700996827719272404",
+        "displayName": "Juergen Bruegl"
+      }, {
+        "resourceName": "users/105076277442225776356",
+        "displayName": "Chris Creel"
+      }, {
+        "resourceName": "users/118334779491718995818",
+        "displayName": "Danny Evans"
+      }]
+    }
+  }
+}

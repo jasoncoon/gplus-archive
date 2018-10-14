@@ -1,0 +1,300 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/1kGbQeyMBuH",
+  "creationTime": "2016-03-01 19:46:57-0500",
+  "updateTime": "2016-03-01 19:47:53-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I\u0026#39;m experimenting with different ways of mapping an \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112526208786662512291\" oid\u003d\"112526208786662512291\" \u003eAdafruit Industries\u003c/a\u003e\u003c/span\u003e DotStar Disk with 255 APA102 RGB LEDs: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.adafruit.com/product/2477\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.adafruit.com/product/2477\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI\u0026#39;m using the fantastic polar mapping work by \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/118014254683938675401\" oid\u003d\"118014254683938675401\" \u003eAdam Haile\u003c/a\u003e\u003c/span\u003e at \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104486391541517922016\" oid\u003d\"104486391541517922016\" \u003eManiacal Labs LLC\u003c/a\u003e\u003c/span\u003e, thanks for sharing!  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://maniacallabs.com/2015/05/04/review-code-adafruit-dotstar-disk\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://maniacallabs.com/2015/05/04/review-code-adafruit-dotstar-disk\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI also have it XY mapped, and this video shows alternating Noise patterns using both methods.  The \u0026quot;Polar Patterns\u0026quot; video in the playlist shows some other neat uses of the disk\u0026#39;s concentric ring layout.\u003cbr\u003e\u003cbr\u003eDriving it with a Teensy 3.2 by \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113416559182515729363\" oid\u003d\"113416559182515729363\" \u003ePaulStoffregen\u003c/a\u003e\u003c/span\u003e, controlled with an IR remote control, and mounted in a round enclosure.\u003cbr\u003e\u003cbr\u003eSource code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/evilgeniuslabs/sol\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/evilgeniuslabs/sol\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eMore pics and details: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/r1iTCG6SSmyAfgbs8\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/r1iTCG6SSmyAfgbs8\u003c/a\u003e",
+  "media": {
+    "url": "https://youtu.be/MrEfsuV9ba4?list\u003dPLUYGVM-2vDxJ8f6_XWugD-9NlutbJKn4c",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Available from Evil Genius Labs: http://www.evilgeniuslabs.org Circular light art display, built with 255 APA102 RGB LEDs, driven with a Teensy v3.2 using th...",
+    "resourceName": "media/EgtNckVmc3VWOWJhNA\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2016-03-01 19:51:30-0500",
+    "author": {
+      "displayName": "Adam Haile",
+      "profilePageUrl": "https://plus.google.com/+AdamHaile",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-MkVshugzZlQ/AAAAAAAAAAI/AAAAAAAAKq8/o6tZfMzDkBM/s64-c/photo.jpg",
+      "resourceName": "users/118014254683938675401"
+    },
+    "content": "Very nice! May need to use some of those on my Christmas tree next year :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/1kGbQeyMBuH",
+    "resourceName": "users/103867089694409269471/posts/UggEdcsWDQS3wHgCoAEC/comments/CiF6MTMwaXo0cmN3M2xqNWlrNDIzcWoxMnJtdWVhaHh0MHAQ4YLdwuSgywI"
+  }, {
+    "creationTime": "2016-03-01 20:59:18-0500",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Love the polar mapping.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/1kGbQeyMBuH",
+    "resourceName": "users/103867089694409269471/posts/UggEdcsWDQS3wHgCoAEC/comments/CiF6MTMwaXo0cmN3M2xqNWlrNDIzcWoxMnJtdWVhaHh0MHAQsvXk1vOgywI"
+  }, {
+    "creationTime": "2016-03-02 07:12:21-0500",
+    "author": {
+      "displayName": "Thomas Aliberti",
+      "profilePageUrl": "https://plus.google.com/112588283983076774968",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-TwqIiaEyCUU/AAAAAAAAAAI/AAAAAAAAAII/hNYxI3Eu9-I/s64-c/photo.jpg",
+      "resourceName": "users/112588283983076774968"
+    },
+    "content": "Impressive bit of coding!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/1kGbQeyMBuH",
+    "resourceName": "users/103867089694409269471/posts/UggEdcsWDQS3wHgCoAEC/comments/CiF6MTMwaXo0cmN3M2xqNWlrNDIzcWoxMnJtdWVhaHh0MHAQy7Gn2vyhywI"
+  }, {
+    "creationTime": "2016-03-02 12:21:04-0500",
+    "author": {
+      "displayName": "Christian Maier",
+      "profilePageUrl": "https://plus.google.com/103747466383621683379",
+      "resourceName": "users/103747466383621683379"
+    },
+    "content": "Looks great!!!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/1kGbQeyMBuH",
+    "resourceName": "users/103867089694409269471/posts/UggEdcsWDQS3wHgCoAEC/comments/CiF6MTMwaXo0cmN3M2xqNWlrNDIzcWoxMnJtdWVhaHh0MHAQztS62sGiywI"
+  }, {
+    "creationTime": "2016-03-02 20:42:18-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks everyone!  Adam, I need to see it on your tree!  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/1kGbQeyMBuH",
+    "resourceName": "users/103867089694409269471/posts/UggEdcsWDQS3wHgCoAEC/comments/CiF6MTMwaXo0cmN3M2xqNWlrNDIzcWoxMnJtdWVhaHh0MHAQ4Yn43rGjywI"
+  }, {
+    "creationTime": "2016-06-27 18:51:46-0400",
+    "author": {
+      "displayName": "Jon Bruno",
+      "profilePageUrl": "https://plus.google.com/105850439698187626520",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-XNIlZvTIHBQ/AAAAAAAAAAI/AAAAAAAAAGM/imzQpe3rhWo/s64-c/photo.jpg",
+      "resourceName": "users/105850439698187626520"
+    },
+    "content": "Jason, I may be building one to replace my 16x16 matrix on the wall. I especially like the clock feature..  Which brings me to my question.. The housing looks suspiciously like a round office clock. is this the donor source? also as for wiring the leds.. just confirming... Disk.h shows the outer ring as the start and then working its way in correct?\u003cbr\u003eOh and will it run on an arduino or do I need to go with a more stout Teensy?\u003cbr\u003eSpectacular work Sir.. always impressive",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/1kGbQeyMBuH",
+    "resourceName": "users/103867089694409269471/posts/UggEdcsWDQS3wHgCoAEC/comments/CiF6MTMwaXo0cmN3M2xqNWlrNDIzcWoxMnJtdWVhaHh0MHAQtMvG66XJzQI"
+  }, {
+    "creationTime": "2016-06-27 20:06:27-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yeah, the disc fit nicely in a 10 inch clock, with a little trimming on the clock innards.  I haven\u0026#39;t looked at the code in a while, but I think that\u0026#39;s correct.  The LEDs physically start in the outer ring, I think.  I would definitely recommend an ARM board (Teensy, Photon, ESP8266, etc).  I\u0026#39;m not sure most of the patterns would work well on an AVR (most Arduinos).\u003cbr\u003e\u003cbr\u003eThanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/1kGbQeyMBuH",
+    "resourceName": "users/103867089694409269471/posts/UggEdcsWDQS3wHgCoAEC/comments/CiF6MTMwaXo0cmN3M2xqNWlrNDIzcWoxMnJtdWVhaHh0MHAQ---HxLbJzQI"
+  }, {
+    "creationTime": "2016-06-27 23:11:25-0400",
+    "updateTime": "2016-06-27 23:12:00-0400",
+    "author": {
+      "displayName": "Jon Bruno",
+      "profilePageUrl": "https://plus.google.com/105850439698187626520",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-XNIlZvTIHBQ/AAAAAAAAAAI/AAAAAAAAAGM/imzQpe3rhWo/s64-c/photo.jpg",
+      "resourceName": "users/105850439698187626520"
+    },
+    "content": "I have an esp01 laying around somewhere... That should Do it.. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/1kGbQeyMBuH",
+    "resourceName": "users/103867089694409269471/posts/UggEdcsWDQS3wHgCoAEC/comments/CiF6MTMwaXo0cmN3M2xqNWlrNDIzcWoxMnJtdWVhaHh0MHAQjcbv79_JzQI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UggEdcsWDQS3wHgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Jasper Poppe",
+      "profilePageUrl": "https://plus.google.com/111925589669990547106",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-MnJMUJ5DorU/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUZSGlie-o1V1KXxi7dCEKsKNciHA/s64-c/photo.jpg",
+      "resourceName": "users/111925589669990547106"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Matt Richard",
+      "profilePageUrl": "https://plus.google.com/110166643140045739599",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NFaQJJ6ZuEU/AAAAAAAAAAI/AAAAAAAAEEo/4mz7KaVgDHk/s64-c/photo.jpg",
+      "resourceName": "users/110166643140045739599"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stéphane FRANÇOIS",
+      "profilePageUrl": "https://plus.google.com/117492528749609965529",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-FwD03RqrWEo/AAAAAAAAAAI/AAAAAAAAAfU/Ciw3_477f7c/s64-c/photo.jpg",
+      "resourceName": "users/117492528749609965529"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Krzysztof Łukawski",
+      "profilePageUrl": "https://plus.google.com/108918284552851105864",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-GukT0zfACeo/AAAAAAAAAAI/AAAAAAAACSc/VGTMnBXCPFY/s64-c/photo.jpg",
+      "resourceName": "users/108918284552851105864"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NBqJ3BQopJo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUjZtH-NDpU8Y--VLfH8gc42O891A/s64-c/photo.jpg",
+      "resourceName": "users/112392188627004225254"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kasper Kamperman",
+      "profilePageUrl": "https://plus.google.com/+KasperKamperman",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3apwQwpZUsw/AAAAAAAAAAI/AAAAAAAAM1w/Dd5aRhQnqXw/s64-c/photo.jpg",
+      "resourceName": "users/100115767703084101160"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tom Morrow",
+      "profilePageUrl": "https://plus.google.com/104301636682478764269",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-n9tStT5lAdk/AAAAAAAAAAI/AAAAAAAAAE4/NEAeBm6PgTk/s64-c/photo.jpg",
+      "resourceName": "users/104301636682478764269"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Hung Vu",
+      "profilePageUrl": "https://plus.google.com/112617373002583887721",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-IA3A-wZodfo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVqTTCh-p2EEL6v4UzvTxZOWYR1PA/s64-c/photo.jpg",
+      "resourceName": "users/112617373002583887721"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "1icri - Old Account",
+      "profilePageUrl": "https://plus.google.com/+Techy4198",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-aKO8TFuO3IM/AAAAAAAAAAI/AAAAAAAAD4A/5Douh6kqyaA/s64-c/photo.jpg",
+      "resourceName": "users/109789728586812118406"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christian Maier",
+      "profilePageUrl": "https://plus.google.com/103747466383621683379",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-M7a68UCit5Q/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXVPpKvuzU-JH0_2Sg_2NXxPSuWdQ/s64-c/photo.jpg",
+      "resourceName": "users/103747466383621683379"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Øystein Krog",
+      "profilePageUrl": "https://plus.google.com/+ØysteinKrog",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-ru1hCZNdIFU/AAAAAAAAAAI/AAAAAAAB8R4/slCBZxWmthI/s64-c/photo.jpg",
+      "resourceName": "users/113252364984901542714"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lavie Phan",
+      "profilePageUrl": "https://plus.google.com/+LaviePhan",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-XC6U58XLIFU/AAAAAAAAAAI/AAAAAAAAAuY/Tw94h1Nt-8A/s64-c/photo.jpg",
+      "resourceName": "users/107810356880360120088"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Alexander Nolting",
+      "profilePageUrl": "https://plus.google.com/+AlexanderNolting",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-9dWI1gTsnOE/AAAAAAAAAAI/AAAAAAAAOxc/vwvJgH7oIsY/s64-c/photo.jpg",
+      "resourceName": "users/109141459210065659338"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Myron Lo",
+      "profilePageUrl": "https://plus.google.com/117967907587283460512",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-MzTeofQwGpM/AAAAAAAAAAI/AAAAAAAAAFg/U3ybP2LKCtI/s64-c/photo.jpg",
+      "resourceName": "users/117967907587283460512"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "DJ CHANNEL",
+      "profilePageUrl": "https://plus.google.com/116135110870848716630",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-CtnawjxtlY0/AAAAAAAAAAI/AAAAAAAAAnE/sL3CG9xLxQI/s64-c/photo.jpg",
+      "resourceName": "users/116135110870848716630"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Jagadish Agawane",
+      "profilePageUrl": "https://plus.google.com/115195575022473454289",
+      "resourceName": "users/115195575022473454289"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/104486391541517922016",
+        "displayName": "Maniacal Labs LLC"
+      }, {
+        "resourceName": "users/112526208786662512291",
+        "displayName": "Adafruit Industries"
+      }, {
+        "resourceName": "users/113416559182515729363",
+        "displayName": "PaulStoffregen"
+      }, {
+        "resourceName": "users/118014254683938675401",
+        "displayName": "Adam Haile"
+      }]
+    }
+  }
+}

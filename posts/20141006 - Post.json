@@ -1,0 +1,39 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/Vk3ARAEc55j",
+  "creationTime": "2014-10-06 23:34:39-0400",
+  "updateTime": "2014-10-06 23:34:39-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/2wxAATRX54v",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I got some of the fantastic FastLED examples (copied and adapted from \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e and \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112916219338292742137\" oid\u003d\"112916219338292742137\" \u003eMark Kriegsman\u003c/a\u003e\u003c/span\u003e) working on an Adafruit Medium 32x32 RGB LED matrix panel.  I used a Teensy v3.1 and the SmartMatrix shield and library from \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/114256455711582099215\" oid\u003d\"114256455711582099215\" \u003ePixelmatix\u003c/a\u003e\u003c/span\u003e.  More details to come, source available here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pup05/SmartMatrix-FastLED-Examples\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pup05/SmartMatrix-FastLED-Examples\u003c/a\u003e﻿",
+    "media": {
+      "url": "http://www.youtube.com/watch?v\u003d3HAJHI5mqQ8",
+      "contentType": "video/*",
+      "width": 1280,
+      "height": 720,
+      "description": "Source: https://github.com/pup05/SmartMatrix-FastLED-Examples/tree/master/FunkyCloudsSpiral based on the work of +Stefan Petrick https://www.youtube.com/watc...",
+      "resourceName": "media/EgszSEFKSEk1bXFROA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UggLpJcFbMR_o3gCoAEC"
+  },
+  "resourceName": "users/103867089694409269471/posts/Ugir1lrHHCNaCngCoAEC",
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

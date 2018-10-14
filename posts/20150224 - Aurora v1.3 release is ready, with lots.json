@@ -1,0 +1,84 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/aGnuD7MFYzr",
+  "creationTime": "2015-02-24 18:51:47-0500",
+  "updateTime": "2015-02-24 18:51:47-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Aurora v1.3 release is ready, with lots of great new patterns and improvements.  A big thanks to community members \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110414581290182795947\" oid\u003d\"110414581290182795947\" \u003eJ.B. Langston\u003c/a\u003e\u003c/span\u003e  and \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113700969348903612932\" oid\u003d\"113700969348903612932\" \u003eKonstantin Gredeskoul\u003c/a\u003e\u003c/span\u003e for their contributions!  Please try it out and use the issue tracker on GitHub to report any problems: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/issues\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/issues\u003c/a\u003e",
+  "link": {
+    "title": "Release Aurora v1.3 · pixelmatix/aurora · GitHub",
+    "url": "https://github.com/pixelmatix/aurora/releases/latest"
+  },
+  "comments": [{
+    "creationTime": "2015-02-25 10:51:45-0500",
+    "author": {
+      "displayName": "Richard Ferraro",
+      "profilePageUrl": "https://plus.google.com/111107938219535966919",
+      "resourceName": "users/111107938219535966919"
+    },
+    "content": "I have been using SmartMatrix and my own code with great appreciation to those who developed so much before me.  I would like to try Aurora.  I think the only thing I am missing is the remote.  Jason mentions the new \u0026quot;Ronix\u0026quot; remote.  I can\u0026#39;t seem to find this.  Any pointers to it?\u003cbr\u003e\u003cbr\u003ethanks,\u003cbr\u003e\u003cbr\u003eRichard",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/aGnuD7MFYzr",
+    "resourceName": "users/103867089694409269471/posts/UgjG7AAZhRodp3gCoAEC/comments/CiN6MTJudnJ1NWNuMjFzMXhxYTA0Y2l0dzRleWZkY3RycjQybxCHoaDmuf3DAg"
+  }, {
+    "creationTime": "2015-02-25 11:19:40-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I\u0026#39;ve just been adding support for any old remote I have laying around, just to try them out.  I\u0026#39;m not sure where the Ronix remote came from.  I highly recommend the Adafruit or SparkFun remotes mentioned here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/wiki/Infrared-Remote-Control\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/wiki/Infrared-Remote-Control\u003c/a\u003e  They\u0026#39;re inexpensive and well-tested.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/aGnuD7MFYzr",
+    "resourceName": "users/103867089694409269471/posts/UgjG7AAZhRodp3gCoAEC/comments/CiN6MTJudnJ1NWNuMjFzMXhxYTA0Y2l0dzRleWZkY3RycjQybxDwg4mFwP3DAg"
+  }, {
+    "creationTime": "2015-02-25 14:59:39-0500",
+    "author": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    },
+    "content": "Hi Richard, this guide on the Adafruit learning system has some more details on hardware and wiring for the remote sensor.  It does not mention the SparkFun remote.  I like the feel of the SparkFun remote and find it easier to use.  The Adafruit remote has more buttons.  Either will work just fine with Aurora, and both vendors sell the IR sensor.\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://learn.adafruit.com/smartmatrix-remote-controlled-led-art-display\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://learn.adafruit.com/smartmatrix-remote-controlled-led-art-display\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/aGnuD7MFYzr",
+    "resourceName": "users/103867089694409269471/posts/UgjG7AAZhRodp3gCoAEC/comments/CiN6MTJudnJ1NWNuMjFzMXhxYTA0Y2l0dzRleWZkY3RycjQybxDz8cma8f3DAg"
+  }, {
+    "creationTime": "2015-02-25 15:01:08-0500",
+    "author": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    },
+    "content": "This page shows wiring details for the IR Sensor with the SmartMatrix SD:\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://docs.pixelmatix.com/SmartMatrix/projects.html#ir-remote-kit\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://docs.pixelmatix.com/SmartMatrix/projects.html#ir-remote-kit\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/aGnuD7MFYzr",
+    "resourceName": "users/103867089694409269471/posts/UgjG7AAZhRodp3gCoAEC/comments/CiN6MTJudnJ1NWNuMjFzMXhxYTA0Y2l0dzRleWZkY3RycjQybxDu6P3E8f3DAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgjG7AAZhRodp3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      },
+      "users": [{
+        "resourceName": "users/113700969348903612932",
+        "displayName": "Konstantin Gredeskoul"
+      }, {
+        "resourceName": "users/110414581290182795947",
+        "displayName": "J.B. Langston"
+      }]
+    }
+  }
+}

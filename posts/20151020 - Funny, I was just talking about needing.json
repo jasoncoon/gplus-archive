@@ -1,0 +1,57 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/27EgPBUGWPg",
+  "creationTime": "2015-10-20 21:52:24-0400",
+  "updateTime": "2015-10-20 22:13:01-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Funny, I was just talking about needing increased light output...  But these are going to be $15 each.  Regardless, I found the design notes very interesting, especially his decision to use 115.2k baud serial instead of the WS28X serial protocol.﻿",
+  "link": {
+    "title": "Design | Pixie - the 3W Chainable LED Pixel | Adafruit Learning System",
+    "url": "https://learn.adafruit.com/pixie-3-watt-smart-chainable-led-pixels/design",
+    "imageUrl": "https://learn.adafruit.com/system/guides/images/000/001/141/medium800/gifforlimor_SMALL.gif?1445372369"
+  },
+  "comments": [{
+    "creationTime": "2015-10-20 22:35:04-0400",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "Writing a decoder for the WS281x protocol is the only thing that would be more irritating than writing an encoder for it.  At least by using serial or SPI he can make use of hardware support for reading/writing the data.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/27EgPBUGWPg",
+    "resourceName": "users/103867089694409269471/posts/UggGnxPfRBZzf3gCoAEC/comments/CiF6MTN6eWhxaDB5bnh3ZG5zYTIzcWoxMnJtdWVhaHh0MHAQmKD7zsPSyAI"
+  }, {
+    "creationTime": "2015-10-21 00:22:21-0400",
+    "author": {
+      "displayName": "Jarrod Wagner",
+      "profilePageUrl": "https://plus.google.com/100368959376184065851",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-_-QvYpLpnjk/AAAAAAAAAAI/AAAAAAAAAEU/wi9LwnuNh50/s64-c/photo.jpg",
+      "resourceName": "users/100368959376184065851"
+    },
+    "content": "With a little bit of know how, and enough liquid fuel (beer/coffee of choice), you can make something far more powerful, for far less. \u003cbr\u003e\u003cbr\u003eI made a rev0 board for a 10w LED driver for \u0026lt;$12 populated. Was it pretty, no. Was it done in haste, yes. Did it work, 100%.\u003cbr\u003e\u003cbr\u003eFully compatible with fastLED to boot as it was based on WS2811, I have been unable to source LP series chips in the prototype quantities I\u0026#39;d like. \u003cbr\u003e\u003cbr\u003eInteresting article though, enjoyed reading it. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/27EgPBUGWPg",
+    "resourceName": "users/103867089694409269471/posts/UggGnxPfRBZzf3gCoAEC/comments/CiF6MTN6eWhxaDB5bnh3ZG5zYTIzcWoxMnJtdWVhaHh0MHAQ5MWSzNvSyAI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UggGnxPfRBZzf3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

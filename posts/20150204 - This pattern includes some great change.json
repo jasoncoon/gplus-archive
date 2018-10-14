@@ -1,0 +1,62 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/DuyuuozKmzo",
+  "creationTime": "2015-02-04 21:30:05-0500",
+  "updateTime": "2015-02-04 21:30:05-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "This pattern includes some great changes from J.B. Langston to include more color, and uses Mark Kriegsman\u0026#39;s fantastic FastLED palettes.",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/3tVotHTVhB7",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I ported a \u0026quot;Conway\u0026#39;s Game of Life\u0026quot; pattern to my SmartMatrix 32x32 RGB LED display.  More info and source: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pup05/SmartMatrixLife\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pup05/SmartMatrixLife\u003c/a\u003e﻿",
+    "media": {
+      "url": "http://www.youtube.com/watch?v\u003dlLjxPQNDcus",
+      "contentType": "video/*",
+      "width": 1280,
+      "height": 720,
+      "description": "\"Conway\u0027s Game of Life\" on a SmartMatrix 32x32 RGB LED display using the FastLED library. Running on a SmartMatrix display: http://www.pixelmatix.com Project...",
+      "resourceName": "media/EgtsTGp4UFFORGN1cw\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UggRQ_XnMI_NqngCoAEC"
+  },
+  "resourceName": "users/103867089694409269471/posts/UghNNGAX4yAoaHgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "J.B. Langston",
+      "profilePageUrl": "https://plus.google.com/110414581290182795947",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-oCVwBqjpJjo/AAAAAAAAAAI/AAAAAAAABCY/RE3YBoOZbAM/s64-c/photo.jpg",
+      "resourceName": "users/110414581290182795947"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Todd Cottle",
+      "profilePageUrl": "https://plus.google.com/104899877275772627174",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-FD_eSlaLx5I/AAAAAAAAAAI/AAAAAAAALJU/VMTajY-6obA/s64-c/photo.jpg",
+      "resourceName": "users/104899877275772627174"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/7udMhwfozHV",
+  "creationTime": "2015-08-13 10:50:17-0400",
+  "updateTime": "2015-08-13 10:59:29-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "OK, I\u0026#39;ve test-mounted 100 x 12mm RGB LED pixels on a sheet of cardboard.  I definitely like it so far.  Questions:\u003cbr\u003e\u003cbr\u003eAnybody have experience mounting these?  Do you prefer ABS, acrylic, metal, or something else?  1.5mm or 1/16\u0026quot;, right?\u003cbr\u003e\u003cbr\u003eAdvice on the best layout, for when I later try to map to XY and/or polar coordinates?  I ran these in a spiral, from outside to inside, but I\u0026#39;m wondering if zig-zag, or radial from inside out on each spiral arm would be better.\u003cbr\u003e\u003cbr\u003eMore info, photos \u0026amp; video: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/PKdywS4g8Ngv1umD8\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/PKdywS4g8Ngv1umD8\u003c/a\u003e",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dMrSnTTJores",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Quick layout test in cardboard. Running Mark Kriegsman\u0027s Pride2015: https://gist.github.com/kriegsman/964... 12mm Diffused Thin Digital RGB LED Pixels (Stran...",
+    "resourceName": "media/EgtNclNuVFRKb3Jlcw\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2015-08-13 11:16:31-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Good start !\u003cbr\u003eMy experience is with the 8mm LEDs. The ones you use here have some form of clear plastic jacket on them. I guess they are meant to be pushed-in so they lock in place !? That should give you an indication of the material thickness needed.\u003cbr\u003eAs for the material itself, I guess it all depends if you intend to ultimately cover it with some type of diffuser and/or nice case around it. If so, just go for cheap MDF that you can just paint black or whatever.\u003cbr\u003eAs for the layout, I guess you mean from an electrical or interconnection point of view, it seems to me that a radial from inside out on each spiral arm would be better but you will probably be stuck with doing some mapping to XY co-ordinates anyway for some animations !\u003cbr\u003eHave fun come back with your results !",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQrfPmj62mxwI"
+  }, {
+    "creationTime": "2015-08-13 11:38:14-0400",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "Would be interesting to know about the mounting material. Think I\u0026#39;ll head to Home Depot today.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQnebt_LGmxwI"
+  }, {
+    "creationTime": "2015-08-13 11:50:32-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks!\u003cbr\u003e\u003cbr\u003eThese are the ones I ordered, they\u0026#39;re $39.80 for 100, with free shipping: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.aliexpress.com/item/12mm-100-node-lot-DC-5V-waterproof-IP68-Full-Color-addressable-WS2801-RGB-RGB-Pixel-Module/32322649250.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.aliexpress.com/item/12mm-100-node-lot-DC-5V-waterproof-IP68-Full-Color-addressable-WS2801-RGB-RGB-Pixel-Module/32322649250.html\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eThey seem similar to the ones Adafruit carries: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.adafruit.com/product/322\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.adafruit.com/product/322\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eThey\u0026#39;re 8mm LEDs, sealed in a silicone sleeve.  They say: \u0026quot;There are four flanges molded in so that you can \u0026#39;push\u0026#39; them into a 12mm drill hole in any material up to 1.5mm/0.06\u0026quot; thick.\u0026quot;\u003cbr\u003e\u003cbr\u003eI\u0026#39;m debating (and plan to test) what would be best/sturdiest: acrylic, ABS, HDPE, etc.  I wondered if I could save some time by asking the resident experts.  :)\u003cbr\u003e\u003cbr\u003eI\u0026#39;m not sure whether I\u0026#39;ll add a frosted acrylic sheet for diffusion.  That\u0026#39;s another thing I plan to test.  But it\u0026#39;d be nice if it was finished and clean so that it could be used either way.\u003cbr\u003e\u003cbr\u003eYeah, regarding layout, they\u0026#39;re pre-wired, with connectors every 50 pixels, so whatever pattern I use, it\u0026#39;ll likely need to spiral or zig-zag in some manner.  I\u0026#39;d prefer not to cut and rewire to run each spiral arm from the inside.\u003cbr\u003e\u003cbr\u003eThanks again, I definitely plan to post more pics, video and details along the way.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQ567W3LSmxwI"
+  }, {
+    "creationTime": "2015-08-13 12:00:28-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "I would think mapping will be needed no matter how you wire it, so then wire in whatever way makes it easy.  I probably would have initially tried a serpentine-ish wiring, but spiral might be better.  Spiral also has the added bonus that it seems to work immediately with something like Mark\u0026#39;s Pride2015 code.  That already looks cool.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQ3q2K-bamxwI"
+  }, {
+    "creationTime": "2015-08-13 12:04:00-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Blank PCB material would probably be sturdy enough, the right thickness,  cheap but not pretty unless you paint it !\u003cbr\u003eAhh.. yes..  they are pre-wired so some layouts may not be practical. That\u0026#39;s ok just means you will have to map the physical layout to the actual pixel position in the string.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQx-753bemxwI"
+  }, {
+    "creationTime": "2015-08-13 12:12:33-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks again, guys.  Yeah, I\u0026#39;m not too worried (perhaps naively) about XY mapping, but polar mapping seems like it won\u0026#39;t be easy, regardless of layout.  I assume polar would be the way to go, for making each spiral arm addressable, but maybe not.  I\u0026#39;ll start brushing up on my trig and calc.  :)\u003cbr\u003e\u003cbr\u003ePCB material is a good idea, thanks!  I\u0026#39;ll add that to the list of test materials.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQ57LE0rmmxwI"
+  }, {
+    "creationTime": "2015-08-13 12:26:47-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Oh, and I\u0026#39;ll preemptively point out that while transferring the printed pattern from paper to cardboard, I missed four of them.  I didn\u0026#39;t notice until I had spare LEDs left over.  I\u0026#39;ll make sure to correct that in the final material.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQ2dqQ6rymxwI"
+  }, {
+    "creationTime": "2015-08-13 13:31:38-0400",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "I\u0026#39;d take a rubber ball and cut it in half - that gives you the third dimension \u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.toysrus.com/product/index.jsp?productId\u003d11168732\u0026amp;cp\u003d\u0026amp;parentPage\u003dsearch\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.toysrus.com/product/index.jsp?productId\u003d11168732\u0026amp;cp\u003d\u0026amp;parentPage\u003dsearch\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eand a flexible adhesive\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.homedepot.com/p/Loctite-1-fl-oz-Vinyl-Fabric-and-Plastic-Adhesive-1360694/202487188\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.homedepot.com/p/Loctite-1-fl-oz-Vinyl-Fabric-and-Plastic-Adhesive-1360694/202487188\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eFor the holes use a normal drill from the inside",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQ_6-xqcumxwI"
+  }, {
+    "creationTime": "2015-08-13 15:09:01-0400",
+    "updateTime": "2015-08-13 18:14:50-0400",
+    "author": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    },
+    "content": "You might want to try using Polyiso Rigid Foam Insulation Board  (1/2 in. x 4 ft. x 8 ft.,  Store SKU # 754404) from Home Depot.  It is inexpensive and will hold your 12mm RGB LED pixels in place.  I know because I tried it with similar RGB LED pixels.  See :\u003cbr\u003e \u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/watch?v\u003dBtqy-JsTc3Y\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/watch?v\u003dBtqy-JsTc3Y\u003c/a\u003e\n \u003cbr\u003eWhen I did this, I tried using a lab cork borer to make the holes but this ripped some of the foil on the board.  A hand drill worked better.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQgN64i-GmxwI"
+  }, {
+    "creationTime": "2015-08-13 20:11:37-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Talked to a guy at a local acrylic shop, and he recommended against 1/16\u0026quot; acrylic, at least at the size I\u0026#39;m talking about.  There\u0026#39;s not a lot of space between the holes, and he said it\u0026#39;d likely crack.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQ6qqB3aSnxwI"
+  }, {
+    "creationTime": "2015-08-13 20:27:06-0400",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "I went out and bought a 2\u0026#39;x2\u0026#39; sheet of 1/8\u0026quot; hardboard today. About $2.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQhtztl6inxwI"
+  }, {
+    "creationTime": "2015-08-14 11:35:04-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117226587425513750918\" oid\u003d\"117226587425513750918\" \u003eAndrew Tuline\u003c/a\u003e\u003c/span\u003e, I assume you have some of these LEDs? If so, will they snap in to 1/8\u0026quot; material?  I plan to try this out tonight, just wondering if you\u0026#39;d already tried.  Thanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQyuDokPOoxwI"
+  }, {
+    "creationTime": "2015-08-14 13:29:14-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Hey \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102004717133653297761\" oid\u003d\"102004717133653297761\" \u003eKen White\u003c/a\u003e\u003c/span\u003e, for some reason your comment got marked as spam.  I marked it as safe.  I\u0026#39;ll add Polyiso to my list of materials to try, thanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQ-rq104ypxwI"
+  }, {
+    "creationTime": "2015-08-14 17:21:46-0400",
+    "updateTime": "2015-08-15 22:02:25-0400",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "OK, tried it out. Used a 7/16\u0026quot; drill (wish I had a metric set). Had to wiggle the drill somewhat to get it large enough. Drilled test holes for a couple of LED\u0026#39;s. Although they didn\u0026#39;t \u0026#39;snap\u0026#39;, they did fit snugly and I figure any that end up getting loose will be getting the hot glue treatment. I\u0026#39;m good to go with this.﻿",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQ36mf0MCpxwI"
+  }, {
+    "creationTime": "2015-08-15 14:32:17-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yeah, I couldn\u0026#39;t find a metric drill bit set, but I did find one with 15/32\u0026quot; and 31/64\u0026quot; (imperial units are silly).\u003cbr\u003e\u003cbr\u003eI tried a small sheet of 1/16\u0026quot; acrylic, but cracked it while drilling the first pilot hole with the smallest bit I had.\u003cbr\u003e\u003cbr\u003eI picked up a 10\u0026quot; extra-deep shadow box and some 1/8\u0026quot; hardboard.  I just finished drilling and sanding 100 holes, and put on a few coats of black spray paint.  Now just waiting for it to dry so I can mount the LEDs.  Will report back with more pics soon.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQ97iIztyrxwI"
+  }, {
+    "creationTime": "2015-08-18 13:20:24-0400",
+    "author": {
+      "displayName": "Jim Bumgardner",
+      "profilePageUrl": "https://plus.google.com/109972214378981665730",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-9VHyzdmTsk4/AAAAAAAAAAI/AAAAAAAAMbA/Ox4MFDwg8HQ/s64-c/photo.jpg",
+      "resourceName": "users/109972214378981665730"
+    },
+    "content": "I used a 1/16th acrylic sheet for my fibonacci lights (although I think it would be better to use something stronger).  I\u0026#39;m using a 1/8 acrylic diffuser in front I got from Tap plastics.  My lights are 12mm punctiform, and  I eyeballed the wiring order to optimize for shortest connections.  I use a 1d array in my program to map to polar coordinates (inner to outer).  I found a pretty good 3-inch deep 12\u0026quot; square frame at Michael\u0026#39;s to mount them in.  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7udMhwfozHV",
+    "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC/comments/CiF6MTJjaWwzamZxMmx6bGRkZDIzcWoxMnJtdWVhaHh0MHAQ5cG7kZKzxwI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UggpS-EbDWN0EHgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Gottfried Mayer",
+      "profilePageUrl": "https://plus.google.com/109724468732455410411",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-BLlyVOCgLbQ/AAAAAAAAAAI/AAAAAAAACLw/fZ6ZmM-gz2s/s64-c/photo.jpg",
+      "resourceName": "users/109724468732455410411"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Noonan",
+      "profilePageUrl": "https://plus.google.com/101817137745207986298",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-cn-jR4_tic8/AAAAAAAAAAI/AAAAAAAAASA/8UNV2k_Jt7M/s64-c/photo.jpg",
+      "resourceName": "users/101817137745207986298"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Qskyghost82 googlechromecast customer",
+      "profilePageUrl": "https://plus.google.com/116924615452799562932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-rqQKvBcKewo/AAAAAAAAAAI/AAAAAAAAABQ/ayioVk3VyGk/s64-c/photo.jpg",
+      "resourceName": "users/116924615452799562932"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chris Roberts",
+      "profilePageUrl": "https://plus.google.com/116328175019405297243",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-HHkpVuEXPoI/AAAAAAAAAAI/AAAAAAAADrQ/xpuCMPJIGok/s64-c/photo.jpg",
+      "resourceName": "users/116328175019405297243"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/117226587425513750918",
+        "displayName": "Andrew Tuline"
+      }, {
+        "resourceName": "users/102004717133653297761",
+        "displayName": "Ken White"
+      }]
+    }
+  }
+}

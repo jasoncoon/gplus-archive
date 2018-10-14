@@ -1,0 +1,348 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/VtYsHR3nhAL",
+  "creationTime": "2017-10-21 14:13:51-0400",
+  "updateTime": "2017-10-21 14:13:51-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Improved XYZ map and completed prototype stand for the ULTiM8x8 cube.\u003cbr\u003e\u003cbr\u003eI reworked the map, switching from 8x8x8 to 10x10x10, which reduces the seams between panels.  The old map, for example, treated all LEDs on one panel as X\u003d\u003d0, and the first column of LEDS in the adjacent panel as X\u003d\u003d0.  The new map treats that same column of LEDs as X\u003d\u003d1 instead.\u003cbr\u003e\u003cbr\u003eThe next stand prototype will rotate and have a shorter cylindrical base.  I need to work on my 3D printer, I\u0026#39;m getting bad under-extrusion gaps and seams.  Might be time for a new PTFE tube and/or nozzle.  Been thinking about upgrading to a Bondtech extruder and Micro Swiss all metal hotend.\u003cbr\u003e\u003cbr\u003eULTiM8x8: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://wyolum.com/ultim8x8/\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://wyolum.com/ultim8x8/\u003c/a\u003e\u003cbr\u003eSource Code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver/tree/ultim8x8-cube\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver/tree/ultim8x8-cube\u003c/a\u003e",
+  "media": {
+    "url": "https://plus.google.com/photos/103867089694409269471/albums/6479429029158381937/6479429029047800450",
+    "contentType": "video/*",
+    "width": 1920,
+    "height": 1080,
+    "description": "Improved XYZ map and completed prototype stand for the ULTiM8x8 cube.\n\nI reworked the map, switching from 8x8x8 to 10x10x10, which reduces the seams between panels. The old map, for example, treated all LEDs on one panel as X\u003d\u003d0, and the first column of LEDS in the adjacent panel as X\u003d\u003d0. The new map treats that same column of LEDs as X\u003d\u003d1 instead.\n\nThe next stand prototype will rotate and have a shorter cylindrical base. I need to work on my 3D",
+    "resourceName": "media/CixBRjFRaXBPTHVHams1Sy1veG1TYjRzbUphbUxlSkkwR184OGk4REtCX0djLQ\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2017-10-21 14:49:07-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Oooh going from 8x8 to 10x10 was a nice tweak.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VtYsHR3nhAL",
+    "resourceName": "users/103867089694409269471/posts/Ugistvnhz43X5XgCoAEC/comments/CiN6MTNtdXpoendubXlmeHF4ZzA0Y2l0dzRleWZkY3RycjQybxCojLfasILXAg"
+  }, {
+    "creationTime": "2017-10-21 19:05:44-0400",
+    "author": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    },
+    "content": "This is awesome! These kimd of 3D displays could be ven better with a gyro/accel inside or some kind of motion tracking. You could create a 3d image and rednder it in slices on the surface of the cube depending on where you move. This idea wasnt mine, a bunch of people sugested it to me for a spherical device i made like this,but it could work on any shape",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VtYsHR3nhAL",
+    "resourceName": "users/103867089694409269471/posts/Ugistvnhz43X5XgCoAEC/comments/CiN6MTNtdXpoendubXlmeHF4ZzA0Y2l0dzRleWZkY3RycjQybxCjkK6I6oLXAg"
+  }, {
+    "creationTime": "2017-10-22 02:51:06-0400",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ bruh, when i grow up i wanna be just like you :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VtYsHR3nhAL",
+    "resourceName": "users/103867089694409269471/posts/Ugistvnhz43X5XgCoAEC/comments/CiN6MTNtdXpoendubXlmeHF4ZzA0Y2l0dzRleWZkY3RycjQybxCkq76K0oPXAg"
+  }, {
+    "creationTime": "2017-10-22 07:33:51-0400",
+    "author": {
+      "displayName": "Gustavo K",
+      "profilePageUrl": "https://plus.google.com/+GustavoK100",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sTUrw8IJTmI/AAAAAAAAAAI/AAAAAAAAGc8/kds4F8MOLT8/s64-c/photo.jpg",
+      "resourceName": "users/107480761240011957432"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102639486677013343669\" oid\u003d\"102639486677013343669\" \u003eLeon Yuhanov\u003c/a\u003e\u003c/span\u003e  that would be very nice , the problem to be solved on such implementation I think , is to capture the viewer location in respect to the cube , as all projections will need that information to create a real 3D sensation ..",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VtYsHR3nhAL",
+    "resourceName": "users/103867089694409269471/posts/Ugistvnhz43X5XgCoAEC/comments/CiN6MTNtdXpoendubXlmeHF4ZzA0Y2l0dzRleWZkY3RycjQybxDXpP6jkYTXAg"
+  }, {
+    "creationTime": "2017-10-22 10:28:24-0400",
+    "author": {
+      "displayName": "Jesus Vicente",
+      "profilePageUrl": "https://plus.google.com/116512152146008000438",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-8Dg3s-H3ed4/AAAAAAAAAAI/AAAAAAAAAro/a8r8NSV5zfU/s64-c/photo.jpg",
+      "resourceName": "users/116512152146008000438"
+    },
+    "content": "It seems amazing but I can not see it, error 404",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VtYsHR3nhAL",
+    "resourceName": "users/103867089694409269471/posts/Ugistvnhz43X5XgCoAEC/comments/CiN6MTNtdXpoendubXlmeHF4ZzA0Y2l0dzRleWZkY3RycjQybxCml5umuITXAg"
+  }, {
+    "creationTime": "2017-10-22 13:14:41-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116512152146008000438\" oid\u003d\"116512152146008000438\" \u003eJesus Vicente\u003c/a\u003e\u003c/span\u003e strange, works fine here, tried it out on multiple computers.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VtYsHR3nhAL",
+    "resourceName": "users/103867089694409269471/posts/Ugistvnhz43X5XgCoAEC/comments/CiN6MTNtdXpoendubXlmeHF4ZzA0Y2l0dzRleWZkY3RycjQybxCfzsW73YTXAg"
+  }, {
+    "creationTime": "2017-10-22 13:16:47-0400",
+    "author": {
+      "displayName": "Jesus Vicente",
+      "profilePageUrl": "https://plus.google.com/116512152146008000438",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-8Dg3s-H3ed4/AAAAAAAAAAI/AAAAAAAAAro/a8r8NSV5zfU/s64-c/photo.jpg",
+      "resourceName": "users/116512152146008000438"
+    },
+    "content": "you are right!! It works Thanks",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VtYsHR3nhAL",
+    "resourceName": "users/103867089694409269471/posts/Ugistvnhz43X5XgCoAEC/comments/CiN6MTNtdXpoendubXlmeHF4ZzA0Y2l0dzRleWZkY3RycjQybxDH09r33YTXAg"
+  }, {
+    "creationTime": "2017-10-22 14:35:44-0400",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "It works for me lol",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VtYsHR3nhAL",
+    "resourceName": "users/103867089694409269471/posts/Ugistvnhz43X5XgCoAEC/comments/CiN6MTNtdXpoendubXlmeHF4ZzA0Y2l0dzRleWZkY3RycjQybxCftprK74TXAg"
+  }, {
+    "creationTime": "2017-10-24 06:41:01-0400",
+    "author": {
+      "displayName": "Jonas Vorwerk",
+      "profilePageUrl": "https://plus.google.com/106461657512143768817",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-bA8ZID1BAnM/AAAAAAAAAAI/AAAAAAAAADE/dquYyKber4c/s64-c/photo.jpg",
+      "resourceName": "users/106461657512143768817"
+    },
+    "content": "Wow looks better than my version! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VtYsHR3nhAL",
+    "link": {
+      "title": "Inkijk Galerie",
+      "url": "https://jonasvorwerk.nl/events/inkijk-galerie/",
+      "imageUrl": "https://jonasvorwerk.nl/wp-content/uploads/2017/01/IMG_0479.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/Ugistvnhz43X5XgCoAEC/comments/CiN6MTNtdXpoendubXlmeHF4ZzA0Y2l0dzRleWZkY3RycjQybxCT5ZqaiYnXAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ugistvnhz43X5XgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "nwestwind",
+      "profilePageUrl": "https://plus.google.com/111436139117455068094",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-MwQatDjwAf8/AAAAAAAAAAI/AAAAAAAAAt8/IyRl3qYirkM/s64-c/photo.jpg",
+      "resourceName": "users/111436139117455068094"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chukk Rahn",
+      "profilePageUrl": "https://plus.google.com/112089989856818298500",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-La0osKHM-24/AAAAAAAAAAI/AAAAAAAAAMQ/2ZSqZsRzUqg/s64-c/photo.jpg",
+      "resourceName": "users/112089989856818298500"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "arpan choudhury",
+      "profilePageUrl": "https://plus.google.com/108834522502450669797",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-FL9DpN3FQhA/AAAAAAAAAAI/AAAAAAAAAh4/FFg28t90g0A/s64-c/photo.jpg",
+      "resourceName": "users/108834522502450669797"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mike Clifford",
+      "profilePageUrl": "https://plus.google.com/107988949544770875143",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-uSUd6XWx6lQ/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWAzXG8mVd1w3dsZ0kj8iPRAG8bKQ/s64-c/photo.jpg",
+      "resourceName": "users/107988949544770875143"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jonas Vorwerk",
+      "profilePageUrl": "https://plus.google.com/106461657512143768817",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-bA8ZID1BAnM/AAAAAAAAAAI/AAAAAAAAADE/dquYyKber4c/s64-c/photo.jpg",
+      "resourceName": "users/106461657512143768817"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brad Williamson",
+      "profilePageUrl": "https://plus.google.com/+BradWilliamson25",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nJfUAC4_3pM/AAAAAAAAAAI/AAAAAAAAKkU/yvMkWI_gPaI/s64-c/photo.jpg",
+      "resourceName": "users/105433710531981771365"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "1icri - Old Account",
+      "profilePageUrl": "https://plus.google.com/+Techy4198",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-aKO8TFuO3IM/AAAAAAAAAAI/AAAAAAAAD4A/5Douh6kqyaA/s64-c/photo.jpg",
+      "resourceName": "users/109789728586812118406"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ivan Fominskiy",
+      "profilePageUrl": "https://plus.google.com/118394434555643147118",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-SWRMJE66JJM/AAAAAAAAAAI/AAAAAAAAAEk/P1oE6pnMj6g/s64-c/photo.jpg",
+      "resourceName": "users/118394434555643147118"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christopher Kirkman",
+      "profilePageUrl": "https://plus.google.com/118127046082317810519",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-g7r06yhWBRo/AAAAAAAAAAI/AAAAAAAAE_4/OcS1YFo4UjA/s64-c/photo.jpg",
+      "resourceName": "users/118127046082317810519"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chris Rees",
+      "profilePageUrl": "https://plus.google.com/102857052697355852278",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-C_6sBArYGDo/AAAAAAAAAAI/AAAAAAAAAts/IM0voADBx7w/s64-c/photo.jpg",
+      "resourceName": "users/102857052697355852278"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stéphane FRANÇOIS",
+      "profilePageUrl": "https://plus.google.com/117492528749609965529",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-FwD03RqrWEo/AAAAAAAAAAI/AAAAAAAAAfU/Ciw3_477f7c/s64-c/photo.jpg",
+      "resourceName": "users/117492528749609965529"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nathan Bohman",
+      "profilePageUrl": "https://plus.google.com/115295602779691789847",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Q1vQddoXHU0/AAAAAAAAAAI/AAAAAAACoxY/jzODZPNXHq4/s64-c/photo.jpg",
+      "resourceName": "users/115295602779691789847"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "José Manuel",
+      "profilePageUrl": "https://plus.google.com/104252613779916507530",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-34OZtuOz2CU/AAAAAAAAAAI/AAAAAAAACGM/G0iK2skCsN0/s64-c/photo.jpg",
+      "resourceName": "users/104252613779916507530"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jesus Vicente",
+      "profilePageUrl": "https://plus.google.com/116512152146008000438",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-8Dg3s-H3ed4/AAAAAAAAAAI/AAAAAAAAAro/a8r8NSV5zfU/s64-c/photo.jpg",
+      "resourceName": "users/116512152146008000438"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James Callahan",
+      "profilePageUrl": "https://plus.google.com/101169594380997350004",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-XxQqevY4JCA/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXG0Ut7cCYvntEmpbRZbfV8kutOxQ/s64-c/photo.jpg",
+      "resourceName": "users/101169594380997350004"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kean Maizels",
+      "profilePageUrl": "https://plus.google.com/+KeanMaizels",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-t5aKxTecSaI/AAAAAAAAAAI/AAAAAAAAAz0/aplOgx_8Mpo/s64-c/photo.jpg",
+      "resourceName": "users/101798281270279925409"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Matt Richard",
+      "profilePageUrl": "https://plus.google.com/110166643140045739599",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NFaQJJ6ZuEU/AAAAAAAAAAI/AAAAAAAAEEo/4mz7KaVgDHk/s64-c/photo.jpg",
+      "resourceName": "users/110166643140045739599"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Will Tatam",
+      "profilePageUrl": "https://plus.google.com/118177602878977643458",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Iu1wCCisZoI/AAAAAAAAAAI/AAAAAAAAAEk/beUJ-QIAuQE/s64-c/photo.jpg",
+      "resourceName": "users/118177602878977643458"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/102639486677013343669",
+        "displayName": "Leon Yuhanov"
+      }, {
+        "resourceName": "users/116512152146008000438",
+        "displayName": "Jesus Vicente"
+      }]
+    }
+  }
+}

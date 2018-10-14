@@ -1,0 +1,270 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/SGvGuJoqUkc",
+  "creationTime": "2016-02-07 10:12:27-0500",
+  "updateTime": "2016-02-07 10:20:27-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Fibonacci v3D!  My wife requested I build a round Fibonacci spiral lamp, so I took a break from working on v2: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/p4i8afc8MCnTVcs69\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/p4i8afc8MCnTVcs69\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI ran the LEDs in a slightly different order than v1, so I\u0026#39;ll need to redo the XY and spiral maps.  I also plan to create radius and 3D maps, and maybe wire up a MSGEQ7 for audio reaction.\u003cbr\u003e\u003cbr\u003eBuild pics, with details in the info for each pic: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/ijtXuzpKviSNW9Kv7\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/ijtXuzpKviSNW9Kv7\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eSource code (very much a work in progress): \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/evilgeniuslabs/fibonacci-v3d\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/evilgeniuslabs/fibonacci-v3d\u003c/a\u003e",
+  "media": {
+    "url": "https://youtu.be/eBLh7yvzN-Y?list\u003dPLUYGVM-2vDxJLjAv6qwl_FOBu8xzAoJL4",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Available from Evil Genius Labs: http://www.evilgeniuslabs.org Hemispherical light art display, built with 100 WS2812B RGB LEDs, driven with a Teensy v3.2, u...",
+    "resourceName": "media/EgtlQkxoN3l2ek4tWQ\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2016-02-07 10:22:56-0500",
+    "author": {
+      "displayName": "Noel Kuck",
+      "profilePageUrl": "https://plus.google.com/115271350655237711391",
+      "resourceName": "users/115271350655237711391"
+    },
+    "content": "Gorgeous!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/SGvGuJoqUkc",
+    "resourceName": "users/103867089694409269471/posts/UgiXGynScik-LXgCoAEC/comments/CiN6MTJxenRkNGxveXhncDNncjA0Y2l0dzRleWZkY3RycjQybxD_5ZXF-uXKAg"
+  }, {
+    "creationTime": "2016-02-07 11:32:56-0500",
+    "author": {
+      "displayName": "Scottie D369",
+      "profilePageUrl": "https://plus.google.com/+ScottieD369",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-S4TRuu-0R6c/AAAAAAAAAAI/AAAAAAAAAUo/hth_rrPwkmM/s64-c/photo.jpg",
+      "resourceName": "users/107470029415997129629"
+    },
+    "content": "Very nice work! Thanks for sharing the source code! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/SGvGuJoqUkc",
+    "resourceName": "users/103867089694409269471/posts/UgiXGynScik-LXgCoAEC/comments/CiN6MTJxenRkNGxveXhncDNncjA0Y2l0dzRleWZkY3RycjQybxC77PKXiubKAg"
+  }, {
+    "creationTime": "2016-02-07 12:40:19-0500",
+    "author": {
+      "displayName": "Ezio Perinot",
+      "profilePageUrl": "https://plus.google.com/105609192361870272609",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-vX7NMCA-dN0/AAAAAAAAAAI/AAAAAAAAAas/Z4ZE5YfMj3A/s64-c/photo.jpg",
+      "resourceName": "users/105609192361870272609"
+    },
+    "content": "Amazing lamp!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/SGvGuJoqUkc",
+    "resourceName": "users/103867089694409269471/posts/UgiXGynScik-LXgCoAEC/comments/CiN6MTJxenRkNGxveXhncDNncjA0Y2l0dzRleWZkY3RycjQybxCPx9ufmebKAg"
+  }, {
+    "creationTime": "2016-02-07 12:43:49-0500",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Another great build Jason.  Cool!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/SGvGuJoqUkc",
+    "resourceName": "users/103867089694409269471/posts/UgiXGynScik-LXgCoAEC/comments/CiN6MTJxenRkNGxveXhncDNncjA0Y2l0dzRleWZkY3RycjQybxDdrOaDmubKAg"
+  }, {
+    "creationTime": "2016-02-07 13:54:29-0500",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "Wow, very nice!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/SGvGuJoqUkc",
+    "resourceName": "users/103867089694409269471/posts/UgiXGynScik-LXgCoAEC/comments/CiN6MTJxenRkNGxveXhncDNncjA0Y2l0dzRleWZkY3RycjQybxCen-DpqebKAg"
+  }, {
+    "creationTime": "2016-02-07 22:44:26-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, everyone!  I finished remapping to actual Fibonacci sequence and XY, the code has been updated, new video coming soon.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/SGvGuJoqUkc",
+    "resourceName": "users/103867089694409269471/posts/UgiXGynScik-LXgCoAEC/comments/CiN6MTJxenRkNGxveXhncDNncjA0Y2l0dzRleWZkY3RycjQybxDtu-mjoOfKAg"
+  }, {
+    "creationTime": "2016-02-09 10:07:17-0500",
+    "author": {
+      "displayName": "Scott Anderson",
+      "profilePageUrl": "https://plus.google.com/114395265270523345001",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-cM7e9f1KlWk/AAAAAAAAAAI/AAAAAAAAKe4/7e11fJWOW58/s64-c/photo.jpg",
+      "resourceName": "users/114395265270523345001"
+    },
+    "content": "Great stuff. Actually doing the same sort of project. Except using a 3d printed model. Did you use a pre-wired set of leds or wire them yourself. If pre-wired where did you source them from? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/SGvGuJoqUkc",
+    "resourceName": "users/103867089694409269471/posts/UgiXGynScik-LXgCoAEC/comments/CiN6MTJxenRkNGxveXhncDNncjA0Y2l0dzRleWZkY3RycjQybxCN1-Pi-urKAg"
+  }, {
+    "creationTime": "2016-02-09 10:17:24-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks!  Cool, I really want a 3D printer so I can step up my fabrication capabilities, although I do enjoy building things the old-fashioned way.  :)  Yeah, it\u0026#39;s two strings of 50 non-waterproof (IP30) 8mm WS2811 RGB LEDs.  They\u0026#39;re available on AliExpress, eBay, etc.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/SGvGuJoqUkc",
+    "resourceName": "users/103867089694409269471/posts/UgiXGynScik-LXgCoAEC/comments/CiN6MTJxenRkNGxveXhncDNncjA0Y2l0dzRleWZkY3RycjQybxC03a2E_erKAg"
+  }, {
+    "creationTime": "2018-09-04 10:45:09-0400",
+    "author": {
+      "displayName": "варешяф рйезот",
+      "profilePageUrl": "https://plus.google.com/103347945656709911330",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-OpxXJVkns-8/AAAAAAAAAAI/AAAAAAAAACA/33lSU3Ld-VY/s64-c/photo.jpg",
+      "resourceName": "users/103347945656709911330"
+    },
+    "content": "Hello! Jason, Sorry for pore English. I like your work and try to understand how you have calculated arrays. And I can find solution )) Here you can find MS Excel workbook with formulas and calculations. \u003cbr\u003e\u003cbr\u003eBy sorting columns - you will get another looks of pixel order in chart. Also you can easy make calcs for larger amount of leds.\u003cbr\u003eI\u0026quot;m not good programmer, and for now I\u0026#39;m trying to run this project on ESP8266. I have add some code from \u0026quot;eclipse-v2\u0026quot; project. Its work, but not good. For example I can not add additional gradient palettes. Some of lighting procedures works bad too. I think it is by another platform (teensy more powerfull than esp8266 ).\u003cbr\u003eIn any case - thanks for your work and for shareing. I read many books about philotaxis before I can understand your logic of code ) It was very-very interesting.\u003cbr\u003eIn Excel workbook you can find algorintm for 3D coordinates, if interesting.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/SGvGuJoqUkc",
+    "link": {
+      "title": "Файл из Облака Mail.Ru",
+      "url": "https://cloud.mail.ru/public/2zjL/p8g61rRyu",
+      "imageUrl": "https://thumb.cloud.mail.ru/thumb/w6/510B261FD7956AD575890015F12022D6D2CFF5D1.xlsx"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiXGynScik-LXgCoAEC/comments/CiN6MTJxenRkNGxveXhncDNncjA0Y2l0dzRleWZkY3RycjQybxDp1-aiy6HdAg"
+  }, {
+    "creationTime": "2018-09-06 07:42:35-0400",
+    "author": {
+      "displayName": "варешяф рйезот",
+      "profilePageUrl": "https://plus.google.com/103347945656709911330",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-OpxXJVkns-8/AAAAAAAAAAI/AAAAAAAAACA/33lSU3Ld-VY/s64-c/photo.jpg",
+      "resourceName": "users/103347945656709911330"
+    },
+    "content": "Some books of FIbonacci math I\u0026#39;m upload here: \u003cbr\u003eThere are English and Russian books. Some material very interesting.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/SGvGuJoqUkc",
+    "link": {
+      "title": "Папка из Облака Mail.Ru",
+      "url": "https://cloud.mail.ru/public/9wGg/QVFfDXC9v",
+      "imageUrl": "https://img.imgsmail.ru/cloud/img/publish.v2.png"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiXGynScik-LXgCoAEC/comments/CiN6MTJxenRkNGxveXhncDNncjA0Y2l0dzRleWZkY3RycjQybxCtoJmZpqbdAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgiXGynScik-LXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Hanson Quan",
+      "profilePageUrl": "https://plus.google.com/117960734157333817361",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-mGEUFYBkhNk/AAAAAAAAAAI/AAAAAAAAcro/tKTz5STX84o/s64-c/photo.jpg",
+      "resourceName": "users/117960734157333817361"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ira T",
+      "profilePageUrl": "https://plus.google.com/116429700234106213947",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-_3LBlbxeUhI/AAAAAAAAAAI/AAAAAAAAAh4/qVnAmz9N4-E/s64-c/photo.jpg",
+      "resourceName": "users/116429700234106213947"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "arpan choudhury",
+      "profilePageUrl": "https://plus.google.com/108834522502450669797",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-FL9DpN3FQhA/AAAAAAAAAAI/AAAAAAAAAh4/FFg28t90g0A/s64-c/photo.jpg",
+      "resourceName": "users/108834522502450669797"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Scott Anderson",
+      "profilePageUrl": "https://plus.google.com/114395265270523345001",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-cM7e9f1KlWk/AAAAAAAAAAI/AAAAAAAAKe4/7e11fJWOW58/s64-c/photo.jpg",
+      "resourceName": "users/114395265270523345001"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tim Lukasik",
+      "profilePageUrl": "https://plus.google.com/100542328320334100166",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-4Kskcwha5a8/AAAAAAAAAAI/AAAAAAABpB0/nzdKSaBilNs/s64-c/photo.jpg",
+      "resourceName": "users/100542328320334100166"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "John Burdett",
+      "profilePageUrl": "https://plus.google.com/103494082293879400098",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-HorK3b_-lOA/AAAAAAAAAAI/AAAAAAAAAH0/5BAiealnLTc/s64-c/photo.jpg",
+      "resourceName": "users/103494082293879400098"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ivars Duntavs",
+      "profilePageUrl": "https://plus.google.com/105228110381512546854",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jWVehN0C1_Q/AAAAAAAAAAI/AAAAAAAAACE/DWrS1Es0u5A/s64-c/photo.jpg",
+      "resourceName": "users/105228110381512546854"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dushyant Ahuja",
+      "profilePageUrl": "https://plus.google.com/+DushyantAhuja",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-sva8lHLHSMA/AAAAAAAAAAI/AAAAAAAAuKE/S0J3fcd1EFQ/s64-c/photo.jpg",
+      "resourceName": "users/102046189032208678773"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Ivars Duntavs",
+      "profilePageUrl": "https://plus.google.com/105228110381512546854",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jWVehN0C1_Q/AAAAAAAAAAI/AAAAAAAAACE/DWrS1Es0u5A/s64-c/photo.jpg",
+      "resourceName": "users/105228110381512546854"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/UjwBL3RNMbg",
+  "creationTime": "2015-01-02 18:33:22-0500",
+  "updateTime": "2015-01-02 18:33:22-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I\u0026#39;ve seen a few people in this community make similar lamps, and finally decided to try making my own.  I picked up a cheap lamp at IKEA and wired up an APA102 strip, a Teensy 3.1 and an infrared remote.  I added a few patterns contributed by FastLED members, along with adjustable brightness and color.",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/8gnaT9eKt7X",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "My latest project has been a remote controlled LED lamp: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/watch?v\u003dSNaRzPEzEGE\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/watch?v\u003dSNaRzPEzEGE\u003c/a\u003e",
+    "album": {
+      "media": [{
+        "url": "https://lh5.googleusercontent.com/-_Ezss4-BvMc/VKcpR5sWDsI/AAAAAAABuiE/FS-kwxILeo8/w2448-h3264/IMG_20150101_173156.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "resourceName": "media/CixBRjFRaXBQeDNCUjJLRTA4YUVuNUw3SGJsSWp0bDA5Vl9rQWdzYWwzSFZ1Rw\u003d\u003d"
+      }, {
+        "url": "https://lh6.googleusercontent.com/-x5d19TK19pc/VKcpR_rbtOI/AAAAAAABuiE/HVce5DNJTss/w2448-h3264/IMG_20150101_173149.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "resourceName": "media/CixBRjFRaXBQdEg2eVZocUNaNElRQVZBRlBqQTRoV0xWWDhGd3d3cHhKZVFsQw\u003d\u003d"
+      }, {
+        "url": "https://lh4.googleusercontent.com/-Ilr07HqESuc/VKcpRx75FLI/AAAAAAABuiE/icwXeGtAWWg/w3264-h2448/IMG_20150101_173035.jpg",
+        "contentType": "image/*",
+        "width": 3264,
+        "height": 2448,
+        "resourceName": "media/CixBRjFRaXBOMkgtTVF3aEdWd25HeHdwZm1jRmVVZXQ2SjJtems5YmFVRnc5cQ\u003d\u003d"
+      }, {
+        "url": "https://lh5.googleusercontent.com/-0fzkShNgDWk/VKcpR3a-tqI/AAAAAAABuiE/A5Ca5Xqsnr4/w2448-h3264/IMG_20150101_173051.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "resourceName": "media/CixBRjFRaXBOQ0N0bWRneWV3UlZWU1ZmRWJXUWQxUnpxZlVsdmZoTDFVcGlWbg\u003d\u003d"
+      }]
+    },
+    "resourceName": "users/103867089694409269471/posts/Uggt84yvkrcixngCoAEC"
+  },
+  "comments": [{
+    "creationTime": "2015-01-02 18:33:46-0500",
+    "updateTime": "2015-02-22 10:12:14-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Source code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/APA102_Teensy_IR\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/APA102_Teensy_IR\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UjwBL3RNMbg",
+    "resourceName": "users/103867089694409269471/posts/Ugil2Rug_1n-c3gCoAEC/comments/CiN6MTN0enR0enVsenVnaHY1NTA0Y2l0dzRleWZkY3RycjQybxC3uvmsvPbCAg"
+  }, {
+    "creationTime": "2015-01-02 19:21:56-0500",
+    "updateTime": "2015-01-03 13:24:38-0500",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "That\u0026#39;s the Holmo lamp. I\u0026#39;ve got one and love it.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UjwBL3RNMbg",
+    "resourceName": "users/103867089694409269471/posts/Ugil2Rug_1n-c3gCoAEC/comments/CiN6MTN0enR0enVsenVnaHY1NTA0Y2l0dzRleWZkY3RycjQybxC1sLaPx_bCAg"
+  }, {
+    "creationTime": "2015-01-02 21:21:24-0500",
+    "author": {
+      "displayName": "Kasper Kamperman",
+      "profilePageUrl": "https://plus.google.com/+KasperKamperman",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3apwQwpZUsw/AAAAAAAAAAI/AAAAAAAAM1w/Dd5aRhQnqXw/s64-c/photo.jpg",
+      "resourceName": "users/100115767703084101160"
+    },
+    "content": "Which infrared sensor do you use? Any recommendations?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UjwBL3RNMbg",
+    "resourceName": "users/103867089694409269471/posts/Ugil2Rug_1n-c3gCoAEC/comments/CiN6MTN0enR0enVsenVnaHY1NTA0Y2l0dzRleWZkY3RycjQybxCDmZPp4fbCAg"
+  }, {
+    "creationTime": "2015-01-03 00:19:30-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I just used this one from Adafruit: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.adafruit.com/products/157\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.adafruit.com/products/157\u003c/a\u003e. I\u0026#39;ve used them in several projects, very happy with them.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UjwBL3RNMbg",
+    "resourceName": "users/103867089694409269471/posts/Ugil2Rug_1n-c3gCoAEC/comments/CiN6MTN0enR0enVsenVnaHY1NTA0Y2l0dzRleWZkY3RycjQybxDJnszQiffCAg"
+  }, {
+    "creationTime": "2015-01-03 00:44:13-0500",
+    "updateTime": "2015-01-03 00:44:35-0500",
+    "author": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "resourceName": "users/101708620681849403392"
+    },
+    "content": "I was told that ir controllers and FasLED don\u0026#39;t play together... I ended up using a Pro Mini as an IR bridge.﻿",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UjwBL3RNMbg",
+    "resourceName": "users/103867089694409269471/posts/Ugil2Rug_1n-c3gCoAEC/comments/CiN6MTN0enR0enVsenVnaHY1NTA0Y2l0dzRleWZkY3RycjQybxDcwdeTj_fCAg"
+  }, {
+    "creationTime": "2015-01-03 00:48:56-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Maybe on Arduinos, but I\u0026#39;ve never had any problems with IR on Teensy 3.1s.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UjwBL3RNMbg",
+    "resourceName": "users/103867089694409269471/posts/Ugil2Rug_1n-c3gCoAEC/comments/CiN6MTN0enR0enVsenVnaHY1NTA0Y2l0dzRleWZkY3RycjQybxCkiuGakPfCAg"
+  }, {
+    "creationTime": "2015-01-03 12:58:59-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I do think the Teensy has to be either underclocked at 48MHz or overclocked at 96MHz for IR to work properly.  I don\u0026#39;t think it works at the default 72MHz.  I usually overclock at 96MHz.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UjwBL3RNMbg",
+    "resourceName": "users/103867089694409269471/posts/Ugil2Rug_1n-c3gCoAEC/comments/CiN6MTN0enR0enVsenVnaHY1NTA0Y2l0dzRleWZkY3RycjQybxC06cWxs_jCAg"
+  }, {
+    "creationTime": "2015-01-03 22:31:47-0500",
+    "author": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "resourceName": "users/101708620681849403392"
+    },
+    "content": "Yes, it does seem to be Arduinos... To do with timers/timing, I believe",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UjwBL3RNMbg",
+    "resourceName": "users/103867089694409269471/posts/Ugil2Rug_1n-c3gCoAEC/comments/CiN6MTN0enR0enVsenVnaHY1NTA0Y2l0dzRleWZkY3RycjQybxCYlbi1s_nCAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ugil2Rug_1n-c3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "MAX Menke",
+      "profilePageUrl": "https://plus.google.com/106481996634743249846",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-9XK1qA7mmtY/AAAAAAAAAAI/AAAAAAAAA9g/w2Q_sPKio0c/s64-c/photo.jpg",
+      "resourceName": "users/106481996634743249846"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NBqJ3BQopJo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUjZtH-NDpU8Y--VLfH8gc42O891A/s64-c/photo.jpg",
+      "resourceName": "users/112392188627004225254"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ravi Palaniappan",
+      "profilePageUrl": "https://plus.google.com/+RaviPalaniappan1",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-1hvDur1dKKI/AAAAAAAAAAI/AAAAAAAAWCk/5Ce_TP2PvhE/s64-c/photo.jpg",
+      "resourceName": "users/109529285750707764428"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kasper Kamperman",
+      "profilePageUrl": "https://plus.google.com/+KasperKamperman",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3apwQwpZUsw/AAAAAAAAAAI/AAAAAAAAM1w/Dd5aRhQnqXw/s64-c/photo.jpg",
+      "resourceName": "users/100115767703084101160"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Martin Weinecke",
+      "profilePageUrl": "https://plus.google.com/+MartinWeinecke",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-o3g8QCnmXUY/AAAAAAAAAAI/AAAAAAAAgyE/NDosytBCZgE/s64-c/photo.jpg",
+      "resourceName": "users/100828491293888640131"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

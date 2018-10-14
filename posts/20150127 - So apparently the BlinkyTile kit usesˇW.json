@@ -1,0 +1,148 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/VpLrN3jvpZH",
+  "creationTime": "2015-01-27 20:01:58-0500",
+  "updateTime": "2015-01-27 20:01:58-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "So apparently the BlinkyTile kit uses WS2822S LEDS, which are wired in parallel and use the DMX protocol.  Luckily, FastLED already supports DMX and it was simple to get running on an Arduino Uno.  I also tried it successfully on a Teensy 3.1.  This is Mark\u0026#39;s ColorPalette example.  Thank you Daniel and Mark for all of your hard work at making this easy!",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/RPQQs9xZnaJ",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "A dodecahedron made of BlinkyTiles, running on an Arduino Uno using the FastLED library.  Source code and more information: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pup05/BlinkyTileFastLED\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pup05/BlinkyTileFastLED\u003c/a\u003e﻿",
+    "media": {
+      "url": "http://www.youtube.com/watch?v\u003dZVGWRow0m3g",
+      "contentType": "video/*",
+      "width": 1280,
+      "height": 720,
+      "description": "A dodecahedron made of BlinkyTiles, running on an Arduino Uno using the FastLED library. Source code and more information: https://github.com/pup05/BlinkyTil...",
+      "resourceName": "media/EgtaVkdXUm93MG0zZw\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiRy8Vm8LWUT3gCoAEC"
+  },
+  "comments": [{
+    "creationTime": "2015-01-27 20:07:56-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Oh, I was also surprised that the address line is apparently not required.  I just hooked up power, ground, and data.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpLrN3jvpZH",
+    "resourceName": "users/103867089694409269471/posts/UgisR_SyaH8Z1HgCoAEC/comments/CiN6MTNlZmJ6YTNvdWZqdmN4ZzA0Y2l0dzRleWZkY3RycjQybxCXkKiDwLXDAg"
+  }, {
+    "creationTime": "2015-01-30 08:51:45-0500",
+    "author": {
+      "displayName": "Steve French",
+      "profilePageUrl": "https://plus.google.com/+SteveFrenchofVoltVision",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5K8ai063Hhc/AAAAAAAAAAI/AAAAAAAAAnY/XS1vOTD94jw/s64-c/photo.jpg",
+      "resourceName": "users/100919395562401953717"
+    },
+    "content": "Jason, excellent work!  When you say that FastLED already supports DMX you mean that you dont need to use DMXsimple or DMXserial alongside FastLED?  I didnt know that...that is awesome.  Can you run WS2811 on some pins and DMX on other pins using Teensy3 or Teensy3.1?  Thx and great work!\u003cbr\u003e\u003cbr\u003e-frenchy (Steve French)\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.voltvision.com\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ewww.voltvision.com\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpLrN3jvpZH",
+    "resourceName": "users/103867089694409269471/posts/UgisR_SyaH8Z1HgCoAEC/comments/CiN6MTNlZmJ6YTNvdWZqdmN4ZzA0Y2l0dzRleWZkY3RycjQybxDHt-297rvDAg"
+  }, {
+    "creationTime": "2015-01-30 09:13:12-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks!  If you look at the code, I had to include DmxSimple.h.  It looks like FastLED can use it or DmxSerial internally.  I didn\u0026#39;t have to do anything else with it.  Sorry, I\u0026#39;m not sure, I\u0026#39;m far from a FastLED expert.  I\u0026#39;m sure Daniel, Mark or some of the other gurus around here could tell you.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpLrN3jvpZH",
+    "resourceName": "users/103867089694409269471/posts/UgisR_SyaH8Z1HgCoAEC/comments/CiN6MTNlZmJ6YTNvdWZqdmN4ZzA0Y2l0dzRleWZkY3RycjQybxCvoNCj87vDAg"
+  }, {
+    "creationTime": "2015-02-06 06:07:35-0500",
+    "author": {
+      "displayName": "Scottie D369",
+      "profilePageUrl": "https://plus.google.com/+ScottieD369",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-S4TRuu-0R6c/AAAAAAAAAAI/AAAAAAAAAUo/hth_rrPwkmM/s64-c/photo.jpg",
+      "resourceName": "users/107470029415997129629"
+    },
+    "content": "Error compiling...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpLrN3jvpZH",
+    "resourceName": "users/103867089694409269471/posts/UgisR_SyaH8Z1HgCoAEC/comments/CiN6MTNlZmJ6YTNvdWZqdmN4ZzA0Y2l0dzRleWZkY3RycjQybxDK_6Hsls3DAg"
+  }, {
+    "creationTime": "2015-02-06 07:48:57-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "What\u0026#39;s the error?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpLrN3jvpZH",
+    "resourceName": "users/103867089694409269471/posts/UgisR_SyaH8Z1HgCoAEC/comments/CiN6MTNlZmJ6YTNvdWZqdmN4ZzA0Y2l0dzRleWZkY3RycjQybxDQg5LArc3DAg"
+  }, {
+    "creationTime": "2015-02-06 14:19:27-0500",
+    "author": {
+      "displayName": "Scottie D369",
+      "profilePageUrl": "https://plus.google.com/+ScottieD369",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-S4TRuu-0R6c/AAAAAAAAAAI/AAAAAAAAAUo/hth_rrPwkmM/s64-c/photo.jpg",
+      "resourceName": "users/107470029415997129629"
+    },
+    "content": "Within the DMX.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eC:\\Users\\Scott\\Desktop\\windows\\libraries\\DmxSimple\\DmxSimple.cpp:\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.youtube.com/watch?v\u003dZVGWRow0m3g\u0026amp;t\u003d11m20s\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\"\u003e11:20\u003c/a\u003e: error: wiring.h: No such file or directory\u003cbr\u003eC:\\Users\\Scott\\Desktop\\windows\\libraries\\DmxSimple\\DmxSimple.cpp: In function \u0026#39;void dmxBegin()\u0026#39;:\u003cbr\u003eC:\\Users\\Scott\\Desktop\\windows\\libraries\\DmxSimple\\DmxSimple.cpp:57: error: \u0026#39;digitalPinToPort\u0026#39; was not declared in this scope\u003cbr\u003eC:\\Users\\Scott\\Desktop\\windows\\libraries\\DmxSimple\\DmxSimple.cpp:57: error: \u0026#39;portOutputRegister\u0026#39; was not declared in this scope\u003cbr\u003eC:\\Users\\Scott\\Desktop\\windows\\libraries\\DmxSimple\\DmxSimple.cpp:58: error: \u0026#39;digitalPinToBitMask\u0026#39; was not declared in this scope\u003cbr\u003eC:\\Users\\Scott\\Desktop\\windows\\libraries\\DmxSimple\\DmxSimple.cpp:61: error: \u0026#39;OUTPUT\u0026#39; was not declared in this scope\u003cbr\u003eC:\\Users\\Scott\\Desktop\\windows\\libraries\\DmxSimple\\DmxSimple.cpp:61: error: \u0026#39;pinMode\u0026#39; was not declared in this scope\u003cbr\u003eC:\\Users\\Scott\\Desktop\\windows\\libraries\\DmxSimple\\DmxSimple.cpp: In function \u0026#39;void dmxWrite(int, uint8_t)\u0026#39;:\u003cbr\u003eC:\\Users\\Scott\\Desktop\\windows\\libraries\\DmxSimple\\DmxSimple.cpp:183: error: \u0026#39;max\u0026#39; was not declared in this scope\u003cbr\u003eC:\\Users\\Scott\\Desktop\\windows\\libraries\\DmxSimple\\DmxSimple.cpp: In function \u0026#39;void dmxMaxChannel(int)\u0026#39;:\u003cbr\u003eC:\\Users\\Scott\\Desktop\\windows\\libraries\\DmxSimple\\DmxSimple.cpp:194: error: \u0026#39;min\u0026#39; was not declared in this scope",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpLrN3jvpZH",
+    "resourceName": "users/103867089694409269471/posts/UgisR_SyaH8Z1HgCoAEC/comments/CiN6MTNlZmJ6YTNvdWZqdmN4ZzA0Y2l0dzRleWZkY3RycjQybxC8gLbkhM7DAg"
+  }, {
+    "creationTime": "2015-02-06 14:29:49-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "What version of Arduino?  Which microprocessor?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpLrN3jvpZH",
+    "resourceName": "users/103867089694409269471/posts/UgisR_SyaH8Z1HgCoAEC/comments/CiN6MTNlZmJ6YTNvdWZqdmN4ZzA0Y2l0dzRleWZkY3RycjQybxCTpI2Nh87DAg"
+  }, {
+    "creationTime": "2015-02-06 14:34:00-0500",
+    "author": {
+      "displayName": "Scottie D369",
+      "profilePageUrl": "https://plus.google.com/+ScottieD369",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-S4TRuu-0R6c/AAAAAAAAAAI/AAAAAAAAAUo/hth_rrPwkmM/s64-c/photo.jpg",
+      "resourceName": "users/107470029415997129629"
+    },
+    "content": "I am using it on the ATTiny so I am thinking it doesn\u0026#39;t work on a miniature size framework? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpLrN3jvpZH",
+    "resourceName": "users/103867089694409269471/posts/UgisR_SyaH8Z1HgCoAEC/comments/CiN6MTNlZmJ6YTNvdWZqdmN4ZzA0Y2l0dzRleWZkY3RycjQybxCqxYKFiM7DAg"
+  }, {
+    "creationTime": "2015-02-06 14:37:28-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Doesn\u0026#39;t seem so.  I tried it with an Adafruit Gemma, which is an Attiny85, and couldn\u0026#39;t get it to work.  I think the DmxSimple library would need to be updated.  Matt from Blinkinlabs mentioned it\u0026#39;d require defining the interrupt setup here, but I haven\u0026#39;t tried: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://forums.blinkinlabs.com/index.php?p\u003d/discussion/comment/481/#Comment_481\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://forums.blinkinlabs.com/index.php?p\u003d/discussion/comment/481/#Comment_481\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpLrN3jvpZH",
+    "resourceName": "users/103867089694409269471/posts/UgisR_SyaH8Z1HgCoAEC/comments/CiN6MTNlZmJ6YTNvdWZqdmN4ZzA0Y2l0dzRleWZkY3RycjQybxDhjvzniM7DAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgisR_SyaH8Z1HgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

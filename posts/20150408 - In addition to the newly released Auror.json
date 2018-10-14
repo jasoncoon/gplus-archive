@@ -1,0 +1,33 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/KqBULXjdvaS",
+  "creationTime": "2015-04-08 21:40:43-0400",
+  "updateTime": "2015-04-08 21:40:43-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "In addition to the newly released Aurora v1.4, we\u0026#39;re also testing a new \u0026#39;Update Files\u0026#39; settings item that restarts the SmartMatrix into USB mass storage device mode.  This allows you to load new images, messages, etc onto the SD without having to remove the card.  In my testing on Windows, it automatically reboots into Aurora after \u0026#39;ejecting\u0026#39; the drive.\u003cbr\u003e\u003cbr\u003ePlease try it out if you have a chance and let us know if you have any questions or problems.  It\u0026#39;s in the new Aurora1.5 branch.  You can just download Aurora.hex and use the Teensy Loader, or follow Louis\u0026#39; instructions to build it yourself.\u003cbr\u003e\u003cbr\u003eAurora v1.5 branch: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/tree/Aurora1.5\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/tree/Aurora1.5\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eAurora.hex: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/raw/Aurora1.5/bin/Aurora.hex\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/raw/Aurora1.5/bin/Aurora.hex\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eMore information: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/JumpToUsbMsdAppWithOffset\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/JumpToUsbMsdAppWithOffset\u003c/a\u003e",
+  "link": {
+    "title": "pixelmatix/aurora at Aurora1.5 · GitHub",
+    "url": "https://github.com/pixelmatix/aurora/tree/Aurora1.5"
+  },
+  "resourceName": "users/103867089694409269471/posts/UghwlNYwuYQfR3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

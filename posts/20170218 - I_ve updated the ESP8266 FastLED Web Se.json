@@ -1,0 +1,553 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/KGkJwbfteA1",
+  "creationTime": "2017-02-18 15:25:25-0500",
+  "updateTime": "2017-02-18 15:25:25-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I\u0026#39;ve updated the ESP8266 FastLED Web Server example to include a palette selector.  Here\u0026#39;s the simpler version in master: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver/commit/681c29a8776a40026a26365d3988dedd38526417\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver/commit/681c29a8776a40026a26365d3988dedd38526417\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eAnd here\u0026#39;s the slightly more complicated version using the new dynamic field support in v1.1 (takes much less code): \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver/commit/f04a089fa4e42ddaf2508ea8b2df793f0ab8410e\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver/commit/f04a089fa4e42ddaf2508ea8b2df793f0ab8410e\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eNot all of the patterns use the selected palette yet, and there are currently two different palette lists: \u0026quot;simple\u0026quot; ones like rainbow, cloud, forest, etc, and the gradient palette list from Mark\u0026#39;s Palette Knife demos.  I haven\u0026#39;t decided if/how I want to combine them.\u003cbr\u003e\u003cbr\u003eI wasn\u0026#39;t able to figure out how to implement the palette list like the pattern list: as an array of structs with a palette and name.  I tried several different approaches, but couldn\u0026#39;t get any of them to compile.  I\u0026#39;ll admit I\u0026#39;m beyond my current C skill level.  :)  I ended up just using one array for the palettes, and another array for the names.  It works, but it\u0026#39;s not ideal: as the palette list grows, it\u0026#39;ll be harder to keep the two arrays in sync.\u003cbr\u003e\u003cbr\u003eAnyone have any ideas to get that to work?  Compare the patterns list: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver/blob/master/esp8266-fastled-webserver.ino#L274-L293\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver/blob/master/esp8266-fastled-webserver.ino#L274-L293\u003c/a\u003e to the palettes list: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver/blob/master/esp8266-fastled-webserver.ino#L297-L312\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver/blob/master/esp8266-fastled-webserver.ino#L297-L312\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eThanks!",
+  "link": {
+    "title": "esp8266-fastled-webserver",
+    "url": "https://github.com/jasoncoon/esp8266-fastled-webserver",
+    "imageUrl": "https://camo.githubusercontent.com/48165f89ae12a392b63c22c4a9e104424808d2d9/68747470733a2f2f63646e2d73686f702e61646166727569742e636f6d2f333130783233332f323437312d31302e6a7067"
+  },
+  "comments": [{
+    "creationTime": "2017-02-19 01:49:30-0500",
+    "updateTime": "2017-02-19 09:27:09-0500",
+    "author": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    },
+    "content": "Has anyone told you lately that your awesome?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQsOLW48ib0gI"
+  }, {
+    "creationTime": "2017-02-19 04:32:18-0500",
+    "author": {
+      "displayName": "Saytinh",
+      "profilePageUrl": "https://plus.google.com/+DuongTrongHue",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CiAOH3Nx1AM/AAAAAAAAAAI/AAAAAAAAHJE/KkXGtNj9fFE/s64-c/photo.jpg",
+      "resourceName": "users/106877914545066503331"
+    },
+    "content": "Still not tried yet. But awesome. Thanks for sharing ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQvajTle2b0gI"
+  }, {
+    "creationTime": "2017-02-19 09:16:08-0500",
+    "author": {
+      "displayName": "f otain",
+      "profilePageUrl": "https://plus.google.com/+fahadmohammedabufaisal",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-IIskHo0_VVY/AAAAAAAAAAI/AAAAAAAAMOE/RqIKCws7sVk/s64-c/photo.jpg",
+      "resourceName": "users/104007148546257337123"
+    },
+    "content": "Its very good thanks \u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQsZn7zayc0gI"
+  }, {
+    "creationTime": "2017-02-19 14:17:19-0500",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "Thanks to horrific delays at Canada customs, I\u0026#39;ve been having a bad time with Aliexpress orders since last October (30 days \u003cdel\u003e-\u003c/del\u003e\u0026gt;  90+ days). Have just ordered 3 of those from Adafruit with shipment via UPS. Was pricey, but it\u0026#39;ll get me in the ESP8266 game.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQxuuK9--c0gI"
+  }, {
+    "creationTime": "2017-02-19 15:47:55-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Sorry, \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117226587425513750918\" oid\u003d\"117226587425513750918\" \u003eAndrew Tuline\u003c/a\u003e\u003c/span\u003e, I have a bunch of Wemos D1 Mini Pros and level shifter shields I could have sent you (from the US).  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQx7Sql4Sd0gI"
+  }, {
+    "creationTime": "2017-02-23 18:09:21-0500",
+    "author": {
+      "displayName": "Chris Bendzel",
+      "profilePageUrl": "https://plus.google.com/101341513689321560744",
+      "resourceName": "users/101341513689321560744"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e \u003cbr\u003eHi!\u003cbr\u003e\u003cbr\u003eIs this along the lines of what you used for a level shifter?\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eThanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "link": {
+      "title": "Amazon.com: XCSOURCE 5PCS IIC I2C Logic Level Converter Bi-Directional Module 5V to 3.3V TE291: Electronics",
+      "url": "https://www.amazon.com/XCSOURCE-Converter-Bi-Directional-Module-TE291/dp/B0148BLZGE/ref\u003dsr_1_5?ie\u003dUTF8\u0026qid\u003d1487891023\u0026sr\u003d8-5\u0026keywords\u003dBi-Directional+Logic+Level+Converter+(4+Channel)",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/6194cdbY6pL._SY300_.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQntm9oKun0gI"
+  }, {
+    "creationTime": "2017-02-23 18:53:34-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Nope, the FastLED community highly recommends the 74HCT series.  It seems to be the only one confirmed to always work at high speeds.  I use these, since they\u0026#39;re the only through-hole ones I\u0026#39;ve found: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.digikey.com/product-detail/en/texas-instruments/SN74HCT245N/296-1612-5-ND/277258\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.digikey.com/product-detail/en/texas-instruments/SN74HCT245N/296-1612-5-ND/277258\u003c/a\u003e (8 ports)\u003cbr\u003e (4 ports)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "link": {
+      "title": "SN74HCT125N Texas Instruments | Integrated Circuits (ICs) | DigiKey",
+      "url": "http://www.digikey.com/product-detail/en/texas-instruments/SN74HCT125N/296-8386-5-ND/376860",
+      "imageUrl": "http://media.digikey.com/Renders/Texas%20Instr%20Renders/14-DIP.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQw-TNkbWn0gI"
+  }, {
+    "creationTime": "2017-02-23 19:00:38-0500",
+    "author": {
+      "displayName": "Chris Bendzel",
+      "profilePageUrl": "https://plus.google.com/101341513689321560744",
+      "resourceName": "users/101341513689321560744"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e \u003cbr\u003eThank you Sir!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQrdvd27an0gI"
+  }, {
+    "creationTime": "2017-02-23 19:34:02-0500",
+    "updateTime": "2017-02-23 20:12:55-0500",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "I see that this program is not going to be easy to compile on my brand new Huzzah. Is currently complaining about \u0026#39;autoplay\u0026#39; not being declared on line 736 and 752. Defined it, and had more errors further on.\u003cbr\u003e\u003cbr\u003eAlso configured and tried the SPIFFS upload, and got an exception with a pile of errors when trying the sketch data upload.\u003cbr\u003e\u003cbr\u003eI think I\u0026#39;ll have to take this whole thing one very slow step at a time.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQo8Kal76n0gI"
+  }, {
+    "creationTime": "2017-02-23 20:19:36-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117226587425513750918\" oid\u003d\"117226587425513750918\" \u003eAndrew Tuline\u003c/a\u003e\u003c/span\u003e looks like I committed it with a build error.  Sorry, I\u0026#39;ll get it fixed and let you know.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQwbOfr8in0gI"
+  }, {
+    "creationTime": "2017-02-23 20:25:52-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117226587425513750918\" oid\u003d\"117226587425513750918\" \u003eAndrew Tuline\u003c/a\u003e\u003c/span\u003e OK, should be fixed.  Pull the latest, try again, and let me know if you have any more problems.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQwP-M4smn0gI"
+  }, {
+    "creationTime": "2017-02-23 20:48:57-0500",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "Thanks.  It doesn\u0026#39;t like KELVINATOR_STATE_LENGTH in the IRremoteESP8266 function and the Sketch data directory upload still fails miserably. I may need to re-load one or more llibraries/tools.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQ-evm9s6n0gI"
+  }, {
+    "creationTime": "2017-02-24 09:41:24-0500",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "Got it working by ripping out the IR code (woot!). I\u0026#39;ve already got IR running on a power friendly Nano, and would really only use the ESP for its ethernet capabilities. Very cool functionality.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQtdq9yvuo0gI"
+  }, {
+    "creationTime": "2017-03-27 01:31:47-0400",
+    "author": {
+      "displayName": "Joem Deocampo",
+      "profilePageUrl": "https://plus.google.com/117753798108032531571",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3WXlHXI6UyA/AAAAAAAAAAI/AAAAAAAAAdk/CS1WtCm6G9c/s64-c/photo.jpg",
+      "resourceName": "users/117753798108032531571"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Sir, can i ask for help? i\u0026#39;m trying to control my sk6812 led strip using esp8266 to another esp8266(controller). i managed to control it but it has delays.  by the way sir my thesis project is a basketball shotclock and time is very crictical.  When i pressed START button at the controller the display will not start immediately it will take some time before it will start same with the STOP button and the 14 SEC button sir.  I think i have problems in my receiver CODE. can i ask for help sir to check the code? this is my STATION AND AP code sir.\u003cbr\u003e\u003cbr\u003eAP\u003cbr\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.dropbox.com/s/z85oxjzil91yq05/orca_share_media1489296831739.ino?dl\u003d0\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.dropbox.com/s/z85oxjzil91yq05/orca_share_media1489296831739.ino?dl\u003d0\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eSTATION\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eMy set-up sir is that I have 3 arduino+esp8266. One acting as AP and the two other are the STATIONS.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eBIG THANKS SIR! \u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "link": {
+      "title": "orca_share_media1489247485497.ino",
+      "url": "https://www.dropbox.com/s/72tq4d8q71etb4a/orca_share_media1489247485497.ino?dl\u003d0",
+      "imageUrl": "https://cfl.dropboxstatic.com/static/images/icons128/page_white.png"
+    },
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQo_LRxvr10gI"
+  }, {
+    "creationTime": "2017-03-27 09:43:03-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Hey \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117753798108032531571\" oid\u003d\"117753798108032531571\" \u003eJoem Deocampo\u003c/a\u003e\u003c/span\u003e, I saw both of your posts on this subject, but unfortunately I\u0026#39;m not sure I can help.  I\u0026#39;ve never used SK6812 LEDS, never tried getting two ESP8266 to communicate, and have never used the AT commands, which it looks like you\u0026#39;re using.  I hope you get it figured out.  Good luck!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQ4sr7rej20gI"
+  }, {
+    "creationTime": "2017-04-02 14:00:48-0400",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, thanks for all your help in the past. I\u0026#39;m making a 3d printed star for a friend and will be using your pcb for the D1 Mini. When you make projects for folks, do you enter their wifi info in the code or is this set up so they can enter in the ssid and pw in access point mode? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQxI_ZlK2G0wI"
+  }, {
+    "creationTime": "2017-04-02 14:46:23-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/105076277442225776356\" oid\u003d\"105076277442225776356\" \u003eChris Creel\u003c/a\u003e\u003c/span\u003e no problem!  I usually enter their wifi info for them, unless they\u0026#39;re comfortable using Arduino.  I\u0026#39;ve been meaning to try out the WiFiManager library, which will provide an access point UI for setting up wifi if it\u0026#39;s unable to connect: ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "link": {
+      "title": "tzapu/WiFiManager",
+      "url": "https://github.com/tzapu/WiFiManager",
+      "imageUrl": "https://camo.githubusercontent.com/26db27665a2faef9db9e0d0474135819de2a6700/687474703a2f2f692e696d6775722e636f6d2f313879496169382e706e67"
+    },
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQqLTFrLeG0wI"
+  }, {
+    "creationTime": "2017-04-02 15:00:00-0400",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "Thanks, \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, I will give that a try, but I\u0026#39;ll probably abandon it quickly if it gives me any grief. Congrats on the Maker Faire spot. I wish KC wasn\u0026#39;t so far because I\u0026#39;d love to see your stuff in person. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQh-G7srqG0wI"
+  }, {
+    "creationTime": "2017-04-27 15:10:28-0400",
+    "author": {
+      "displayName": "Chris Cooper",
+      "profilePageUrl": "https://plus.google.com/+ChrisCooper55",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-UBiwZseZ6fk/AAAAAAAAAAI/AAAAAAAADaI/35WzLhwrbC0/s64-c/photo.jpg",
+      "resourceName": "users/108209749918463015385"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, seriously, this is really awesome work. Thank you. \u003cbr\u003eI think I have a handle on how/where to add new patterns...though I haven\u0026#39;t been entirely successful yet. Could you point me in the right direction to modify the color picker buttons? I need a grey/white and I see where to modify the button color itself but not the color sent by the JS. \u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQx4n0ravF0wI"
+  }, {
+    "creationTime": "2017-04-27 15:15:32-0400",
+    "updateTime": "2017-04-27 15:16:21-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/108209749918463015385\" oid\u003d\"108209749918463015385\" \u003eChris Cooper\u003c/a\u003e\u003c/span\u003e thanks, glad you like it!\u003cbr\u003e\u003cbr\u003eYou should be able to add new color buttons in just the index.html file. The js just sends the backgroundColor of the button that\u0026#39;s clicked.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQmuH8vqzF0wI"
+  }, {
+    "creationTime": "2017-04-27 16:49:52-0400",
+    "author": {
+      "displayName": "Chris Cooper",
+      "profilePageUrl": "https://plus.google.com/+ChrisCooper55",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-UBiwZseZ6fk/AAAAAAAAAAI/AAAAAAAADaI/35WzLhwrbC0/s64-c/photo.jpg",
+      "resourceName": "users/108209749918463015385"
+    },
+    "content": "Well that\u0026#39;s fancy as hell. Nice! I\u0026#39;ll try it out tonight. Also, I lied about understanding the patterns (and how they differ from the fastled animations I\u0026#39;ve used before) but I want to try to figure that out myself. \u003cbr\u003e\u003cbr\u003eThanks again!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQ56XsycHF0wI"
+  }, {
+    "creationTime": "2017-04-29 18:10:30-0400",
+    "author": {
+      "displayName": "Chris Cooper",
+      "profilePageUrl": "https://plus.google.com/+ChrisCooper55",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-UBiwZseZ6fk/AAAAAAAAAAI/AAAAAAAADaI/35WzLhwrbC0/s64-c/photo.jpg",
+      "resourceName": "users/108209749918463015385"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Alas, I have failed to add the simplest of patterns. What the heck am I doing wrong?\u003cbr\u003e\u003cbr\u003evoid newpattern()\u003cbr\u003e{\u003cbr\u003e\u003cbr\u003euint8_t fadeAmount \u003d 50;  // Set the amount to fade\u003cbr\u003euint8_t brightnesstart \u003d 0;\u003cbr\u003e\u003cbr\u003e   for(uint16_t r \u003d 0 ; r \u0026lt; NUM_LEDS; r++ )\u003cbr\u003e   {\u003cbr\u003e   leds[r].setRGB(255,0,0);  // setRGB functions works by setting\u003cbr\u003e                             // (RED value 0-255, GREEN value 0-255, BLUE value 0-255)\u003cbr\u003e                             // RED \u003d setRGB(255,0,0)\u003cbr\u003e                             // GREEN \u003d setRGB(0,255,0)\u003cbr\u003e   leds[r].fadeLightBy(brightnesstart);\u003cbr\u003e  }\u003cbr\u003e  \u003cbr\u003e  brightnesstart \u003d brightnesstart + fadeAmount;\u003cbr\u003e  // reverse the direction of the fading at the ends of the fade:\u003cbr\u003e  if(brightnesstart \u003d\u003d 0 || brightnesstart \u003d\u003d 255)\u003cbr\u003e  {\u003cbr\u003e    fadeAmount \u003d -fadeAmount ;\u003cbr\u003e  }   \u003cbr\u003e}",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQjdauqtfK0wI"
+  }, {
+    "creationTime": "2017-04-30 20:50:50-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/108209749918463015385\" oid\u003d\"108209749918463015385\" \u003eChris Cooper\u003c/a\u003e\u003c/span\u003e what\u0026#39;s wrong with it?  Does it compile, but just doesn\u0026#39;t look right?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQ7-uuhL3N0wI"
+  }, {
+    "creationTime": "2017-04-30 21:08:54-0400",
+    "author": {
+      "displayName": "Chris Cooper",
+      "profilePageUrl": "https://plus.google.com/+ChrisCooper55",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-UBiwZseZ6fk/AAAAAAAAAAI/AAAAAAAADaI/35WzLhwrbC0/s64-c/photo.jpg",
+      "resourceName": "users/108209749918463015385"
+    },
+    "content": "Oh, sorry. Yeah. It compiles fine but doesn\u0026#39;t seem to work. Basically it just turns all pixels red and they sit there. I think it needs some kind of delay between loops but I don\u0026#39;t know how to do that. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQ08mGicHN0wI"
+  }, {
+    "creationTime": "2017-04-30 21:29:09-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/108209749918463015385\" oid\u003d\"108209749918463015385\" \u003eChris Cooper\u003c/a\u003e\u003c/span\u003e no problem, just making sure.  Looks like brightnessstart starts out at 0, then you\u0026#39;re adding 50 to it, then checking to see if it\u0026#39;s equal to 255, which it\u0026#39;ll never be.  uint8_t rolls over from 255 to 0, so after the fifth time through, it\u0026#39;ll be 250.  The next time through it\u0026#39;ll roll over to 45.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQvcKwzMXN0wI"
+  }, {
+    "creationTime": "2017-05-01 09:19:29-0400",
+    "author": {
+      "displayName": "Chris Cooper",
+      "profilePageUrl": "https://plus.google.com/+ChrisCooper55",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-UBiwZseZ6fk/AAAAAAAAAAI/AAAAAAAADaI/35WzLhwrbC0/s64-c/photo.jpg",
+      "resourceName": "users/108209749918463015385"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Thanks! Seems like it should still be doing something though. I think I\u0026#39;m going to start over and just try to get the whole strip to \u0026quot;breath\u0026quot; and then come back to a breathing chase and finally a breathing chase with red white and blue. I built four 10 watt RGB floods with RobG\u0026#39;s kits that I\u0026#39;m hoping to use this pattern for. I think it\u0026#39;ll look pretty neat in the trees! If you have any other tips, I\u0026#39;m all ears. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQ6-2nr-TO0wI"
+  }, {
+    "creationTime": "2017-05-01 10:04:41-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Take a look at some examples that use sin8 and beatsin8, they\u0026#39;re great for \u0026quot;breathing\u0026quot; effects, and much simpler than most other manual increment/decrement methods.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQnKm-vO7O0wI"
+  }, {
+    "creationTime": "2017-05-01 11:18:48-0400",
+    "author": {
+      "displayName": "Chris Cooper",
+      "profilePageUrl": "https://plus.google.com/+ChrisCooper55",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-UBiwZseZ6fk/AAAAAAAAAAI/AAAAAAAADaI/35WzLhwrbC0/s64-c/photo.jpg",
+      "resourceName": "users/108209749918463015385"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Oh, something weird I did want to ask you though. I tried pulling your \u0026quot;juggle\u0026quot; pattern over from the v1.1 fork, added the pattern above with a new name and then down below with the actual patterns. When I tried to compile it though, I got this strange error about ColorWave not being referenced...even though I didn\u0026#39;t modify that one at all. Am i missing something about the correct way to add a pattern? Does the order matter or something? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQmePuhP_O0wI"
+  }, {
+    "creationTime": "2017-05-01 11:24:32-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/108209749918463015385\" oid\u003d\"108209749918463015385\" \u003eChris Cooper\u003c/a\u003e\u003c/span\u003e order shouldn\u0026#39;t matter. Share the code somewhere and post a link here and I can take a look later tonight.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQp9aOqYDP0wI"
+  }, {
+    "creationTime": "2017-05-01 15:02:29-0400",
+    "author": {
+      "displayName": "Chris Cooper",
+      "profilePageUrl": "https://plus.google.com/+ChrisCooper55",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-UBiwZseZ6fk/AAAAAAAAAAI/AAAAAAAADaI/35WzLhwrbC0/s64-c/photo.jpg",
+      "resourceName": "users/108209749918463015385"
+    },
+    "content": "Thanks again \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, I think I realized my mistake with the error compiling. I suspect I didn\u0026#39;t paste the entire juggle pattern and likely didn\u0026#39;t close it which would have screwed up many things. That\u0026#39;s my theory, I\u0026#39;ll have to test it at home as well. Also, thanks for the tip on sin8 and beatsin8, I\u0026#39;ll try to wrap my brain around how they work. I may start with the Sinelon pattern and try to use it with a 3 color palette for red white and blue rather than HSV...if that\u0026#39;s even possible. I made a gist of my current code that you were trying to help me with before, maybe you can see where I went wrong.  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "link": {
+      "title": "Esp8266Fastled",
+      "url": "https://gist.github.com/coopooc/7743e653487a9cc722621cf40cd49149",
+      "imageUrl": "https://avatars3.githubusercontent.com/u/24278354?v\u003d3\u0026s\u003d400"
+    },
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQ1sjFhLHP0wI"
+  }, {
+    "creationTime": "2017-06-22 20:58:43-0400",
+    "author": {
+      "displayName": "Rob Skold",
+      "profilePageUrl": "https://plus.google.com/100835320494167555759",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qmpfu0PDLkk/AAAAAAAAAAI/AAAAAAAAC74/hLivtDCORik/s64-c/photo.jpg",
+      "resourceName": "users/100835320494167555759"
+    },
+    "content": "I\u0026#39;m all over you today Jason. Thanks for the sweet code. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQ_v6p0uHS1AI"
+  }, {
+    "creationTime": "2018-06-04 07:22:38-0400",
+    "author": {
+      "displayName": "Tobias Gross",
+      "profilePageUrl": "https://plus.google.com/111665401965890132762",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Nk7PlTpigaA/AAAAAAAAAAI/AAAAAAAAHWE/OrniePQdEdo/s64-c/photo.jpg",
+      "resourceName": "users/111665401965890132762"
+    },
+    "content": "Thank you \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e very much for this work. I am lately playing a lot with FastLED and the esp8266 webserver. The interface is just nice and responsive.\u003cbr\u003e\u003cbr\u003eI know this discussion is quite old but I think the question fits quite good in here.\u003cbr\u003e\u003cbr\u003eI am able to add fields to the webserver / code and such. I successfully changed the behaviour to use e.g. /set?mode\u003d4\u0026amp;brightness\u003d200 ... (enables me to change almost all parameters at once by e.g. my home automation server).\u003cbr\u003e\u003cbr\u003eHowever, it actually seems that I am well under-educated regarding css and HTML5.\u003cbr\u003e\u003cbr\u003eI simply would like to have a \u0026quot;SectionFieldType\u0026quot; where the name is visible as header of the particular section. In additon I would like to have such sections foldable but thats currently a bonus only.\u003cbr\u003e\u003cbr\u003eAlso, is there an easy way to set the page header / name dynamically by e.g. a specific field?\u003cbr\u003e\u003cbr\u003eI would love to learn myself but not sure where to start from....\u003cbr\u003e\u003cbr\u003eThanks a lot,\u003cbr\u003eToby\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQhebZtfK52wI"
+  }, {
+    "creationTime": "2018-09-06 08:11:20-0400",
+    "author": {
+      "displayName": "варешяф рйезот",
+      "profilePageUrl": "https://plus.google.com/103347945656709911330",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-OpxXJVkns-8/AAAAAAAAAAI/AAAAAAAAACA/33lSU3Ld-VY/s64-c/photo.jpg",
+      "resourceName": "users/103347945656709911330"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e I porting your fibbonacci project to ESP 8266. And I want as you to make palettes puts in one array.\u003cbr\u003eI\u0026#39;m pore programmer (and English too), and I found this solution:\u003cbr\u003esearch alot of ready sketches I found some one, where used next code:\u003cbr\u003eCRGBPalette16  Sunset_Real  \u003d    Sunset_Real_gp;\u003cbr\u003eIn other words this construction make *_gp palettes as CRGBPalette16 like *_p (\u0026quot;onboard\u0026quot;) palettes. (as I understand)\u003cbr\u003e\u003cbr\u003eIn my code I\u0026#39;m predefine *gp palettes as CRGBPalette16 and add them to your arrays of *_p palettes.\u003cbr\u003eCode compilles, palettes number changing periodicly. But as I see - changing just palette numbers, but not palettes themself (new palette number doesnt make new CurrentPalette).\u003cbr\u003eI dont\u0026#39;t  know does this information useful or not, but I want to help you to improve your great projects )\u003cbr\u003eThanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KGkJwbfteA1",
+    "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC/comments/CiF6MTNmaGZkcXZ5cjJ2dmJuaDIzcWoxMnJtdWVhaHh0MHAQ0-Xfz6ym3QI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UghtPPYvW2mq1ngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Tobias Gross",
+      "profilePageUrl": "https://plus.google.com/111665401965890132762",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Nk7PlTpigaA/AAAAAAAAAAI/AAAAAAAAHWE/OrniePQdEdo/s64-c/photo.jpg",
+      "resourceName": "users/111665401965890132762"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mario Wiegleb",
+      "profilePageUrl": "https://plus.google.com/111877398099696932439",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-wVdST4p6WNI/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWyAiS5SwNOlx5yYlk-x8Sg1JMLcw/s64-c/photo.jpg",
+      "resourceName": "users/111877398099696932439"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Harlan Holmes",
+      "profilePageUrl": "https://plus.google.com/116854840932263461746",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2hxSprouncw/AAAAAAAAAAI/AAAAAAAAP6M/BYBJqHT8Kow/s64-c/photo.jpg",
+      "resourceName": "users/116854840932263461746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jonas Vorwerk",
+      "profilePageUrl": "https://plus.google.com/106461657512143768817",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-bA8ZID1BAnM/AAAAAAAAAAI/AAAAAAAAADE/dquYyKber4c/s64-c/photo.jpg",
+      "resourceName": "users/106461657512143768817"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Will Tatam",
+      "profilePageUrl": "https://plus.google.com/118177602878977643458",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Iu1wCCisZoI/AAAAAAAAAAI/AAAAAAAAAEk/beUJ-QIAuQE/s64-c/photo.jpg",
+      "resourceName": "users/118177602878977643458"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Saytinh",
+      "profilePageUrl": "https://plus.google.com/+DuongTrongHue",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CiAOH3Nx1AM/AAAAAAAAAAI/AAAAAAAAHJE/KkXGtNj9fFE/s64-c/photo.jpg",
+      "resourceName": "users/106877914545066503331"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jesus Climent",
+      "profilePageUrl": "https://plus.google.com/+JesusCliment",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-vrvmXxGC2Lo/AAAAAAAAAAI/AAAAAAAAEYM/e1VyKf901oI/s64-c/photo.jpg",
+      "resourceName": "users/115333106814663615671"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pepijn Kummel",
+      "profilePageUrl": "https://plus.google.com/+PepijnKummel",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Db6Xi8i2-Ao/AAAAAAAAAAI/AAAAAAAAKJk/I8fxKTWFK_8/s64-c/photo.jpg",
+      "resourceName": "users/104807414799274321756"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Frank Brown",
+      "profilePageUrl": "https://plus.google.com/115452707284201171816",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-0L8vmnxcCLs/AAAAAAAAAAI/AAAAAAAACHg/ZpTMhytvPWc/s64-c/photo.jpg",
+      "resourceName": "users/115452707284201171816"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Rob Skold",
+      "profilePageUrl": "https://plus.google.com/100835320494167555759",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qmpfu0PDLkk/AAAAAAAAAAI/AAAAAAAAC74/hLivtDCORik/s64-c/photo.jpg",
+      "resourceName": "users/100835320494167555759"
+    }
+  }, {
+    "resharer": {
+      "displayName": "Thomas Wolf",
+      "profilePageUrl": "https://plus.google.com/+ThomasWolfEnstein",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Zvi9TlFemUI/AAAAAAAAAAI/AAAAAAAAGKM/B5T1TApP4rQ/s64-c/photo.jpg",
+      "resourceName": "users/107606680371383075409"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/117226587425513750918",
+        "displayName": "Andrew Tuline"
+      }, {
+        "resourceName": "users/117753798108032531571",
+        "displayName": "Joem Deocampo"
+      }, {
+        "resourceName": "users/108209749918463015385",
+        "displayName": "Chris Cooper"
+      }, {
+        "resourceName": "users/105076277442225776356",
+        "displayName": "Chris Creel"
+      }]
+    }
+  }
+}

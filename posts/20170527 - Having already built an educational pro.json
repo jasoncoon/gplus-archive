@@ -1,0 +1,865 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/gpN7pEqRQUe",
+  "creationTime": "2017-05-27 11:04:32-0400",
+  "updateTime": "2017-05-27 11:04:32-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Having already built an educational project for Maker Faire Kansas City 2017, I wanted something a little more fun and interactive. So I picked up some LED Arcade buttons and built a little LED strip control box with them, using a Teensy 3.2 and a 74HCT245 level shifter (for the LED strip and arcade button LEDs).  Currently using IR for changing modes and brightness, but plan to add more buttons to the side for that soon.\u003cbr\u003e\u003cbr\u003eI plan to mount the control box to a table, and mount the LED strip a few feet away. The wooden box is pretty solid, and I’m hoping it can survive a weekend of constant abuse.\u003cbr\u003e\u003cbr\u003eSo far I have three interactive modes and three games (Color Invaders, Simon, and a color juggling game).\u003cbr\u003e\u003cbr\u003eLet me know if you have any other ideas for me!\u003cbr\u003e\u003cbr\u003eBuild pics and more information: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://evlgeni.us/mfkc2017\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://evlgeni.us/mfkc2017\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eSource code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/fastled-arcade\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/fastled-arcade\u003c/a\u003e",
+  "media": {
+    "url": "https://www.youtube.com/watch?v\u003duOu8dWnWBQw",
+    "contentType": "video/*",
+    "width": 960,
+    "height": 720,
+    "description": "Having already built an educational project for Maker Faire Kansas City 2017 (FastLED RGB/HSV Tutorial: https://evilgeniuslabs.org/fastled-rgb-hsv-tutorial),...",
+    "resourceName": "media/Egt1T3U4ZFduV0JRdw\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2017-05-27 11:58:25-0400",
+    "author": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    },
+    "content": "Awesome! \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, this is so creative.   Thank you for sharing your code.  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDVvrGxuJDUAg"
+  }, {
+    "creationTime": "2017-05-27 13:03:05-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Fun interactive project!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCbp7brxpDUAg"
+  }, {
+    "creationTime": "2017-05-27 13:10:55-0400",
+    "updateTime": "2017-05-27 13:20:14-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks guys!  \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102004717133653297761\" oid\u003d\"102004717133653297761\" \u003eKen White\u003c/a\u003e\u003c/span\u003e​, I\u0026#39;ve been in \u0026quot;get it working\u0026quot; mode, so the code and wiring are a bit of a mess right now.  I hope to have time to clean it up and comment it soon.  Also hoping to make a PCB to replace the perma-proto board.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCw1tXLyJDUAg"
+  }, {
+    "creationTime": "2017-05-29 01:34:06-0400",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "I love your installation :)\u003cbr\u003eIf you are concerned about abuse why you don\u0026#39;t go touchless?\u003cbr\u003eThis one has 9 guestures already built in:\u003cbr\u003e\u003cbr\u003ealternatively with just basic gestures but with RGB sensing included: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.sparkfun.com/products/12787\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.sparkfun.com/products/12787\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eHowever, if you want to go more physical the get a door stop.  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://aipanic.com/projects/wobbler\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://aipanic.com/projects/wobbler\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "link": {
+      "title": "Grove - Gesture - Sensors - Seeed Studio",
+      "url": "https://www.seeedstudio.com/Grove-Gesture-p-2463.html",
+      "imageUrl": "https://statics3.seeedstudio.com/seeed/img/2016-08/3EmTCa2USbPnqZszQNngy8ss.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDmxpXJsJTUAg"
+  }, {
+    "creationTime": "2017-05-29 02:17:08-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "That Line Wobbler game looks fun!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDTnZiYupTUAg"
+  }, {
+    "creationTime": "2017-06-03 03:16:34-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "great project do you have a wiring diagram please as would love to make one ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCFsJXmkKHUAg"
+  }, {
+    "creationTime": "2017-06-04 08:04:36-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "Amazing prpject, great job. I am things build project. Is Soo cool. Thanks for your work and sharing source code.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDMtciFk6TUAg"
+  }, {
+    "creationTime": "2017-06-04 10:51:26-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e here\u0026#39;s the schematic.  I\u0026#39;m working on a Fritzing diagram, hope to have it ready soon.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/jVziUBlXCP_uJD4U-m8xWgh8zvGFY_YSUDRuFoqWwdGQ-D8Q3RQLMeWFRoHsuDWup_ADwsRaM-g",
+      "contentType": "image/*",
+      "width": 1314,
+      "height": 924,
+      "resourceName": "media/CixBRjFRaXBNRnVTNzRtS2F6Y2V3YVZpQ2IySVEzbG5HNmFYTjNERmY2QkRocA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCXtO6quKTUAg"
+  }, {
+    "creationTime": "2017-06-05 16:26:30-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e hi thanks ill try and work it out lol and again thanks for your reply \u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDz19mLxafUAg"
+  }, {
+    "creationTime": "2017-06-06 02:48:36-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e hi the 5 components down left are switches and the 3 at bottom left j1,j4 and j5 are led connections and j2 is common ground rail, j3 is common vcc rail if iam reading this right lol ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDR1LGS0KjUAg"
+  }, {
+    "creationTime": "2017-06-06 10:15:41-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e yeah, sorry, the schematic is for a PCB I\u0026#39;m working on to replace the perma proto board, and it isn\u0026#39;t very well labeled yet.  I\u0026#39;ve forgotten how tedious Fritzing is, I doubt I\u0026#39;ll finish the diagram.  :)\u003cbr\u003e\u003cbr\u003eYes, the five components on the left side (X1-X5) are for JST-XH connectors that will connect to the buttons.  Each button has two ground connections, one connection for LED power, and one connection for the switch.  The button LEDs need 5V, they\u0026#39;re too dim with the 3.3V outputs from the Teensy.  So they\u0026#39;re run through the level shifter.  J1, J4 \u0026amp; J5 are level shifted for driving addressable LEDs.  J2 \u0026amp; J3 just bring out all the pins from the Teensy, in case you want to connect IR, more buttons, potentiometers, etc.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/O9SEnsgcfR8hmxnHpbs6d1T2WGf7pfayjEeOAVEz2bqFGchsd9JHB921BVtVqQBMa2A1B9ZDaj4",
+      "contentType": "image/*",
+      "width": 1314,
+      "height": 596,
+      "resourceName": "media/CixBRjFRaXBNNW80OWI2eldXU1FyS1l5ZndBT25iVUhrUFdTTDBmbWpNbm1rVQ\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCV_LiJtKnUAg"
+  }, {
+    "creationTime": "2017-06-06 10:30:21-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "Once you have pcb fritzing. I will make one. Thanks for your hard work. Good chance for make fair.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCkwI6tt6nUAg"
+  }, {
+    "creationTime": "2017-06-07 06:53:26-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e thanks that makes sense now lol also can this be run on a nano ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDbvsjdyKvUAg"
+  }, {
+    "creationTime": "2017-06-07 07:17:41-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e something like this lol in middle of designing pcb hope you dont mind will post results when done \u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/h6rbLLFHhzIjYf1-Xv12e_tx5c_lpx2QsiubmKdk9pEkbFUYotY8OYdV-YMIPHdSl-xvk9M8JQ",
+      "contentType": "image/*",
+      "width": 1031,
+      "height": 595,
+      "resourceName": "media/CixBRjFRaXBNcUZub25ldVJObzlCMzNuVE1YLVZfZElWa2c2Qk9IaHQ3YVZGbA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCcptWTzqvUAg"
+  }, {
+    "creationTime": "2017-06-07 10:07:30-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e I don\u0026#39;t see any reason it wouldn\u0026#39;t work on an Arduino Nano.  Looks good, don\u0026#39;t mind at all, looking forward to it!  :)  Here\u0026#39;s the one I\u0026#39;m working on:\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/TUPYYIRdONC_RUtIGrmuqAfb6jDIs82iI29r6Ab5vNX0XQ96CL18OKrfUMif1ZkKIFmL28TvI_w",
+      "contentType": "image/*",
+      "width": 254,
+      "height": 500,
+      "resourceName": "media/CixBRjFRaXBQRzRlODVXVnBSamE5SmgxeklXbEwwbHJsSUNfQWJnUW9rTjg1Yw\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDJv56O9KvUAg"
+  }, {
+    "creationTime": "2017-06-07 10:40:29-0400",
+    "updateTime": "2017-06-07 10:49:51-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e For single side self etching not done much pcb design comments welcome\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDf07-9-6vUAg"
+  }, {
+    "creationTime": "2017-06-07 10:49:30-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/X6CdqhPQBTIKT6Mbd03ZvC9W4fGzc6q6UIlunJPLD2cTh_xQyP7vxBjdCsmMY3qRc18-D-LwHA",
+      "contentType": "image/*",
+      "width": 3182,
+      "height": 2646,
+      "resourceName": "media/CixBRjFRaXBOeXlYM3RpalpyeV9ZWEgwdWxRRHc0R2dWNmpodUJYRFZkZE9pWg\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDE3dO__avUAg"
+  }, {
+    "creationTime": "2017-06-07 11:04:28-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "very good work. thank you. Question go do you a version for a double sided pcb? (I am not an engineer. Just experimenting person. I do not comment your pcb work sorry.)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCruvbrgKzUAg"
+  }, {
+    "creationTime": "2017-06-08 15:22:29-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I placed an order for three PCBs.  I\u0026#39;ll test one out (replacing the perma proto I\u0026#39;m currently using).  If everything works I\u0026#39;ll have two extras, if anyone is interested.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDN_bSw_K7UAg"
+  }, {
+    "creationTime": "2017-06-08 15:26:34-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e hi I would be interested for my autistic son he loves his flashing lights and patterns will let you know how my attempt goes using a nano when I get my order of more in thanks for sharing this great project \u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCxuaSl_a7UAg"
+  }, {
+    "creationTime": "2017-06-08 16:17:48-0400",
+    "updateTime": "2017-06-08 16:18:32-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ I\u0026#39;m also interested. Small question have you thought to sell pcb or kit on \u0026quot;\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://Tindie.com\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://Tindie.com\u003c/a\u003e\u0026quot; ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDns5DfiK_UAg"
+  }, {
+    "creationTime": "2017-06-08 16:18:57-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I have.  :)  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.tindie.com/stores/jasoncoon/\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.tindie.com/stores/jasoncoon/\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCqqY2Aia_UAg"
+  }, {
+    "creationTime": "2017-06-08 16:19:26-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "How sorry I am see later thanks",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxD2mPWNia_UAg"
+  }, {
+    "creationTime": "2017-06-08 16:23:01-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ I don\u0026#39;t see this pcb kit. You have published this pcb kit ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCUxZT0ia_UAg"
+  }, {
+    "creationTime": "2017-06-08 16:24:10-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106003997346955280274\" oid\u003d\"106003997346955280274\" \u003emichael aramini\u003c/a\u003e\u003c/span\u003e not this PCB yet.  I just placed the order, should have them in next week.  Will test then get them published.  Sorry for any confusion.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxC4wb6Viq_UAg"
+  }, {
+    "creationTime": "2017-06-08 16:28:29-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ ok thanks, great ! I am waiting. Publish on this stream to inform me and other possible buyer.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDtl8iQi6_UAg"
+  }, {
+    "creationTime": "2017-06-16 16:30:05-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e hi am trying to compily the sketch but i keep getting different error messages what version of arduino are you using please \u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDA_7y0msPUAg"
+  }, {
+    "creationTime": "2017-06-24 15:09:12-0400",
+    "updateTime": "2017-06-24 16:15:32-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e please help have all parts but cant get it to compile and upload to nano to see it is works\u003cbr\u003e\u003cbr\u003eget this error \u003cbr\u003eIn file included from D:\\Arduino Stuff\\Jason coon\\FastLED Arcade\\fastled-arcade-master\\fastled-arcade\\fastled-arcade.ino:2:0:\u003cbr\u003e\u003cbr\u003eC:\\Users\\daves\\Documents\\Arduino\\libraries\\FastLED-master/FastLED.h:17:21: note: \u003ca rel\u003d\"nofollow\" class\u003d\"ot-hashtag bidi_isolate\" href\u003d\"https://plus.google.com/s/%23pragma/posts\" \u003e#pragma\u003c/a\u003e message: FastLED version 3.001.005\u003cbr\u003e\u003cbr\u003e #    pragma message \u0026quot;FastLED version 3.001.005\u0026quot;\u003cbr\u003e\u003cbr\u003e                     ^\u003cbr\u003e\u003cbr\u003efastled-arcade:65: error: \u0026#39;ulong\u0026#39; does not name a type\u003cbr\u003e\u003cbr\u003e ulong buttonPressTimes[5];\u003cbr\u003e\u003cbr\u003e ^\u003cbr\u003e\u003cbr\u003eIn file included from D:\\Arduino Stuff\\Jason coon\\FastLED Arcade\\fastled-arcade-master\\fastled-arcade\\fastled-arcade.ino:83:0:\u003cbr\u003e\u003cbr\u003eC:\\Users\\daves\\Documents\\Arduino\\libraries\\fastled-arcade-master/ball.h:6:3: error: \u0026#39;ulong\u0026#39; does not name a type\u003cbr\u003e\u003cbr\u003e   ulong launchTime;\u003cbr\u003e\u003cbr\u003e   ^\u003cbr\u003e\u003cbr\u003eC:\\Users\\daves\\Documents\\Arduino\\libraries\\fastled-arcade-master/ball.h:7:3: error: \u0026#39;ulong\u0026#39; does not name a type\u003cbr\u003e\u003cbr\u003e   ulong dropTime;\u003cbr\u003e\u003cbr\u003e   ^\u003cbr\u003e\u003cbr\u003eIn file included from D:\\Arduino Stuff\\Jason coon\\FastLED Arcade\\fastled-arcade-master\\fastled-arcade\\fastled-arcade.ino:84:0:\u003cbr\u003e\u003cbr\u003eC:\\Users\\daves\\Documents\\Arduino\\libraries\\fastled-arcade-master/juggle.h: In function \u0026#39;void juggle()\u0026#39;:\u003cbr\u003e\u003cbr\u003eC:\\Users\\daves\\Documents\\Arduino\\libraries\\fastled-arcade-master/juggle.h:17:16: error: \u0026#39;struct Ball\u0026#39; has no member named \u0026#39;launchTime\u0026#39;\u003cbr\u003e\u003cbr\u003e       balls[i].launchTime \u003d millis() + 1000;\u003cbr\u003e\u003cbr\u003e                ^\u003cbr\u003e\u003cbr\u003eC:\\Users\\daves\\Documents\\Arduino\\libraries\\fastled-arcade-master/juggle.h:22:49: error: \u0026#39;struct Ball\u0026#39; has no member named \u0026#39;launchTime\u0026#39;\u003cbr\u003e\u003cbr\u003e     if (balls[i].loaded \u0026amp;\u0026amp; millis() \u0026gt;\u003d balls[i].launchTime) {\u003cbr\u003e\u003cbr\u003e                                                 ^\u003cbr\u003e\u003cbr\u003eC:\\Users\\daves\\Documents\\Arduino\\libraries\\fastled-arcade-master/juggle.h:38:16: error: \u0026#39;struct Ball\u0026#39; has no member named \u0026#39;dropTime\u0026#39;\u003cbr\u003e\u003cbr\u003e       balls[i].dropTime \u003d millis();\u003cbr\u003e\u003cbr\u003e                ^\u003cbr\u003e\u003cbr\u003eC:\\Users\\daves\\Documents\\Arduino\\libraries\\fastled-arcade-master/juggle.h:40:31: error: \u0026#39;struct Ball\u0026#39; has no member named \u0026#39;dropTime\u0026#39;\u003cbr\u003e\u003cbr\u003e       Serial.println(balls[i].dropTime);\u003cbr\u003e\u003cbr\u003e                               ^\u003cbr\u003e\u003cbr\u003eC:\\Users\\daves\\Documents\\Arduino\\libraries\\fastled-arcade-master/juggle.h:42:28: error: \u0026#39;struct Ball\u0026#39; has no member named \u0026#39;dropTime\u0026#39;\u003cbr\u003e\u003cbr\u003e       long diff \u003d balls[i].dropTime - buttonPressTimes[i];\u003cbr\u003e\u003cbr\u003e                            ^\u003cbr\u003e\u003cbr\u003eC:\\Users\\daves\\Documents\\Arduino\\libraries\\fastled-arcade-master/juggle.h:42:39: error: \u0026#39;buttonPressTimes\u0026#39; was not declared in this scope\u003cbr\u003e\u003cbr\u003e       long diff \u003d balls[i].dropTime - buttonPressTimes[i];\u003cbr\u003e\u003cbr\u003e                                       ^\u003cbr\u003e\u003cbr\u003eD:\\Arduino Stuff\\Jason coon\\FastLED Arcade\\fastled-arcade-master\\fastled-arcade\\fastled-arcade.ino: In function \u0026#39;void loop()\u0026#39;:\u003cbr\u003e\u003cbr\u003efastled-arcade:165: error: \u0026#39;buttonPressTimes\u0026#39; was not declared in this scope\u003cbr\u003e\u003cbr\u003e       buttonPressTimes[i] \u003d millis();\u003cbr\u003e\u003cbr\u003e       ^\u003cbr\u003e\u003cbr\u003eMultiple libraries were found for \u0026quot;IRremote.h\u0026quot;\u003cbr\u003e Used: D:\\Arduino ide`s\\arduino-1.6.9-windows\\arduino-1.6.9\\libraries\\RobotIRremote\u003cbr\u003e Not used: C:\\Users\\daves\\Documents\\Arduino\\libraries\\Arduino-IRremote-master\u003cbr\u003eUsing library Bounce2 at version 2.2 in folder: C:\\Users\\daves\\Documents\\Arduino\\libraries\\Bounce2 \u003cbr\u003eUsing library FastLED-master at version 3.1.5 in folder: C:\\Users\\daves\\Documents\\Arduino\\libraries\\FastLED-master \u003cbr\u003eUsing library RobotIRremote at version 1.0.2 in folder: D:\\Arduino ide`s\\arduino-1.6.9-windows\\arduino-1.6.9\\libraries\\RobotIRremote \u003cbr\u003eUsing library fastled-arcade-master in folder: C:\\Users\\daves\\Documents\\Arduino\\libraries\\fastled-arcade-master (legacy)\u003cbr\u003eexit status 1\u003cbr\u003e\u0026#39;ulong\u0026#39; does not name a type\u003cbr\u003e\u003cbr\u003eif anyone can help",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCSxv2fl9fUAg"
+  }, {
+    "creationTime": "2017-06-24 19:15:45-0400",
+    "updateTime": "2017-06-24 19:16:28-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e​ For iremote. Use only one and delete file (folder irremote) on library in program files and in your document. Irremote from arduino cause error on other fastled sketch. And compile with arduino 1.6.5 the portable version work fine. If you get other error or same error I don\u0026#39;t help you. I am only a beginner in arduino. And get similar error with irremote library.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCwiO2tztfUAg"
+  }, {
+    "creationTime": "2017-06-25 10:16:29-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106003997346955280274\" oid\u003d\"106003997346955280274\" \u003emichael aramini\u003c/a\u003e\u003c/span\u003e hi thanks only get one error now \u003cbr\u003e\u0026#39;ulong\u0026#39; does not name a type\u003cbr\u003ecan anyone help ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxD0gpfYl9nUAg"
+  }, {
+    "creationTime": "2017-06-25 11:34:28-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e​ hi, do you have test a different version of fastled arcade master ? And you have test to compil with arduino 1.6.5 or 1.6.7 ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCjnLCPqdnUAg"
+  }, {
+    "creationTime": "2017-06-27 12:23:25-0400",
+    "updateTime": "2017-06-27 12:24:31-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106003997346955280274\" oid\u003d\"106003997346955280274\" \u003emichael aramini\u003c/a\u003e\u003c/span\u003ehi no i dont have another copy of arcade master was a custom sketch by \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e and dosent work on any off the versions just shows up this error \u0026#39;ulong\u0026#39; does not name a type",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDn_7Xlt97UAg"
+  }, {
+    "creationTime": "2017-06-27 13:08:28-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e​ I have test with arduino 1.6.5 + 1.8.2 + 2 version of bounce same error with ulong. Only \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ can give us the answer about what it is this ulong and how to solve the error related to it",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCpgJ7uwd7UAg"
+  }, {
+    "creationTime": "2017-06-27 13:20:58-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106003997346955280274\" oid\u003d\"106003997346955280274\" \u003emichael aramini\u003c/a\u003e\u003c/span\u003e  cool thanks glad its not just me lol have to wait for \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e to help us out ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDX1_TTxN7UAg"
+  }, {
+    "creationTime": "2017-06-27 15:10:29-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Compiles fine here, you might try using unsigned long instead of ulong: ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "link": {
+      "title": "Arduino - Millis",
+      "url": "https://www.arduino.cc/en/Reference/Millis"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCVpouR3d7UAg"
+  }, {
+    "creationTime": "2017-06-27 16:33:19-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e thanks ill give it a try\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxC-xefS797UAg"
+  }, {
+    "creationTime": "2017-06-27 16:44:12-0400",
+    "updateTime": "2017-06-27 17:08:08-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e that worked now to get it to run on nano as i have loads of them lol \u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDYgJSK8t7UAg"
+  }, {
+    "creationTime": "2017-06-27 18:09:12-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ thanks good. \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e​ you can share with me the final code ? Thanks",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDz1v-Jhd_UAg"
+  }, {
+    "creationTime": "2017-06-27 19:34:41-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106003997346955280274\" oid\u003d\"106003997346955280274\" \u003emichael aramini\u003c/a\u003e\u003c/span\u003e done, along with other improvements: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/fastled-arcade\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/fastled-arcade\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxC9t9eXmN_UAg"
+  }, {
+    "creationTime": "2017-06-28 02:25:07-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e thanks for the updated sketch any advise for working this for a nano or uno ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCf663289_UAg"
+  }, {
+    "creationTime": "2017-06-28 04:18:22-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ thankx I will try it.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCW0q-ejeDUAg"
+  }, {
+    "creationTime": "2017-06-28 07:27:38-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e no idea, try it and see what happens. :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDMhszFt-DUAg"
+  }, {
+    "creationTime": "2017-06-28 07:43:01-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e For teensy 3.2 compilation work fine. no error but for arduino uno. i have one error. i think thats is a pin error for the ir receiver. the error name is :\u003cbr\u003e\u003cbr\u003eC:\\Program Files (x86)\\Arduino\\libraries\\RobotIRremote\\src\\IRremoteTools.cpp:5:16: error: \u0026#39;TKD2\u0026#39; was not declared in this scope\u003cbr\u003e\u003cbr\u003e int RECV_PIN \u003d TKD2; // the pin the IR receiver is connected to\u003cbr\u003e\u003cbr\u003e           \u003cbr\u003e\u003cbr\u003ehow to change the pin for other pin. the change is in skecth or in Iremotetools.cpp\u003cbr\u003e\u003cbr\u003ei test only the compiling. i not have all material for build it a this time.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDsuPH9uuDUAg"
+  }, {
+    "creationTime": "2017-06-28 08:07:53-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104244816294991900225\" oid\u003d\"104244816294991900225\" \u003edave windsor\u003c/a\u003e\u003c/span\u003e have test compil for mega2560 no problem compilation no error. \u003cbr\u003eok for arduino genuinu uno the error is library. Use Arduino Arduino-IRremote-master but new error appear. \u003cbr\u003eInsufficient memory  (198% is used. i think thats impossible to use this sketch with nano or uno) with only one led the sketch use 168%.\u003cbr\u003e\u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e you have one solution to reduce memory usage. (framerate or number of color ?)\u003cbr\u003e\u003cbr\u003ei think will use arduino mega for this project or teensy. this is the simpliest way to make this project ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDYypHFwODUAg"
+  }, {
+    "creationTime": "2017-06-28 09:12:43-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106003997346955280274\" oid\u003d\"106003997346955280274\" \u003emichael aramini\u003c/a\u003e\u003c/span\u003e to reduce memory, you could try removing the IRremote library, optimize/remove patterns/modes, etc.\u003cbr\u003e\u003cbr\u003eSorry, I have no interest in supporting this project on other platforms when the Teensy is so great and relatively inexpensive.  I value my time too much to save a little money on a cheap MCU and then waste time trying to optimize and troubleshoot.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxC-zvODz-DUAg"
+  }, {
+    "creationTime": "2017-06-28 09:31:59-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ Ok thanks for your job and sharing.   Thanks for idea. thank you for your time. And I understand your point of view is normal. You have already done much. And your work is great. Unfortunately I am not a developer and I start in arduino programming. So I will use a teensy or a mega that seems to work. Thank you very much in all cases. Have you finished your project with the engraved cards and your five array of led ? And how is it passing your show on maker fair ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxC_k6mr0-DUAg"
+  }, {
+    "creationTime": "2017-06-28 10:14:18-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "No problem, glad to help as long as you\u0026#39;re trying and learning, but only so far.  :)\u003cbr\u003e\u003cbr\u003eMaker Faire KC was exhausting but fun.  I posted some details here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://plus.google.com/+JasonCoon1/posts/5CvUPoLoGrT\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://plus.google.com/+JasonCoon1/posts/5CvUPoLoGrT\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI haven\u0026#39;t unpacked any of my stuff yet, or even looked at any of my projects.  I may have burnt myself out for a while.\u003cbr\u003e\u003cbr\u003eI got three of the 6 output boards in, sent one of them off to someone to help test, but haven\u0026#39;t heard back or tested myself yet.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDE0trl3ODUAg"
+  }, {
+    "creationTime": "2017-06-29 15:03:56-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "Thank you is still congratulations for your blue ribbon.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxChm6Wz3-PUAg"
+  }, {
+    "creationTime": "2017-07-07 21:19:13-0400",
+    "author": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    },
+    "content": "Thanks, Jason! With the help you provided via github \u0026quot;issues\u0026quot; I was able to get it running on an Arduino Nano. I removed the infrared remote feature and the \u0026quot;launcher\u0026quot; mode to get the required memory for global variables freed up. I\u0026#39;ve got a unique arrangement of 112 LEDs with 3D printed diffusers that I now just need to button up and make permanent connections! I\u0026#39;ll post photos of my project here next week.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCcmeiZwvjUAg"
+  }, {
+    "creationTime": "2017-07-08 07:12:45-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102872743704528102328\" oid\u003d\"102872743704528102328\" \u003eGarrett Durland\u003c/a\u003e\u003c/span\u003e good project I am interested to view the final project photo.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDVuaLvxvnUAg"
+  }, {
+    "creationTime": "2017-07-08 08:00:08-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102872743704528102328\" oid\u003d\"102872743704528102328\" \u003eGarrett Durland\u003c/a\u003e\u003c/span\u003e would love to see your code for the nano and the finished project photo great job \u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCh7My60fnUAg"
+  }, {
+    "creationTime": "2017-07-09 11:32:19-0400",
+    "author": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    },
+    "content": "Here is my layout for the 112 LEDs. It resembles five \u0026quot;lollipops\u0026quot; of different sizes. I\u0026#39;d like the lollipop that\u0026#39;s above the color to light up first, then have the color spread to the other lollipops. I\u0026#39;m going to try using a constant mapping array variable, I will look at some of the FastLED examples for help.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCB1fDfwvzUAg"
+  }, {
+    "creationTime": "2017-07-09 11:50:39-0400",
+    "author": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    },
+    "content": "I have seven working game modes right now, and I\u0026#39;m switching between them using a momentary button that connects pin 4 to ground. Since I\u0026#39;m not using the infrared remote, I\u0026#39;d like to program a light signal that displays which one is active when a new mode is selected. I was thinking of modes 1 through 5 being a single lollipop lit up (different one for each mode), then modes 6 and 7 having two lollipops lit up.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDjgbbsxvzUAg"
+  }, {
+    "creationTime": "2017-07-09 14:25:51-0400",
+    "author": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    },
+    "content": "Here\u0026#39;s my fork of Jason\u0026#39;s FastLED Arcade. Thanks again, Jason for the great code!\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "link": {
+      "title": "terrag42/fastled-arcade",
+      "url": "https://github.com/terrag42/fastled-arcade",
+      "imageUrl": "https://avatars0.githubusercontent.com/u/9958086?v\u003d3\u0026s\u003d400"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxDvi-nE6fzUAg"
+  }, {
+    "creationTime": "2017-07-10 02:44:38-0400",
+    "author": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102872743704528102328\" oid\u003d\"102872743704528102328\" \u003eGarrett Durland\u003c/a\u003e\u003c/span\u003e amazing code gonna try this later what pins did you use thanks",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxCsk8zVjv7UAg"
+  }, {
+    "creationTime": "2017-07-10 09:52:37-0400",
+    "author": {
+      "displayName": "Michael Aramini",
+      "profilePageUrl": "https://plus.google.com/+MichaelAramini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-FsNE4_3k-uQ/AAAAAAAAAAI/AAAAAAAAAxM/GrO_STcnvP8/s64-c/photo.jpg",
+      "resourceName": "users/106003997346955280274"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102872743704528102328\" oid\u003d\"102872743704528102328\" \u003eGarrett Durland\u003c/a\u003e\u003c/span\u003e  great thanks for sharing. I will test. I have tons of arduino nano and uno",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpN7pEqRQUe",
+    "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC/comments/CiN6MTJqeTF6aDJ5endkNTFyaTA0Y2l0dzRleWZkY3RycjQybxD21Zuq7v7UAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgjuDEvHdF9wH3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "William Hartley",
+      "profilePageUrl": "https://plus.google.com/+WillHartley",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Bh4Hp983x74/AAAAAAAAAAI/AAAAAAAAfEc/GwGk8stMYMk/s64-c/photo.jpg",
+      "resourceName": "users/111285908909074170902"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stephen Kramer",
+      "profilePageUrl": "https://plus.google.com/115748330186155257837",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2NvGG1atLEk/AAAAAAAAAAI/AAAAAAAAAls/5qM_GA0zDQg/s64-c/photo.jpg",
+      "resourceName": "users/115748330186155257837"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "nwestwind",
+      "profilePageUrl": "https://plus.google.com/111436139117455068094",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-MwQatDjwAf8/AAAAAAAAAAI/AAAAAAAAAt8/IyRl3qYirkM/s64-c/photo.jpg",
+      "resourceName": "users/111436139117455068094"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "zhang billy",
+      "profilePageUrl": "https://plus.google.com/117961873706370410182",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-E6HdPZqA8cs/AAAAAAAAAAI/AAAAAAAACE4/l-EhcY4OUPE/s64-c/photo.jpg",
+      "resourceName": "users/117961873706370410182"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jens Hauke",
+      "profilePageUrl": "https://plus.google.com/+JensHauke",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-w4WCnsQP0So/AAAAAAAAAAI/AAAAAAAAAEc/yYc5vQyUn9M/s64-c/photo.jpg",
+      "resourceName": "users/115483220531266761425"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mario Wiegleb",
+      "profilePageUrl": "https://plus.google.com/111877398099696932439",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-wVdST4p6WNI/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWyAiS5SwNOlx5yYlk-x8Sg1JMLcw/s64-c/photo.jpg",
+      "resourceName": "users/111877398099696932439"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Amelia T",
+      "profilePageUrl": "https://plus.google.com/+AmeliaT",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-SQRXif2E3Jo/AAAAAAAAAAI/AAAAAAAAARM/MqKCACGJWfo/s64-c/photo.jpg",
+      "resourceName": "users/110193816007223216283"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "K-Macho\u0027s Mexican Grill and Cantina Overland Park",
+      "profilePageUrl": "https://plus.google.com/+KMachosMexicanGrillandCantinaKansasCity",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-8G4HeMLBoe8/AAAAAAAAAAI/AAAAAAAAAEo/8PAX_0dCLqQ/s64-c/photo.jpg",
+      "resourceName": "users/114710427896123817298"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James Callahan",
+      "profilePageUrl": "https://plus.google.com/101169594380997350004",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-XxQqevY4JCA/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXG0Ut7cCYvntEmpbRZbfV8kutOxQ/s64-c/photo.jpg",
+      "resourceName": "users/101169594380997350004"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Justin Shaw",
+      "profilePageUrl": "https://plus.google.com/+JustinShaw",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-IFU0TaMUgqQ/AAAAAAAAAAI/AAAAAAAA3h0/nFJ7jwGtjO0/s64-c/photo.jpg",
+      "resourceName": "users/110749747659159749550"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dushyant Ahuja",
+      "profilePageUrl": "https://plus.google.com/+DushyantAhuja",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-sva8lHLHSMA/AAAAAAAAAAI/AAAAAAAAuKE/S0J3fcd1EFQ/s64-c/photo.jpg",
+      "resourceName": "users/102046189032208678773"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ben Delarre",
+      "profilePageUrl": "https://plus.google.com/114825475221343681660",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-u-Clg04Svvg/AAAAAAAAAAI/AAAAAAAAAI0/-ImKmP5IfOU/s64-c/photo.jpg",
+      "resourceName": "users/114825475221343681660"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/106003997346955280274",
+        "displayName": "Michael Aramini"
+      }, {
+        "resourceName": "users/104244816294991900225",
+        "displayName": "dave windsor"
+      }, {
+        "resourceName": "users/102872743704528102328",
+        "displayName": "Garrett Durland"
+      }, {
+        "resourceName": "users/102004717133653297761",
+        "displayName": "Ken White"
+      }]
+    }
+  }
+}

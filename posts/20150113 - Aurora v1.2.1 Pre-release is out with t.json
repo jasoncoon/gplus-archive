@@ -1,0 +1,25 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/KdeYiDq7Xko",
+  "creationTime": "2015-01-13 20:28:15-0500",
+  "updateTime": "2015-01-13 20:29:35-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Aurora v1.2.1 Pre-release is out with the new \u0026#39;pendulum wave\u0026#39; pattern and a few bug fixes (like the clock not updating).  This release is based on the current code in the master branch.  After a few more days of testing, we\u0026#39;ll go ahead and make this the recommended release.  Please let us know if you have any problems, questions, etc.",
+  "link": {
+    "title": "Release Aurora v1.2.1 · pixelmatix/aurora · GitHub",
+    "url": "https://github.com/pixelmatix/aurora/releases/tag/1.2.1"
+  },
+  "resourceName": "users/103867089694409269471/posts/UghvZH690BsiVHgCoAEC",
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}
