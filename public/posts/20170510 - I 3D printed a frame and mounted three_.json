@@ -1,0 +1,249 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/4JRprsufcDb",
+  "creationTime": "2017-05-10 19:14:10-0400",
+  "updateTime": "2017-05-10 19:14:10-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I 3D printed a frame and mounted three ULTiM8x8 panels into a half cube.  I have it fully 3D mapped, and have it scrolling noise and palettes in any direction!\u003cbr\u003e\u003cbr\u003eIf you\u0026#39;d like to build and play around with one of these, please consider supporting their crowd-funding campaign: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.crowdsupply.com/maniacal-labs-wyolum/ultim8x8\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.crowdsupply.com/maniacal-labs-wyolum/ultim8x8\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eCode: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver/tree/ultim8x8\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver/tree/ultim8x8\u003c/a\u003e\u003cbr\u003eFrame: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.thingiverse.com/thing:2309657\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.thingiverse.com/thing:2309657\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e*Disclaimer: I have backed the project, and they did send me a set to play with, but I have no other stake in this campaign.",
+  "media": {
+    "url": "https://youtu.be/kPwJ5k1VUr4?list\u003dPLUYGVM-2vDxIhR9NnYLd4la8zq47jKtvi",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Get yours at: https://www.crowdsupply.com/maniacal-labs-wyolum/ultim8x8 Control an ULTiM8x8 RGB LED Panel with an ESP8266 via a web browser. 3D printed cube ...",
+    "resourceName": "media/EgtrUHdKNWsxVlVyNA\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2017-05-10 19:44:04-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Thinking outside the half box.  Nice Jason.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4JRprsufcDb",
+    "resourceName": "users/103867089694409269471/posts/UggTu3f2VuVO9ngCoAEC/comments/CiF6MTN2ZHY1aHJ3cnpodnJjbjIzcWoxMnJtdWVhaHh0MHAQgPWc4cDm0wI"
+  }, {
+    "creationTime": "2017-05-10 20:30:27-0400",
+    "author": {
+      "displayName": "Chad Eby",
+      "profilePageUrl": "https://plus.google.com/103032700739943796663",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-T6lGtCnWsak/AAAAAAAAAAI/AAAAAAAAAcE/V2QqRS0dHAI/s64-c/photo.jpg",
+      "resourceName": "users/103032700739943796663"
+    },
+    "content": "Send Jason another 3! \u003cbr\u003e\u003cbr\u003e\u003d)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4JRprsufcDb",
+    "resourceName": "users/103867089694409269471/posts/UggTu3f2VuVO9ngCoAEC/comments/CiF6MTN2ZHY1aHJ3cnpodnJjbjIzcWoxMnJtdWVhaHh0MHAQqqOckMvm0wI"
+  }, {
+    "creationTime": "2017-05-10 20:34:36-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103032700739943796663\" oid\u003d\"103032700739943796663\" \u003eChad Eby\u003c/a\u003e\u003c/span\u003e yeah!  Or another 21 and I\u0026#39;ll make a 16x16 cube!  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4JRprsufcDb",
+    "resourceName": "users/103867089694409269471/posts/UggTu3f2VuVO9ngCoAEC/comments/CiF6MTN2ZHY1aHJ3cnpodnJjbjIzcWoxMnJtdWVhaHh0MHAQzuj6hszm0wI"
+  }, {
+    "creationTime": "2017-05-11 22:08:43-0400",
+    "author": {
+      "displayName": "Justin Shaw",
+      "profilePageUrl": "https://plus.google.com/+JustinShaw",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-IFU0TaMUgqQ/AAAAAAAAAAI/AAAAAAAA3h0/nFJ7jwGtjO0/s64-c/photo.jpg",
+      "resourceName": "users/110749747659159749550"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103032700739943796663\" oid\u003d\"103032700739943796663\" \u003eChad Eby\u003c/a\u003e\u003c/span\u003e, help us spread the word so we can supply \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4JRprsufcDb",
+    "resourceName": "users/103867089694409269471/posts/UggTu3f2VuVO9ngCoAEC/comments/CiF6MTN2ZHY1aHJ3cnpodnJjbjIzcWoxMnJtdWVhaHh0MHAQ_a26-qLp0wI"
+  }, {
+    "creationTime": "2017-05-12 12:32:33-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "I like that cube very much. I haven\u0026#39;t done any RGB LED designs in over a year now but that creation is teasing me to get back into it.  Great work Jason !!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4JRprsufcDb",
+    "resourceName": "users/103867089694409269471/posts/UggTu3f2VuVO9ngCoAEC/comments/CiF6MTN2ZHY1aHJ3cnpodnJjbjIzcWoxMnJtdWVhaHh0MHAQ0MH_hOTq0wI"
+  }, {
+    "creationTime": "2017-05-12 14:10:35-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106626345342202981932\" oid\u003d\"106626345342202981932\" \u003eJP Roy\u003c/a\u003e\u003c/span\u003e !  The code should be fairly easy to adapt to other sizes, as well as truly 3D cubes like yours.  I have a 6x6x6 L3D cube that I\u0026#39;m trying to get to work with FastLED, but it uses a STM32F103 like the Maple that\u0026#39;s not yet supported.  I\u0026#39;m going to try to hack a ESP8266 into it.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4JRprsufcDb",
+    "resourceName": "users/103867089694409269471/posts/UggTu3f2VuVO9ngCoAEC/comments/CiF6MTN2ZHY1aHJ3cnpodnJjbjIzcWoxMnJtdWVhaHh0MHAQqLn7-fnq0wI"
+  }, {
+    "creationTime": "2017-05-12 14:32:09-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Did not know they had 6x6x6 cubes.\u003cbr\u003e\u003cbr\u003eI will have a quick look into that code and see if/how I can \u0026#39;borrow\u0026#39; some of your animations. Not sure how I will pull that 3rd dimension out of it though...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4JRprsufcDb",
+    "resourceName": "users/103867089694409269471/posts/UggTu3f2VuVO9ngCoAEC/comments/CiF6MTN2ZHY1aHJ3cnpodnJjbjIzcWoxMnJtdWVhaHh0MHAQnZvd4v7q0wI"
+  }, {
+    "creationTime": "2017-05-12 14:53:18-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106626345342202981932\" oid\u003d\"106626345342202981932\" \u003eJP Roy\u003c/a\u003e\u003c/span\u003e yeah, the 6x6x6 is new, doesn\u0026#39;t use the Particle Photon, or have Arduino connectors like the 8x8x8.  In fact, they don\u0026#39;t even have the LED0 pin exposed on a jumper/header.\u003cbr\u003e\u003cbr\u003eYou should be able to just enter the X, Y, and Z coordinates of the LEDs in your cube here, and everything should just work: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver/blob/ultim8x8/Map.h\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver/blob/ultim8x8/Map.h\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eHere\u0026#39;s the quick diagram I drew of mine that I used to do the mapping: \u003cbr\u003e\u003cbr\u003eAnd here\u0026#39;s the spreadsheet I used to enter all the LED indices and X, Y, and Z coordinates: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://docs.google.com/spreadsheets/d/14pZNTbChgENK_V_HDVS14rkKrOspDqO1k8RXZEsKztA/edit?usp\u003dsharing\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://docs.google.com/spreadsheets/d/14pZNTbChgENK_V_HDVS14rkKrOspDqO1k8RXZEsKztA/edit?usp\u003dsharing\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4JRprsufcDb",
+    "media": {
+      "url": "http://i.imgur.com/vzyETUd.jpg",
+      "contentType": "image/*",
+      "width": 3024,
+      "height": 4032,
+      "resourceName": "media/Eh5odHRwOi8vaS5pbWd1ci5jb20vdnp5RVRVZC5qcGc\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UggTu3f2VuVO9ngCoAEC/comments/CiF6MTN2ZHY1aHJ3cnpodnJjbjIzcWoxMnJtdWVhaHh0MHAQ_MuIwIPr0wI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UggTu3f2VuVO9ngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Costyn van Dongen",
+      "profilePageUrl": "https://plus.google.com/+CostynvanDongen",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/--cuBk4HTGfs/AAAAAAAAAAI/AAAAAAAAB7Q/S6tAHRjuqFs/s64-c/photo.jpg",
+      "resourceName": "users/102783790935506271009"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nail ENVY",
+      "profilePageUrl": "https://plus.google.com/109048588330518029928",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-R7HWKoXqVJg/AAAAAAAAAAI/AAAAAAAAALA/MFDpIshuZEs/s64-c/photo.jpg",
+      "resourceName": "users/109048588330518029928"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pankaj Patel",
+      "profilePageUrl": "https://plus.google.com/110803286139666695853",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-HrqAmTwCuoA/AAAAAAAAAAI/AAAAAAAAGDY/lS7pDWvaPBE/s64-c/photo.jpg",
+      "resourceName": "users/110803286139666695853"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Ortiz",
+      "profilePageUrl": "https://plus.google.com/+MarkOrtiz1",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rr3IeLFo1ro/AAAAAAAAAAI/AAAAAAAACNo/9QseMvLcnAg/s64-c/photo.jpg",
+      "resourceName": "users/113382150942778753214"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kean Maizels",
+      "profilePageUrl": "https://plus.google.com/+KeanMaizels",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-t5aKxTecSaI/AAAAAAAAAAI/AAAAAAAAAz0/aplOgx_8Mpo/s64-c/photo.jpg",
+      "resourceName": "users/101798281270279925409"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mario Wiegleb",
+      "profilePageUrl": "https://plus.google.com/111877398099696932439",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-wVdST4p6WNI/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWyAiS5SwNOlx5yYlk-x8Sg1JMLcw/s64-c/photo.jpg",
+      "resourceName": "users/111877398099696932439"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "1icri - Old Account",
+      "profilePageUrl": "https://plus.google.com/+Techy4198",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-aKO8TFuO3IM/AAAAAAAAAAI/AAAAAAAAD4A/5Douh6kqyaA/s64-c/photo.jpg",
+      "resourceName": "users/109789728586812118406"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Anool Mahidharia",
+      "profilePageUrl": "https://plus.google.com/+AnoolMahidharia",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-B9IeFYpqevU/AAAAAAAAAAI/AAAAAAAAOVg/lyeEYRiYSjg/s64-c/photo.jpg",
+      "resourceName": "users/107198716859948323715"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Justin Shaw",
+      "profilePageUrl": "https://plus.google.com/+JustinShaw",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-IFU0TaMUgqQ/AAAAAAAAAAI/AAAAAAAA3h0/nFJ7jwGtjO0/s64-c/photo.jpg",
+      "resourceName": "users/110749747659159749550"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Anool Mahidharia",
+      "profilePageUrl": "https://plus.google.com/+AnoolMahidharia",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-B9IeFYpqevU/AAAAAAAAAAI/AAAAAAAAOVg/lyeEYRiYSjg/s64-c/photo.jpg",
+      "resourceName": "users/107198716859948323715"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/106626345342202981932",
+        "displayName": "JP Roy"
+      }, {
+        "resourceName": "users/103032700739943796663",
+        "displayName": "Chad Eby"
+      }]
+    }
+  }
+}

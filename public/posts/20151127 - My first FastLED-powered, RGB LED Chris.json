@@ -1,0 +1,361 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/Wod8UQUEw3v",
+  "creationTime": "2015-11-27 17:56:48-0500",
+  "updateTime": "2015-11-27 17:56:48-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "My first FastLED-powered, RGB LED Christmas Tree, with Wi-Fi!  Because why not?!  Controlled with a web app, can change brightness, pattern, etc.  Running Mark\u0026#39;s fantastic ColorWavesWithPalettes pattern in this video.  Going to try to come up with some custom palettes and a few other patterns over the next few weeks.\u003cbr\u003e\u003cbr\u003eSource: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/evilgeniuslabs/tree\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/evilgeniuslabs/tree\u003c/a\u003e",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dxc4W26HInwM",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Strand of 50 WS2811 8mm RGB LEDs driven with a Particle Photon and the FastLED library. Haphazardly wrapped around a cheap 4\u0027 tree. Controlled via Wi-Fi with...",
+    "resourceName": "media/Egt4YzRXMjZISW53TQ\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2015-11-27 18:08:19-0500",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "I love it.  And Wifi!  How do you have the wifi integrated?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxDm6b2j3LHJAg"
+  }, {
+    "creationTime": "2015-11-27 18:13:14-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks!  I used a Particle Photon.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxCzipOw3bHJAg"
+  }, {
+    "creationTime": "2015-11-27 18:35:15-0500",
+    "author": {
+      "displayName": "Erin St. Blaine",
+      "profilePageUrl": "https://plus.google.com/+ErinStBlaine",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Lr1Cb5sGBho/AAAAAAAAAAI/AAAAAAAAF3c/EZNcAgyApag/s64-c/photo.jpg",
+      "resourceName": "users/102483892501686823436"
+    },
+    "content": "Looks awesome!  Does FastLED work with the Photon?  I\u0026#39;m guessing it does, if you did it, but I was under the impression that Photon wasn\u0026#39;t supported yet...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxCexYKm4rHJAg"
+  }, {
+    "creationTime": "2015-11-27 18:37:16-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks!  Yeah, it\u0026#39;s supported now: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/focalintent/FastLED-Sparkcore/commit/1f1dd0e76b24d58f538669e8a60cdc88d8e87bde\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/focalintent/FastLED-Sparkcore/commit/1f1dd0e76b24d58f538669e8a60cdc88d8e87bde\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxC7mrTf4rHJAg"
+  }, {
+    "creationTime": "2015-11-27 18:45:30-0500",
+    "author": {
+      "displayName": "Erin St. Blaine",
+      "profilePageUrl": "https://plus.google.com/+ErinStBlaine",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Lr1Cb5sGBho/AAAAAAAAAAI/AAAAAAAAF3c/EZNcAgyApag/s64-c/photo.jpg",
+      "resourceName": "users/102483892501686823436"
+    },
+    "content": "Woo hoo!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxC5_oPL5LHJAg"
+  }, {
+    "creationTime": "2015-11-27 22:49:01-0500",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, nice tree !\u003cbr\u003eYou beat me to it, I am currently adding a Bluetooth module and a MSGEQ7 audio frequency analyser module to the Xmas tree I built last year. Should have it finished in a day or so.\u003cbr\u003eLast year I ran out of time to add my own animations and only used a slightly modified \u0026#39;Color Twinke\u0026#39; sketch from Mark Kriegsman. Still was awesome !!\u003cbr\u003eLeaves me about 4 weeks to add my own animations that can react nicely to ambiant sound and music and add Bluetooth control.\u003cbr\u003eHmmm... 4 weeks... will it be enough !?\u003cbr\u003eMaybe I\u0026#39;ll have to steal some Xmas tree sketches as they become available...  Hurry-up with you sketch upgrades...  ;-)  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxCRiaSCm7LJAg"
+  }, {
+    "creationTime": "2015-11-27 22:50:59-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, JP!  You definitely have me beat on the hardware.  I just wrapped a string of lights around the tree and plugged it into a Photon board.  :)  I\u0026#39;ll be sure to share any new patterns I come up with.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxCy8b26m7LJAg"
+  }, {
+    "creationTime": "2015-11-27 23:03:44-0500",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Yeah, I\u0026#39;m definitely ahead on the HW but only because I started this tree around October 2014.   :-)\u003cbr\u003eOn the HW side, I\u0026#39;m only adding the 2 modules but I hope to be able to sketch out those Xmas tree videos that have been playing inside my head for a week now... ;-)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxDZ-oSnnrLJAg"
+  }, {
+    "creationTime": "2015-11-28 12:33:31-0500",
+    "author": {
+      "displayName": "Rudy Van Nuffelen",
+      "profilePageUrl": "https://plus.google.com/103924521942355084413",
+      "resourceName": "users/103924521942355084413"
+    },
+    "content": "very nice, I hope I can get this to work as well",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxD_hLGn07PJAg"
+  }, {
+    "creationTime": "2015-11-28 12:38:15-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, let me know if you have any questions/problems, and I\u0026#39;ll try to help.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxCy8_eu1LPJAg"
+  }, {
+    "creationTime": "2015-11-29 09:03:56-0500",
+    "author": {
+      "displayName": "Scottie D369",
+      "profilePageUrl": "https://plus.google.com/+ScottieD369",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-S4TRuu-0R6c/AAAAAAAAAAI/AAAAAAAAAUo/hth_rrPwkmM/s64-c/photo.jpg",
+      "resourceName": "users/107470029415997129629"
+    },
+    "content": "BE CAREFUL! Youtube WILL report your video for 3rd party content with the music. Otherwise looks nice. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxC9_fqp5rXJAg"
+  }, {
+    "creationTime": "2015-11-29 09:49:21-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, but that\u0026#39;s not a concern, I used the YouTube Audio Library: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/audiolibrary/music\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/audiolibrary/music\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxD21ba98LXJAg"
+  }, {
+    "creationTime": "2015-11-29 10:00:30-0500",
+    "author": {
+      "displayName": "Scottie D369",
+      "profilePageUrl": "https://plus.google.com/+ScottieD369",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-S4TRuu-0R6c/AAAAAAAAAAI/AAAAAAAAAUo/hth_rrPwkmM/s64-c/photo.jpg",
+      "resourceName": "users/107470029415997129629"
+    },
+    "content": "ok cause I had an issue with mine doing that. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxCn16n88rXJAg"
+  }, {
+    "creationTime": "2015-12-09 12:39:47-0500",
+    "author": {
+      "displayName": "Erin St. Blaine",
+      "profilePageUrl": "https://plus.google.com/+ErinStBlaine",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Lr1Cb5sGBho/AAAAAAAAAAI/AAAAAAAAF3c/EZNcAgyApag/s64-c/photo.jpg",
+      "resourceName": "users/102483892501686823436"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e   I am learning my way around the photon and would love to play with your app.. any chance of getting an access token so I can see how it all ticks?  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxCij-ycqc_JAg"
+  }, {
+    "creationTime": "2015-12-09 12:48:16-0500",
+    "updateTime": "2015-12-09 20:58:10-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102483892501686823436\" oid\u003d\"102483892501686823436\" \u003eErin St. Blaine\u003c/a\u003e\u003c/span\u003e That\u0026#39;d be great! I would love some feedback on it.\u003cbr\u003e\u003cbr\u003eYou enter \u003cb\u003eyour\u003c/b\u003e access token from Particle.  You can get it in the Particle Build IDE, in the Settings tab: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://docs.particle.io/guide/getting-started/build/photon/#account-information\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://docs.particle.io/guide/getting-started/build/photon/#account-information\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eOnce you enter it into my app, you can click the button to save it.  It\u0026#39;s saved in browser local storage.  It\u0026#39;s not sent to me, I promise I cannot access it.  You should be careful not to share it with anyone else, or they could take control of your Particle devices.\u003cbr\u003e\u003cbr\u003eAfter that, it should list your devices.  If you select a device that is running one of my sketches, it should get the pattern list and update the controls with the current variable values (brightness, selected pattern, etc).\u003cbr\u003e\u003cbr\u003eI\u0026#39;ll try to write up some better instructions later tonight.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxCr06OPq8_JAg"
+  }, {
+    "creationTime": "2015-12-09 15:08:37-0500",
+    "author": {
+      "displayName": "Holger Runkewitz",
+      "profilePageUrl": "https://plus.google.com/110571224505320027863",
+      "resourceName": "users/110571224505320027863"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e I am on learning too. Thus I got the photon registered and run a FastLED demo right out from the web IDE. Now I am not sure how to get there your software?\u003cbr\u003eA second question arises when I read \u0026#39;infrared remote\u0026#39; in your readme: is this based on a common community project?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxDXjtG-ys_JAg"
+  }, {
+    "creationTime": "2015-12-09 20:56:56-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110571224505320027863\" oid\u003d\"110571224505320027863\" \u003eHolger Runkewitz\u003c/a\u003e\u003c/span\u003e I use Particle Dev, their \u0026quot;desktop\u0026quot; IDE.  Using it, you should be able to compile and upload the source code (linked in the post above).  I think you can use the Particle Build web IDE, you\u0026#39;ll just need to copy tree.ino and GradientPalettes.h, and include the FastLED library (through the libraries tab).\u003cbr\u003e\u003cbr\u003eI haven\u0026#39;t tried getting an infrared remote working with the Photon, but I have built similar IR-controlled projects using a Teensy instead: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/jewelrytree-teensy-ir\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/jewelrytree-teensy-ir\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eIt\u0026#39;s not based on a common community project, but most of my projects have very similar structure, and only really differ on the microcontroller, LED type, control method (IR, Wi-FI), patterns included, etc.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxDHiqSsmNDJAg"
+  }, {
+    "creationTime": "2015-12-10 10:10:14-0500",
+    "author": {
+      "displayName": "Holger Runkewitz",
+      "profilePageUrl": "https://plus.google.com/110571224505320027863",
+      "resourceName": "users/110571224505320027863"
+    },
+    "content": "Yeah - I succeeded! Great, and Thanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxDy_tDUydHJAg"
+  }, {
+    "creationTime": "2015-12-13 01:54:03-0500",
+    "author": {
+      "displayName": "David Shay",
+      "profilePageUrl": "https://plus.google.com/118039668125503130218",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-hLzuSl7jLEc/AAAAAAAAAAI/AAAAAAAAAAA/ScnAMKGUwHQ/s64-c/photo.jpg",
+      "resourceName": "users/118039668125503130218"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​, just getting going with my own Christmas Photon/WS2812 project as well. Having some corruption/quick blinking issues with the Neopixel library so was going to switch to FastLed. How are the pins mapped though? I.E. is D2 pin 2 or 3 or what?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Wod8UQUEw3v",
+    "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC/comments/CiN6MTJnd2ZhZ3J4M3BoejV4bTA0Y2l0dzRleWZkY3RycjQybxCyyJGtoNjJAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgiyL39WguZimXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "FERNANDO SILVA",
+      "profilePageUrl": "https://plus.google.com/113199732929090347770",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ruVykjAmkQE/AAAAAAAAAAI/AAAAAAAAACY/Cae-3Fxldx4/s64-c/photo.jpg",
+      "resourceName": "users/113199732929090347770"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Adam bluebottleyellowboxyellyfish",
+      "profilePageUrl": "https://plus.google.com/107742111066361257243",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-qaRE2xXv5Ro/AAAAAAAAAAI/AAAAAAAAABg/sIYg1QxLdtI/s64-c/photo.jpg",
+      "resourceName": "users/107742111066361257243"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pim Zwager",
+      "profilePageUrl": "https://plus.google.com/104393765460141366408",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-l_J7kKA6xzs/AAAAAAAAAAI/AAAAAAACaRY/CjtUoL_qJvM/s64-c/photo.jpg",
+      "resourceName": "users/104393765460141366408"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tomasz M.",
+      "profilePageUrl": "https://plus.google.com/109566978786544131551",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ivy1TZACh60/AAAAAAAAAAI/AAAAAAAAAwU/iqXLaNzyCO8/s64-c/photo.jpg",
+      "resourceName": "users/109566978786544131551"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Matt Richard",
+      "profilePageUrl": "https://plus.google.com/110166643140045739599",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NFaQJJ6ZuEU/AAAAAAAAAAI/AAAAAAAAEEo/4mz7KaVgDHk/s64-c/photo.jpg",
+      "resourceName": "users/110166643140045739599"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Rudy Van Nuffelen",
+      "profilePageUrl": "https://plus.google.com/103924521942355084413",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-TyMUko0VrPs/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXYt0ajlJ8ZR-8uF1YD3FicLfrIrQ/s64-c/photo.jpg",
+      "resourceName": "users/103924521942355084413"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "arpan choudhury",
+      "profilePageUrl": "https://plus.google.com/108834522502450669797",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-FL9DpN3FQhA/AAAAAAAAAAI/AAAAAAAAAh4/FFg28t90g0A/s64-c/photo.jpg",
+      "resourceName": "users/108834522502450669797"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Ortiz",
+      "profilePageUrl": "https://plus.google.com/+MarkOrtiz1",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rr3IeLFo1ro/AAAAAAAAAAI/AAAAAAAACNo/9QseMvLcnAg/s64-c/photo.jpg",
+      "resourceName": "users/113382150942778753214"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Зинец Виктор",
+      "profilePageUrl": "https://plus.google.com/115186911261850370667",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-u0Eb9Ebjit4/AAAAAAAAAAI/AAAAAAAAD3M/_L2CdD9U7O8/s64-c/photo.jpg",
+      "resourceName": "users/115186911261850370667"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dougal Campbell",
+      "profilePageUrl": "https://plus.google.com/+DougalCampbell",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-FXQyDVKRJjc/AAAAAAAAAAI/AAAAAAAAErw/fZAdUCezrNs/s64-c/photo.jpg",
+      "resourceName": "users/104640897934960019410"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "FERNANDO SILVA",
+      "profilePageUrl": "https://plus.google.com/113199732929090347770",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ruVykjAmkQE/AAAAAAAAAAI/AAAAAAAAACY/Cae-3Fxldx4/s64-c/photo.jpg",
+      "resourceName": "users/113199732929090347770"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/110571224505320027863",
+        "displayName": "Holger Runkewitz"
+      }, {
+        "resourceName": "users/102483892501686823436",
+        "displayName": "Erin St. Blaine"
+      }]
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/ZmmmUMSN7Ve",
+  "creationTime": "2017-10-17 22:46:00-0400",
+  "updateTime": "2017-10-18 09:26:57-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Finally got a cube assembled out of 6 ULTiM8x8 (8x8 APA102) RGB LED panels by +Wyolum and \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104486391541517922016\" oid\u003d\"104486391541517922016\" \u003eManiacal Labs LLC\u003c/a\u003e\u003c/span\u003e!  Got it 3D mapped and running on an ESP8266.\u003cbr\u003e\u003cbr\u003eIt\u0026#39;s assembled using 3D printed corner brackets, hex nuts and bolts, and copper tape.  The wires (5V, GND, DATA, CLK) run out of the bottom.  Need to 3D print a base for it next.\u003cbr\u003e\u003cbr\u003eMany thanks to \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110749747659159749550\" oid\u003d\"110749747659159749550\" \u003eJustin Shaw\u003c/a\u003e\u003c/span\u003e and \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107198716859948323715\" oid\u003d\"107198716859948323715\" \u003eAnool Mahidharia\u003c/a\u003e\u003c/span\u003e with Wyolum for the idea and all of the assistance!\u003cbr\u003e\u003cbr\u003eULTiM8x8: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://wyolum.com/ultim8x8/\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://wyolum.com/ultim8x8/\u003c/a\u003e\u003cbr\u003eSource Code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver/tree/ultim8x8-cube\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver/tree/ultim8x8-cube\u003c/a\u003e",
+  "media": {
+    "url": "https://www.youtube.com/watch?v\u003dGRUZSQiHCrU",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "resourceName": "media/EgtHUlVaU1FpSENyVQ\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2017-10-18 00:04:01-0400",
+    "author": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e - SPECTACULAR!!!!  Thank you for sharing your code.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/ZmmmUMSN7Ve",
+    "resourceName": "users/103867089694409269471/posts/UgjD7jkEiPBsbXgCoAEC/comments/CiN6MTNxeGxraWJ0MmtjeHh5MzA0Y2l0dzRleWZkY3RycjQybxCu8MGjpfnWAg"
+  }, {
+    "creationTime": "2017-10-18 00:33:41-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Another awesome project \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/ZmmmUMSN7Ve",
+    "resourceName": "users/103867089694409269471/posts/UgjD7jkEiPBsbXgCoAEC/comments/CiN6MTNxeGxraWJ0MmtjeHh5MzA0Y2l0dzRleWZkY3RycjQybxCmmp70q_nWAg"
+  }, {
+    "creationTime": "2017-10-18 02:04:45-0400",
+    "author": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e you are THE champ!\u003cbr\u003ehow about using in your base a small geared motor and a slip ring?\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/ZmmmUMSN7Ve",
+    "link": {
+      "title": "Slip Ring with Flange - 22mm diameter, 6 wires, max 240V @ 2A",
+      "url": "https://www.adafruit.com/product/736",
+      "imageUrl": "https://cdn-shop.adafruit.com/970x728/736-05.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjD7jkEiPBsbXgCoAEC/comments/CiN6MTNxeGxraWJ0MmtjeHh5MzA0Y2l0dzRleWZkY3RycjQybxC9w9OhwPnWAg"
+  }, {
+    "creationTime": "2017-10-18 08:18:46-0400",
+    "author": {
+      "displayName": "Chad Eby",
+      "profilePageUrl": "https://plus.google.com/103032700739943796663",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-T6lGtCnWsak/AAAAAAAAAAI/AAAAAAAAAcE/V2QqRS0dHAI/s64-c/photo.jpg",
+      "resourceName": "users/103032700739943796663"
+    },
+    "content": "Stellar! Looking forward to seeing how you mapped it out. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/ZmmmUMSN7Ve",
+    "resourceName": "users/103867089694409269471/posts/UgjD7jkEiPBsbXgCoAEC/comments/CiN6MTNxeGxraWJ0MmtjeHh5MzA0Y2l0dzRleWZkY3RycjQybxCSysTuk_rWAg"
+  }, {
+    "creationTime": "2017-10-18 09:35:36-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks everyone!  Fantastic idea, \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116700996827719272404\" oid\u003d\"116700996827719272404\" \u003eJuergen Bruegl\u003c/a\u003e\u003c/span\u003e!  I was thinking about a rotating base, and just preventing it from twisting more than 360 degrees.\u003cbr\u003e\u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103032700739943796663\" oid\u003d\"103032700739943796663\" \u003eChad Eby\u003c/a\u003e\u003c/span\u003e, I just started with a simple diagram of how the LEDs in each panel are ordered (serpentine from the top left), and what order the panels were assembled into the cube.  Then I threw together this spreadsheet with the x, y, and z coordinates for each LED: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/qnw39H\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/qnw39H\u003c/a\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/ZmmmUMSN7Ve",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/CxOApQ1mVn4dYPEv-VApAXP-wk-hsOWuFH30yKpeVaq8mN5Bjovb3L01OY31Ti_XSYmq-EfQPVY",
+      "contentType": "image/*",
+      "width": 2000,
+      "height": 1500,
+      "resourceName": "media/CixBRjFRaXBPa0dXeC1kZFZwN2hGZDRqUmlRRHhiQVdpbWlDcWlkTXhVcEJlaA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjD7jkEiPBsbXgCoAEC/comments/CiN6MTNxeGxraWJ0MmtjeHh5MzA0Y2l0dzRleWZkY3RycjQybxDpt8uEpfrWAg"
+  }, {
+    "creationTime": "2017-10-18 09:37:13-0400",
+    "author": {
+      "displayName": "Chad Eby",
+      "profilePageUrl": "https://plus.google.com/103032700739943796663",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-T6lGtCnWsak/AAAAAAAAAAI/AAAAAAAAAcE/V2QqRS0dHAI/s64-c/photo.jpg",
+      "resourceName": "users/103032700739943796663"
+    },
+    "content": "Thanks again! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/ZmmmUMSN7Ve",
+    "resourceName": "users/103867089694409269471/posts/UgjD7jkEiPBsbXgCoAEC/comments/CiN6MTNxeGxraWJ0MmtjeHh5MzA0Y2l0dzRleWZkY3RycjQybxCqmIOzpfrWAg"
+  }, {
+    "creationTime": "2017-10-19 05:50:51-0400",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "It\u0026#39;s amazing, well done :))",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/ZmmmUMSN7Ve",
+    "resourceName": "users/103867089694409269471/posts/UgjD7jkEiPBsbXgCoAEC/comments/CiN6MTNxeGxraWJ0MmtjeHh5MzA0Y2l0dzRleWZkY3RycjQybxDn9oTVtPzWAg"
+  }, {
+    "creationTime": "2017-10-20 11:01:32-0400",
+    "author": {
+      "displayName": "Scott Peterson",
+      "profilePageUrl": "https://plus.google.com/100914465706098141992",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-imClxIAewBA/AAAAAAAAAAI/AAAAAAAABu8/7LiTBmTDSIE/s64-c/photo.jpg",
+      "resourceName": "users/100914465706098141992"
+    },
+    "content": "Very cool!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/ZmmmUMSN7Ve",
+    "resourceName": "users/103867089694409269471/posts/UgjD7jkEiPBsbXgCoAEC/comments/CiN6MTNxeGxraWJ0MmtjeHh5MzA0Y2l0dzRleWZkY3RycjQybxCGh-f8u__WAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgjD7jkEiPBsbXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Eric Inthecircle",
+      "profilePageUrl": "https://plus.google.com/108863239439563896664",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-HffgB8hAz8c/AAAAAAAAAAI/AAAAAAAAABE/1NpLbBRHiLk/s64-c/photo.jpg",
+      "resourceName": "users/108863239439563896664"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jesus Vicente",
+      "profilePageUrl": "https://plus.google.com/116512152146008000438",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-8Dg3s-H3ed4/AAAAAAAAAAI/AAAAAAAAAro/a8r8NSV5zfU/s64-c/photo.jpg",
+      "resourceName": "users/116512152146008000438"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nikolay Hristov",
+      "profilePageUrl": "https://plus.google.com/+NikolayHristov81",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jleUWCGWYLQ/AAAAAAAAAAI/AAAAAAAANGU/_5NN_7Kf_e8/s64-c/photo.jpg",
+      "resourceName": "users/102508051272173516103"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NBqJ3BQopJo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUjZtH-NDpU8Y--VLfH8gc42O891A/s64-c/photo.jpg",
+      "resourceName": "users/112392188627004225254"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kevin Osborn",
+      "profilePageUrl": "https://plus.google.com/+KevinOsborn",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-gjBVd2aajp0/AAAAAAAAAAI/AAAAAAAA12w/PvxW9zs5_d4/s64-c/photo.jpg",
+      "resourceName": "users/105717937237957047535"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chris Rees",
+      "profilePageUrl": "https://plus.google.com/102857052697355852278",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-C_6sBArYGDo/AAAAAAAAAAI/AAAAAAAAAts/IM0voADBx7w/s64-c/photo.jpg",
+      "resourceName": "users/102857052697355852278"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nathan Bohman",
+      "profilePageUrl": "https://plus.google.com/115295602779691789847",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Q1vQddoXHU0/AAAAAAAAAAI/AAAAAAACoxY/jzODZPNXHq4/s64-c/photo.jpg",
+      "resourceName": "users/115295602779691789847"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James Callahan",
+      "profilePageUrl": "https://plus.google.com/101169594380997350004",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-XxQqevY4JCA/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXG0Ut7cCYvntEmpbRZbfV8kutOxQ/s64-c/photo.jpg",
+      "resourceName": "users/101169594380997350004"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dan McDougall",
+      "profilePageUrl": "https://plus.google.com/+DanMcDougall",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-kAfb1NlIDRA/AAAAAAAAAAI/AAAAAAAATF4/EzSUhj1oNq8/s64-c/photo.jpg",
+      "resourceName": "users/108158236112651581131"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Darren Cassidy",
+      "profilePageUrl": "https://plus.google.com/+DarrenCassidy",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-LY32zB5i3c0/AAAAAAAAAAI/AAAAAAABpv4/MrfkZhKGiio/s64-c/photo.jpg",
+      "resourceName": "users/118433757605179809592"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Валентин Полуяхтов",
+      "profilePageUrl": "https://plus.google.com/+ВалентинПолуяхтов",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-A_gBv0_q_A8/AAAAAAAAAAI/AAAAAAAASyA/USZqj25CSgI/s64-c/photo.jpg",
+      "resourceName": "users/107962168248290817824"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/107198716859948323715",
+        "displayName": "Anool Mahidharia"
+      }, {
+        "resourceName": "users/110749747659159749550",
+        "displayName": "Justin Shaw"
+      }, {
+        "resourceName": "users/104486391541517922016",
+        "displayName": "Maniacal Labs LLC"
+      }, {
+        "resourceName": "users/116700996827719272404",
+        "displayName": "Juergen Bruegl"
+      }, {
+        "resourceName": "users/103032700739943796663",
+        "displayName": "Chad Eby"
+      }]
+    }
+  }
+}

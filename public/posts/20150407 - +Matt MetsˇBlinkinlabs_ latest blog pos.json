@@ -1,0 +1,52 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/CnyVfDvCiPc",
+  "creationTime": "2015-04-07 21:13:12-0400",
+  "updateTime": "2015-04-07 21:13:44-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/114044865355063566596\" oid\u003d\"114044865355063566596\" \u003eMatt Mets\u003c/a\u003e\u003c/span\u003e Blinkinlabs\u0026#39; latest blog post covers my project to get BlinkyTiles working with FastLED and Arduino-based boards (instead of their Lightbuddy controller, which is a bit more involved to reprogram and add patterns).\u003cbr\u003e\u003cbr\u003eThey also added a pack of 42 tiles to their shop for $55: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://goo.gl/cXttmJ\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://goo.gl/cXttmJ\u003c/a\u003e  I know that seems pricey compared to other LED packages, but you can make some cool LED sculptures pretty easily with them.  Note: I am in no way affiliated with Blinkinlabs.  :)",
+  "link": {
+    "title": "Howto: Controlling BlinkyTiles using Arduino+FastLED |",
+    "url": "http://blinkinlabs.com/blog/2015/04/howto-controlling-blinkytiles-using-arduinofastled/",
+    "imageUrl": "http://blinkinlabs.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-08-at-12.25.06-AM-620x346.png"
+  },
+  "resourceName": "users/103867089694409269471/posts/UghGgPFVx7ZA63gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Matt Mets",
+      "profilePageUrl": "https://plus.google.com/114044865355063566596",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Cndth6b_O4o/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXGnGCyQbkAV9z525brbHRfO1-w-A/s64-c/photo.jpg",
+      "resourceName": "users/114044865355063566596"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Gus Class",
+      "profilePageUrl": "https://plus.google.com/+GusClass",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-m_WMJgYMNZc/AAAAAAAAAAI/AAAAAAABqXE/kavlikdOLyM/s64-c/photo.jpg",
+      "resourceName": "users/109716647623830091721"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/114044865355063566596",
+        "displayName": "Matt Mets"
+      }]
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/KBs6HHRq8zh",
+  "creationTime": "2017-02-21 09:53:55-0500",
+  "updateTime": "2017-02-21 09:53:55-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Have you seen this, \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112916219338292742137\" oid\u003d\"112916219338292742137\" \u003eMark Kriegsman\u003c/a\u003e\u003c/span\u003e?!  I need to see this running FastLED!  This is a strange, wonderful way to bring FastLED support to the Teensy 3.6.  :)\u003cbr\u003e\u003cbr\u003eFor those of you that may not be aware, a while back Mark got FastLED running on an Apple //e: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://blog.kriegsman.org/2015/02/16/fastled-for-the-apple-ii/\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://blog.kriegsman.org/2015/02/16/fastled-for-the-apple-ii/\u003c/a\u003e",
+  "link": {
+    "title": "A Full Speed, Portable Apple //e",
+    "url": "http://hackaday.com/2017/02/21/a-full-speed-portable-apple-e/",
+    "imageUrl": "https://hackadaycom.files.wordpress.com/2017/02/aiiethmb.jpg?w\u003d600\u0026h\u003d600"
+  },
+  "comments": [{
+    "creationTime": "2017-02-21 18:22:27-0500",
+    "author": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    },
+    "content": "Well that looks interesting lol",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KBs6HHRq8zh",
+    "resourceName": "users/103867089694409269471/posts/UghsvBr89bZajngCoAEC/comments/CiF6MTJiZmZxaGh0empzaHJuZzIzcWoxMnJtdWVhaHh0MHAQivbeuaqi0gI"
+  }, {
+    "creationTime": "2017-02-22 17:52:19-0500",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "Ha!  Awesome!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/KBs6HHRq8zh",
+    "resourceName": "users/103867089694409269471/posts/UghsvBr89bZajngCoAEC/comments/CiF6MTJiZmZxaGh0empzaHJuZzIzcWoxMnJtdWVhaHh0MHAQs7rByuWk0gI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UghsvBr89bZajngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/103064351079181214877",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Ri1pO7bCmBs/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXkv70UuhkBWbK_ovpfwbl6zmXesA/s64-c/photo.jpg",
+      "resourceName": "users/103064351079181214877"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Robert Atkins",
+      "profilePageUrl": "https://plus.google.com/112974620627169436992",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q_fU1LZ0S7c/AAAAAAAAAAI/AAAAAAAAACk/ceI8vaRTgA8/s64-c/photo.jpg",
+      "resourceName": "users/112974620627169436992"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chris Rennie",
+      "profilePageUrl": "https://plus.google.com/109078107566189818619",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-lb_pO8_wb1c/AAAAAAAAAAI/AAAAAAAAAHY/lOp4nHGEQ4I/s64-c/photo.jpg",
+      "resourceName": "users/109078107566189818619"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/112916219338292742137",
+        "displayName": "Mark Kriegsman"
+      }]
+    }
+  }
+}

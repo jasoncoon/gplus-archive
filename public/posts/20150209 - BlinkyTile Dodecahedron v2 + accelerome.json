@@ -1,0 +1,101 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/RkGdEmmHjHA",
+  "creationTime": "2015-02-09 21:38:13-0500",
+  "updateTime": "2015-02-09 21:45:47-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "BlinkyTile Dodecahedron v2 + accelerometer + FastLED.  Cordless this time.  :)",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/PegzxgLjqH5",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I assembled another dodecahedron, but this time I used an Adafruit Trinket Pro 3v, LiPo battery and charger backpack, and an accelerometer, and packed it all inside. I added a few switches for power, brightness, and pattern selection. It charges via the micro USB port on the Trinket.",
+    "media": {
+      "url": "http://www.youtube.com/watch?v\u003dxRlQ6_sIits",
+      "contentType": "video/*",
+      "width": 1280,
+      "height": 720,
+      "description": "A \u0027cordless\u0027 dodecahedron made of BlinkyTiles, running on an Adafruit Trinket Pro 3V, with an accelerometer chip, using the FastLED library. One of the patte...",
+      "resourceName": "media/Egt4UmxRNl9zSWl0cw\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiHahhj6MX3xHgCoAEC"
+  },
+  "comments": [{
+    "creationTime": "2015-02-09 23:24:35-0500",
+    "author": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "resourceName": "users/101708620681849403392"
+    },
+    "content": "Just beautiful! Congratulations.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RkGdEmmHjHA",
+    "resourceName": "users/103867089694409269471/posts/UgiT8mI1X9f8kXgCoAEC/comments/CiN6MTJjem5yenl1cjNkbHlnbjA0Y2l0dzRleWZkY3RycjQybxC7lKudxNbDAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgiT8mI1X9f8kXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Luminous Elements",
+      "profilePageUrl": "https://plus.google.com/+BeLuminousElements",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CwUw1N1Y5pU/AAAAAAAAAAI/AAAAAAAAAUI/2P5bX1tjzAs/s64-c/photo.jpg",
+      "resourceName": "users/114776463855626183931"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrey Pushkov",
+      "profilePageUrl": "https://plus.google.com/113207525760287785760",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-jVfErgjYJqM/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUSbVHZOTxM5YIAegpu_ueYZ2bWKg/s64-c/photo.jpg",
+      "resourceName": "users/113207525760287785760"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-BLO572tD3sQ/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUejLSktJ0KmRWS_EiWqjSgqwJEOA/s64-c/photo.jpg",
+      "resourceName": "users/101708620681849403392"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kyle Beck",
+      "profilePageUrl": "https://plus.google.com/+KyleBeck",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Jg0wpNrzRvI/AAAAAAAAAAI/AAAAAAAAbFs/nd51Xm9iNmk/s64-c/photo.jpg",
+      "resourceName": "users/100849929412329938415"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

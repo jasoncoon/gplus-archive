@@ -1,0 +1,36 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/S9Erjs8HVeZ",
+  "creationTime": "2015-09-02 12:46:13-0400",
+  "updateTime": "2015-09-02 12:46:13-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "My latest creation.  Similar to my wireless BlinkyTile Dodecahedron, this is built with a Spark Core with Wi-Fi, 48 RGB LEDs, accelerometer/magnetometer, lipo battery, and charger.\u003cbr\u003e\u003cbr\u003eSource code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/evilgeniuslabs/PlasmaSphere\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/evilgeniuslabs/PlasmaSphere\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eBuild details and pics: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/GFF6yLdpjBrtcw666\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/GFF6yLdpjBrtcw666\u003c/a\u003e",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dVjsQvac_-Xg",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Source code: https://github.com/evilgeniuslabs/PlasmaSphere Adafruit Particle/Spark NeoPixel Ring Kit - 24 NeoPixels: https://www.adafruit.com/products/2268 ...",
+    "resourceName": "media/EgtWanNRdmFjXy1YZw\u003d\u003d"
+  },
+  "resourceName": "users/103867089694409269471/posts/UgiWUILzVv45ongCoAEC",
+  "reshares": [{
+    "resharer": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    }
+  }],
+  "postAcl": {
+    "visibleToStandardAcl": {
+      "circles": [{
+        "type": "CIRCLE_TYPE_PUBLIC"
+      }]
+    }
+  }
+}

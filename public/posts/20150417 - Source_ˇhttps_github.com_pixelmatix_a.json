@@ -1,0 +1,53 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/3jpceKKRkeC",
+  "creationTime": "2015-04-17 21:33:31-0400",
+  "updateTime": "2015-04-17 21:44:59-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Source: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/blob/d087efe69b539e2c00a026dde2fa205210d4f3b3/PatternFire.h\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/blob/d087efe69b539e2c00a026dde2fa205210d4f3b3/PatternFire.h\u003c/a\u003e",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/Ziy9SdArcSa",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I added Stefan Petrick\u0026#39;s \u0026quot;Noise Smearing\u0026quot; to Mark Kriegsman\u0026#39;s Fire, and I really like the combination.",
+    "media": {
+      "url": "https://www.youtube.com/watch?v\u003dAtvs-d1x_p8\u0026feature\u003dautoshare",
+      "contentType": "video/*",
+      "description": "Fire pattern from Aurora.\n\nhttps://github.com/pixelmatix/aurora/blob/d087efe69b539e2c00a026dde2fa205210d4f3b3/PatternFire.h\n\nBased on Fire2012WithPalette by Mark Kriegsman https://github.com/FastLED/FastLED/blob/master/examples/Fire2012WithPalette/Fire2012WithPalette.ino\n\nUses \"Noise Smearing\" by Stefan Petrick: https://gist.githubusercontent.com/embedded-creations/5cd47d83cb0e04f4574d/raw/ebf6a82b4755d55cfba3bf6598f7b19047f89daf/NoiseSmearing.ino",
+      "resourceName": "media/EktWaWRlb09iamVjdFYyLWh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QXR2cy1kMXhfcDgmZmVhdHVyZT1hdXRvc2hhcmU\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjDpDwWhh-lr3gCoAEC"
+  },
+  "resourceName": "users/103867089694409269471/posts/UggQXwWQiFVTWXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

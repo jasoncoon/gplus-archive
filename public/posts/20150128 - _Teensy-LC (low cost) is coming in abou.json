@@ -1,0 +1,256 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/CEPby4duXTW",
+  "creationTime": "2015-01-28 10:36:32-0500",
+  "updateTime": "2015-01-28 10:36:32-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "\u0026quot;Teensy-LC (low cost) is coming in about 1 month, featuring a 32 bit Cortex-M0+ processor at 48 MHz, 64K flash, 8K RAM, and a rich hardware peripheral set.... at a retail price of $11.65 (USD)\u0026quot;\u003cbr\u003e\u003cbr\u003e\u0026quot;A 5V output buffer is provided for pin 17, to output a 5V logic signal useful for driving WS2812/NeoPixel LED strips.\u0026quot;",
+  "link": {
+    "title": " Coming Soon: Teensy-LC (low cost Teensy)",
+    "url": "https://forum.pjrc.com/threads/27624-Coming-Soon-Teensy-LC-(low-cost-Teensy)",
+    "imageUrl": "https://forum.pjrc.com/attachment.php?attachmentid\u003d3391\u0026d\u003d1422314192\u0026thumb\u003d1"
+  },
+  "comments": [{
+    "creationTime": "2015-01-28 10:59:38-0500",
+    "author": {
+      "displayName": "Chase McGriff",
+      "profilePageUrl": "https://plus.google.com/102817787446076515775",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-MMoM_-ygykw/AAAAAAAAAAI/AAAAAAAANJ0/NRdj53623rQ/s64-c/photo.jpg",
+      "resourceName": "users/102817787446076515775"
+    },
+    "content": "Can\u0026#39;t decide if I want to pick one of these up or just use this hack on my current strip.\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.electrobob.com/ws2812-level-translator/\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.electrobob.com/ws2812-level-translator/\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CEPby4duXTW",
+    "resourceName": "users/103867089694409269471/posts/UghDJRicAbFueXgCoAEC/comments/CiF6MTN3eHRsZ2hzMmR3aDRtMzIzcWoxMnJtdWVhaHh0MHAQ-6usq4e3wwI"
+  }, {
+    "creationTime": "2015-01-28 12:01:45-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yeah, this seems like it\u0026#39;ll be a nice alternative to the Trinket, Beetle, etc.  I\u0026#39;ve been extremely happy with the Teensy 3.1.  The Spark Photon should be great for just $7 more (when it ships) if you need WiFi.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CEPby4duXTW",
+    "resourceName": "users/103867089694409269471/posts/UghDJRicAbFueXgCoAEC/comments/CiF6MTN3eHRsZ2hzMmR3aDRtMzIzcWoxMnJtdWVhaHh0MHAQ4Ii3nJW3wwI"
+  }, {
+    "creationTime": "2015-01-28 12:59:12-0500",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "Gotta get me one!\u003cbr\u003eOr three. Or...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CEPby4duXTW",
+    "resourceName": "users/103867089694409269471/posts/UghDJRicAbFueXgCoAEC/comments/CiF6MTN3eHRsZ2hzMmR3aDRtMzIzcWoxMnJtdWVhaHh0MHAQtOaFiKK3wwI"
+  }, {
+    "creationTime": "2015-01-28 13:16:28-0500",
+    "author": {
+      "displayName": "Hien Pham",
+      "profilePageUrl": "https://plus.google.com/100427558229821811187",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-uXjtmLOd9RU/AAAAAAAAAAI/AAAAAAAADuU/zd2vPNH-nyE/s64-c/photo.jpg",
+      "resourceName": "users/100427558229821811187"
+    },
+    "content": "I NEED A FEW!! sigh. :(",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CEPby4duXTW",
+    "resourceName": "users/103867089694409269471/posts/UghDJRicAbFueXgCoAEC/comments/CiF6MTN3eHRsZ2hzMmR3aDRtMzIzcWoxMnJtdWVhaHh0MHAQuoyb9qW3wwI"
+  }, {
+    "creationTime": "2015-01-28 17:58:40-0500",
+    "author": {
+      "displayName": "Robert Atkins",
+      "profilePageUrl": "https://plus.google.com/112974620627169436992",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q_fU1LZ0S7c/AAAAAAAAAAI/AAAAAAAAACk/ceI8vaRTgA8/s64-c/photo.jpg",
+      "resourceName": "users/112974620627169436992"
+    },
+    "content": "Holy shit! Nice one.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CEPby4duXTW",
+    "resourceName": "users/103867089694409269471/posts/UghDJRicAbFueXgCoAEC/comments/CiF6MTN3eHRsZ2hzMmR3aDRtMzIzcWoxMnJtdWVhaHh0MHAQmPr7_-S3wwI"
+  }, {
+    "creationTime": "2015-01-28 22:06:42-0500",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "Looks like another winner, \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102276914943260257800\" oid\u003d\"102276914943260257800\" \u003ePaul Stoffregen\u003c/a\u003e\u003c/span\u003e -- \u003ci\u003every\u003c/i\u003e nice feature set/pricepoint -- especially that 5v pin for driving some WS2811/WS2812!\u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102282558639672545743\" oid\u003d\"102282558639672545743\" \u003eDaniel Garcia\u003c/a\u003e\u003c/span\u003e and I are looking forward to getting FastLED up and running smoothly on it; the whole ARM Teensy line has been great. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CEPby4duXTW",
+    "resourceName": "users/103867089694409269471/posts/UghDJRicAbFueXgCoAEC/comments/CiF6MTN3eHRsZ2hzMmR3aDRtMzIzcWoxMnJtdWVhaHh0MHAQ9umwuJy4wwI"
+  }, {
+    "creationTime": "2015-02-02 12:30:45-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Details: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.pjrc.com/teensy/teensyLC.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.pjrc.com/teensy/teensyLC.html\u003c/a\u003e\u003cbr\u003ePreorder: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.pjrc.com/store/teensylc.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.pjrc.com/store/teensylc.html\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CEPby4duXTW",
+    "resourceName": "users/103867089694409269471/posts/UghDJRicAbFueXgCoAEC/comments/CiF6MTN3eHRsZ2hzMmR3aDRtMzIzcWoxMnJtdWVhaHh0MHAQ-LbKg-XDwwI"
+  }, {
+    "creationTime": "2015-02-02 13:12:09-0500",
+    "author": {
+      "displayName": "Hien Pham",
+      "profilePageUrl": "https://plus.google.com/100427558229821811187",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-uXjtmLOd9RU/AAAAAAAAAAI/AAAAAAAADuU/zd2vPNH-nyE/s64-c/photo.jpg",
+      "resourceName": "users/100427558229821811187"
+    },
+    "content": "^^ Thanks, I put in a pre-order for 3. :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/CEPby4duXTW",
+    "resourceName": "users/103867089694409269471/posts/UghDJRicAbFueXgCoAEC/comments/CiF6MTN3eHRsZ2hzMmR3aDRtMzIzcWoxMnJtdWVhaHh0MHAQvayvpO7DwwI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UghDJRicAbFueXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Colin Harrington",
+      "profilePageUrl": "https://plus.google.com/+ColinHarrington",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-CMjXBDWZXEE/AAAAAAAAAAI/AAAAAAAAQDY/Kv0BxGhL5-M/s64-c/photo.jpg",
+      "resourceName": "users/100528409745244036066"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Matt Anderson",
+      "profilePageUrl": "https://plus.google.com/110867712898298678637",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Gmj4PeIo2GI/AAAAAAAAAAI/AAAAAAAAAAA/Kp0FazEOC0E/s64-c/photo.jpg",
+      "resourceName": "users/110867712898298678637"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kasper Kamperman",
+      "profilePageUrl": "https://plus.google.com/+KasperKamperman",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3apwQwpZUsw/AAAAAAAAAAI/AAAAAAAAM1w/Dd5aRhQnqXw/s64-c/photo.jpg",
+      "resourceName": "users/100115767703084101160"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Luminous Elements",
+      "profilePageUrl": "https://plus.google.com/+BeLuminousElements",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CwUw1N1Y5pU/AAAAAAAAAAI/AAAAAAAAAUI/2P5bX1tjzAs/s64-c/photo.jpg",
+      "resourceName": "users/114776463855626183931"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NBqJ3BQopJo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUjZtH-NDpU8Y--VLfH8gc42O891A/s64-c/photo.jpg",
+      "resourceName": "users/112392188627004225254"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Héctor Ugalde",
+      "profilePageUrl": "https://plus.google.com/111542097306079098147",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-rnmebBWXqBE/AAAAAAAAAAI/AAAAAAAAADM/HgOq9Zci5RA/s64-c/photo.jpg",
+      "resourceName": "users/111542097306079098147"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Robert Atkins",
+      "profilePageUrl": "https://plus.google.com/112974620627169436992",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q_fU1LZ0S7c/AAAAAAAAAAI/AAAAAAAAACk/ceI8vaRTgA8/s64-c/photo.jpg",
+      "resourceName": "users/112974620627169436992"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Hunter King",
+      "profilePageUrl": "https://plus.google.com/+HunterKing",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-3n4gMfKTd24/AAAAAAAAAAI/AAAAAAAAFDg/0bBQ86IkOcA/s64-c/photo.jpg",
+      "resourceName": "users/112128330987989488807"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Phillip Burgess",
+      "profilePageUrl": "https://plus.google.com/106819907882797558189",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-V4Si_LBhbkM/AAAAAAAAAAI/AAAAAAAAAvY/OpJ37BAjIiE/s64-c/photo.jpg",
+      "resourceName": "users/106819907882797558189"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "MAX Menke",
+      "profilePageUrl": "https://plus.google.com/106481996634743249846",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-9XK1qA7mmtY/AAAAAAAAAAI/AAAAAAAAA9g/w2Q_sPKio0c/s64-c/photo.jpg",
+      "resourceName": "users/106481996634743249846"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Hien Pham",
+      "profilePageUrl": "https://plus.google.com/100427558229821811187",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-uXjtmLOd9RU/AAAAAAAAAAI/AAAAAAAADuU/zd2vPNH-nyE/s64-c/photo.jpg",
+      "resourceName": "users/100427558229821811187"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Alex Wayne",
+      "profilePageUrl": "https://plus.google.com/115798635865367194884",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Ar0UiuJK_qg/AAAAAAAAAAI/AAAAAAAAA4c/BSGDUdX0OP0/s64-c/photo.jpg",
+      "resourceName": "users/115798635865367194884"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jon Burroughs",
+      "profilePageUrl": "https://plus.google.com/105445034001275025240",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-3n1amsNf4UQ/AAAAAAAAAAI/AAAAAAAACIY/LVE4Z_Es1w4/s64-c/photo.jpg",
+      "resourceName": "users/105445034001275025240"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-BLO572tD3sQ/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUejLSktJ0KmRWS_EiWqjSgqwJEOA/s64-c/photo.jpg",
+      "resourceName": "users/101708620681849403392"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christoph Sold",
+      "profilePageUrl": "https://plus.google.com/+ChristophSold",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-cfTa5hlvjFQ/AAAAAAAAAAI/AAAAAAAAduM/cl7-tIEewsQ/s64-c/photo.jpg",
+      "resourceName": "users/103682652026404863790"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Gordon Cherrett",
+      "profilePageUrl": "https://plus.google.com/+GordonCherrett",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-RX9eThWrj1U/AAAAAAAAAAI/AAAAAAAAIyE/jVAZBsBKGF8/s64-c/photo.jpg",
+      "resourceName": "users/101424875845754053425"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christopher Smolinski",
+      "profilePageUrl": "https://plus.google.com/+ChristopherSmolinski",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-P_O3Rjsw-Ds/AAAAAAAAAAI/AAAAAAAABTU/zVh-8q2nfAA/s64-c/photo.jpg",
+      "resourceName": "users/113338764007406375533"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/102282558639672545743",
+        "displayName": "Daniel Garcia"
+      }, {
+        "resourceName": "users/102276914943260257800",
+        "displayName": "Paul Stoffregen"
+      }]
+    }
+  }
+}

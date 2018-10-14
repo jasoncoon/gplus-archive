@@ -1,0 +1,453 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/P4rpzkq6B1a",
+  "creationTime": "2018-03-01 21:37:27-0500",
+  "updateTime": "2018-03-01 21:37:27-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "First test of my 8x parallel output ESP32 FeatherWing worked great!\u003cbr\u003e\u003cbr\u003eThis was with just 400 LEDs, I\u0026#39;ll be testing with 800 tomorrow, and with 1,600 when my next order comes in!  :)\u003cbr\u003e\u003cbr\u003eThanks to \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107582712342018613958\" oid\u003d\"107582712342018613958\" \u003eSam Guyer\u003c/a\u003e\u003c/span\u003e and everyone else that worked on this!\u003cbr\u003e\u003cbr\u003eMore info: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.evilgeniuslabs.org/level-shifter-featherwing\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.evilgeniuslabs.org/level-shifter-featherwing\u003c/a\u003e\u003cbr\u003eSource code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp32-fastled-webserver\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp32-fastled-webserver\u003c/a\u003e\u003cbr\u003eBuild pics: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://photos.app.goo.gl/Zx2mojHp2eQ4WCYg2\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://photos.app.goo.gl/Zx2mojHp2eQ4WCYg2\u003c/a\u003e",
+  "album": {
+    "media": [{
+      "url": "https://lh3.googleusercontent.com/-FOfvOcfkOvc/Wpi457RAtRI/AAAAAAACViY/tEI9tdgp3RwK1mUjGWkjN1utoFtxuIUAwCJoC/w4032-h3024/IMG_20180301_174720.jpg",
+      "contentType": "image/*",
+      "width": 4032,
+      "height": 3024,
+      "resourceName": "media/CixBRjFRaXBNSG50UWRxZkYyOUVhbnhyUHFwN2xTQ3BxQWloZE12Zi1ZT2ZoUQ\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-oDpZe6m_f80/Wpi458Ax-rI/AAAAAAACViY/jEukmkYhYU46IvYaPTQsmVC435wZOkktwCJoC/w4032-h3024/IMG_20180301_173145.jpg",
+      "contentType": "image/*",
+      "width": 4032,
+      "height": 3024,
+      "resourceName": "media/CixBRjFRaXBNR2hDdTFLU29Bek4wa215ZzJ3NWFJRFNTRENoUE5hSWlHeEx0NA\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-L9SqMKszZ6I/Wpi451SZv5I/AAAAAAACVig/GFB6gdQ7uvcM0BcEhzHkVPFJ5xcDyLrDgCJoC/w4032-h3024/IMG_20180301_161112.jpg",
+      "contentType": "image/*",
+      "width": 4032,
+      "height": 3024,
+      "resourceName": "media/CixBRjFRaXBObU1ibmo4QkFsVFJNdmNWWTJmOXFORzF6MXN4X0htYWtYR2JsWg\u003d\u003d"
+    }]
+  },
+  "comments": [{
+    "creationTime": "2018-03-02 03:22:39-0500",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Nice job on this board Jason.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxDDlc7vms3ZAg"
+  }, {
+    "creationTime": "2018-03-02 09:05:40-0500",
+    "updateTime": "2018-03-02 09:09:14-0500",
+    "author": {
+      "displayName": "Darren Hedlund",
+      "profilePageUrl": "https://plus.google.com/+DarrenHedlund_microcyb",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-xuLHoiEZ9k0/AAAAAAAAAAI/AAAAAAAAGFs/1EEZqzfsZOs/s64-c/photo.jpg",
+      "resourceName": "users/113476846179206503622"
+    },
+    "content": "WOW, just wow!!! I want to buy an assembled version, do you sell it?  Not yet there for soldering as my skills are still left too that of a monkey throwing feces.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxD1rJfF583ZAg"
+  }, {
+    "creationTime": "2018-03-02 11:20:24-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113476846179206503622\" oid\u003d\"113476846179206503622\" \u003eDarren Hedlund\u003c/a\u003e\u003c/span\u003e!  The bare PCBs will be on Tindie soon.  I\u0026#39;ll be adding a kit that includes all the required components.  I could do a preassembled one, but it requires a lot of soldering, takes an hour or two, might not be cheap.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxDlrZ_Uhc7ZAg"
+  }, {
+    "creationTime": "2018-03-02 11:33:06-0500",
+    "author": {
+      "displayName": "Sam Guyer",
+      "profilePageUrl": "https://plus.google.com/107582712342018613958",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-_rx4KRfaQSE/AAAAAAAAAAI/AAAAAAAAHSo/hRiwG8OlgR0/s64-c/photo.jpg",
+      "resourceName": "users/107582712342018613958"
+    },
+    "content": "Wow, looks great. Just seeing a whole bunch of LEDs in rainbow colors makes me happy!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxDi7s6_iM7ZAg"
+  }, {
+    "creationTime": "2018-03-02 11:36:11-0500",
+    "updateTime": "2018-03-02 11:52:17-0500",
+    "author": {
+      "displayName": "Darren Hedlund",
+      "profilePageUrl": "https://plus.google.com/+DarrenHedlund_microcyb",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-xuLHoiEZ9k0/AAAAAAAAAAI/AAAAAAAAGFs/1EEZqzfsZOs/s64-c/photo.jpg",
+      "resourceName": "users/113476846179206503622"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e I will try to do the soldering. Let me know when you have it ready on Tindie,  I might just have to order many. lol\u003cbr\u003eSide Note: Last night, I was hacking and slashing through your esp8266-fastled-webserver. Adding more graidents, new routines, and soo much fun.  Bravo on the newest version.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxDhkMuXic7ZAg"
+  }, {
+    "creationTime": "2018-03-02 11:53:53-0500",
+    "author": {
+      "displayName": "Darren Hedlund",
+      "profilePageUrl": "https://plus.google.com/+DarrenHedlund_microcyb",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-xuLHoiEZ9k0/AAAAAAAAAAI/AAAAAAAAGFs/1EEZqzfsZOs/s64-c/photo.jpg",
+      "resourceName": "users/113476846179206503622"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107582712342018613958\" oid\u003d\"107582712342018613958\" \u003eSam Guyer\u003c/a\u003e\u003c/span\u003e Makes me want to buy more and more lights.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxDtppKSjc7ZAg"
+  }, {
+    "creationTime": "2018-03-02 11:55:34-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Did someone say \u0026#39;moar lights\u0026#39;?!  Here\u0026#39;s 800.  :)\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/zUsPpfjHhkm_TW43kb2AgIEpDVdA6xBzfRIV1dRX7bxFZ5hq71YZk72-n_E7LtHqe69EUdNsCwo",
+      "contentType": "image/*",
+      "width": 4032,
+      "height": 3024,
+      "resourceName": "media/CixBRjFRaXBQZFluaVFSVGphTjNIWnpvcmlOeXJ4cENyQjE1VkxFZlByWDBHQg\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxDmuaTCjc7ZAg"
+  }, {
+    "creationTime": "2018-03-02 12:06:21-0500",
+    "author": {
+      "displayName": "Nikolay Hristov",
+      "profilePageUrl": "https://plus.google.com/+NikolayHristov81",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jleUWCGWYLQ/AAAAAAAAAAI/AAAAAAAANGU/_5NN_7Kf_e8/s64-c/photo.jpg",
+      "resourceName": "users/102508051272173516103"
+    },
+    "content": "It will be great for building ledstrip matrix , any idea if Sam\u0026#39;s patch and newer version will be available official in arduino update libs any soon ?\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxCdw-_2j87ZAg"
+  }, {
+    "creationTime": "2018-03-02 12:08:50-0500",
+    "updateTime": "2018-03-02 12:14:51-0500",
+    "author": {
+      "displayName": "Darren Hedlund",
+      "profilePageUrl": "https://plus.google.com/+DarrenHedlund_microcyb",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-xuLHoiEZ9k0/AAAAAAAAAAI/AAAAAAAAGFs/1EEZqzfsZOs/s64-c/photo.jpg",
+      "resourceName": "users/113476846179206503622"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e HOW THE???? You are a magician, you are.  I want that whole bloody setup!  How are you handling the power?  Hurry up and add this to your Tindie.  (I\u0026#39;m So feakin Jealous)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxC5i_C9kM7ZAg"
+  }, {
+    "creationTime": "2018-03-02 12:34:57-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Not sure, \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102508051272173516103\" oid\u003d\"102508051272173516103\" \u003eNikolay Hristov\u003c/a\u003e\u003c/span\u003e, but it\u0026#39;s easy enough to switch for now, until a pull request gets submitted and merged.\u003cbr\u003e\u003cbr\u003eLol, thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113476846179206503622\" oid\u003d\"113476846179206503622\" \u003eDarren Hedlund\u003c/a\u003e\u003c/span\u003e, but Daniel, Mark, Sam, etc are the real wizards.  I\u0026#39;ve just learned their spells.  :)  The board has a spot for a barrel jack power connector.  It\u0026#39;s rated for 2.5A, and can be used to distribute a small amount of power.  I\u0026#39;ve soldered 8 sets of 5v, GND, and data wires directly to the PCB.  I\u0026#39;ve set FastLED to automatically limit the brightness to keep peak power usage below 2.5A.  I\u0026#39;ve tried setting it to 4A, and am not seeing any heat or other issues.  I have a 20A power supply, and although I strongly recommend against it,  I\u0026#39;m going to test this (with extinguisher in hand) until it bursts into flames.  :)  For large numbers of LEDs, you should distribute power directly to the LEDs, not power them through the PCB.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxCX_p6pls7ZAg"
+  }, {
+    "creationTime": "2018-03-02 12:42:26-0500",
+    "author": {
+      "displayName": "Darren Hedlund",
+      "profilePageUrl": "https://plus.google.com/+DarrenHedlund_microcyb",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-xuLHoiEZ9k0/AAAAAAAAAAI/AAAAAAAAGFs/1EEZqzfsZOs/s64-c/photo.jpg",
+      "resourceName": "users/113476846179206503622"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Just so nice and clean compared to my huge 300w 6v 60a power supply.  I am amazed at how clean everything is, and that is the direction I want to go as well.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxDlzZH_l87ZAg"
+  }, {
+    "creationTime": "2018-03-02 21:04:28-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113476846179206503622\" oid\u003d\"113476846179206503622\" \u003eDarren Hedlund\u003c/a\u003e\u003c/span\u003e there are two PCBs listed on Tindie now: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.tindie.com/products/jasoncoon/octo-level-shifter-featherwing\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.tindie.com/products/jasoncoon/octo-level-shifter-featherwing\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxCWiqCaiM_ZAg"
+  }, {
+    "creationTime": "2018-03-02 21:20:51-0500",
+    "author": {
+      "displayName": "Darren Hedlund",
+      "profilePageUrl": "https://plus.google.com/+DarrenHedlund_microcyb",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-xuLHoiEZ9k0/AAAAAAAAAAI/AAAAAAAAGFs/1EEZqzfsZOs/s64-c/photo.jpg",
+      "resourceName": "users/113476846179206503622"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Ordering!!!!!  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxDXiKnvi8_ZAg"
+  }, {
+    "creationTime": "2018-03-02 21:28:56-0500",
+    "author": {
+      "displayName": "Darren Hedlund",
+      "profilePageUrl": "https://plus.google.com/+DarrenHedlund_microcyb",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-xuLHoiEZ9k0/AAAAAAAAAAI/AAAAAAAAGFs/1EEZqzfsZOs/s64-c/photo.jpg",
+      "resourceName": "users/113476846179206503622"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e You should also include the parts to go with it as a full DIY kit.  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxCj8srWjc_ZAg"
+  }, {
+    "creationTime": "2018-03-02 21:30:15-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113476846179206503622\" oid\u003d\"113476846179206503622\" \u003eDarren Hedlund\u003c/a\u003e\u003c/span\u003e yeah, will do.  I hope to have that up tomorrow.  I can let you know when I do if you\u0026#39;d rather wait for it.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxC7w5L8jc_ZAg"
+  }, {
+    "creationTime": "2018-03-02 21:54:06-0500",
+    "author": {
+      "displayName": "Darren Hedlund",
+      "profilePageUrl": "https://plus.google.com/+DarrenHedlund_microcyb",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-xuLHoiEZ9k0/AAAAAAAAAAI/AAAAAAAAGFs/1EEZqzfsZOs/s64-c/photo.jpg",
+      "resourceName": "users/113476846179206503622"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e I have till Christmas so I think I got some time.. LOL\u003cbr\u003e\u003cbr\u003eAlready ordered the board (I need the practice big time) and will order the parts when you have them listed as well.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eNow just digging back into your esp8266-fastled-webserver program to figure this data load thing out..  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxDln7emk8_ZAg"
+  }, {
+    "creationTime": "2018-03-04 10:32:02-0500",
+    "author": {
+      "displayName": "Thomas Walter",
+      "profilePageUrl": "https://plus.google.com/+ThomasWalter",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Ig56lmjfqjs/AAAAAAAAAAI/AAAAAAAAAAA/BURTQ1muPmc/s64-c/photo.jpg",
+      "resourceName": "users/109104154688311730642"
+    },
+    "content": "What\u0026#39;s the small 0.10µF Capacitor for? Just to clean up power to the 74hct245? I might need to order one myself :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxC8kILK_tLZAg"
+  }, {
+    "creationTime": "2018-03-04 11:00:52-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/109104154688311730642\" oid\u003d\"109104154688311730642\" \u003eThomas Walter\u003c/a\u003e\u003c/span\u003e yeah, it\u0026#39;s a decoupling capacitor, recommended by the datasheet.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxCpjuSChdPZAg"
+  }, {
+    "creationTime": "2018-03-13 19:06:39-0400",
+    "updateTime": "2018-03-13 19:07:02-0400",
+    "author": {
+      "displayName": "Darren Hedlund",
+      "profilePageUrl": "https://plus.google.com/+DarrenHedlund_microcyb",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-xuLHoiEZ9k0/AAAAAAAAAAI/AAAAAAAAGFs/1EEZqzfsZOs/s64-c/photo.jpg",
+      "resourceName": "users/113476846179206503622"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Your boards are made superbly with high quality, wow!  I just ordered another but this time with the components.  Fantastic job!  P.S. my soldering skills really really suck but working on it.\u003cbr\u003eSeriously, order his stuff! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/P4rpzkq6B1a",
+    "link": {
+      "title": "Octo Level Shifter FeatherWing by Evil Genius Labs on Tindie",
+      "url": "https://www.tindie.com/products/jasoncoon/octo-level-shifter-featherwing/",
+      "imageUrl": "https://cdn.tindiemedia.com/images/resize/Z0DYIInzBCDadIeYY_f5l8Ym6to\u003d/p/1200x630/smart/i/13194/products/2018-03-02T00%3A07%3A44.906Z-IMG_20180301_161112.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC/comments/CiN6MTNzc2plNXJzcWpoanhvMzA0Y2l0dzRleWZkY3RycjQybxCW74z9tOrZAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgiD7Vz0VuoD8XgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "BORAN MÜHENDİSLİK",
+      "profilePageUrl": "https://plus.google.com/112237490461567373721",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-7-svsqqve2M/AAAAAAAAAAI/AAAAAAAAAYg/7EuYsXeHKpo/s64-c/photo.jpg",
+      "resourceName": "users/112237490461567373721"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tommy Sciano",
+      "profilePageUrl": "https://plus.google.com/+TommySciano",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-s-ZtjTbmA2M/AAAAAAAAAAI/AAAAAAAAFrA/dE8qUsA2t_k/s64-c/photo.jpg",
+      "resourceName": "users/100424731209524235577"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tim Lukasik",
+      "profilePageUrl": "https://plus.google.com/100542328320334100166",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-4Kskcwha5a8/AAAAAAAAAAI/AAAAAAABpB0/nzdKSaBilNs/s64-c/photo.jpg",
+      "resourceName": "users/100542328320334100166"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Daniel De Kock",
+      "profilePageUrl": "https://plus.google.com/104153810595387412132",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-CGddZxlR7zo/AAAAAAAAAAI/AAAAAAAAAcg/Eaz8FSDfcpQ/s64-c/photo.jpg",
+      "resourceName": "users/104153810595387412132"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christiaan Verboon",
+      "profilePageUrl": "https://plus.google.com/+ChristiaanVerboon",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-yK7t0AOoShA/AAAAAAAAAAI/AAAAAAABGNE/lqCheZysNG0/s64-c/photo.jpg",
+      "resourceName": "users/100231518888394181661"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christophe Lallement",
+      "profilePageUrl": "https://plus.google.com/112961673979406941024",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/--2S6DhN4U5c/AAAAAAAAAAI/AAAAAAAABVc/gU-aTDLVm2w/s64-c/photo.jpg",
+      "resourceName": "users/112961673979406941024"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Hart Welles",
+      "profilePageUrl": "https://plus.google.com/104460894613033310346",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-_uYOjowKsew/AAAAAAAAAAI/AAAAAAAAKZs/NV6K6BMN_BQ/s64-c/photo.jpg",
+      "resourceName": "users/104460894613033310346"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Patrik Nilsen",
+      "profilePageUrl": "https://plus.google.com/114939945217820616819",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-cffjTPSUen4/AAAAAAAAAAI/AAAAAAAAAFM/wm0om87rI5I/s64-c/photo.jpg",
+      "resourceName": "users/114939945217820616819"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nikolay Hristov",
+      "profilePageUrl": "https://plus.google.com/+NikolayHristov81",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jleUWCGWYLQ/AAAAAAAAAAI/AAAAAAAANGU/_5NN_7Kf_e8/s64-c/photo.jpg",
+      "resourceName": "users/102508051272173516103"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James Callahan",
+      "profilePageUrl": "https://plus.google.com/101169594380997350004",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-XxQqevY4JCA/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXG0Ut7cCYvntEmpbRZbfV8kutOxQ/s64-c/photo.jpg",
+      "resourceName": "users/101169594380997350004"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dougal Campbell",
+      "profilePageUrl": "https://plus.google.com/+DougalCampbell",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-FXQyDVKRJjc/AAAAAAAAAAI/AAAAAAAAErw/fZAdUCezrNs/s64-c/photo.jpg",
+      "resourceName": "users/104640897934960019410"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "1icri",
+      "profilePageUrl": "https://plus.google.com/105698680178445651026",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CN0n6d2Upfg/AAAAAAAAAAI/AAAAAAAABpk/IYubyPHXuB0/s64-c/photo.jpg",
+      "resourceName": "users/105698680178445651026"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ben Delarre",
+      "profilePageUrl": "https://plus.google.com/114825475221343681660",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-u-Clg04Svvg/AAAAAAAAAAI/AAAAAAAAAI0/-ImKmP5IfOU/s64-c/photo.jpg",
+      "resourceName": "users/114825475221343681660"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/102508051272173516103",
+        "displayName": "Nikolay Hristov"
+      }, {
+        "resourceName": "users/107582712342018613958",
+        "displayName": "Sam Guyer"
+      }, {
+        "resourceName": "users/113476846179206503622",
+        "displayName": "Darren Hedlund"
+      }, {
+        "resourceName": "users/109104154688311730642",
+        "displayName": "Thomas Walter"
+      }]
+    }
+  }
+}

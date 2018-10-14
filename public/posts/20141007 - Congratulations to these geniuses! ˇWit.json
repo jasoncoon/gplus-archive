@@ -1,0 +1,66 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/97wcV2R7mGn",
+  "creationTime": "2014-10-07 10:42:39-0400",
+  "updateTime": "2014-10-07 10:42:39-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Congratulations to these geniuses!  Without them, our favorite hobby would be a lot less colorful.  :)",
+  "link": {
+    "title": "2014 Nobel Prize In Physics Awarded To the Inventors of the Blue LED - Slashdot",
+    "url": "http://beta.slashdot.org/story/208175"
+  },
+  "comments": [{
+    "creationTime": "2014-10-07 11:49:14-0400",
+    "author": {
+      "displayName": "Adam Sharp",
+      "profilePageUrl": "https://plus.google.com/110012370198465755606",
+      "resourceName": "users/110012370198465755606"
+    },
+    "content": "Not so good. White LEDs upset the Circadian clock in the human body and are screwing up our sleep patterns.\u003cbr\u003e\u003cbr\u003eI would avoid exposing your eyes to the output of white LEDs after about mid-day.\u003cbr\u003e\u003cbr\u003eAs an example, both Boeing and Airbus are looking into white LEDs messing up flight crew sleeping pattens after events that were tracked back to new sleep issues.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/97wcV2R7mGn",
+    "resourceName": "users/103867089694409269471/posts/Uggwi15tlgECU3gCoAEC/comments/CiF6MTNkc2QxNWt2YmF4amxkazIzcWoxMnJtdWVhaHh0MHAQ5c2BofKawQI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Uggwi15tlgECU3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

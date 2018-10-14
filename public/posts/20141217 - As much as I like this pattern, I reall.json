@@ -1,0 +1,118 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/DCBWkh6PUQd",
+  "creationTime": "2014-12-17 21:55:58-0500",
+  "updateTime": "2014-12-17 21:55:58-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "As much as I like this pattern, I really need to rewrite it to use FastLED palettes.",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/NFWx9bG3JmQ",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Here\u0026#39;s another of my favorite patterns in Aurora.  This one was inspired by \u0026quot;Rainbow Smoke\u0026quot; by Jozsef Fejes: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://rainbowsmoke.hu\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://rainbowsmoke.hu\u003c/a\u003e",
+    "media": {
+      "url": "http://www.youtube.com/watch?v\u003djLi_VaPeJa4",
+      "contentType": "video/*",
+      "width": 1280,
+      "height": 720,
+      "description": "Rainbow Smoke pattern from Aurora. This pattern starts with a single random color placed in a random location, then similar colors are placed in neighboring ...",
+      "resourceName": "media/EgtqTGlfVmFQZUphNA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/Ugh_DBFMfqdRc3gCoAEC"
+  },
+  "comments": [{
+    "creationTime": "2014-12-18 12:10:38-0500",
+    "updateTime": "2014-12-18 12:28:04-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Actually...  This pattern uses 1,024 unique colors, arranged in different orders.  FastLED palettes only supports 256 different colors, right?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/DCBWkh6PUQd",
+    "resourceName": "users/103867089694409269471/posts/UghI5VfHdCGfJngCoAEC/comments/CiF6MTJuZngxcDF5endoZndtYzIzcWoxMnJtdWVhaHh0MHAQ_tTD3orQwgI"
+  }, {
+    "creationTime": "2014-12-18 12:22:12-0500",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "Yes, the palettes have 256 entries, a choice of 16 million colors for each.  In this case you\u0026#39;d be using it not to show more colors at once, but to generate a different color scheme each time, and over the course of multiple fill/erase cycles, you\u0026#39;d showcase many many more colors overall.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/DCBWkh6PUQd",
+    "resourceName": "users/103867089694409269471/posts/UghI5VfHdCGfJngCoAEC/comments/CiF6MTJuZngxcDF5endoZndtYzIzcWoxMnJtdWVhaHh0MHAQj-nOqY3QwgI"
+  }, {
+    "creationTime": "2014-12-18 16:06:21-0500",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "Also, you could crossfade from one palette to another as you draw more pixels :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/DCBWkh6PUQd",
+    "resourceName": "users/103867089694409269471/posts/UghI5VfHdCGfJngCoAEC/comments/CiF6MTJuZngxcDF5endoZndtYzIzcWoxMnJtdWVhaHh0MHAQsbbHtr_QwgI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UghI5VfHdCGfJngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Jonas Vorwerk",
+      "profilePageUrl": "https://plus.google.com/106461657512143768817",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-bA8ZID1BAnM/AAAAAAAAAAI/AAAAAAAAADE/dquYyKber4c/s64-c/photo.jpg",
+      "resourceName": "users/106461657512143768817"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stéphane FRANÇOIS",
+      "profilePageUrl": "https://plus.google.com/117492528749609965529",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-FwD03RqrWEo/AAAAAAAAAAI/AAAAAAAAAfU/Ciw3_477f7c/s64-c/photo.jpg",
+      "resourceName": "users/117492528749609965529"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jon Burroughs",
+      "profilePageUrl": "https://plus.google.com/105445034001275025240",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-3n1amsNf4UQ/AAAAAAAAAAI/AAAAAAAACIY/LVE4Z_Es1w4/s64-c/photo.jpg",
+      "resourceName": "users/105445034001275025240"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

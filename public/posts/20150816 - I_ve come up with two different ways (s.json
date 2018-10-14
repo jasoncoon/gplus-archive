@@ -1,0 +1,129 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/j1PNnV1e2T3",
+  "creationTime": "2015-08-16 11:43:38-0400",
+  "updateTime": "2015-08-16 15:25:51-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I\u0026#39;ve come up with two different ways (so far) to map the spiral arms evenly.  Next up: XY mapping!\u003cbr\u003e\u003cbr\u003eSource: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/fibonacci/blob/gh-pages/fibonacci.ino#L516\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/fibonacci/blob/gh-pages/fibonacci.ino#L516\u003c/a\u003e",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dE0JwAUGXpuo",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Came up with two differnent ways (so far) to map the spiral arms evenly. Running a custom spiral arm palette shifting pattern (will share the source soon). 1...",
+    "resourceName": "media/EgtFMEp3QVVHWHB1bw\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2015-08-16 15:58:15-0400",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "I\u0026#39;d be real interested in how you physically mapped out the hole drilling onto the cardboard.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/j1PNnV1e2T3",
+    "resourceName": "users/103867089694409269471/posts/Ugj7JDAt-o2MEngCoAEC/comments/CiN6MTJkZGxocW92eTJzdDRydjA0Y2l0dzRleWZkY3RycjQybxCsxLPYsa7HAg"
+  }, {
+    "creationTime": "2015-08-16 16:12:53-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Here\u0026#39;s a picture of the back of the board: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/BuvqxGtpw9AnGKKC8\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/BuvqxGtpw9AnGKKC8\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI put notes in the info section of each picture in the album.\u003cbr\u003e\u003cbr\u003eThe numbers are determined by the index of the vertex in the Fibonacci spiral, not just radius/proximity, like I originally did on the cardboard prototype.\u003cbr\u003e\u003cbr\u003eI printed out the design, centered and taped it to the front of the board, drilled tiny pilot holes, then drilled 31/64\u0026quot; holes.  I wish I had used 15/32\u0026quot; or 7/16\u0026quot; instead, for a more snug fit.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/j1PNnV1e2T3",
+    "resourceName": "users/103867089694409269471/posts/Ugj7JDAt-o2MEngCoAEC/comments/CiN6MTJkZGxocW92eTJzdDRydjA0Y2l0dzRleWZkY3RycjQybxCAlJD7tK7HAg"
+  }, {
+    "creationTime": "2015-08-17 10:55:42-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Looks great!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/j1PNnV1e2T3",
+    "resourceName": "users/103867089694409269471/posts/Ugj7JDAt-o2MEngCoAEC/comments/CiN6MTJkZGxocW92eTJzdDRydjA0Y2l0dzRleWZkY3RycjQybxCgm_z2r7DHAg"
+  }, {
+    "creationTime": "2015-08-17 14:33:01-0400",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "I ended up making a Fibonacci spiral in Photoshop and printed it out on legal paper.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/j1PNnV1e2T3",
+    "resourceName": "users/103867089694409269471/posts/Ugj7JDAt-o2MEngCoAEC/comments/CiN6MTJkZGxocW92eTJzdDRydjA0Y2l0dzRleWZkY3RycjQybxC_5s7A4LDHAg"
+  }, {
+    "creationTime": "2015-08-17 14:41:42-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Cool, can\u0026#39;t wait to see it!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/j1PNnV1e2T3",
+    "resourceName": "users/103867089694409269471/posts/Ugj7JDAt-o2MEngCoAEC/comments/CiN6MTJkZGxocW92eTJzdDRydjA0Y2l0dzRleWZkY3RycjQybxD27YG54rDHAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ugj7JDAt-o2MEngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Watts",
+      "profilePageUrl": "https://plus.google.com/+AndrewWatts",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-x0FpIOurwyA/AAAAAAAAAAI/AAAAAAAAADs/psKUXelsZJY/s64-c/photo.jpg",
+      "resourceName": "users/108413957885677774715"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brad Williamson",
+      "profilePageUrl": "https://plus.google.com/+BradWilliamson25",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nJfUAC4_3pM/AAAAAAAAAAI/AAAAAAAAKkU/yvMkWI_gPaI/s64-c/photo.jpg",
+      "resourceName": "users/105433710531981771365"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Robert Heitbaum",
+      "profilePageUrl": "https://plus.google.com/118263118345772841740",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-mpcBR9BPRtQ/AAAAAAAAAAI/AAAAAAAARTY/Bzly93gb3ZA/s64-c/photo.jpg",
+      "resourceName": "users/118263118345772841740"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

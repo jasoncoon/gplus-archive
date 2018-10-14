@@ -1,0 +1,449 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/fU5wdvwDmaK",
+  "creationTime": "2015-06-20 10:16:37-0400",
+  "updateTime": "2015-06-20 10:16:37-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "This was my first (and possibly last) attempt at making a matrix out of strips.  :)  I very strongly dislike soldering LED strips, especially the 144 per meter ones I used for this project.  Any pointers?  I soldered straight break away headers to each end, but had to sacrifice one LED per strip so I had a full pad on each end.\u003cbr\u003e\u003cbr\u003eAside from that, this was a pretty easy build.  There are build notes in the pictures, if you\u0026#39;d like more details.\u003cbr\u003e\u003cbr\u003eThis was a fairly quick prototype build, I hope to rebuild it, and maybe bring the LEDs closer to the shade for a little less diffusion.\u003cbr\u003e\u003cbr\u003eAny suggestions from you build pros out there?",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/MCpQ33iKeRb",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "More video and pics, and a peek inside my latest prototype lamp.  Source code and more details: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/ParticleCoreMatrixLamp\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/ParticleCoreMatrixLamp\u003c/a\u003e",
+    "album": {
+      "media": [{
+        "url": "https://plus.google.com/photos/103867089694409269471/albums/6162246797168578737/6162288125305296098",
+        "contentType": "video/*",
+        "width": 854,
+        "height": 480,
+        "resourceName": "media/CixBRjFRaXBPTWFaN3hGc0lGb0NzS3VfdnJ2Tlp5QnluaTFZUWJMVE40TURyVA\u003d\u003d"
+      }, {
+        "url": "https://lh3.googleusercontent.com/-uwGBxeCEg78/VYSy0K95X0I/AAAAAAABy90/octwz_X1Ufo/w2448-h3264/IMG_20150619_182950.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "resourceName": "media/CixBRjFRaXBOcU1DeDNXdlJOOHFBS0JfbzZNZXNCNFhGcGxoTzRISzRjZ05zeQ\u003d\u003d"
+      }, {
+        "url": "https://lh3.googleusercontent.com/-0irIvKL-EJc/VYSy0HsuNGI/AAAAAAABy90/Bkm-V6kpZ9g/w2448-h3264/IMG_20150619_182953.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "resourceName": "media/CixBRjFRaXBPa0FwSnJXN3NnMTNlQ09XX19zLU5xRzVCOVlwY1NCMGJVUk5ldw\u003d\u003d"
+      }, {
+        "url": "https://lh3.googleusercontent.com/-hkwJDsVqIi4/VYSy0OuJBbI/AAAAAAABy90/fCa7fPhBtM4/w2448-h3264/IMG_20150619_182955.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "resourceName": "media/CixBRjFRaXBOV3JVZ2tiaXdpbjVoa01yQmFHSjhWQXZzcHUxREpZaDNiOEl0RQ\u003d\u003d"
+      }, {
+        "url": "https://lh3.googleusercontent.com/-5-iUS-iRGDI/VYSy0Pmet2I/AAAAAAABy90/JKbJqayVAvw/w2448-h3264/IMG_20150619_182957.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "resourceName": "media/CixBRjFRaXBNcVZTeXBmZUx4c0EtRXNaYTBxaUhqLXdtSEZSMTBNV05CZGZ1bQ\u003d\u003d"
+      }, {
+        "url": "https://lh3.googleusercontent.com/-LKRJuAZToe4/VYSy0Fmxh7I/AAAAAAABy90/Nf6O4iU99eE/w2448-h3264/IMG_20150619_184145.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "description": "Since this is a prototype, I just twist-tied the strips to a piece of PVC pipe.",
+        "resourceName": "media/CixBRjFRaXBPaVFFdTR0dmloenoxbHJjWDBkTUxnRWI5Ti16akpJNnNXS1NaWQ\u003d\u003d"
+      }, {
+        "url": "https://lh3.googleusercontent.com/-r2R1lDfhg-8/VYSy0P5pRvI/AAAAAAABy90/-t2nOuGjw5U/w2448-h3264/IMG_20150619_184156.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "description": "I soldered straight break away headers to each end, but had to sacrifice one LED per strip so I had a full pad on each end.  I just used jumper wires to connect the strips in a vertical serpentine pattern (and had to provide for this configuration in software later).",
+        "resourceName": "media/CixBRjFRaXBON3hINFd3bVh4RjZpb0xZb3VycmtiSnluMlZqQ3VZbElqMUU3Xw\u003d\u003d"
+      }, {
+        "url": "https://lh3.googleusercontent.com/-ZnEnteUsxr0/VYSy0FHbJXI/AAAAAAABy90/hGAPigmNNy8/w2448-h3264/IMG_20150619_184218.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "description": "I tucked the Core, power supply and USB cables inside.   I also injected power and ground about half-way through the strips by making a USB power cable, connected it to the extra USB port on the power supply.",
+        "resourceName": "media/CixBRjFRaXBPVGhpSnozc1IybFBLeWE5TUR4LWhZYmtGZFRaZndlWWMwUHhmZA\u003d\u003d"
+      }, {
+        "url": "https://lh3.googleusercontent.com/-p8QeCrg4cJk/VYSy0NIXz5I/AAAAAAABy90/26koiMPdHhk/w2448-h3264/IMG_20150619_184227.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "description": "I plan to secure the pipe with a PVC end cap with the end cut off, and glued to the bottom of the lamp.  I\u0027ll add a pic when that\u0027s done.",
+        "resourceName": "media/CixBRjFRaXBNb0hMU1haOUNxMkxkd0l4ZlRfWW1tRUdFcjNIZk5aUFYwX3BUaw\u003d\u003d"
+      }, {
+        "url": "https://lh3.googleusercontent.com/-Wo25eOWFjEQ/VYSy0HiF4mI/AAAAAAABy90/U6dQbwme_5Y/w2448-h3264/IMG_20150619_184254.jpg",
+        "contentType": "image/*",
+        "width": 2448,
+        "height": 3264,
+        "description": "I removed the lamp\u0027s bulb socket, wired in a small receptacle, and plugged in a small 5V 2A double USB power supply. It fits perfectly inside the pipe.",
+        "resourceName": "media/CixBRjFRaXBOOWNXd2tkdjlXR21IOFlTamZQYTZrTzRFV2xjaHFYS0NfdEdvRw\u003d\u003d"
+      }]
+    },
+    "resourceName": "users/103867089694409269471/posts/Ugh4ylDtbVLgZngCoAEC"
+  },
+  "comments": [{
+    "creationTime": "2015-06-20 11:22:41-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hey Jason,  this is a very nice assembly !\u003cbr\u003eI will be honest...   I have never bought a strip of LEDs in my life !!!\u003cbr\u003e\u003cbr\u003eI just bulk purchased ws2812b on mini boards and\u003cbr\u003eanother bulk purchase of the 8mm RGB LEDs with ws2811\u003cbr\u003ea while back and have managed to do all my projects \u003cbr\u003eso far with only these 2 package styles. So that was\u003cbr\u003ea lot of soldering but never to strips and I still\u003cbr\u003ehave a bunch leftover to do more stuff!\u003cbr\u003e\u003cbr\u003eIf you dislike soldering to strips that much the only option that comes to my mind (apart from using discrete components like I do...) is to have PCBs made!!\u003cbr\u003e\u003cbr\u003eThere is of course a higher cost to this alternative compared to using strips and cutting them down to size but there would be significant advantages also...\u003cbr\u003e\u003cbr\u003e1) That PCB can have the shape YOU want, not just straight\u003cbr\u003e2) You can place mounting holes where you want on that PCB that aligns with the location you are going to mount it.\u003cbr\u003e3) It is more robust than strips.\u003cbr\u003e4) You can add a number of other components if that is useful.\u003cbr\u003e\u003cbr\u003eOK I stop here, you get the picture...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxCH7uXkyZ7GAg"
+  }, {
+    "creationTime": "2015-06-20 11:30:37-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, JP!  That means a lot to me, especially coming from you.  Your builds are fantastic and very inspiring!\u003cbr\u003e\u003cbr\u003eYeah, I have to be honest, soldering individual LED boards sounds even less appealing to me than strips.  :)\u003cbr\u003e\u003cbr\u003eI thought about learning to design custom PCBs, and having OSH Park or somewhere make them for me.  That\u0026#39;s probably the next step in my electronics journey anyway.  I tire of breadboards and perfboard.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxCn99LHy57GAg"
+  }, {
+    "creationTime": "2015-06-20 11:33:46-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Just had a thought about re-doing that lamp with LEDs closer to the diffuser as you mentioned...\u003cbr\u003e\u003cbr\u003eWhy not just spiral a long flexible strip on a wide cone or cylinder shape ?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxDNgeahzJ7GAg"
+  }, {
+    "creationTime": "2015-06-20 11:57:10-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "That\u0026#39;s pretty cool Jason. Nice build.  I like the header pin idea.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxDXvfe-0Z7GAg"
+  }, {
+    "creationTime": "2015-06-20 12:04:04-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Good idea, JP, might have to try it and then figure out how to map it to a grid.  The pipe I\u0026#39;m using now was likely too small to wrap around without damaging the strip.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxDemOSE057GAg"
+  }, {
+    "creationTime": "2015-06-20 12:07:17-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, Marc.  I\u0026#39;m not sure the headers were worth the trouble.  I might try it without them and compare.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxCPmbHg057GAg"
+  }, {
+    "creationTime": "2015-06-20 12:16:12-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Unless you use a cylindrical shape and make sure that the circumference matches your pixels spacing on the strip such that the pixels align vertically, you will get an irregular grid matrix from that long spiralled strip! it.  Would be a (not impossible) challenge to make that work.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxCrufXf1Z7GAg"
+  }, {
+    "creationTime": "2015-06-20 12:29:30-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e​ So were they maybe harder to solder then wires?  The pin spacing lines up perfectly though (at least on my APA102C strip).\u003cbr\u003eHaving to sacrifice a pixel at each cut is indeed a bit of a bummer.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxDevaDc2J7GAg"
+  }, {
+    "creationTime": "2015-06-20 13:35:44-0400",
+    "author": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "resourceName": "users/101708620681849403392"
+    },
+    "content": "This might be less painful: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.aliexpress.com/item/Free-Shipping-RGB-LED-Strip-Connector-LED-Connector-For-RGB-LED-Strip-5050-3528-LED-Light/1421626588.html?spm\u003d2114.32010308.4.11.Vbl81c\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.aliexpress.com/item/Free-Shipping-RGB-LED-Strip-Connector-LED-Connector-For-RGB-LED-Strip-5050-3528-LED-Light/1421626588.html?spm\u003d2114.32010308.4.11.Vbl81c\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eNice job, though.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxC09aTD557GAg"
+  }, {
+    "creationTime": "2015-06-20 13:38:08-0400",
+    "author": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "resourceName": "users/101708620681849403392"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, if you want a hand with custom PCBs, give me a shout, I have APA, WS28xx libraries, etc. I have just made a lamp PCB, but with a heck of a lot less LEDs than you used. :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxDPid2H6J7GAg"
+  }, {
+    "creationTime": "2015-06-20 14:24:49-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, Mike, I might have to take you up on your offer.  :)  I\u0026#39;ve never done any PCB design, or used Eagle or KiCad, but hope to try soon.\u003cbr\u003e\u003cbr\u003eI\u0026#39;ve looked at those connectors before, but I\u0026#39;m not sure they\u0026#39;d work with the 144 per meter strips.  There\u0026#39;s just not much space between them, and the pads are tiny.  I might have to use the 72 per meter strips next time, might be much easier.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxDrgrq_8p7GAg"
+  }, {
+    "creationTime": "2015-06-20 15:48:33-0400",
+    "updateTime": "2015-06-20 17:50:01-0400",
+    "author": {
+      "displayName": "Reed Morse",
+      "profilePageUrl": "https://plus.google.com/+ReedMorse",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-wBKtaI3XPJI/AAAAAAAAAAI/AAAAAAAAFbs/zRCPw1ftYpw/s64-c/photo.jpg",
+      "resourceName": "users/117116621786089717494"
+    },
+    "content": "Here\u0026#39;s a tip for soldering LED strips:\u003cbr\u003e\u003cbr\u003eFirst prime the strips by tinning each pad. Hold your iron against the pad for 5-10 seconds so it heats up, then melt some solder to the pad. If it isn\u0026#39;t sticking well, you need more heat.\u003cbr\u003e\u003cbr\u003eAfter the strips are primed like this, solder your wires on.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxDWy4GbhZ_GAg"
+  }, {
+    "creationTime": "2015-06-20 21:42:07-0400",
+    "author": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "resourceName": "users/101708620681849403392"
+    },
+    "content": "And use flux.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxCd7uOe1J_GAg"
+  }, {
+    "creationTime": "2015-06-21 04:41:44-0400",
+    "updateTime": "2015-06-21 10:33:30-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "\u0026quot; Good idea, JP, might have to try it and then figure out how to map it to a grid.\u0026quot;\u003cbr\u003e\u003cbr\u003eIt\u0026#39;s very simple - just handle it as a non-zigzag matrix. Unless you are going to display GIFs it doesn\u0026#39;t matter that the vertical line might become a diagonal one - it will look cool anyway. Here in my first \u0026quot;spiral matrix\u0026quot; the vertical line basically describes a 360 degree turn from top to bottom. \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/watch?v\u003d4qiDcKd8xO0\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/watch?v\u003d4qiDcKd8xO0\u003c/a\u003e  Do you see it, could you tell that the mapping is twisted? (P.S. I avoid soldering strips too, whenever it\u0026#39;s possible...)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxCqiOmDsqDGAg"
+  }, {
+    "creationTime": "2015-06-21 04:48:01-0400",
+    "updateTime": "2015-06-21 04:51:49-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "Also: A 144/m strip I coiled successfully arround a german toilet paper roll (arround 5 cm diameter). It was meant to be a destruction test but it worked (and still works) fine. The hardest part was to dare to just do it.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxCwye23s6DGAg"
+  }, {
+    "creationTime": "2015-06-21 08:54:19-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks for all the suggestions, guys!  I also found these, which look very helpful (but a bit bulky): \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://blinkinlabs.myshopify.com/collections/frontpage/products/led-strip-repair-kit-for-apn102-dotstar-strips-10-pieces\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://blinkinlabs.myshopify.com/collections/frontpage/products/led-strip-repair-kit-for-apn102-dotstar-strips-10-pieces\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eStefan, that looks great!  I definitely have to try that now.  :) Not sure how I missed that video.  How many LEDs are in that lamp?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxD-jLO-6qDGAg"
+  }, {
+    "creationTime": "2015-06-21 09:10:33-0400",
+    "updateTime": "2015-06-21 09:12:53-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "4m * 60/m \u003d 240 leds in a 20*12 \u0026quot;grid\u0026quot; (coiled on a transparent plexi tube inside the IKEA lamp)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxCrgOWO7qDGAg"
+  }, {
+    "creationTime": "2015-06-21 09:51:15-0400",
+    "author": {
+      "displayName": "Robert Atkins",
+      "profilePageUrl": "https://plus.google.com/112974620627169436992",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q_fU1LZ0S7c/AAAAAAAAAAI/AAAAAAAAACk/ceI8vaRTgA8/s64-c/photo.jpg",
+      "resourceName": "users/112974620627169436992"
+    },
+    "content": "Seconding tinning the pads makes it much easier, but you\u0026#39;re right, on the 144 LEDs/m strips you have to sacrifice a LED on either end so you have enough to solder onto.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxDklKWb96DGAg"
+  }, {
+    "creationTime": "2015-06-21 09:54:43-0400",
+    "author": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "resourceName": "users/101708620681849403392"
+    },
+    "content": "Those blinkinlabs shims don\u0026#39;t look like any APA102 I own - or any WS281x, either.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxC-0eT-96DGAg"
+  }, {
+    "creationTime": "2015-06-21 13:20:38-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "They have them for three and four pin strips.  I think all but one of the pics for the four pin kit are actually from the three pin kit.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxCxvpCCpqHGAg"
+  }, {
+    "creationTime": "2015-06-21 15:34:43-0400",
+    "author": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "resourceName": "users/101708620681849403392"
+    },
+    "content": "In which case - way cool! I\u0026#39;ll get me some of that :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/fU5wdvwDmaK",
+    "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC/comments/CiN6MTJpaTVucW94eW91bnpqNTA0Y2l0dzRleWZkY3RycjQybxC2jKD-w6HGAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ugjl-qVO-pOxHHgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Simon Hermansen",
+      "profilePageUrl": "https://plus.google.com/100974243336906340371",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ao8HERIGX88/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUz8Wrk5SuaSIw6ec2ghuQ6NCNBcA/s64-c/photo.jpg",
+      "resourceName": "users/100974243336906340371"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "MAX Menke",
+      "profilePageUrl": "https://plus.google.com/106481996634743249846",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-9XK1qA7mmtY/AAAAAAAAAAI/AAAAAAAAA9g/w2Q_sPKio0c/s64-c/photo.jpg",
+      "resourceName": "users/106481996634743249846"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dave Newman",
+      "profilePageUrl": "https://plus.google.com/+DaveNewmanNZ",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-rotAWiPpirI/AAAAAAAAAAI/AAAAAAAADvA/mzGJURGMfzo/s64-c/photo.jpg",
+      "resourceName": "users/109990427217162082352"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NBqJ3BQopJo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUjZtH-NDpU8Y--VLfH8gc42O891A/s64-c/photo.jpg",
+      "resourceName": "users/112392188627004225254"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ravi Palaniappan",
+      "profilePageUrl": "https://plus.google.com/+RaviPalaniappan1",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-1hvDur1dKKI/AAAAAAAAAAI/AAAAAAAAWCk/5Ce_TP2PvhE/s64-c/photo.jpg",
+      "resourceName": "users/109529285750707764428"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kevin Goosie",
+      "profilePageUrl": "https://plus.google.com/+KevinGoosie",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2iVT8VCSOJo/AAAAAAAAAAI/AAAAAAAADps/kCFB6bY3Po8/s64-c/photo.jpg",
+      "resourceName": "users/108100379382008810452"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Joe Avery",
+      "profilePageUrl": "https://plus.google.com/+JoeHakAtItAvery",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Egj2T2Qll1M/AAAAAAAAAAI/AAAAAAABIjA/Xu7-uNYpRfQ/s64-c/photo.jpg",
+      "resourceName": "users/102515140044886982605"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Adam bluebottleyellowboxyellyfish",
+      "profilePageUrl": "https://plus.google.com/107742111066361257243",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-qaRE2xXv5Ro/AAAAAAAAAAI/AAAAAAAAABg/sIYg1QxLdtI/s64-c/photo.jpg",
+      "resourceName": "users/107742111066361257243"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Ravi Palaniappan",
+      "profilePageUrl": "https://plus.google.com/+RaviPalaniappan1",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-1hvDur1dKKI/AAAAAAAAAAI/AAAAAAAAWCk/5Ce_TP2PvhE/s64-c/photo.jpg",
+      "resourceName": "users/109529285750707764428"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }]
+    }
+  }
+}

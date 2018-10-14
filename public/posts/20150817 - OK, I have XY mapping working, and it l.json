@@ -1,0 +1,257 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/PsFjSyFbf2e",
+  "creationTime": "2015-08-17 20:44:43-0400",
+  "updateTime": "2015-08-17 20:48:34-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "OK, I have XY mapping working, and it looks alright, but I feel like I\u0026#39;m doing it wrong.  It\u0026#39;s so irregular that I was driving myself crazy trying to get each pixel in its own grid cell.  I finally just divided it up into a 10x10 uniform grid, but that puts multiple pixels in the same cell, so I had to use a three dimensional array (10x10x2).  Many cells don\u0026#39;t have any pixels, and some just have one, so I mapped the empty slots to a 101th non-visible pixel (similar to the RGB shades XY mapping).\u003cbr\u003e\u003cbr\u003eAnyway, here\u0026#39;s the source, feedback welcome, as always: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/fibonacci/blob/gh-pages/fibonacci.ino#L656\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/fibonacci/blob/gh-pages/fibonacci.ino#L656\u003c/a\u003e",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dR6hkl7T7tek",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "First attempt at XY mapping. Added wave, horizontal and vertical palette blends, fire, water, pulse, and spiral trace patterns. https://github.com/jasoncoon/...",
+    "resourceName": "media/EgtSNmhrbDdUN3Rlaw\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2015-08-17 22:43:08-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Wow, how did you think to use a three dimensional array?  Looks like it\u0026#39;s working pretty well though.\u003cbr\u003eI\u0026#39;m wondering if \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/109972214378981665730\" oid\u003d\"109972214378981665730\" \u003eJim Bumgardner\u003c/a\u003e\u003c/span\u003e might have any suggestions for mapping?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxD58eSGzrHHAg"
+  }, {
+    "creationTime": "2015-08-18 10:34:09-0400",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "A completely different approach is this:  record the X,Y position of each pixel on an abstract grid, say 0-255 for X and 0-255 for Y.  One way to do that would be:\u003cbr\u003e\u003cbr\u003e1. take a photo of the layout.\u003cbr\u003e2. print it.\u003cbr\u003e3. write the pixel ID number of each pixel next to each on the photo\u003cbr\u003e4. overlay some graph paper, and label the axes 0..255 for X and for Y\u003cbr\u003e5. for each pixel, in ID number order, measure the X and Y coordinate of each pixel, and record them\u003cbr\u003e\u003cbr\u003eNow put it all into the computer.  It might be something like this:\u003cbr\u003e\u003cbr\u003e  const uint8_t Xcoord[NUM_LEDS] \u003d { 23, 24, 25, .. whatever.. };\u003cbr\u003e  const uint8_t Ycoord[NUM_LEDS] \u003d { 179, 152, ..etc.. };\u003cbr\u003e\u003cbr\u003eNOW you can do all SORTS of interesting things if you define your animations as a function like this:\u003cbr\u003e\u003cbr\u003e  pixelcolor \u003d AnimFn( X, Y, time);\u003cbr\u003e\u003cbr\u003eAnd lo and behold it turns out that the Noise functions are perfect for this.  You don\u0026#39;t need one pixel per rectangular cell; you just need to know where in the XY world each pixel is located, and what the color should be at any point in space given the coordinates (and time).\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eNow of course, there are ways to do the X,Y coordinate mapping without graph paper and a pencil, but I\u0026#39;ll leave those as an exercise for the reader with a laptop, a webcam, a working knowledge of Processing, and 6-8 hours to kill.  If you\u0026#39;re only going to do it once, it\u0026#39;s probably faster on paper!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxCV9Zn97LLHAg"
+  }, {
+    "creationTime": "2015-08-18 10:47:53-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Brilliant!  Thanks Mark, I can\u0026#39;t wait to try this!  I started a similar approach, but backed off when I realized how much space even a 64x64 array would take.  I didn\u0026#39;t think about just using an array the size of the actual LED count, for some reason.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxDan_6F8LLHAg"
+  }, {
+    "creationTime": "2015-08-18 12:27:41-0400",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "It flips the animating paradigm inside out, and requires some different thinking.  Instead of starting with an integer-grid of adjacent square cells, you\u0026#39;re semi-randomly picking and choosing \u0026#39;points\u0026#39; to sample across a much large space of virtual animation.\u003cbr\u003e\u003cbr\u003eSome things it\u0026#39;s easy to figure out how to do this way.  For example, you could map the X coordinate directly into hue (or a color palette), and poof- you\u0026#39;ve got a horizontal color wash.   Offset it by \u0026#39;time\u0026#39;, and you get a scrolling wash:\u003cbr\u003e\u003cbr\u003e  CRGB AnimFn( X, Y, timeInMillis) {\u003cbr\u003e     return CHSV( X + (timeInMillis / 100), 255, 255);\u003cbr\u003e  }\u003cbr\u003e\u003cbr\u003eFor other things, it\u0026#39;s harder to figure out how to do it, and you wind up needing additional \u0026#39;backing storage\u0026#39;, e.g., you can\u0026#39;t really do something like \u0026quot;Fire2012\u0026quot; without some additional storage.\u003cbr\u003e\u003cbr\u003ePenultimately: since the X and Y positions are fixed, these arrays can be \u0026quot;const\u0026quot; and \u0026quot;PROGMEM\u0026quot; -- and not even take up any SRAM.\u003cbr\u003e\u003cbr\u003eAnd finally: you can also perform transforms on the X and Y arrays before you call your AnimFn.  For example, if you had fast sin/cos, you could rotate all the LEDs around a central point a certain number of \u0026#39;degrees\u0026#39;, which could vary -- giving a rotating pattern \u0026quot;for free\u0026quot;.  There\u0026#39;s a lot you can do here if you\u0026#39;re willing to dig in to the complications.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxCrv5ythrPHAg"
+  }, {
+    "creationTime": "2015-08-18 21:46:03-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks Mark, it\u0026#39;s working splendidly!  It allows for very smooth animation.  I have your suggestions of noise, color, and palette washes working so far.  I definitely want to try out rotation, then I\u0026#39;ll get a couple of new ideas working and share some video, hopefully soon.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxDHlZCUg7THAg"
+  }, {
+    "creationTime": "2015-08-18 22:03:28-0400",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "That\u0026#39;s great!  DId you use paper and pencil, or a computer technique?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxDzje-Gh7THAg"
+  }, {
+    "creationTime": "2015-08-18 22:04:07-0400",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "And full credit to \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102282558639672545743\" oid\u003d\"102282558639672545743\" \u003eDaniel Garcia\u003c/a\u003e\u003c/span\u003e who first showed me this implementation and how well it works with Noise.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxCrmZmZh7THAg"
+  }, {
+    "creationTime": "2015-08-18 23:02:21-0400",
+    "updateTime": "2015-08-18 23:03:36-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I already had the layout in an image file, so I just used \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://getpaint.net\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003egetpaint.net\u003c/a\u003e to crop and resize it down to 256x256. Then I just typed up the coordinates from the status bar for each point, in index order.  Thanks to you both!﻿",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxDF6qablLTHAg"
+  }, {
+    "creationTime": "2015-08-18 23:18:59-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Ah, nice trick Jason.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxC96IX3l7THAg"
+  }, {
+    "creationTime": "2015-08-21 14:48:59-0400",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "Great discussion, very inspiring!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxDCpYfE67rHAg"
+  }, {
+    "creationTime": "2015-08-21 15:09:27-0400",
+    "updateTime": "2015-08-21 15:10:25-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, Stefan, we\u0026#39;ve missed you around here lately.  Welcome back!  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxCi3eWN8LrHAg"
+  }, {
+    "creationTime": "2016-01-31 15:46:48-0500",
+    "author": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e: I had some time inspecting your Fibonacci code.... in your xyMap-array are some z-tuples with values\u0026gt;100. How is that? It looks  wrong, as you use them to add color to LEDs.  But NUM_VIRTUAL_LEDS is just 101 (100 real LEDs plus one virtual to let \u0026quot;100\u0026quot; don\u0026#39;t go wrong). I\u0026#39;m sure, 133 162 or 193 will write to wrong memory regions.... or did I miss something?\u003cbr\u003e\u003cbr\u003eIn spiralPath1Arms you have 91 twice, while the first occurrence should be 81. Here I\u0026#39;m really sure. :-)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxCJsO3v9dTKAg"
+  }, {
+    "creationTime": "2016-02-01 11:15:26-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Those seem to be a typos, probably from a find/replace gone bad.  Those should likely all be 100 (meaning no LED that slot).  The setPixelXY function will ignore anything that\u0026#39;s not under NUM_LEDS anyway.\u003cbr\u003e\u003cbr\u003eI\u0026#39;ll probably be revisiting the code some time this week, I\u0026#39;ll check out spiralPath1Arms then.  Thanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/PsFjSyFbf2e",
+    "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC/comments/CiN6MTJudHRleGR1dXhpbnFvYzA0Y2l0dzRleWZkY3RycjQybxDEguuK-9bKAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgiItaXVZSrOJ3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Armana Liquorshelves",
+      "profilePageUrl": "https://plus.google.com/108236560934663867700",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-oK2Vi7C6fVY/AAAAAAAAAAI/AAAAAAAAACM/CZINNzBzGKo/s64-c/photo.jpg",
+      "resourceName": "users/108236560934663867700"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brian van vlymen",
+      "profilePageUrl": "https://plus.google.com/+Brianvanvlymen",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-T9VcHE6ihfE/AAAAAAAAAAI/AAAAAAAAhV0/b8OK6gHosMI/s64-c/photo.jpg",
+      "resourceName": "users/102962316948693360023"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Reed Morse",
+      "profilePageUrl": "https://plus.google.com/+ReedMorse",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-wBKtaI3XPJI/AAAAAAAAAAI/AAAAAAAAFbs/zRCPw1ftYpw/s64-c/photo.jpg",
+      "resourceName": "users/117116621786089717494"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nail ENVY",
+      "profilePageUrl": "https://plus.google.com/109048588330518029928",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-R7HWKoXqVJg/AAAAAAAAAAI/AAAAAAAAALA/MFDpIshuZEs/s64-c/photo.jpg",
+      "resourceName": "users/109048588330518029928"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Brian van vlymen",
+      "profilePageUrl": "https://plus.google.com/+Brianvanvlymen",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-T9VcHE6ihfE/AAAAAAAAAAI/AAAAAAAAhV0/b8OK6gHosMI/s64-c/photo.jpg",
+      "resourceName": "users/102962316948693360023"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/102282558639672545743",
+        "displayName": "Daniel Garcia"
+      }, {
+        "resourceName": "users/109972214378981665730",
+        "displayName": "Jim Bumgardner"
+      }]
+    }
+  }
+}

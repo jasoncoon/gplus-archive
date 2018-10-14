@@ -1,0 +1,86 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/bqNe2AfyHJ9",
+  "creationTime": "2015-02-10 23:14:33-0500",
+  "updateTime": "2015-02-22 10:10:31-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Thank you, Daniel, for adding Spark Core support!  The Cylon example worked great in the Spark web IDE, and Fire2012 only required a minor change: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/FastLED-Sparkcore/commit/a61aeda64562b91a658936dded3542f216fc1d55\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/FastLED-Sparkcore/commit/a61aeda64562b91a658936dded3542f216fc1d55\u003c/a\u003e",
+  "album": {
+    "media": [{
+      "url": "https://plus.google.com/photos/103867089694409269471/albums/6114434874158054961/6114434873328546194",
+      "contentType": "video/*",
+      "width": 854,
+      "height": 480,
+      "resourceName": "media/CixBRjFRaXBQeDF2cWoxc09WY3UzcDB5RHRtNFpIQ2FtVVoxZlZ4akdWS3FWQg\u003d\u003d"
+    }, {
+      "url": "https://plus.google.com/photos/103867089694409269471/albums/6114434874158054961/6114434874143188082",
+      "contentType": "video/*",
+      "width": 854,
+      "height": 480,
+      "resourceName": "media/CixBRjFRaXBORk0wVUFHSzdaVHNKa3kyd1VWa21keUZNaDJIYjZoVFo5MDBpUA\u003d\u003d"
+    }]
+  },
+  "resourceName": "users/103867089694409269471/posts/UgjQQk0ibn7JongCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Sam Farmer",
+      "profilePageUrl": "https://plus.google.com/+SamFarmerSD",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-EQpzbfOsQlU/AAAAAAAAAAI/AAAAAAAADqI/sCG1aHDxpB8/s64-c/photo.jpg",
+      "resourceName": "users/109493092520597760644"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Steve Caress",
+      "profilePageUrl": "https://plus.google.com/113869104304376996094",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-CcqWRw7wZg8/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUp3sXam5iL1tLtMIgr95C_0K5Hag/s64-c/photo.jpg",
+      "resourceName": "users/113869104304376996094"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James Armstrong",
+      "profilePageUrl": "https://plus.google.com/+JamesArmstrong3",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-RUmD5yBNKBo/AAAAAAAAAAI/AAAAAAAAbvM/Ak0NECnOQOw/s64-c/photo.jpg",
+      "resourceName": "users/102161322800777005688"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Peter Parnes",
+      "profilePageUrl": "https://plus.google.com/+PeterParnes",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-cWPMJQaHXS8/AAAAAAAAAAI/AAAAAAAAHSU/ehU4EOx1TCk/s64-c/photo.jpg",
+      "resourceName": "users/104199731463622588564"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kyle Beck",
+      "profilePageUrl": "https://plus.google.com/+KyleBeck",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Jg0wpNrzRvI/AAAAAAAAAAI/AAAAAAAAbFs/nd51Xm9iNmk/s64-c/photo.jpg",
+      "resourceName": "users/100849929412329938415"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      }
+    }
+  }
+}

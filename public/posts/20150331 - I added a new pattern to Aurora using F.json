@@ -1,0 +1,76 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/DMFrZtkQCk6",
+  "creationTime": "2015-03-31 18:14:49-0400",
+  "updateTime": "2015-03-31 18:14:49-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I added a new pattern to Aurora using FastLED\u0026#39;s beatsin8 function (I also created a \u0026#39;companion\u0026#39; beatcos8 function).  Inspired by Whitney Incremental Drift - 48 dots by Jim Bumgardner:  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/watch?v\u003dGuQJN6fTUW0\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/watch?v\u003dGuQJN6fTUW0\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eSource code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/blob/Aurora1.4/PatternIncrementalDrift.h\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/blob/Aurora1.4/PatternIncrementalDrift.h\u003c/a\u003e",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/5HKHenuwBom",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Challenged by \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110856759083002287912\" oid\u003d\"110856759083002287912\" \u003eMarc Miller\u003c/a\u003e\u003c/span\u003e, I added a new pattern to Aurora using FastLED\u0026#39;s beatsin8 function (I also created a \u0026#39;companion\u0026#39; beatcos8 function).  Inspired by Whitney Incremental Drift - 48 dots by Jim Bumgardner:  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/watch?v\u003dGuQJN6fTUW0\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/watch?v\u003dGuQJN6fTUW0\u003c/a\u003e",
+    "media": {
+      "url": "http://www.youtube.com/watch?v\u003dfiNZL2WqHZw",
+      "contentType": "video/*",
+      "width": 1280,
+      "height": 720,
+      "description": "Incremental Drift pattern from Aurora. Inspired by Whitney Incremental Drift - 48 dots by Jim Bumgardner: https://www.youtube.com/watch?v\u003dGuQJN6fTUW0 Source ...",
+      "resourceName": "media/EgtmaU5aTDJXcUhadw\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UggZmKEusXiYEHgCoAEC"
+  },
+  "resourceName": "users/103867089694409269471/posts/UghJ1NA0lsFE93gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Freddie Olivas",
+      "profilePageUrl": "https://plus.google.com/116436296817464303376",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-rqUnd7xZAVA/AAAAAAAAAAI/AAAAAAAAABk/D5x9Pon4brM/s64-c/photo.jpg",
+      "resourceName": "users/116436296817464303376"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "MAX Menke",
+      "profilePageUrl": "https://plus.google.com/106481996634743249846",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-9XK1qA7mmtY/AAAAAAAAAAI/AAAAAAAAA9g/w2Q_sPKio0c/s64-c/photo.jpg",
+      "resourceName": "users/106481996634743249846"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ben Delarre",
+      "profilePageUrl": "https://plus.google.com/114825475221343681660",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-u-Clg04Svvg/AAAAAAAAAAI/AAAAAAAAAI0/-ImKmP5IfOU/s64-c/photo.jpg",
+      "resourceName": "users/114825475221343681660"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

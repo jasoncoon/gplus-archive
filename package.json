@@ -2,7 +2,7 @@
   "name": "gplus-archive",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://evilgeniuslabs.github.io/gplus-archive",
+  "homepage": "http://jasoncoon.github.io/gplus-archive",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",

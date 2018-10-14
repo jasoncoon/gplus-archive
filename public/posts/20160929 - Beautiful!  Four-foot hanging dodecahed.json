@@ -1,0 +1,233 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/4GvxzPghBYx",
+  "creationTime": "2016-09-29 09:58:34-0400",
+  "updateTime": "2016-09-29 15:59:10-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Beautiful!  Four-foot hanging dodecahedron lantern lit from inside with 2,000+ LEDs.  Is anyone here involved in this?  Looks like they\u0026#39;re using WS2811 strings and layers of cardboard for the separators: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.facebook.com/stoicheia.elements/photos/a.1321657664514070.1073741830.1245080838838420/1335142066498963/?type\u003d3\u0026amp;theater\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.facebook.com/stoicheia.elements/photos/a.1321657664514070.1073741830.1245080838838420/1335142066498963/?type\u003d3\u0026amp;theater\u003c/a\u003e  Thanks to \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/118122134674138132630\" oid\u003d\"118122134674138132630\" \u003eLouis Beaudoin\u003c/a\u003e\u003c/span\u003e for the link.",
+  "media": {
+    "url": "https://www.youtube.com/watch?v\u003dDKSI_tRN0aM",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Stoicheia is an homage to Earth’s earliest thinkers, particularly Plato and Euclid, merging modern technology with the very foundations of mathematics, and d...",
+    "resourceName": "media/EgtES1NJX3RSTjBhTQ\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2016-09-29 10:03:20-0400",
+    "author": {
+      "displayName": "Jonathan Lemoine",
+      "profilePageUrl": "https://plus.google.com/+JonathanLemoine",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-28Qgj_GeNcw/AAAAAAAAAAI/AAAAAAAApCM/14Ccwsc1Qss/s64-c/photo.jpg",
+      "resourceName": "users/108815773347874342399"
+    },
+    "content": "This is incredible!\u003cbr\u003e ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4GvxzPghBYx",
+    "resourceName": "users/103867089694409269471/posts/UggTk_Mpxykm1XgCoAEC/comments/CiF6MTNld3ZkNXRubm16dG1jbjIzcWoxMnJtdWVhaHh0MHAQ2Ne-hd-0zwI"
+  }, {
+    "creationTime": "2016-09-29 11:00:08-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Impressive!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4GvxzPghBYx",
+    "resourceName": "users/103867089694409269471/posts/UggTk_Mpxykm1XgCoAEC/comments/CiF6MTNld3ZkNXRubm16dG1jbjIzcWoxMnJtdWVhaHh0MHAQ9bHO3uu0zwI"
+  }, {
+    "creationTime": "2016-09-30 07:04:08-0400",
+    "author": {
+      "displayName": "1icri - Old Account",
+      "profilePageUrl": "https://plus.google.com/+Techy4198",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-aKO8TFuO3IM/AAAAAAAAAAI/AAAAAAAAD4A/5Douh6kqyaA/s64-c/photo.jpg",
+      "resourceName": "users/109789728586812118406"
+    },
+    "content": "Wondering how they did the power management? That many LEDs, even running at say quarter brightness, would effectively draw up to 30 amps. I\u0026#39;m guessing it has mains power running into it and the power supply inside? Even then, a monster of a thing to wire up. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4GvxzPghBYx",
+    "resourceName": "users/103867089694409269471/posts/UggTk_Mpxykm1XgCoAEC/comments/CiF6MTNld3ZkNXRubm16dG1jbjIzcWoxMnJtdWVhaHh0MHAQ9dbA7fi2zwI"
+  }, {
+    "creationTime": "2016-10-07 16:44:09-0400",
+    "author": {
+      "displayName": "Jesse Banks",
+      "profilePageUrl": "https://plus.google.com/104150832446515386534",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-AY1d5AbsCNk/AAAAAAAAAAI/AAAAAAAAFRs/5xLKqEa_t48/s64-c/photo.jpg",
+      "resourceName": "users/104150832446515386534"
+    },
+    "content": "I am one of the creators. There are two 60A power supplies, Minnow-max rendering 30-60fps, Teensy 3.2 pushing to ~2200 WS2811 \u0026quot;Pixel\u0026quot; LED\u0026#39;s. All render code is completely custom. Our group works out of \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://luminalabpdx.com\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003eluminalabpdx.com\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/4GvxzPghBYx",
+    "resourceName": "users/103867089694409269471/posts/UggTk_Mpxykm1XgCoAEC/comments/CiF6MTNld3ZkNXRubm16dG1jbjIzcWoxMnJtdWVhaHh0MHAQq5zWxsfJzwI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UggTk_Mpxykm1XgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Eric Inthecircle",
+      "profilePageUrl": "https://plus.google.com/108863239439563896664",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-HffgB8hAz8c/AAAAAAAAAAI/AAAAAAAAABE/1NpLbBRHiLk/s64-c/photo.jpg",
+      "resourceName": "users/108863239439563896664"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kevin Price",
+      "profilePageUrl": "https://plus.google.com/+KevinPrice",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-XgATi-yeiuA/AAAAAAAAAAI/AAAAAAAADg4/lEMPdJHDYeI/s64-c/photo.jpg",
+      "resourceName": "users/103078276791254411338"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jasper Poppe",
+      "profilePageUrl": "https://plus.google.com/111925589669990547106",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-MnJMUJ5DorU/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUZSGlie-o1V1KXxi7dCEKsKNciHA/s64-c/photo.jpg",
+      "resourceName": "users/111925589669990547106"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Ortiz",
+      "profilePageUrl": "https://plus.google.com/+MarkOrtiz1",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rr3IeLFo1ro/AAAAAAAAAAI/AAAAAAAACNo/9QseMvLcnAg/s64-c/photo.jpg",
+      "resourceName": "users/113382150942778753214"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Jozefiak",
+      "profilePageUrl": "https://plus.google.com/+MarkJozefiak",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-SjqD0_qeoD8/AAAAAAAAAAI/AAAAAAACHlY/XWsvgKKfpHY/s64-c/photo.jpg",
+      "resourceName": "users/106490224318624380967"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "1icri - Old Account",
+      "profilePageUrl": "https://plus.google.com/+Techy4198",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-aKO8TFuO3IM/AAAAAAAAAAI/AAAAAAAAD4A/5Douh6kqyaA/s64-c/photo.jpg",
+      "resourceName": "users/109789728586812118406"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jürgen Skrotzky",
+      "profilePageUrl": "https://plus.google.com/+JürgenSkrotzky",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-O3ZaJZn16Cs/AAAAAAAAAAI/AAAAAAAABpQ/m9yRDU8m08o/s64-c/photo.jpg",
+      "resourceName": "users/104432154942486982966"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Revista LED",
+      "profilePageUrl": "https://plus.google.com/+RevistaLED",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-jBJtyrDw594/AAAAAAAAAAI/AAAAAAAAAEQ/2cbPX19-c9g/s64-c/photo.jpg",
+      "resourceName": "users/104994458000680406219"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Harvey Benner",
+      "profilePageUrl": "https://plus.google.com/105949813201080500809",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-N1Dc0EV3POo/AAAAAAAAAAI/AAAAAAAAAqw/7BsFU7NcbCQ/s64-c/photo.jpg",
+      "resourceName": "users/105949813201080500809"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tim Lukasik",
+      "profilePageUrl": "https://plus.google.com/100542328320334100166",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-4Kskcwha5a8/AAAAAAAAAAI/AAAAAAABpB0/nzdKSaBilNs/s64-c/photo.jpg",
+      "resourceName": "users/100542328320334100166"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kasper Kamperman",
+      "profilePageUrl": "https://plus.google.com/+KasperKamperman",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3apwQwpZUsw/AAAAAAAAAAI/AAAAAAAAM1w/Dd5aRhQnqXw/s64-c/photo.jpg",
+      "resourceName": "users/100115767703084101160"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Amelia T",
+      "profilePageUrl": "https://plus.google.com/+AmeliaT",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-SQRXif2E3Jo/AAAAAAAAAAI/AAAAAAAAARM/MqKCACGJWfo/s64-c/photo.jpg",
+      "resourceName": "users/110193816007223216283"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "bernie domingo",
+      "profilePageUrl": "https://plus.google.com/108890477929053614554",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-426s_Xn3iyU/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVI0sQCAWScpXuOz8CuGz913zuXZg/s64-c/photo.jpg",
+      "resourceName": "users/108890477929053614554"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Matt Richard",
+      "profilePageUrl": "https://plus.google.com/110166643140045739599",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NFaQJJ6ZuEU/AAAAAAAAAAI/AAAAAAAAEEo/4mz7KaVgDHk/s64-c/photo.jpg",
+      "resourceName": "users/110166643140045739599"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kailash Goswami",
+      "profilePageUrl": "https://plus.google.com/100028956116453561718",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-JraNHhW7AdM/AAAAAAAAAAI/AAAAAAAAA08/JJDxFrP90x4/s64-c/photo.jpg",
+      "resourceName": "users/100028956116453561718"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jonathan Lemoine",
+      "profilePageUrl": "https://plus.google.com/+JonathanLemoine",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-28Qgj_GeNcw/AAAAAAAAAAI/AAAAAAAApCM/14Ccwsc1Qss/s64-c/photo.jpg",
+      "resourceName": "users/108815773347874342399"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/118122134674138132630",
+        "displayName": "Louis Beaudoin"
+      }]
+    }
+  }
+}

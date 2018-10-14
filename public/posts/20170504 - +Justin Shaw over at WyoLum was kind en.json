@@ -1,0 +1,272 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/7PEGmuJ6QCc",
+  "creationTime": "2017-05-04 22:53:34-0400",
+  "updateTime": "2017-05-04 22:53:34-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110749747659159749550\" oid\u003d\"110749747659159749550\" \u003eJustin Shaw\u003c/a\u003e\u003c/span\u003e over at WyoLum was kind enough to send me an ULTiM8x8 (actually an ULTiM8x24) set to play with!  Of course I immediately got to work on it.  I added some female headers, assembled it with a hex wrench, plugged in an Adafruit Feather ESP8266, and uploaded my FastLED ESP8266 Web Server app.  It works and looks great!  I created a couple of quick patterns just for the 8x24 matrix layout and shot a quick video.\u003cbr\u003e\u003cbr\u003eMore info on the ULTiM8x8: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.crowdsupply.com/maniacal-labs-wyolum/ultim8x8\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.crowdsupply.com/maniacal-labs-wyolum/ultim8x8\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eSource code and more details: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver/tree/ultim8x8\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver/tree/ultim8x8\u003c/a\u003e",
+  "media": {
+    "url": "https://www.youtube.com/attribution_link?a\u003de3ZfmtPED5c\u0026u\u003d/watch?v%3Dxigy7J_K7Aw%26feature%3Dshare",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Control an ULTiM8x8 RGB LED Panel with an ESP8266 via a web browser. The fine folks at WyoLum sent me an ULTiM8x24 modular, no-solder, RGB LED panel system t...",
+    "resourceName": "media/Egt4aWd5N0pfSzdBdw\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2017-05-05 01:55:03-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Excellent!  Nice job \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e and \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110749747659159749550\" oid\u003d\"110749747659159749550\" \u003eJustin Shaw\u003c/a\u003e\u003c/span\u003e.\u003cbr\u003e\u003cbr\u003eI found myself mostly watching the reflection in that video.  :D",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7PEGmuJ6QCc",
+    "resourceName": "users/103867089694409269471/posts/UggmKbnXiCmHtXgCoAEC/comments/CiF6MTJ1c3pkcTF6MnhpeDUxYTIzcWoxMnJtdWVhaHh0MHAQ44H2vojY0wI"
+  }, {
+    "creationTime": "2017-05-05 05:44:24-0400",
+    "author": {
+      "displayName": "Justin Shaw",
+      "profilePageUrl": "https://plus.google.com/+JustinShaw",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-IFU0TaMUgqQ/AAAAAAAAAAI/AAAAAAAA3h0/nFJ7jwGtjO0/s64-c/photo.jpg",
+      "resourceName": "users/110749747659159749550"
+    },
+    "content": "Holy crap!  You are a quick study \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e.  Beautiful.  Check it \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/118014254683938675401\" oid\u003d\"118014254683938675401\" \u003eAdam Haile\u003c/a\u003e\u003c/span\u003e \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107198716859948323715\" oid\u003d\"107198716859948323715\" \u003eAnool Mahidharia\u003c/a\u003e\u003c/span\u003e \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103139054274114711211\" oid\u003d\"103139054274114711211\" \u003eDaniel Ternes\u003c/a\u003e\u003c/span\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7PEGmuJ6QCc",
+    "resourceName": "users/103867089694409269471/posts/UggmKbnXiCmHtXgCoAEC/comments/CiF6MTJ1c3pkcTF6MnhpeDUxYTIzcWoxMnJtdWVhaHh0MHAQ2_yw4LvY0wI"
+  }, {
+    "creationTime": "2017-05-05 08:15:10-0400",
+    "author": {
+      "displayName": "Adam Haile",
+      "profilePageUrl": "https://plus.google.com/+AdamHaile",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-MkVshugzZlQ/AAAAAAAAAAI/AAAAAAAAKq8/o6tZfMzDkBM/s64-c/photo.jpg",
+      "resourceName": "users/118014254683938675401"
+    },
+    "content": "Wow! That\u0026#39;s insane! What exactly are you using to generate those animations? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7PEGmuJ6QCc",
+    "resourceName": "users/103867089694409269471/posts/UggmKbnXiCmHtXgCoAEC/comments/CiF6MTJ1c3pkcTF6MnhpeDUxYTIzcWoxMnJtdWVhaHh0MHAQr5uKut3Y0wI"
+  }, {
+    "creationTime": "2017-05-05 09:23:56-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks guys!  Yeah \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110856759083002287912\" oid\u003d\"110856759083002287912\" \u003eMarc Miller\u003c/a\u003e\u003c/span\u003e, I was playing around with different LED brightness and background lighting, and while the LEDs are washed out, I really liked the reflections.  So I just panned down a bit.  :)\u003cbr\u003e\u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/118014254683938675401\" oid\u003d\"118014254683938675401\" \u003eAdam Haile\u003c/a\u003e\u003c/span\u003e, I\u0026#39;m mostly using the genius of Daniel Garcia and Mark Kriegsman, and FastLED.  :)  The code is all in the link above.  The first pattern is Pride2015, the second is ColorWavesWithPalettes (both by Mark).  3 through 5 are just horizontal wipes using different palettes.  The next few are just playing around with FastLED\u0026#39;s Perlin noise functions with different parameters (palette, scale, speed, direction, etc).  The last two are just twinkles and sinelon.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7PEGmuJ6QCc",
+    "resourceName": "users/103867089694409269471/posts/UggmKbnXiCmHtXgCoAEC/comments/CiF6MTJ1c3pkcTF6MnhpeDUxYTIzcWoxMnJtdWVhaHh0MHAQm9uk6ezY0wI"
+  }, {
+    "creationTime": "2017-05-05 09:34:37-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110749747659159749550\" oid\u003d\"110749747659159749550\" \u003eJustin Shaw\u003c/a\u003e\u003c/span\u003e sorry, I would have had it done sooner, but USPS was a day late with the delivery.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7PEGmuJ6QCc",
+    "resourceName": "users/103867089694409269471/posts/UggmKbnXiCmHtXgCoAEC/comments/CiF6MTJ1c3pkcTF6MnhpeDUxYTIzcWoxMnJtdWVhaHh0MHAQ67WTm-_Y0wI"
+  }, {
+    "creationTime": "2017-05-09 09:26:07-0400",
+    "author": {
+      "displayName": "Chad Eby",
+      "profilePageUrl": "https://plus.google.com/103032700739943796663",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-T6lGtCnWsak/AAAAAAAAAAI/AAAAAAAAAcE/V2QqRS0dHAI/s64-c/photo.jpg",
+      "resourceName": "users/103032700739943796663"
+    },
+    "content": "Lovely stuff!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7PEGmuJ6QCc",
+    "resourceName": "users/103867089694409269471/posts/UggmKbnXiCmHtXgCoAEC/comments/CiF6MTJ1c3pkcTF6MnhpeDUxYTIzcWoxMnJtdWVhaHh0MHAQlurZ4vTi0wI"
+  }, {
+    "creationTime": "2017-05-10 20:19:16-0400",
+    "author": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "resourceName": "users/101708620681849403392"
+    },
+    "content": "Hey \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, thanks for your matrix code. I was looking at it and thought that you can save a lot of wifi hassle using the great WifiManager library: \u003cbr\u003e\u003cbr\u003eI\u0026#39;m just beginning to hack your code using it, I will post my results :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7PEGmuJ6QCc",
+    "link": {
+      "title": "tzapu/WiFiManager",
+      "url": "https://github.com/tzapu/WiFiManager",
+      "imageUrl": "https://camo.githubusercontent.com/26db27665a2faef9db9e0d0474135819de2a6700/687474703a2f2f692e696d6775722e636f6d2f313879496169382e706e67"
+    },
+    "resourceName": "users/103867089694409269471/posts/UggmKbnXiCmHtXgCoAEC/comments/CiF6MTJ1c3pkcTF6MnhpeDUxYTIzcWoxMnJtdWVhaHh0MHAQ4smk0Mjm0wI"
+  }, {
+    "creationTime": "2017-05-10 20:32:33-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/101708620681849403392\" oid\u003d\"101708620681849403392\" \u003eMike Thornbury\u003c/a\u003e\u003c/span\u003e.  I\u0026#39;ve used it before, and should get it added to the code for others to use.  I don\u0026#39;t use it because it blocks app code if it can\u0026#39;t connect to wifi, and I can easily set wifi connection info and upload using Arduino.  I want my creations to start immediately, even if wifi isn\u0026#39;t available.\u003cbr\u003e\u003cbr\u003eI\u0026#39;ve been thinking about ways of providing the same functionality without blocking, but haven\u0026#39;t done anything about it yet.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7PEGmuJ6QCc",
+    "resourceName": "users/103867089694409269471/posts/UggmKbnXiCmHtXgCoAEC/comments/CiF6MTJ1c3pkcTF6MnhpeDUxYTIzcWoxMnJtdWVhaHh0MHAQo7CpzMvm0wI"
+  }, {
+    "creationTime": "2017-05-10 21:06:22-0400",
+    "author": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "resourceName": "users/101708620681849403392"
+    },
+    "content": "Oh, that\u0026#39;s odd. I found that if it couldn\u0026#39;t find the wifi it creates its own AP, which it would do the first time it fires up.\u003cbr\u003e\u003cbr\u003eBut... you are a far superior coder to me and I will bow to your superior expertise :).\u003cbr\u003e\u003cbr\u003eMy issue with the \u0026#39;stock\u0026#39; method was that I make stuff to send to friends, family, etc. and never know what wifi they might stick it on, so wanted a method that would back out to a config page if it didn\u0026#39;t connect. Much easier for my even-less-technically-capable family than to get them to edit and reload.\u003cbr\u003e\u003cbr\u003eI\u0026#39;ve been out of arduino/esp/fastled for ages and just getting back into it - two steps forward, one step back 0.O",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7PEGmuJ6QCc",
+    "resourceName": "users/103867089694409269471/posts/UggmKbnXiCmHtXgCoAEC/comments/CiF6MTJ1c3pkcTF6MnhpeDUxYTIzcWoxMnJtdWVhaHh0MHAQz8Lik9Pm0wI"
+  }, {
+    "creationTime": "2017-05-10 21:17:38-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I haven\u0026#39;t tried it in a while, they likely fixed it, or I was using it wrong.  :)  I\u0026#39;ll give it another shot.  Thanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/7PEGmuJ6QCc",
+    "resourceName": "users/103867089694409269471/posts/UggmKbnXiCmHtXgCoAEC/comments/CiF6MTJ1c3pkcTF6MnhpeDUxYTIzcWoxMnJtdWVhaHh0MHAQ2p6f1tXm0wI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UggmKbnXiCmHtXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Raphael Ouzan",
+      "profilePageUrl": "https://plus.google.com/+RaphaelOuzan",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-8fGFdi4Ko1k/AAAAAAAAAAI/AAAAAAADImU/kSysm6Le-vQ/s64-c/photo.jpg",
+      "resourceName": "users/114217784711857752246"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kiah Hickson",
+      "profilePageUrl": "https://plus.google.com/102364275683246778963",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-3dhiwQApVuA/AAAAAAAAAAI/AAAAAAAAAec/I9nsYeeHbkE/s64-c/photo.jpg",
+      "resourceName": "users/102364275683246778963"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kean Maizels",
+      "profilePageUrl": "https://plus.google.com/+KeanMaizels",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-t5aKxTecSaI/AAAAAAAAAAI/AAAAAAAAAz0/aplOgx_8Mpo/s64-c/photo.jpg",
+      "resourceName": "users/101798281270279925409"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Amy Shaw",
+      "profilePageUrl": "https://plus.google.com/111722202975714834392",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-uoMk4cpiH8U/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWh1QJwkGDJeWDNamqAvAUMSqOANg/s64-c/photo.jpg",
+      "resourceName": "users/111722202975714834392"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Anool Mahidharia",
+      "profilePageUrl": "https://plus.google.com/+AnoolMahidharia",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-B9IeFYpqevU/AAAAAAAAAAI/AAAAAAAAOVg/lyeEYRiYSjg/s64-c/photo.jpg",
+      "resourceName": "users/107198716859948323715"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Justin Shaw",
+      "profilePageUrl": "https://plus.google.com/+JustinShaw",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-IFU0TaMUgqQ/AAAAAAAAAAI/AAAAAAAA3h0/nFJ7jwGtjO0/s64-c/photo.jpg",
+      "resourceName": "users/110749747659159749550"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mario Wiegleb",
+      "profilePageUrl": "https://plus.google.com/111877398099696932439",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-wVdST4p6WNI/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWyAiS5SwNOlx5yYlk-x8Sg1JMLcw/s64-c/photo.jpg",
+      "resourceName": "users/111877398099696932439"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dushyant Ahuja",
+      "profilePageUrl": "https://plus.google.com/+DushyantAhuja",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-sva8lHLHSMA/AAAAAAAAAAI/AAAAAAAAuKE/S0J3fcd1EFQ/s64-c/photo.jpg",
+      "resourceName": "users/102046189032208678773"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Kevin Osborn",
+      "profilePageUrl": "https://plus.google.com/+KevinOsborn",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-gjBVd2aajp0/AAAAAAAAAAI/AAAAAAAA12w/PvxW9zs5_d4/s64-c/photo.jpg",
+      "resourceName": "users/105717937237957047535"
+    }
+  }, {
+    "resharer": {
+      "displayName": "Justin Shaw",
+      "profilePageUrl": "https://plus.google.com/+JustinShaw",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-IFU0TaMUgqQ/AAAAAAAAAAI/AAAAAAAA3h0/nFJ7jwGtjO0/s64-c/photo.jpg",
+      "resourceName": "users/110749747659159749550"
+    }
+  }, {
+    "resharer": {
+      "displayName": "Anool Mahidharia",
+      "profilePageUrl": "https://plus.google.com/+AnoolMahidharia",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-B9IeFYpqevU/AAAAAAAAAAI/AAAAAAAAOVg/lyeEYRiYSjg/s64-c/photo.jpg",
+      "resourceName": "users/107198716859948323715"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/107198716859948323715",
+        "displayName": "Anool Mahidharia"
+      }, {
+        "resourceName": "users/110856759083002287912",
+        "displayName": "Marc Miller"
+      }, {
+        "resourceName": "users/110749747659159749550",
+        "displayName": "Justin Shaw"
+      }, {
+        "resourceName": "users/101708620681849403392",
+        "displayName": "Mike Thornbury"
+      }, {
+        "resourceName": "users/103139054274114711211",
+        "displayName": "Daniel Ternes"
+      }, {
+        "resourceName": "users/118014254683938675401",
+        "displayName": "Adam Haile"
+      }]
+    }
+  }
+}

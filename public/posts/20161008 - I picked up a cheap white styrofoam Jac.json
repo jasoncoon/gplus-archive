@@ -1,0 +1,246 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/JNTjyKn5gRY",
+  "creationTime": "2016-10-08 14:30:09-0400",
+  "updateTime": "2016-10-08 14:30:09-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I picked up a cheap white styrofoam Jack O\u0026#39; Lantern on clearance at Michaels, and lit it up using a Gemma, 24 NeoPixel ring, and a 3xAAA battery holder.  Nothing too fancy, but thought I\u0026#39;d share.  :)\u003cbr\u003e\u003cbr\u003eBuild pics: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/EkMLPCU67a3izKmW7\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/EkMLPCU67a3izKmW7\u003c/a\u003e\u003cbr\u003eSource code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/fastled-jack-o-lantern\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/fastled-jack-o-lantern\u003c/a\u003e\u003cbr\u003e",
+  "media": {
+    "url": "https://www.youtube.com/watch?v\u003dTUthY06g6I0",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Materials: * Cheap white styrofoam jack o\u0027 lantern on clearance at Michaels: http://www.michaels.com/ * Adafruit Gemma microcontroller: https://www.adafruit....",
+    "resourceName": "media/EgtUVXRoWTA2ZzZJMA\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2016-10-08 15:23:05-0400",
+    "author": {
+      "displayName": "Dave Finnerty",
+      "profilePageUrl": "https://plus.google.com/+DaveFinnerty",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-y6qolKClM8o/AAAAAAAAAAI/AAAAAAAA-BI/bX7_Rv9agmA/s64-c/photo.jpg",
+      "resourceName": "users/113233935001383116084"
+    },
+    "content": "I did the same. Just put red led light in it. Looks great at night.  This one looks really good as well.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JNTjyKn5gRY",
+    "resourceName": "users/103867089694409269471/posts/Ughn2TrEQlK2u3gCoAEC/comments/CiF6MTJ4eXZtb21zbmdneHYzYjIzcWoxMnJtdWVhaHh0MHAQ0_6GpvfLzwI"
+  }, {
+    "creationTime": "2016-10-08 15:44:48-0400",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "Love the project. It inspired me to grab materials for two. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JNTjyKn5gRY",
+    "resourceName": "users/103867089694409269471/posts/Ughn2TrEQlK2u3gCoAEC/comments/CiF6MTJ4eXZtb21zbmdneHYzYjIzcWoxMnJtdWVhaHh0MHAQjarUk_zLzwI"
+  }, {
+    "creationTime": "2016-10-08 17:21:04-0400",
+    "author": {
+      "displayName": "Tim Lukasik",
+      "profilePageUrl": "https://plus.google.com/100542328320334100166",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-4Kskcwha5a8/AAAAAAAAAAI/AAAAAAABpB0/nzdKSaBilNs/s64-c/photo.jpg",
+      "resourceName": "users/100542328320334100166"
+    },
+    "content": "Great idea, cheap and easy to make, love it.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JNTjyKn5gRY",
+    "resourceName": "users/103867089694409269471/posts/Ughn2TrEQlK2u3gCoAEC/comments/CiF6MTJ4eXZtb21zbmdneHYzYjIzcWoxMnJtdWVhaHh0MHAQjdHP1ZHMzwI"
+  }, {
+    "creationTime": "2016-10-08 17:23:32-0400",
+    "author": {
+      "displayName": "Rich Plakas",
+      "profilePageUrl": "https://plus.google.com/+RichPlakas",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-N0lLaCqQrGE/AAAAAAAAAAI/AAAAAAABhi0/rfNpRo9jgF4/s64-c/photo.jpg",
+      "resourceName": "users/105527688378437478949"
+    },
+    "content": "It\u0026#39;s doing the spooky sound too? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JNTjyKn5gRY",
+    "resourceName": "users/103867089694409269471/posts/Ughn2TrEQlK2u3gCoAEC/comments/CiF6MTJ4eXZtb21zbmdneHYzYjIzcWoxMnJtdWVhaHh0MHAQgZ-QnJLMzwI"
+  }, {
+    "creationTime": "2016-10-08 17:41:25-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks!  I definitely wouldn\u0026#39;t recommend the Gemma, I\u0026#39;d go with at least a Trinket Pro for more program storage space.  I\u0026#39;m already running out with only two simple animations.\u003cbr\u003e\u003cbr\u003eIt doesn\u0026#39;t make any sound (but probably could), that\u0026#39;s just background music I added to the video.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JNTjyKn5gRY",
+    "resourceName": "users/103867089694409269471/posts/Ughn2TrEQlK2u3gCoAEC/comments/CiF6MTJ4eXZtb21zbmdneHYzYjIzcWoxMnJtdWVhaHh0MHAQouaVnJbMzwI"
+  }, {
+    "creationTime": "2016-10-08 23:34:47-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Hallowlicious!  Love it.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JNTjyKn5gRY",
+    "resourceName": "users/103867089694409269471/posts/Ughn2TrEQlK2u3gCoAEC/comments/CiF6MTJ4eXZtb21zbmdneHYzYjIzcWoxMnJtdWVhaHh0MHAQ_efPmeXMzwI"
+  }, {
+    "creationTime": "2016-10-11 16:27:37-0400",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e how does \u0026quot;hue \u003d random8(86)\u0026quot; only give you \u0026quot;// red, orange, yellow, or green (\u0026quot;scary colors\u0026quot;)?\u0026quot;",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JNTjyKn5gRY",
+    "resourceName": "users/103867089694409269471/posts/Ughn2TrEQlK2u3gCoAEC/comments/CiF6MTJ4eXZtb21zbmdneHYzYjIzcWoxMnJtdWVhaHh0MHAQs5DqqMvTzwI"
+  }, {
+    "creationTime": "2016-10-11 16:32:20-0400",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "Btw, at my house, Halloween is known as Hallowizzle. I\u0026#39;m sure I\u0026#39;ll have some more questions soon as I repurpose my FSM for dual Hallowizzle and Christmas duty soon. Here\u0026#39;s the raw wire frame back in 2008:\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JNTjyKn5gRY",
+    "link": {
+      "title": "America’s weirdest Holiday lights display «  Church of the Flying Spaghetti Monster",
+      "url": "http://www.venganza.org/2008/12/slate/",
+      "imageUrl": "http://www.venganza.org/wp-content/uploads/2008/12/xmas06.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/Ughn2TrEQlK2u3gCoAEC/comments/CiF6MTJ4eXZtb21zbmdneHYzYjIzcWoxMnJtdWVhaHh0MHAQru7dr8zTzwI"
+  }, {
+    "creationTime": "2016-10-11 16:50:01-0400",
+    "updateTime": "2016-10-11 16:59:45-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/105076277442225776356\" oid\u003d\"105076277442225776356\" \u003eChris Creel\u003c/a\u003e\u003c/span\u003e It actually gives me any hue between red and green, including red, orange, yellow, green.  After looking at the FastLED \u0026quot;Rainbow\u0026quot; hue chart, I need to change that to \u0026quot;hue \u003d random8(96)\u0026quot;:  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/FastLED/FastLED/wiki/FastLED-HSV-Colors\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/FastLED/FastLED/wiki/FastLED-HSV-Colors\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JNTjyKn5gRY",
+    "resourceName": "users/103867089694409269471/posts/Ughn2TrEQlK2u3gCoAEC/comments/CiF6MTJ4eXZtb21zbmdneHYzYjIzcWoxMnJtdWVhaHh0MHAQyvffqdDTzwI"
+  }, {
+    "creationTime": "2016-10-11 17:13:22-0400",
+    "author": {
+      "displayName": "Chris Creel",
+      "profilePageUrl": "https://plus.google.com/105076277442225776356",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qCJCEe4RqiQ/AAAAAAAAAAI/AAAAAAAAUO4/mcAtqSTw8FQ/s64-c/photo.jpg",
+      "resourceName": "users/105076277442225776356"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Thanks. I\u0026#39;ll play around with that. I actually understand it now after looking again at the rainbow and thinking about the 86 vs 96 as the upper limit of the random8()",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/JNTjyKn5gRY",
+    "resourceName": "users/103867089694409269471/posts/Ughn2TrEQlK2u3gCoAEC/comments/CiF6MTJ4eXZtb21zbmdneHYzYjIzcWoxMnJtdWVhaHh0MHAQy97AxdXTzwI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ughn2TrEQlK2u3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Terkel Sorensen",
+      "profilePageUrl": "https://plus.google.com/+TerkelSorensen",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-tsFIIzgRcvk/AAAAAAAAAAI/AAAAAAAALjI/zp_uTa7fRRI/s64-c/photo.jpg",
+      "resourceName": "users/117231119056052212299"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Rich Plakas",
+      "profilePageUrl": "https://plus.google.com/+RichPlakas",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-N0lLaCqQrGE/AAAAAAAAAAI/AAAAAAABhi0/rfNpRo9jgF4/s64-c/photo.jpg",
+      "resourceName": "users/105527688378437478949"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Amelia T",
+      "profilePageUrl": "https://plus.google.com/+AmeliaT",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-SQRXif2E3Jo/AAAAAAAAAAI/AAAAAAAAARM/MqKCACGJWfo/s64-c/photo.jpg",
+      "resourceName": "users/110193816007223216283"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Darryl Lassiter",
+      "profilePageUrl": "https://plus.google.com/+DarrylLassiter",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-HNS1sWuoJag/AAAAAAAAAAI/AAAAAAAABv0/v5FrFTzz5U8/s64-c/photo.jpg",
+      "resourceName": "users/105288095695368295547"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jonathan Lemoine",
+      "profilePageUrl": "https://plus.google.com/+JonathanLemoine",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-28Qgj_GeNcw/AAAAAAAAAAI/AAAAAAAApCM/14Ccwsc1Qss/s64-c/photo.jpg",
+      "resourceName": "users/108815773347874342399"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brad Williamson",
+      "profilePageUrl": "https://plus.google.com/+BradWilliamson25",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nJfUAC4_3pM/AAAAAAAAAAI/AAAAAAAAKkU/yvMkWI_gPaI/s64-c/photo.jpg",
+      "resourceName": "users/105433710531981771365"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dushyant Ahuja",
+      "profilePageUrl": "https://plus.google.com/+DushyantAhuja",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-sva8lHLHSMA/AAAAAAAAAAI/AAAAAAAAuKE/S0J3fcd1EFQ/s64-c/photo.jpg",
+      "resourceName": "users/102046189032208678773"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tim Lukasik",
+      "profilePageUrl": "https://plus.google.com/100542328320334100166",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-4Kskcwha5a8/AAAAAAAAAAI/AAAAAAABpB0/nzdKSaBilNs/s64-c/photo.jpg",
+      "resourceName": "users/100542328320334100166"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dave Finnerty",
+      "profilePageUrl": "https://plus.google.com/+DaveFinnerty",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-y6qolKClM8o/AAAAAAAAAAI/AAAAAAAA-BI/bX7_Rv9agmA/s64-c/photo.jpg",
+      "resourceName": "users/113233935001383116084"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Thomas Wolf",
+      "profilePageUrl": "https://plus.google.com/+ThomasWolfEnstein",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Zvi9TlFemUI/AAAAAAAAAAI/AAAAAAAAGKM/B5T1TApP4rQ/s64-c/photo.jpg",
+      "resourceName": "users/107606680371383075409"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/105076277442225776356",
+        "displayName": "Chris Creel"
+      }]
+    }
+  }
+}

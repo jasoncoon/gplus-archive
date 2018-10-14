@@ -1,0 +1,889 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/UV9YQzXN6a4",
+  "creationTime": "2018-02-16 09:36:37-0500",
+  "updateTime": "2018-02-16 11:00:48-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "After a long break, I\u0026#39;ve finally begun working with the ESP32.  Many thanks to \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/107582712342018613958\" oid\u003d\"107582712342018613958\" \u003eSam Guyer\u003c/a\u003e\u003c/span\u003e and everyone who contributed to ESP32 support!\u003cbr\u003e\u003cbr\u003eI\u0026#39;ve started on an ESP32 port of the FastLED WebServer project.  It is still very much a work in progress, and I welcome anyone who would like to help:\u003cbr\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp32-fastled-webserver\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp32-fastled-webserver\u003c/a\u003e\u003cbr\u003e",
+  "link": {
+    "title": "jasoncoon/esp32-fastled-webserver",
+    "url": "https://github.com/jasoncoon/esp32-fastled-webserver"
+  },
+  "comments": [{
+    "creationTime": "2018-02-16 09:53:38-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "Cool, I started porting your audio webserver yesterday ;)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxC7z6uT2KrZAg"
+  }, {
+    "creationTime": "2018-02-16 10:09:57-0500",
+    "updateTime": "2018-02-16 10:10:11-0500",
+    "author": {
+      "displayName": "Tommy Sciano",
+      "profilePageUrl": "https://plus.google.com/+TommySciano",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-s-ZtjTbmA2M/AAAAAAAAAAI/AAAAAAAAFrA/dE8qUsA2t_k/s64-c/photo.jpg",
+      "resourceName": "users/100424731209524235577"
+    },
+    "content": "Are you going to be adding BLE options at all?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCHtsHm26rZAg"
+  }, {
+    "creationTime": "2018-02-16 10:49:09-0500",
+    "author": {
+      "displayName": "chad steinglass",
+      "profilePageUrl": "https://plus.google.com/+chadsteinglass",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-wkU-XDkaj8o/AAAAAAAAAAI/AAAAAAAABfo/-dIIZpbM9Ew/s64-c/photo.jpg",
+      "resourceName": "users/112879662216226769733"
+    },
+    "content": "So much thanks to you and Sam and everyone else in this community. With prices falling on WS2812b strips (getting pretty close to $0.05/pixel with some hunting on aliexpress) and the introduction of MCUs like the ESP32 with tons of memory and serious processors in an $8 package, the limits of what a hobbyist like me can dream of have literally expanded by an order of magnitude in basically one short year. Its been an exciting time!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDopcvH5KrZAg"
+  }, {
+    "creationTime": "2018-02-16 11:00:09-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/100424731209524235577\" oid\u003d\"100424731209524235577\" \u003eTommy Sciano\u003c/a\u003e\u003c/span\u003e no plans yet, going to try to get wifi and web fully working first.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDqieCC56rZAg"
+  }, {
+    "creationTime": "2018-02-16 11:22:34-0500",
+    "updateTime": "2018-02-16 17:25:54-0500",
+    "author": {
+      "displayName": "Tommy Sciano",
+      "profilePageUrl": "https://plus.google.com/+TommySciano",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-s-ZtjTbmA2M/AAAAAAAAAAI/AAAAAAAAFrA/dE8qUsA2t_k/s64-c/photo.jpg",
+      "resourceName": "users/100424731209524235577"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e feel free to use any of my code from my BLE ESP32 arduino\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "link": {
+      "title": "zombodotcom/Lumos-Board",
+      "url": "https://github.com/zombodotcom/Lumos-Board",
+      "imageUrl": "https://avatars0.githubusercontent.com/u/13477955?s\u003d400\u0026v\u003d4"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDH8emD7KrZAg"
+  }, {
+    "creationTime": "2018-02-16 15:58:28-0500",
+    "updateTime": "2018-02-16 15:58:51-0500",
+    "author": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    },
+    "content": "Tommy, this is perfect. I have an ESP32 BLE project using App Inventor already but used another LED lib and was about to try integrating fastLED. Thank you for this. This ESP32 is just getting better every day with help from people like you. I cannot wait to see what I can do with this. The App Inventor folks suggested we might start a separate ESP32/App Inventor section. It seems to be taking off as people realize how little it costs and how much it can do.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDQxcHZqavZAg"
+  }, {
+    "creationTime": "2018-02-16 16:44:21-0500",
+    "author": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    },
+    "content": "Well, it works ok but the lag is bad. I had to put a hook into my other LED lib where the tight loops were but that way I could use a slider to control some motors as I change the led patterns. I\u0026#39;d really like to make an App that lets the user program their own patterns using a more intuitive interface. No user interface lag is needed if there are ways to check and set a few globals as the lops run.\u003cbr\u003e\u003cbr\u003eThis is a paper clip mounted to a motor. The rotation rate and LED refresh rate make interesting moire patterns but fastLED seems to be much better than the simple version I have now. I am glad others are also interested in getting fastLED, esp32 and App Inventor working so it\u0026#39;s easy to have fun creating, recording and playing back various pattern combinations.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/TEIJKzSYzjQN_ZrGzfsJsdLo3uklFfLKohYsKb919G0CwnMpFZ51c5SlKdFIRQOZGtt52aNNjQ",
+      "contentType": "image/*",
+      "width": 1424,
+      "height": 1174,
+      "resourceName": "media/CixBRjFRaXBQZEx0cWFCXzdvSkxGaWxzOGJ0Y2x2TlpQU0xJc0dUWm5lMkdYTg\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDY66b6s6vZAg"
+  }, {
+    "creationTime": "2018-02-16 16:51:55-0500",
+    "author": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    },
+    "content": "BTW, I have a color picker app for named colors that I want to check against the fastLED colors. I posted it to the App Inventor group with little interest. The list of named colors allows designers to select \u0026quot;Android Green\u0026quot; and other official colors and can be used as a color swatch to match real world stuff. Named colors has a very rich history but I only have the 800+ that was in Wiki. I like how you set the background color. I did the same thing for the list of colors.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCqjuTStavZAg"
+  }, {
+    "creationTime": "2018-02-16 16:55:28-0500",
+    "author": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    },
+    "content": "You might want to add the \u0026quot;StringSplitter.h\u0026quot; dependency to your github. I installed the lib but it\u0026#39;s always nice to know which ones are connected so when something breaks... Thanks again.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDo4aa4tqvZAg"
+  }, {
+    "creationTime": "2018-02-16 17:27:07-0500",
+    "author": {
+      "displayName": "Tommy Sciano",
+      "profilePageUrl": "https://plus.google.com/+TommySciano",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-s-ZtjTbmA2M/AAAAAAAAAAI/AAAAAAAAFrA/dE8qUsA2t_k/s64-c/photo.jpg",
+      "resourceName": "users/100424731209524235577"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/109943375272933711160\" oid\u003d\"109943375272933711160\" \u003eSteve Anken\u003c/a\u003e\u003c/span\u003e Just a heads up, you can only send 20 bytes on BLE through app inventor, so if you wanted to send a string of what patterns you wanted to the App, or a serial monitor, it has to be at max 20 bytes or else it gets cut off\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCz-MfBvavZAg"
+  }, {
+    "creationTime": "2018-02-16 18:00:26-0500",
+    "author": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/100424731209524235577\" oid\u003d\"100424731209524235577\" \u003eTommy Sciano\u003c/a\u003e\u003c/span\u003e , well aware of this. I send codes to switch patterns on the esp32, it does all the work. I can even send back notify for other stuff I am doing. The motor speeds are a few bytes. You can also split messages to get longer strings, someone posted code for that, but I don\u0026#39;t need them. My app really works nice as is but I need better color control like HLS to even come close to matching RGB screen colors on the Android. There some nice stuff in your code I will steal. Thanks and I hope we can get to the point where there is not so much duplication of this. I see a number of ESP32 BLE App inventor projects all seemingly doing the same basic thing.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDdxPn6xKvZAg"
+  }, {
+    "creationTime": "2018-02-16 18:50:18-0500",
+    "author": {
+      "displayName": "Tommy Sciano",
+      "profilePageUrl": "https://plus.google.com/+TommySciano",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-s-ZtjTbmA2M/AAAAAAAAAAI/AAAAAAAAFrA/dE8qUsA2t_k/s64-c/photo.jpg",
+      "resourceName": "users/100424731209524235577"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/109943375272933711160\" oid\u003d\"109943375272933711160\" \u003eSteve Anken\u003c/a\u003e\u003c/span\u003e could you point me in the direction to get longer strings",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDYs9qN0KvZAg"
+  }, {
+    "creationTime": "2018-02-16 18:54:21-0500",
+    "author": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    },
+    "content": "Let me go back and find it.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDOrN2B0avZAg"
+  }, {
+    "creationTime": "2018-02-16 18:56:36-0500",
+    "author": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    },
+    "content": "\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "link": {
+      "title": "Re: BLE extension: Large message",
+      "url": "https://groups.google.com/forum/#!searchin/mitappinventortest/ble$20long$20strings%7Csort:date/mitappinventortest/8C01UydGGbw/ZqEmmst9AwAJ",
+      "imageUrl": "http://www.google.com/images/icons/product/groups-128.png"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCy6e7B0avZAg"
+  }, {
+    "creationTime": "2018-02-17 03:35:29-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, I\u0026#39;m getting the \u0026quot;Not found: /index.htm\u0026quot; SPIFFS error. How have you got this working? I\u0026#39;ve tried the fixes suggested here  but still no joy :(",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "link": {
+      "title": "SPIFFS + ESP32 Sketch Data Upload Problem (mkspiffs) · Issue #1022 · espressif/arduino-esp32",
+      "url": "https://github.com/espressif/arduino-esp32/issues/1022",
+      "imageUrl": "https://avatars1.githubusercontent.com/u/5269534?s\u003d400\u0026v\u003d4"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCQr4m_xazZAg"
+  }, {
+    "creationTime": "2018-02-17 05:57:52-0500",
+    "updateTime": "2018-02-17 05:58:48-0500",
+    "author": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e It\u0026#39;s something in the static library tools/sdk/lib/libspiffs.a.\u003cbr\u003eI replaced it with the one from 70d0d4648766cea047613062ed50a9ecfc9de31f and everything worked again.\u003cbr\u003eI use the latest version and then just went to an older branch to copy the library and it worked for me too",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCH4vqo5azZAg"
+  }, {
+    "creationTime": "2018-02-17 07:07:01-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "I tried that, no joy :(\u003cbr\u003eCould you share a working copy of libspiffs.a?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDJrJ3j9KzZAg"
+  }, {
+    "creationTime": "2018-02-17 07:07:35-0500",
+    "author": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e oki as soon as I am home",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDZhczz9KzZAg"
+  }, {
+    "creationTime": "2018-02-17 07:11:14-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/105454820533296572604\" oid\u003d\"105454820533296572604\" \u003eYves BAZIN\u003c/a\u003e\u003c/span\u003e, thank you :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxC8-uTb9azZAg"
+  }, {
+    "creationTime": "2018-02-17 07:57:55-0500",
+    "author": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e  \u003cbr\u003eI have also copied my version of esp32fs.jar\u003cbr\u003ehoping the will help",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "link": {
+      "title": "hpwit/lib",
+      "url": "https://github.com/hpwit/lib",
+      "imageUrl": "https://avatars1.githubusercontent.com/u/7348175?s\u003d400\u0026v\u003d4"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxD0mLyTgK3ZAg"
+  }, {
+    "creationTime": "2018-02-17 08:00:03-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "Thanks, I tried another ESP32 and it\u0026#39;s looking better.  Not working yet but at least I\u0026#39;m managing to load index.htm :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDI9MHQgK3ZAg"
+  }, {
+    "creationTime": "2018-02-17 08:48:43-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Sorry, I haven\u0026#39;t gotten that working yet: ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "link": {
+      "title": "Not serving static files · Issue #1 · jasoncoon/esp32-fastled-webserver",
+      "url": "https://github.com/jasoncoon/esp32-fastled-webserver/issues/1"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDK_evAi63ZAg"
+  }, {
+    "creationTime": "2018-02-17 08:50:47-0500",
+    "author": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e it’s working for me ;)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDkxZf8i63ZAg"
+  }, {
+    "creationTime": "2018-02-17 08:59:50-0500",
+    "updateTime": "2018-02-17 09:00:32-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "I\u0026#39;ve got the index showing but not loading the CSS and it Java...\u003cbr\u003eHad to wipe the flash memory to get it working ;)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCUtuj-ja3ZAg"
+  }, {
+    "creationTime": "2018-02-17 09:01:26-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "I\u0026#39;m just building a hat for tonight, might have to put an ESP 8266 in it for now :(",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCiwcmsjq3ZAg"
+  }, {
+    "creationTime": "2018-02-17 09:37:19-0500",
+    "updateTime": "2018-02-17 09:49:25-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yeah \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e, sorry I didn\u0026#39;t make the \u0026quot;it is still very much a work in progress\u0026quot; disclaimer more strongly worded.  It\u0026#39;s not ready for prime time yet.  :)  This was more a plea for help after banging my head for a few hours trying to get serving from SPIFFs working.\u003cbr\u003e\u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/105454820533296572604\" oid\u003d\"105454820533296572604\" \u003eYves BAZIN\u003c/a\u003e\u003c/span\u003e, trying your esp32fs.jar and libspiffs.a now, thanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCDxpKvlq3ZAg"
+  }, {
+    "creationTime": "2018-02-17 09:45:23-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "Like I said, I\u0026#39;d already started on your audio web server. Converted it to use FFT, now to sort out the WiFi ;)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDM7JGWmK3ZAg"
+  }, {
+    "creationTime": "2018-02-17 09:46:34-0500",
+    "author": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e I have recompiled it directly from the sources available on GitHub ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDXxPC3mK3ZAg"
+  }, {
+    "creationTime": "2018-02-17 10:11:05-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/105454820533296572604\" oid\u003d\"105454820533296572604\" \u003eYves BAZIN\u003c/a\u003e\u003c/span\u003e, that worked!  It still won\u0026#39;t serve all files with one serveStatic call like the ESP8266 did:\u003cbr\u003e\u003cbr\u003ewebServer.serveStatic(\u0026quot;/\u0026quot;, SPIFFS, \u0026quot;/\u0026quot;, \u0026quot;max-age\u003d86400\u0026quot;);\u003cbr\u003e\u003cbr\u003eBut I was able to work around that easily enough, by just manually calling serveStatic for each file: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp32-fastled-webserver/blob/master/web.h#L50-L55\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp32-fastled-webserver/blob/master/web.h#L50-L55\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI made a note in the readme and updated the issue.  Now I can move on to the next items in the todo list: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp32-fastled-webserver#currently-lacking\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp32-fastled-webserver#currently-lacking\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDxpdH1na3ZAg"
+  }, {
+    "creationTime": "2018-02-17 11:04:05-0500",
+    "author": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e cool happy to be of some help. I will have a look at your implementation soon ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCF5d3hqa3ZAg"
+  }, {
+    "creationTime": "2018-02-18 04:16:18-0500",
+    "updateTime": "2018-02-18 05:19:41-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "Thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, that\u0026#39;s working for me too :)\u003cbr\u003e\u003cbr\u003eNow to add the audio.\u003cbr\u003e\u003cbr\u003eThe hat worked quite nicely, used an accelerometer rather than audio and 222 SK9822s",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDrw9u9kK_ZAg"
+  }, {
+    "creationTime": "2018-02-18 12:34:57-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "More progress: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp32-fastled-webserver#currently-working\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp32-fastled-webserver#currently-working\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCf9Yb4_6_ZAg"
+  }, {
+    "creationTime": "2018-02-18 12:39:01-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, you are fantastic :) Thank you.\u003cbr\u003e\u003cbr\u003eThe ESP32 webserver seems so much moe responsive and snappier to use than the ESP8266.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDYnLvsgLDZAg"
+  }, {
+    "creationTime": "2018-02-19 14:29:41-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "I\u0026#39;ve left it running one of \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e\u0026#39;s audio patterns all day. I\u0026#39;ve used FFT rather than an MSGEQ7, and it\u0026#39;s still working perfectly after about 13 hours.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCL5N6527LZAg"
+  }, {
+    "creationTime": "2018-02-19 14:50:31-0500",
+    "author": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e could you share the code for fft ? Thank you ;)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxC0xNiN4LLZAg"
+  }, {
+    "creationTime": "2018-02-19 16:17:45-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/105454820533296572604\" oid\u003d\"105454820533296572604\" \u003eYves BAZIN\u003c/a\u003e\u003c/span\u003e , of course, i\u0026#39;ll just improve it a little more then share it.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxD1hJbN87LZAg"
+  }, {
+    "creationTime": "2018-02-19 17:11:57-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113476846179206503622\" oid\u003d\"113476846179206503622\" \u003eDarren Hedlund\u003c/a\u003e\u003c/span\u003e thanks, should be fixed in the latest esp32-fastled-webserver code.  I didn\u0026#39;t even think about that the same code would work on both, duh.  Excellent!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDg9JLc_7LZAg"
+  }, {
+    "creationTime": "2018-02-19 17:12:40-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Just pushed more changes:\u003cbr\u003e\u003cbr\u003e* Finished porting parameters\u003cbr\u003e* Added twinkle speed \u0026amp; density fields\u003cbr\u003e* Added palette cycle \u0026amp; duration fields\u003cbr\u003e* Reorganized fields\u003cbr\u003e* Combined RGB and gradient palettes\u003cbr\u003e* Added fire \u0026amp; water patterns\u003cbr\u003e* Added pride \u0026amp; colorwaves patterns\u003cbr\u003e\u003cbr\u003eNext up: saving settings to EEPROM",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCbyL7w_7LZAg"
+  }, {
+    "creationTime": "2018-02-20 17:34:18-0500",
+    "author": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    },
+    "content": "Would be nice to have an App Inventor app for esp32 with BLE. A number of folks have done this now but we are replicating work and not generalizing it for others.\u003cbr\u003e\u003cbr\u003e Being tethered to WiFi is a pain. With BLE you could easily take your projects anywhere and just use your smart phone to alter the patterns it plays. The kids are all using App Inventor and Arduino but the esp32 has the BLE built in so it\u0026#39;s a natural for STEM programs. Sometimes setting up WiFi for this at schools requires IT help but BLE just works.\u003cbr\u003e\u003cbr\u003e A starter app would allow them to play with FastLED with no hassles and the Arduino code can be put in the App inventor assets of the .aia file making it easy for kids to pair them.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDD1aHKxrXZAg"
+  }, {
+    "creationTime": "2018-02-20 18:29:24-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/109943375272933711160\" oid\u003d\"109943375272933711160\" \u003eSteve Anken\u003c/a\u003e\u003c/span\u003e sounds cool, looking forward to seeing what you come up with!  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDTtbfy0rXZAg"
+  }, {
+    "creationTime": "2018-02-20 18:43:22-0500",
+    "author": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e , it may be a while. Too much to do and soon to be overwhelmed. It will get done by someone. The ESP32 is just starting to get legs. The audio stuff is coming along too so it\u0026#39;s just a matter of time before people realize how much this board can do besides run LEDs.\u003cbr\u003e\u003cbr\u003e I am looking into adding a MIDI extension to App Inventor. MIDI has a lot of potential for coordinating LEDs and other things besides music. It\u0026#39;s too bad so few seem to realize how important MIDI is to musicians and what it can do. Android Studio is nice but all this is a time suck so it only gets done between other things.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCeypmC1rXZAg"
+  }, {
+    "creationTime": "2018-03-02 11:06:01-0500",
+    "author": {
+      "displayName": "Bob Mulvey",
+      "profilePageUrl": "https://plus.google.com/103482057572666549028",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-1X-e0NeDeyc/AAAAAAAAAAI/AAAAAAAAABI/LsTjjNsY2Dk/s64-c/photo.jpg",
+      "resourceName": "users/103482057572666549028"
+    },
+    "content": "Following along intently.  This will be a welcome addition to the 15m string of WS2812\u0026#39;s I installed around the perimeter of our outdoor deck last year.  Currently when I want to change colors or patterns, I bring the microprocessor inside and plug it into my PC to load a new sketch.  I was looking at a set of XBee\u0026#39;s to upload sketches wirelessly but the ESP32 seems far better.  Thanks for leading the development efforts Jason!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDa_9C4gs7ZAg"
+  }, {
+    "creationTime": "2018-03-02 11:42:34-0500",
+    "author": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    },
+    "content": "ESP32 Bluetooth library about to be merged with main Arduino core and it can be used with the existing BLE code. Now to see how to do both with App Inventor.\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "link": {
+      "title": "ESP32 Bluetooth Serial and BLE server running together – Bernd\u0027s development stuff",
+      "url": "http://desire.giesecke.tk/index.php/2018/02/27/esp32-bluetooth-serial-and-ble-server-running-together/",
+      "imageUrl": "http://desire.giesecke.tk/wp-content/uploads/2018/02/blue-man-head-300x293.png"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCLpqDOis7ZAg"
+  }, {
+    "creationTime": "2018-03-03 09:37:39-0500",
+    "updateTime": "2018-03-03 09:38:13-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Just pushed an update, fixed twinkles crashing with more than 255 LEDs, fixed an error setting a solid color, parallel output support, etc: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp32-fastled-webserver/commit/8b8cbbfe8da9975b1845d45de6c8af85157c027e\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp32-fastled-webserver/commit/8b8cbbfe8da9975b1845d45de6c8af85157c027e\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDF0IjHsNDZAg"
+  }, {
+    "creationTime": "2018-03-04 01:50:58-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "Thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxD3qdyNitLZAg"
+  }, {
+    "creationTime": "2018-03-05 04:40:53-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e I\u0026#39;m trying to add a dynamic colour pallette generated from accelerometer data.\u003cbr\u003e\u003cbr\u003eI\u0026#39;ve added it to the list  \u0026quot;const CRGBPalette16 palettes[] \u0026quot; and to \u0026quot;const String paletteNames[paletteCount] \u0026quot; in palettes.h.\u003cbr\u003e\u003cbr\u003eIt comes up on the list on the webpage, but when I select it, the patterns fail to pull the colours from it, they just get black.\u003cbr\u003e\u003cbr\u003eIf I hardcode it into a pattern, replacing \u0026quot;palettes[currentPaletteIndex]\u0026quot; with the name of the dynamic palette then it works.  I must be defining something incorrectly somewhere, I\u0026#39;ve tried everything I can think of, but can\u0026#39;t find a fix....\u003cbr\u003e\u003cbr\u003eDo you have any ideas?\u003cbr\u003eThanks\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDHy-_58dTZAg"
+  }, {
+    "creationTime": "2018-03-08 01:44:57-0500",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e I\u0026#39;ve worked it out :)\u003cbr\u003eI just had to declare CRGBPalette16 palettes[] as a variable rather than a constant. Slightly embarrassed about how long it took me to realise...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCs4t6ckNzZAg"
+  }, {
+    "creationTime": "2018-03-08 10:28:19-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e sorry, I completely missed this somehow!  Glad you got it working, though.  Good to know!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCl6biahd3ZAg"
+  }, {
+    "creationTime": "2018-04-06 20:31:24-0400",
+    "author": {
+      "displayName": "Chris Stock",
+      "profilePageUrl": "https://plus.google.com/105439198196536256454",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-BYr0LqpzzHg/AAAAAAAAAAI/AAAAAAAAADI/Mc_csri3Qcw/s64-c/photo.jpg",
+      "resourceName": "users/105439198196536256454"
+    },
+    "content": "I was able to get eps8266 working and tried getting esp32 working. Esp32 loads and leds display. What browser address do I load the page on? It connects to my home wifi but when I try 192.... that was used on the 8266 code, it won’t load. I tried setting it up as an AP mode also and it wouldn’t compile. Super excited to get it working. If I can help with anything I’d love to. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDTlb_X9KbaAg"
+  }, {
+    "creationTime": "2018-04-07 02:03:34-0400",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/105439198196536256454\" oid\u003d\"105439198196536256454\" \u003eChris Stock\u003c/a\u003e\u003c/span\u003e Your router will always try and give individual devices a different IP address.  Add these lines to web.h after \u0026quot;webServerStarted \u003d true;\u0026quot; (line 70)\u003cbr\u003e\u003cbr\u003e    Serial.println();\u003cbr\u003e    Serial.println(\u0026quot;WiFi connected\u0026quot;);\u003cbr\u003e    Serial.println(\u0026quot;IP address: \u0026quot;);\u003cbr\u003e    Serial.println(WiFi.localIP());\u003cbr\u003e\u003cbr\u003eThen the IP address will be sent to the Serial Monitor.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDQxsH2vqfaAg"
+  }, {
+    "creationTime": "2018-04-07 08:50:40-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Gah, that should be included in the sketch, I\u0026#39;ll get it added, thanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDysIv2majaAg"
+  }, {
+    "creationTime": "2018-04-07 09:00:04-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Done, thanks!  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp32-fastled-webserver/commit/7a72a4fb01f49ce2bbd6483832cb1125c9f37fd1#diff-b94aab71437b57812eaafbb2c03486d2\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp32-fastled-webserver/commit/7a72a4fb01f49ce2bbd6483832cb1125c9f37fd1#diff-b94aab71437b57812eaafbb2c03486d2\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDH0IaDnKjaAg"
+  }, {
+    "creationTime": "2018-04-07 11:17:12-0400",
+    "author": {
+      "displayName": "Chris Stock",
+      "profilePageUrl": "https://plus.google.com/105439198196536256454",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-BYr0LqpzzHg/AAAAAAAAAAI/AAAAAAAAADI/Mc_csri3Qcw/s64-c/photo.jpg",
+      "resourceName": "users/105439198196536256454"
+    },
+    "content": "Awesome thanks I’ll check it out. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCp0rbWuqjaAg"
+  }, {
+    "creationTime": "2018-04-07 13:30:48-0400",
+    "author": {
+      "displayName": "Chris Stock",
+      "profilePageUrl": "https://plus.google.com/105439198196536256454",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-BYr0LqpzzHg/AAAAAAAAAAI/AAAAAAAAADI/Mc_csri3Qcw/s64-c/photo.jpg",
+      "resourceName": "users/105439198196536256454"
+    },
+    "content": "For some reason I am getting Not found: / \u003cbr\u003eCould be user error. I have the esp8266 sketch working. When I use the esp32upload tool it is taking only 4 seconds which seems too fast. The esp8266 upload tool took several minutes to upload. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDWtMnE2KjaAg"
+  }, {
+    "creationTime": "2018-04-08 01:06:57-0400",
+    "author": {
+      "displayName": "Chris Stock",
+      "profilePageUrl": "https://plus.google.com/105439198196536256454",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-BYr0LqpzzHg/AAAAAAAAAAI/AAAAAAAAADI/Mc_csri3Qcw/s64-c/photo.jpg",
+      "resourceName": "users/105439198196536256454"
+    },
+    "content": "Ive tried getting AP mode working also and keep getting reboot error. Is Ap mode working on esp32?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCu5beR9KnaAg"
+  }, {
+    "creationTime": "2018-04-08 03:40:21-0400",
+    "updateTime": "2018-04-08 03:40:33-0400",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/105439198196536256454\" oid\u003d\"105439198196536256454\" \u003eChris Stock\u003c/a\u003e\u003c/span\u003e , I don\u0026#39;t think AP mode is working properly with SPIFFS yet. \u003cbr\u003e\u003cbr\u003eHave you followed the SPIFFS fix instructions in the readme?\u003cbr\u003e\u003cbr\u003eWhich version of the ESP32 Arduino core are you using?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxCimaK2lqraAg"
+  }, {
+    "creationTime": "2018-06-21 11:53:33-0400",
+    "author": {
+      "displayName": "Theo Sanders",
+      "profilePageUrl": "https://plus.google.com/107983163338730722729",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-gtpbaIaRAbE/AAAAAAAAAAI/AAAAAAAAGiQ/Q6DR3Ua37xo/s64-c/photo.jpg",
+      "resourceName": "users/107983163338730722729"
+    },
+    "content": "After installing all the requirements (including forked libraries) I get this reboot loop:\u003cbr\u003e\u003cbr\u003eRebooting... ets Jun 8 2016 00:22:57 rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT) configsip: 0, SPIWP:0xee clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00 mode:DIO, clock div:1 load:0x3fff0018,len:4 load:0x3fff001c,len:812 load:0x40078000,len:0 load:0x40078000,len:11572 entry 0x40078a5c Listing directory: / FILE: /favicon.ico SIZE: 4286 FILE: /index.htm SIZE: 10733 FILE: /js/app.js SIZE: 13101 FILE: /images/atom196.png SIZE: 5469 FILE: /css/styles.css SIZE: 31 Connecting to Il Bosco HTTP server started Main code running on core 1 Guru Meditation Error: Core 0 panic\u0026#39;ed (Interrupt wdt timeout on CPU0) Core 0 register dump: PC : 0x400d71dc PS : 0x00050034 A0 : 0x40081960 A1 : 0x3ffc05e0 A2 : 0x00000001 A3 : 0x3ff56000 A4 : 0x3ffc5510 A5 : 0x00000001 A6 : 0x00000001 A7 : 0x00000000 A8 : 0x00000018 A9 : 0x00000001 A10 : 0x00000000 A11 : 0x00000000 A12 : 0x8008dc1f A13 : 0x3ffde6a0 A14 : 0x3ffcb5e0 A15 : 0xbaad5678 SAR : 0x00000019 EXCCAUSE: 0x00000005 EXCVADDR: 0x00000000 LBEG : 0x00000000 LEND : 0x00000000 LCOUNT : 0x00000000 Core 0 was running in ISR context: EPC1 : 0x4000bff0 EPC2 : 0x00000000 EPC3 : 0x00000000 EPC4 : 0x400d71dc Backtrace: 0x400d71dc:0x3ffc05e0 0x4008195d:0x3ffc0610 0x4000bfed:0x00000000 Core 1 register dump: PC : 0x400e48ee PS : 0x00060e34 A0 : 0x8008be5c A1 : 0x3ffd0db0 A2 : 0x00000008 A3 : 0x00000001 A4 : 0x00000001 A5 : 0x3ffd08e8 A6 : 0x00000000 A7 : 0x00000001 A8 : 0x3ffc5e9c A9 : 0x3ffc5e60 A10 : 0x00000000 A11 : 0x00000001 A12 : 0x8008d138 A13 : 0x3ffd3bb0 A14 : 0x00000000 A15 : 0x3ffd0a60 SAR : 0x00000000 EXCCAUSE: 0x00000005 EXCVADDR: 0x00000000 LBEG : 0x00000000 LEND : 0x00000000 LCOUNT : 0x00000000 Backtrace: 0x400e48ee:0x3ffd0db0 0x4008be59:0x3ffd0dd0 Rebooting... ets Jun 8 2016 00:22:57",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxC1zZbXjuXbAg"
+  }, {
+    "creationTime": "2018-06-21 12:50:54-0400",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "\u0026quot;Guru Meditation Error: Core 0 panic\u0026#39;ed (Interrupt wdt timeout on CPU0) \u0026quot;\u003cbr\u003e\u003cbr\u003eLooks like a Watchdog Timer (wdt) error.\u003cbr\u003e\u003cbr\u003eHave you got a delay running somehwere?\u003cbr\u003e\u003cbr\u003eI\u0026#39;m successfully running a few variations of this, but can\u0026#39;t remember all of the changes...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/UV9YQzXN6a4",
+    "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC/comments/CiN6MTJ3dDFvd3V3cWFmcGVoNDA0Y2l0dzRleWZkY3RycjQybxDHwoPAm-XbAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgikUuhmU1TIOXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "WILL POWER",
+      "profilePageUrl": "https://plus.google.com/+WILLPOWERSTUDIO",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-nDDHgEI14jk/AAAAAAAAAAI/AAAAAAAAA60/oio3hUpoRVA/s64-c/photo.jpg",
+      "resourceName": "users/112403777434363283449"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nail ENVY",
+      "profilePageUrl": "https://plus.google.com/109048588330518029928",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-R7HWKoXqVJg/AAAAAAAAAAI/AAAAAAAAALA/MFDpIshuZEs/s64-c/photo.jpg",
+      "resourceName": "users/109048588330518029928"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Gus Class",
+      "profilePageUrl": "https://plus.google.com/+GusClass",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-m_WMJgYMNZc/AAAAAAAAAAI/AAAAAAABqXE/kavlikdOLyM/s64-c/photo.jpg",
+      "resourceName": "users/109716647623830091721"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Sam Guyer",
+      "profilePageUrl": "https://plus.google.com/107582712342018613958",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-_rx4KRfaQSE/AAAAAAAAAAI/AAAAAAAAHSo/hRiwG8OlgR0/s64-c/photo.jpg",
+      "resourceName": "users/107582712342018613958"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Robert Leifheit",
+      "profilePageUrl": "https://plus.google.com/107562269782394536256",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-uUlbqBsuuKA/AAAAAAAAAAI/AAAAAAAAANA/LSnyaRIiV1Y/s64-c/photo.jpg",
+      "resourceName": "users/107562269782394536256"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christophe Lallement",
+      "profilePageUrl": "https://plus.google.com/112961673979406941024",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/--2S6DhN4U5c/AAAAAAAAAAI/AAAAAAAABVc/gU-aTDLVm2w/s64-c/photo.jpg",
+      "resourceName": "users/112961673979406941024"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Graham Fogarty",
+      "profilePageUrl": "https://plus.google.com/105623135177401040156",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-xPGqrL8h6to/AAAAAAAAAAI/AAAAAAAAACE/z6pgN0ejkFc/s64-c/photo.jpg",
+      "resourceName": "users/105623135177401040156"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "arpan choudhury",
+      "profilePageUrl": "https://plus.google.com/108834522502450669797",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-FL9DpN3FQhA/AAAAAAAAAAI/AAAAAAAAAh4/FFg28t90g0A/s64-c/photo.jpg",
+      "resourceName": "users/108834522502450669797"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chris Rees",
+      "profilePageUrl": "https://plus.google.com/102857052697355852278",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-C_6sBArYGDo/AAAAAAAAAAI/AAAAAAAAAts/IM0voADBx7w/s64-c/photo.jpg",
+      "resourceName": "users/102857052697355852278"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nathan Bohman",
+      "profilePageUrl": "https://plus.google.com/115295602779691789847",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Q1vQddoXHU0/AAAAAAAAAAI/AAAAAAACoxY/jzODZPNXHq4/s64-c/photo.jpg",
+      "resourceName": "users/115295602779691789847"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Steve Anken",
+      "profilePageUrl": "https://plus.google.com/109943375272933711160",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-JdrN3oLi5CQ/AAAAAAAAAAI/AAAAAAAAAHY/SC_zCIfwSDA/s64-c/photo.jpg",
+      "resourceName": "users/109943375272933711160"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dougal Campbell",
+      "profilePageUrl": "https://plus.google.com/+DougalCampbell",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-FXQyDVKRJjc/AAAAAAAAAAI/AAAAAAAAErw/fZAdUCezrNs/s64-c/photo.jpg",
+      "resourceName": "users/104640897934960019410"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Al Linke",
+      "profilePageUrl": "https://plus.google.com/+AlLinke",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-T-ghtJLr5Jw/AAAAAAAAAAI/AAAAAAAAONE/SibJiQy4To4/s64-c/photo.jpg",
+      "resourceName": "users/113534147100834786263"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NBqJ3BQopJo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUjZtH-NDpU8Y--VLfH8gc42O891A/s64-c/photo.jpg",
+      "resourceName": "users/112392188627004225254"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Сергей Скрынник",
+      "profilePageUrl": "https://plus.google.com/+СергейСкрынник",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-WtoVfJggoms/AAAAAAAAAAI/AAAAAAAAjMw/JAvHk-DDqCE/s64-c/photo.jpg",
+      "resourceName": "users/103881513075816608973"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tommy Sciano",
+      "profilePageUrl": "https://plus.google.com/+TommySciano",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-s-ZtjTbmA2M/AAAAAAAAAAI/AAAAAAAAFrA/dE8qUsA2t_k/s64-c/photo.jpg",
+      "resourceName": "users/100424731209524235577"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James G.",
+      "profilePageUrl": "https://plus.google.com/114312362882399477330",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-EuJssl3FskQ/AAAAAAAAAAI/AAAAAAAADSE/Y6I8vOF2zpY/s64-c/photo.jpg",
+      "resourceName": "users/114312362882399477330"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/116805483424237205778",
+        "displayName": "Jeremy Spencer"
+      }, {
+        "resourceName": "users/105454820533296572604",
+        "displayName": "Yves BAZIN"
+      }, {
+        "resourceName": "users/100424731209524235577",
+        "displayName": "Tommy Sciano"
+      }, {
+        "resourceName": "users/107582712342018613958",
+        "displayName": "Sam Guyer"
+      }, {
+        "resourceName": "users/113476846179206503622",
+        "displayName": "Darren Hedlund"
+      }, {
+        "resourceName": "users/105439198196536256454",
+        "displayName": "Chris Stock"
+      }, {
+        "resourceName": "users/109943375272933711160",
+        "displayName": "Steve Anken"
+      }]
+    }
+  }
+}

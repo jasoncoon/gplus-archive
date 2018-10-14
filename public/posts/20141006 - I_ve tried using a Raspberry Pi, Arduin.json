@@ -1,0 +1,37 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/7JYqx7VY4bY",
+  "creationTime": "2014-10-06 18:20:17-0400",
+  "updateTime": "2014-10-06 18:21:29-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I\u0026#39;ve tried using a Raspberry Pi, Arduino Uno, and Arduino Mega to drive my 32x32 RGB LED Matrix from Adafruit, but was unhappy with the color depth and frame rate.  The Teensy v3.1 has a higher clock speed and supports DMA, which the SmartMatrix library uses to drive it at 24-bit color and much higher FPS.  This was my first attempt (back in April), and later replaced the bread board and jumper wires with a SmartMatrix Shield.",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dt4OwVn9t3FU",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Sprites ripped from Tiny Barbarian DX (http://tinybarbarian.com) displayed on a 32x32 RGB LED Matrix from adafruit (http://www.adafruit.com/products/1484) ru...",
+    "resourceName": "media/Egt0NE93Vm45dDNGVQ\u003d\u003d"
+  },
+  "resourceName": "users/103867089694409269471/posts/UgglrjvkOzRKV3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Wari Wahab",
+      "profilePageUrl": "https://plus.google.com/+WariWahab",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-l23HiJMukMk/AAAAAAAAAAI/AAAAAAAACeA/D9TQZyVPBXA/s64-c/photo.jpg",
+      "resourceName": "users/100467538984499147615"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

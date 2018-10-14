@@ -1,0 +1,216 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/f8Ttd8MU8ZR",
+  "creationTime": "2014-11-25 09:48:49-0500",
+  "updateTime": "2014-11-25 09:48:49-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Another shiny project that could likely benefit from FastLED integration.  All open-source, open-hardware.  Looks like it\u0026#39;s using a Spark Core.",
+  "link": {
+    "title": "L3D Cube: The 3D LED Cube from the Future",
+    "url": "https://www.kickstarter.com/projects/lookingglass/l3d-cube-the-3d-led-cube-from-the-future",
+    "imageUrl": "https://s3.amazonaws.com/ksr/projects/1475318/photo-main.jpg?1416333233"
+  },
+  "comments": [{
+    "creationTime": "2014-11-25 10:44:08-0500",
+    "updateTime": "2014-11-25 10:47:21-0500",
+    "author": {
+      "displayName": "Christopher Smolinski",
+      "profilePageUrl": "https://plus.google.com/+ChristopherSmolinski",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-P_O3Rjsw-Ds/AAAAAAAAAAI/AAAAAAAABTU/zVh-8q2nfAA/s64-c/photo.jpg",
+      "resourceName": "users/113338764007406375533"
+    },
+    "content": "Power consumption doesn\u0026#39;t make sense...\u003cbr\u003e512 LEDs driven from a 5v 1a power supply?\u003cbr\u003eHow much is the dark draw per WS2812B again?﻿",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxC6tpTBjJbCAg"
+  }, {
+    "creationTime": "2014-11-25 10:50:03-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "They mention in the project page that it\u0026#39;ll run off 5V 1A for most applications, but for \u0026quot;super intense\u0026quot; visualizations they\u0026#39;ve included a 2A adapter.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxDOg7TqjZbCAg"
+  }, {
+    "creationTime": "2014-11-25 10:56:45-0500",
+    "author": {
+      "displayName": "Christopher Smolinski",
+      "profilePageUrl": "https://plus.google.com/+ChristopherSmolinski",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-P_O3Rjsw-Ds/AAAAAAAAAAI/AAAAAAAABTU/zVh-8q2nfAA/s64-c/photo.jpg",
+      "resourceName": "users/113338764007406375533"
+    },
+    "content": "The 8^3 cube would draw almost 31A at full brightness all leds. While you might not let your users do that, even 2A is grossly under-specked. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxDlu_2pj5bCAg"
+  }, {
+    "creationTime": "2014-11-25 11:08:16-0500",
+    "author": {
+      "displayName": "Christopher Smolinski",
+      "profilePageUrl": "https://plus.google.com/+ChristopherSmolinski",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-P_O3Rjsw-Ds/AAAAAAAAAAI/AAAAAAAABTU/zVh-8q2nfAA/s64-c/photo.jpg",
+      "resourceName": "users/113338764007406375533"
+    },
+    "content": "\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://learn.adafruit.com/1500-neopixel-led-curtain-with-raspberry-pi-fadecandy/overview\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://learn.adafruit.com/1500-neopixel-led-curtain-with-raspberry-pi-fadecandy/overview\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eTake this project for example, 1440 leds and they power it with 150A power supply to comfortably deliver a theoretical max of 86.4A.\u003cbr\u003eAnd the 16^3 cube has 4,096 leds!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxDR89zzkZbCAg"
+  }, {
+    "creationTime": "2014-11-25 11:11:21-0500",
+    "author": {
+      "displayName": "Christopher Smolinski",
+      "profilePageUrl": "https://plus.google.com/+ChristopherSmolinski",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-P_O3Rjsw-Ds/AAAAAAAAAAI/AAAAAAAABTU/zVh-8q2nfAA/s64-c/photo.jpg",
+      "resourceName": "users/113338764007406375533"
+    },
+    "content": "I\u0026#39;m not sure if you could do this and have that be a safe amount of power for all of those leds.\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://plus.google.com/102282558639672545743/posts/CFDxGMRhXsb\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://plus.google.com/102282558639672545743/posts/CFDxGMRhXsb\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxDmmOnLkpbCAg"
+  }, {
+    "creationTime": "2014-11-25 11:21:08-0500",
+    "author": {
+      "displayName": "Dave Morgan",
+      "profilePageUrl": "https://plus.google.com/105939254004964532394",
+      "resourceName": "users/105939254004964532394"
+    },
+    "content": "Yep - 4096 LEDs at 60mA per LED (which I think is typical, isn\u0026#39;t it?) would be ~245A!  Something definitely doesn\u0026#39;t make sense here.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxCjyu3jlJbCAg"
+  }, {
+    "creationTime": "2014-11-25 13:38:04-0500",
+    "updateTime": "2014-11-25 13:39:24-0500",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "Probably the leds are multiplexed?!\u003cbr\u003e The SmartMatrix also draws just 4A and not the expected 60A because there are basically only 2 lines \u003d 64 leds on at a time.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxDmtrGxs5bCAg"
+  }, {
+    "creationTime": "2014-11-25 13:53:28-0500",
+    "author": {
+      "displayName": "Christopher Smolinski",
+      "profilePageUrl": "https://plus.google.com/+ChristopherSmolinski",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-P_O3Rjsw-Ds/AAAAAAAAAAI/AAAAAAAABTU/zVh-8q2nfAA/s64-c/photo.jpg",
+      "resourceName": "users/113338764007406375533"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e, that\u0026#39;s what I thought too, but their page says WS2812B, not traditional analogue leds.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxDZrPzptpbCAg"
+  }, {
+    "creationTime": "2014-11-25 14:59:42-0500",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "Good thing I\u0026#39;m planning on 8-16 way parallel output support as part of the support for the spark core :) ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxCU_frQxZbCAg"
+  }, {
+    "creationTime": "2014-11-25 17:33:38-0500",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "Damn, I can´t stop thinking about cool 3d setups now...",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxDX8I2F6JbCAg"
+  }, {
+    "creationTime": "2014-11-25 17:42:51-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Likewise, Stefan.  I can\u0026#39;t justify the cost ($275 if you get in on the early bird), but I also don\u0026#39;t really want to build one manually myself.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxDEmbWM6pbCAg"
+  }, {
+    "creationTime": "2014-11-26 10:07:22-0500",
+    "author": {
+      "displayName": "Christopher Smolinski",
+      "profilePageUrl": "https://plus.google.com/+ChristopherSmolinski",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-P_O3Rjsw-Ds/AAAAAAAAAAI/AAAAAAAABTU/zVh-8q2nfAA/s64-c/photo.jpg",
+      "resourceName": "users/113338764007406375533"
+    },
+    "content": "It turns out the big one is powered by a 150A power supply. Makes sense.\u003cbr\u003e\u003cbr\u003eThey said they keep brightness down to 20% for the little one, and that\u0026#39;s how they can power it off of 2A.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxDoxeGTxpjCAg"
+  }, {
+    "creationTime": "2014-11-26 10:13:47-0500",
+    "updateTime": "2014-11-26 10:14:20-0500",
+    "author": {
+      "displayName": "Dave Morgan",
+      "profilePageUrl": "https://plus.google.com/105939254004964532394",
+      "resourceName": "users/105939254004964532394"
+    },
+    "content": "I thought they said 150 \u003cb\u003ewatts\u003c/b\u003e (so 30A).  In any case, that combined with reduced brightness, and perhaps something like only one layer powered at a time certainly makes the power requirements more believable.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxDWhtvLx5jCAg"
+  }, {
+    "creationTime": "2014-11-26 10:20:39-0500",
+    "author": {
+      "displayName": "Christopher Smolinski",
+      "profilePageUrl": "https://plus.google.com/+ChristopherSmolinski",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-P_O3Rjsw-Ds/AAAAAAAAAAI/AAAAAAAABTU/zVh-8q2nfAA/s64-c/photo.jpg",
+      "resourceName": "users/113338764007406375533"
+    },
+    "content": "The leds are arranged vertically so any horizontal animation would require most of those sticks to be powered.\u003cbr\u003e\u003cbr\u003eCertainly interesting. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxC8qeqPyZjCAg"
+  }, {
+    "creationTime": "2014-11-28 05:40:28-0500",
+    "author": {
+      "displayName": "Robert Atkins",
+      "profilePageUrl": "https://plus.google.com/112974620627169436992",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q_fU1LZ0S7c/AAAAAAAAAAI/AAAAAAAAACk/ceI8vaRTgA8/s64-c/photo.jpg",
+      "resourceName": "users/112974620627169436992"
+    },
+    "content": "I too noted the power draw and almost shat myself.\u003cbr\u003e\u003cbr\u003eAlso interested in the \u0026quot;viewing angle\u0026quot;. I can\u0026#39;t quite tell how the WS2812B chips are mounted, but unless there are multiples in each pixel (which there doesn\u0026#39;t seem to be) I\u0026#39;d guess you have to look at it from the top down to see everything.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxD8kL6djp3CAg"
+  }, {
+    "creationTime": "2014-11-30 23:14:16-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Looks like they\u0026#39;ve responded to power questions on Make: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://hackaday.com/2014/11/29/l3d-cube-takes-the-work-out-of-building-an-led-cube/#comment-2195935\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://hackaday.com/2014/11/29/l3d-cube-takes-the-work-out-of-building-an-led-cube/#comment-2195935\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/f8Ttd8MU8ZR",
+    "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC/comments/CiN6MTJxZ2ZxNHJ0MnBmanlyMzA0Y2l0dzRleWZkY3RycjQybxDKvoXA_aPCAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ugjj9N1UgvYirHgCoAEC",
+  "reshares": [{
+    "resharer": {
+      "displayName": "John Sartoris",
+      "profilePageUrl": "https://plus.google.com/+JohnSartoris",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-puXjUmr2gxo/AAAAAAAAAAI/AAAAAAAANLg/fwDBoxBgVJk/s64-c/photo.jpg",
+      "resourceName": "users/104567437054358497675"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/115124694226931502095",
+        "displayName": "Stefan Petrick"
+      }]
+    }
+  }
+}

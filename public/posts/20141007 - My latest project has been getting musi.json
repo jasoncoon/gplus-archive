@@ -1,0 +1,29 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/Noq1zKVtMdy",
+  "creationTime": "2014-10-07 18:30:03-0400",
+  "updateTime": "2015-02-22 10:17:08-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "My latest project has been getting music visualization working on the SmartMatrix display.  I tried the Adafruit FFT tutorial for the Teensy, before switching to the Teensy Audio library\u0026#39;s FFT.  I\u0026#39;m much happier with the results.\u003cbr\u003e\u003cbr\u003eProject and source code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/SmartMatrixSpectrumAnalyzerBasic\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/SmartMatrixSpectrumAnalyzerBasic\u003c/a\u003e",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dw4uL2426eaQ",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Basic spectrum analyzer on a 32x32 RGB LED matrix using SmartMatrix, FastLED, and the Teensy Audio Library. Running on a SmartMatrix display: http://docs.pix...",
+    "resourceName": "media/Egt3NHVMMjQyNmVhUQ\u003d\u003d"
+  },
+  "resourceName": "users/103867089694409269471/posts/UgiCYLbW69CsaHgCoAEC",
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

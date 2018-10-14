@@ -1,0 +1,663 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/VpdnyvyH2dP",
+  "creationTime": "2017-04-06 22:32:26-0400",
+  "updateTime": "2017-04-06 22:33:45-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I\u0026#39;m working on an interactive and educational FastLED project for the Maker Faire KC booth, and would appreciate any suggestions and feedback you can offer.\u003cbr\u003e\u003cbr\u003eWith what I had on-hand, I threw together two breadboards, each with a Teensy, three potentiometers, and a WS2812 ring.  The potentiometers on one board are set to adjust RGB, and on the other adjust HSV.\u003cbr\u003e\u003cbr\u003eThey work great, but I don\u0026#39;t think they\u0026#39;ll be sturdy enough to last all weekend without getting destroyed.  I created a PCB that will hopefully be a bit more sturdy.\u003cbr\u003e\u003cbr\u003eI\u0026#39;d like to use high-quality, reliable components from reputable suppliers with good support, tutorials, and shipping.  I went with 5mm NeoPixels, and a 5V Trinket Pro which won\u0026#39;t need a level shifter.  The non-pro Trinket is cheaper, but doesn\u0026#39;t have enough analog inputs.  I completely forgot about the 5V pin on the Teensy LC until I already had the board laid out.  Maybe revision 2...\u003cbr\u003e\u003cbr\u003eMore details, code, and PCB files here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.evilgeniuslabs.org/fastled-rgb-hsv-tutorial.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.evilgeniuslabs.org/fastled-rgb-hsv-tutorial.html\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI think this could be useful as a beginner project in a soldering \u0026amp; Arduino class/workshop.  It\u0026#39;ll be fully open source and open hardware.\u003cbr\u003e\u003cbr\u003eAny suggestions, feedback, etc?  Think this is a good educational project idea?  Have any better ideas?  Am I missing something that someone has already created?\u003cbr\u003e\u003cbr\u003eThanks!",
+  "album": {
+    "media": [{
+      "url": "https://lh3.googleusercontent.com/-YwpnFx72AII/WOb6OvGfBnI/AAAAAAACKGQ/CgVPSOvIWS8esMLjFoGf_Jiwq50fY2YrwCJoC/w4032-h3024/IMG_20170406_195055.jpg",
+      "contentType": "image/*",
+      "width": 4032,
+      "height": 3024,
+      "resourceName": "media/CixBRjFRaXBPMG00YkdYTGxvQmZuSGt6Ym9VcjBZOFpYcGZGeUd4a0xZb0ZJbQ\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-0bCTWZAHpto/WOb6OucrCTI/AAAAAAACKGQ/9w2tF7ZQbTEFvaIkhBCEmHxi5RXwbrzbgCJoC/w989-h988/pcb-top.png",
+      "contentType": "image/*",
+      "width": 989,
+      "height": 988,
+      "resourceName": "media/CixBRjFRaXBOZDhKYmRwQjVLNzkxNGRrZDNhcDBvbnZCNWRFTWZ2b052S01odw\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-TrWaHnr3Xyw/WOb6OucXsMI/AAAAAAACKGQ/a1VwADWbBZkWbyS4OPcvkz3xXwu5SUzugCJoC/w989-h988/pcb-bottom.png",
+      "contentType": "image/*",
+      "width": 989,
+      "height": 988,
+      "resourceName": "media/CixBRjFRaXBPajhjYlVoMjNVS2dBaWpRTWhwcU03MTYxbHV5bVhSSlBGblZORw\u003d\u003d"
+    }]
+  },
+  "comments": [{
+    "creationTime": "2017-04-06 22:55:29-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Seems like a great project!  Should be able to do quite a variety of experiments with that setup.\u003cbr\u003e\u003cbr\u003eIf I were to suggest one other thing you could add to the board if you can squeeze it in somewhere... a tiny push button (and the associated pull down/up resistor).  Maybe only have four LEDs and that would give room for a button?  Would allow for one more common aspect that users often want to incorporate into a project.\u003cbr\u003e\u003cbr\u003eExcellent.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDq_oGRrJHTAg"
+  }, {
+    "creationTime": "2017-04-06 23:02:45-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110856759083002287912\" oid\u003d\"110856759083002287912\" \u003eMarc Miller\u003c/a\u003e\u003c/span\u003e great suggestion, thanks!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCs0vPgrZHTAg"
+  }, {
+    "creationTime": "2017-04-06 23:18:13-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Oh... Also maybe print MC info, Led type, and pin number info on the back of the board if possible.  Makes it so much easier to at least confirm you\u0026#39;re​ specifying the correct type of LEDs in your addLeds line, or that the correct pin is assigned for something, or to know what MC to compile for a year from now.\u003cbr\u003eTrinket Pro (5V)\u003cbr\u003ePot.R \u003d pin x\u003cbr\u003ePot.G \u003d pin y\u003cbr\u003eetc.\u003cbr\u003eButton \u003d pin z",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxD0052bsZHTAg"
+  }, {
+    "creationTime": "2017-04-07 06:05:11-0400",
+    "author": {
+      "displayName": "PaulStoffregen",
+      "profilePageUrl": "https://plus.google.com/113416559182515729363",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-NfxlHlX2AwE/AAAAAAAAAAI/AAAAAAAAABk/icch725r9NM/s64-c/photo.jpg",
+      "resourceName": "users/113416559182515729363"
+    },
+    "content": "I like seeing those sturdy pot PCBs on your breadboard.  :)   \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117542001281850354871\" oid\u003d\"117542001281850354871\" \u003eDrew Fustini\u003c/a\u003e\u003c/span\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCQjP6WjJLTAg"
+  }, {
+    "creationTime": "2017-04-07 08:51:55-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113416559182515729363\" oid\u003d\"113416559182515729363\" \u003ePaulStoffregen\u003c/a\u003e\u003c/span\u003e those are great!  I mention and link to them in the blog, but forgot to in the G+ post.  I used a dozen of them in a class for my daughter\u0026#39;s Girl Scout troop.  Thanks for creating and sharing them!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCjnYW5sZLTAg"
+  }, {
+    "creationTime": "2017-04-07 10:19:43-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110856759083002287912\" oid\u003d\"110856759083002287912\" \u003eMarc Miller\u003c/a\u003e\u003c/span\u003e I\u0026#39;ve updated it with your suggestions.  Thanks!\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "link": {
+      "title": "OSH Park ~ FastLED RGB \u0026amp; HSV Tutorial v1.1",
+      "url": "https://oshpark.com/shared_projects/0S10dNB4",
+      "imageUrl": "https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/ac441ddae5f699ac994533261f296d18.png"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxC89OqIxZLTAg"
+  }, {
+    "creationTime": "2017-04-07 12:34:56-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Nice.  I resisted mentioning it before, but now that you updated it my brain thanks you for fixing the inconsistent LED spacing.  ;)\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDK8N6l45LTAg"
+  }, {
+    "creationTime": "2017-04-07 13:04:34-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "How are you setting up the RGB/HSV slide switch?  (Does that need a 10k resistor too?  Should the pin number for that be added on the back of the board too?)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCC5bD16ZLTAg"
+  }, {
+    "creationTime": "2017-04-07 13:19:17-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Good question.  It\u0026#39;s a SPDT switch, so I just have the middle pin connected to D8, one side to GND, and the other to 5V.  I don\u0026#39;t think it\u0026#39;ll need a resistor to pull up/down, but I\u0026#39;ll test on a breadboard before ordering the PCB.\u003cbr\u003e\u003cbr\u003eThanks!  I missed the switch pinlabel on the bottom.\u003cbr\u003e\u003cbr\u003eThe top of the board also has all the pins labeled near the components.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDy1LKa7ZLTAg"
+  }, {
+    "creationTime": "2017-04-07 15:37:14-0400",
+    "author": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e – Great project.  I would like to recommend that you consider using the Adafruit Metro Mini instead of the Trinket Pro.  I have used both.  With the Trinket Pro, it is a real pain in the butt and is very frustrating to push the reset button at the correct time to get the bootloader running on the Trinket Pro when you upload a sketch.  I have both but do all of my work on the Metro Mini if I do not need the extra memory available on a Teensy 3.2 or the Wemos D1 Mini Pro.  FYI, the Metro Mini is only a few more dollars than the Trinket Pro, it is about the same size and it has a 5 volt output.\u003cbr\u003e\u003cbr\u003eAlso, I would like to recommend that you consider using the breadboard NeoPixels instead of the 5mm NeoPixels.    These breadboard NeoPixels are very hard to destroy and work well.  They are built like tanks.  \u003cbr\u003e\u003cbr\u003eIf you want to spend a few more dollars, then you might consider using the NeoPixel stick which you can attach some male header pins on one side and have it sticking up on your board.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCI4JKFjJPTAg"
+  }, {
+    "creationTime": "2017-04-07 16:04:59-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "I would totally agree that needing to push the button on the Trinket Pro every time you upload is indeed a pain.  I\u0026#39;ve only used one once for this very reason.\u003cbr\u003e\u003cbr\u003eI was just thinking DFRobot\u0026#39;s Beetle Board could work for this too.  It conveniently has the three analogue pins (for the pots) and the three digital pins (for button, slide switch, and data out) that would work very nicely.\u003cbr\u003eAnd it programs easily (just set IDE to compile for Leonardo) with no button push needed.  Only slight downside about the beetle is shipping isn\u0026#39;t quite as fast.\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.dfrobot.com/product-1075.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.dfrobot.com/product-1075.html\u003c/a\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCJ07CfkpPTAg"
+  }, {
+    "creationTime": "2017-04-07 16:37:05-0400",
+    "author": {
+      "displayName": "PaulStoffregen",
+      "profilePageUrl": "https://plus.google.com/113416559182515729363",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-NfxlHlX2AwE/AAAAAAAAAAI/AAAAAAAAABk/icch725r9NM/s64-c/photo.jpg",
+      "resourceName": "users/113416559182515729363"
+    },
+    "content": "Sad to see the Teensy turned into a Trinket.  :(\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCvpKy1mZPTAg"
+  }, {
+    "creationTime": "2017-04-07 16:48:23-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113416559182515729363\" oid\u003d\"113416559182515729363\" \u003ePaulStoffregen\u003c/a\u003e\u003c/span\u003e I picked up a Teensy LC at Micro Center over lunch, think I\u0026#39;ll switch it back.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDo5eH4m5PTAg"
+  }, {
+    "creationTime": "2017-04-07 16:53:58-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "I fully support Jason just going ahead and reworking this into revision 2 today to use the Teensy LC.  :D",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxC-kciYnZPTAg"
+  }, {
+    "creationTime": "2017-04-07 19:39:35-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks for all the feedback, guys!  I\u0026#39;ll try to get it switched to the Teensy LC over the weekend.  So much more power for about the same price.  :)\u003cbr\u003e\u003cbr\u003eI thought I\u0026#39;d go with the 5mm NeoPixels only to cut down on the soldering required.  I thought about using the breadboard NeoPixels, but that\u0026#39;d require a bit more soldering work (attaching the headers, then soldering to the PCB).  I did include a GND, 5V and output header in case you want to attach more LEDs (strip, string, stick, ring, etc).",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCOs-SawpPTAg"
+  }, {
+    "creationTime": "2017-04-08 23:14:18-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102004717133653297761\" oid\u003d\"102004717133653297761\" \u003eKen White\u003c/a\u003e\u003c/span\u003e thanks!  I\u0026#39;ve had nothing but trouble trying to get the 5mm NeoPixels working on a breadboard.  The Breadboard NeoPixels work great, but the 4 pack of them cost more than the 8 NeoPixel stick, so I think I\u0026#39;ll take your advice.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxD3yuWItJbTAg"
+  }, {
+    "creationTime": "2017-04-09 01:14:13-0400",
+    "updateTime": "2017-04-09 14:53:37-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "OK, switched to the Teensy LC and 8x NeoPixel stick, reworked the layout, reduced the size and cost to $26: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://oshpark.com/shared_projects/ZO8HevN7\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://oshpark.com/shared_projects/ZO8HevN7\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI\u0026#39;m going to do more breadboard testing, and hopefully order the PCBs before Monday morning.\u003cbr\u003e\u003cbr\u003eI\u0026#39;m still pretty new to PCB design.  I really appreciate all the feedback, please keep it coming!  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxD_jb7vzpbTAg"
+  }, {
+    "creationTime": "2017-04-09 02:19:55-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "More feedback/thoughts for you Jason.  :)\u003cbr\u003e\u003cbr\u003eI\u0026#39;d like to throw the idea of turning the orientation of the vertical pixel stick, as well as relocating it (and probably then the button).   Maybe something like the attached image.\u003cbr\u003e\u003cbr\u003eThinking in terms of UI/UX...\u003cbr\u003e- The button might be harder to press if it\u0026#39;s down inbetween the base of the pixel strip and the Teensy LC.\u003cbr\u003e- Having the pixels face the user would make them easier to view. (That\u0026#39;s assuming the board is turned with the three pots at the front near the user.)\u003cbr\u003e- Having the vertical pixel strip at the \u0026quot;back\u0026quot; puts it more out of the way from fingers turning the knobs.\u003cbr\u003e\u003cbr\u003eEDIT... Wait, what happened to the large capacitor?  Hmmm, maybe the vertical pixel strip should move forward enough put a cap right behind it.  I think a 1000uF 16V one could fit there, yes?\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "media": {
+      "url": "http://i.imgur.com/pUakfDZ.png",
+      "contentType": "image/*",
+      "width": 500,
+      "height": 394,
+      "resourceName": "media/Eh5odHRwOi8vaS5pbWd1ci5jb20vcFVha2ZEWi5wbmc\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCZx73H3ZbTAg"
+  }, {
+    "creationTime": "2017-04-09 02:22:28-0400",
+    "author": {
+      "displayName": "PaulStoffregen",
+      "profilePageUrl": "https://plus.google.com/113416559182515729363",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-NfxlHlX2AwE/AAAAAAAAAAI/AAAAAAAAABk/icch725r9NM/s64-c/photo.jpg",
+      "resourceName": "users/113416559182515729363"
+    },
+    "content": "If the cap connects directly to 5V power from USB, consider the USB spec says devices shall have no more than 10 uF capacitance without current limiting circuitry.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDw_7OQ3pbTAg"
+  }, {
+    "creationTime": "2017-04-09 02:23:10-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Btw, you\u0026#39;re making me want to learn a bit of Eagle (or KiCAD or something) so I could make my own simple boards too.  So cool.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCS5rmk3pbTAg"
+  }, {
+    "creationTime": "2017-04-09 02:25:16-0400",
+    "author": {
+      "displayName": "PaulStoffregen",
+      "profilePageUrl": "https://plus.google.com/113416559182515729363",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-NfxlHlX2AwE/AAAAAAAAAAI/AAAAAAAAABk/icch725r9NM/s64-c/photo.jpg",
+      "resourceName": "users/113416559182515729363"
+    },
+    "content": "The issue has to do with inrush current during USB hotplug.  The USB host (your PC or Mac or Raspberry Pi or a Teensy 3.6 or something else...) is supposed to have at least 120 uF capacitance.  The idea is when you suddenly join 10 and 120 uF, the impact on the overall voltage is only a small drop.  The larger you make the device\u0026#39;s capacitor, the more it impacts the USB host\u0026#39;s power supply voltage during hotplug.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxC60Mfg3pbTAg"
+  }, {
+    "creationTime": "2017-04-09 02:29:01-0400",
+    "author": {
+      "displayName": "PaulStoffregen",
+      "profilePageUrl": "https://plus.google.com/113416559182515729363",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-NfxlHlX2AwE/AAAAAAAAAAI/AAAAAAAAABk/icch725r9NM/s64-c/photo.jpg",
+      "resourceName": "users/113416559182515729363"
+    },
+    "content": "Some better quality computers have actual USB current sensing.  Some older macs had this, dunno about the latest.  Most cheaper machines have only a PTC \u0026quot;fuse\u0026quot; (really just a resistor that increases when it gets hot).  A large capacitor with high inrush current can trigger the current detection circuits.  This is the sort of unpleasant surprise you might learn during a workshop where something that worked fine on your small collection of PCs suddenly fails with exposed to dozens of computers, a few of them with sensitive USB over-current detection.  (I do know of at least Arduino workshop using someone\u0026#39;s custom board where a large capacitor did this....)\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCSxNrL35bTAg"
+  }, {
+    "creationTime": "2017-04-09 02:31:49-0400",
+    "updateTime": "2017-04-09 02:41:45-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks again for all of the feedback, you guys are awesome!\u003cbr\u003e\u003cbr\u003eI actually planned on the strip laying flat with the PCB, sticking out to the side, and mounted down with screws to a board.  I do agree it might be hard to press the \u0026quot;emergency rainbows\u0026quot; button though, and will try rotating it like you suggest.\u003cbr\u003e\u003cbr\u003eI got rid of the giant capacitor to save on space and PCB cost.  I hope it\u0026#39;s safe without it, with just 8 LEDs running off USB power.\u003cbr\u003e\u003cbr\u003eI followed SparkFun\u0026#39;s Eagle tutorials, and highly recommend them: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI still have a lot to learn.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCJw-yb4JbTAg"
+  }, {
+    "creationTime": "2017-04-09 02:33:25-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113416559182515729363\" oid\u003d\"113416559182515729363\" \u003ePaulStoffregen\u003c/a\u003e\u003c/span\u003e  Interesting.  I guess I\u0026#39;ve violated that spec multiple times with my small USB powered FastLED projects!  :/",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDI9czJ4JbTAg"
+  }, {
+    "creationTime": "2017-04-09 02:45:42-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Agreed, the cap can probably be left off then.\u003cbr\u003e\u003cbr\u003eAhhh, the strip horizontal out to the side.  I get it now.   Would just need to make sure it\u0026#39;s supported and secured in someway so it\u0026#39;s not wrenching on the solder connection.\u003cbr\u003e\u003cbr\u003eMy thought of having it mounted vertically might not be a good idea at all if these need to be more robust and survive the weekend.  Plus they will take up more space when packed up (unless the LED stick could unplug).  Horizontal out the side or back is indeed probably better!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDCy4qp45bTAg"
+  }, {
+    "creationTime": "2017-04-09 03:09:13-0400",
+    "author": {
+      "displayName": "PaulStoffregen",
+      "profilePageUrl": "https://plus.google.com/113416559182515729363",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-NfxlHlX2AwE/AAAAAAAAAAI/AAAAAAAAABk/icch725r9NM/s64-c/photo.jpg",
+      "resourceName": "users/113416559182515729363"
+    },
+    "content": "I faced this dilemma with the design of Teensy 3.6, which has a USB host port that people will use to hotplug all sorts of USB things including LED projects, yet it may often be powered from only a USB cable where too much inrush can impact the upstream PC or Mac.  After much experimenting, I finally settled on a TPD3S014 current limit switch, and a 100 uF capacitor (just 20 uF shy of the USB spec requirement).  I tested with USB ports on several machines.  The combination of the TPD3S014 and 100 uF does cause the USB voltage to drop a bit more than the USB spec, and it doesn\u0026#39;t quite meet the USB spec for the hotplugged device, but both are close, within about 0.4 volts.  The switch also allows the power to be turned on by software control... so if there is a problem at least the user\u0026#39;s code can upload and they can know it\u0026#39;s related to turning on the port.  This was the best trade-off I could find.  But of course adding a special surface mount part like this is probably overkill for your needs.  I\u0026#39;d personally put a 10 uF cap on the board.  Together with Teensy\u0026#39;s 2.2 uF caps, that\u0026#39;s slightly over the official USB spec, but not by a huge amount.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCpx-fJ6JbTAg"
+  }, {
+    "creationTime": "2017-04-09 03:52:38-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Thank you for sharing your experiences (dilemmas) and bits of info and suggestions.  I\u0026#39;ll never skip reading a \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113416559182515729363\" oid\u003d\"113416559182515729363\" \u003ePaulStoffregen\u003c/a\u003e\u003c/span\u003e post.  :)  Your dedication of wanting to do things right and making solid products is why those of us that have come to know your work and support of the community love ya.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDG-oGk8pbTAg"
+  }, {
+    "creationTime": "2017-04-09 08:07:55-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Yes, thank you so much for the advice and support, \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113416559182515729363\" oid\u003d\"113416559182515729363\" \u003ePaulStoffregen\u003c/a\u003e\u003c/span\u003e​!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxC34carq5fTAg"
+  }, {
+    "creationTime": "2017-04-09 10:00:33-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/Ds1cfOwnJbIY2IU74NGrj0a6QAvW0cP0el3AUiD4xssOmDh0lJKgN-y8zfdNWzQqKPFfuYHTJF0",
+      "contentType": "image/*",
+      "width": 500,
+      "height": 394,
+      "resourceName": "media/CixBRjFRaXBQMUQxWlFZV2RFUG13QXEyX2JxNG9Gekc3cFVrX09mNFFXbUpOdQ\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDArpLCxJfTAg"
+  }, {
+    "creationTime": "2017-04-09 10:00:44-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/8M-YrP0fA4kFUpbVAsMy50p44PJkRMOZJehv0R8jky2P1mkXc0Yodnb6t6p3hkB9QyduwIkWp7A",
+      "contentType": "image/*",
+      "width": 500,
+      "height": 394,
+      "resourceName": "media/CixBRjFRaXBONDlqWExVallRUWYwWTdoNFBoSVFRQlBrcG9ySFUzVTN3blppNA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCZxZ7HxJfTAg"
+  }, {
+    "creationTime": "2017-04-09 10:05:40-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "OK, here\u0026#39;s the next revision.  Added the 10uF capacitor and rearranged the layout a bit.  Thanks!  More details, eagle files, etc: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.evilgeniuslabs.org/fastled-rgb-hsv-tutorial\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.evilgeniuslabs.org/fastled-rgb-hsv-tutorial\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCYz8vUxZfTAg"
+  }, {
+    "creationTime": "2017-04-09 10:13:54-0400",
+    "author": {
+      "displayName": "PaulStoffregen",
+      "profilePageUrl": "https://plus.google.com/113416559182515729363",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-NfxlHlX2AwE/AAAAAAAAAAI/AAAAAAAAABk/icch725r9NM/s64-c/photo.jpg",
+      "resourceName": "users/113416559182515729363"
+    },
+    "content": "Just curious, what\u0026#39;s the size of those vias?  They look tiny, but maybe that\u0026#39;s just because the traces are so large?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxD3k_e_x5fTAg"
+  }, {
+    "creationTime": "2017-04-09 10:22:31-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113416559182515729363\" oid\u003d\"113416559182515729363\" \u003ePaulStoffregen\u003c/a\u003e\u003c/span\u003e I\u0026#39;m using the Eagle defaults, and the OSH Park DRU file.  Diameter is set to \u0026quot;auto\u0026quot;, Outer and Inner Layer Diam. is 0.03762205, Drill is 0.02362205.  That seem alright?  Think I need to make them larger, or the traces smaller?  I always think the default trace size seems too small and bump it up a few.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCA8Nm2yZfTAg"
+  }, {
+    "creationTime": "2017-04-09 10:42:39-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Looking good!\u003cbr\u003eMaybe a revision number and year on the board somewhere?\u003cbr\u003e\u003cbr\u003eOnly thing I\u0026#39;m wondering about now is how the PCB will be secured down to a surface once the Teensy is soldered in place.  If the Teensy was plugged into headers then no issue, but your plan is to have the Teensy soldered straight onto the PCB right?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCXq9n2zZfTAg"
+  }, {
+    "creationTime": "2017-04-09 10:59:00-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110856759083002287912\" oid\u003d\"110856759083002287912\" \u003eMarc Miller\u003c/a\u003e\u003c/span\u003e Thanks!  Good idea, I\u0026#39;ll add that before I order.\u003cbr\u003e\u003cbr\u003eYeah, there\u0026#39;s really no room for mounting holes anywhere but under the Teensy.  I played around with overhanging them on the edge of the PCB, like castellated edges, but it increased the PCB size and cost.\u003cbr\u003e\u003cbr\u003eI thought about female headers so the Teensy would be removable, and figure anyone else that might build one would use them.  For MF I might use raised male headers and find some low profile screws that fit underneath.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDv16rK0ZfTAg"
+  }, {
+    "creationTime": "2017-04-09 14:54:01-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/x1pPndC5tIG2a0FH6CqY8AsZAOTbgZy-zJA5U1u-7iCR-8m62stUg4wi4_W543A1EwrtgQTWRss",
+      "contentType": "image/*",
+      "width": 929,
+      "height": 732,
+      "resourceName": "media/CixBRjFRaXBPc1JVNXpJZkhVenFnYTZSU2UydWRWeDVuazNJRXZVakZJQ0ZVNw\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDmnbGOhpjTAg"
+  }, {
+    "creationTime": "2017-04-09 14:56:53-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "OK, I\u0026#39;m think I\u0026#39;m getting close.  Resized all the traces to more normal suggested sizes.  This also allowed me to add the full header for the Teensy LC end pins.  Reworked the layout a bit.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/YK_onFui2JFqbFabf3c9Fqaamf9_a2urWS6xIHGXCyI1YjpgO-Ugrhm7SfBPG-Aas84KH341I20",
+      "contentType": "image/*",
+      "width": 929,
+      "height": 732,
+      "resourceName": "media/CixBRjFRaXBQQlpNQ0RCLW4wYkwyaHpPZzVjQ0o1czhkZGdMclA0QjN2X1lPTg\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDBl6DghpjTAg"
+  }, {
+    "creationTime": "2017-04-09 16:02:38-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Were you going to include info for the pixel type on the back too?\u003cbr\u003eLooking great.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxC08s65lZjTAg"
+  }, {
+    "creationTime": "2017-04-09 16:07:53-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Good idea, thanks!  Although really the board should work with any 3 wire LEDs, with only minor code changes.\u003cbr\u003e\u003cbr\u003eI don\u0026#39;t think there\u0026#39;s enough space between the potentiometers for most  cheap knobs, but I don\u0026#39;t really want to make the board any bigger or move the switch to make room.  I\u0026#39;m going to try to trim some knobs down. :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCJytLPlpjTAg"
+  }, {
+    "creationTime": "2017-04-09 16:18:12-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "I guess since the pixels aren\u0026#39;t necessarily permanently mounted to the the board maybe not necessary to include the pixel type.\u003cbr\u003e\u003cbr\u003eI made this smallish knob you could 3d print that might work.\u003cbr\u003e\u003cbr\u003eOr I could model an even more slender one for you if you\u0026#39;d like.\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "link": {
+      "title": "knob for potentiometer by marmil",
+      "url": "http://www.thingiverse.com/thing:657373",
+      "imageUrl": "https://cdn.thingiverse.com/renders/dd/ce/ea/52/cc/knob_v2_preview_featured.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDpktP2mJjTAg"
+  }, {
+    "creationTime": "2017-04-10 12:07:53-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks again to Marc, Paul, and Ken for all of the help and suggestions here!  I placed the order with OSH Park (along with a couple of purple Teensy LCs) this morning in time for the Super Swift service, so hopefully I\u0026#39;ll have them this weekend.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDOidbroprTAg"
+  }, {
+    "creationTime": "2017-04-14 08:19:42-0400",
+    "author": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e -  You might want to consider including three female headers, three male headers and three long male/female jumper cables in your kit.  With the female headers soldered into the PCB where you would connect the NeoPixel stick to, you could either plug the NeoPixel stick that has male headers on the input end into the female headers directly on the PCB or connect the NeoPixel stick to the jumper cables and then to the PCB. This is what I have done with my NeoPixel sticks and it allows you have different orientations for the NeoPixel stick.  This allows you to switch easily to other RGB LED products like a NeoPixel ring, too.\u003cbr\u003e\u003cbr\u003eAlso, you might want to consider two different products in the future.  One product would include your PCB and another product would include a long breadboard.  \u003cbr\u003e\u003cbr\u003eFinally, your kit is reminding me a lot of some of the old Allied Radio Knight Kits.   Building some of those kits got me started in electronics along with Popular Electronics magazine.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDtjLmm96PTAg"
+  }, {
+    "creationTime": "2017-04-15 12:52:06-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102004717133653297761\" oid\u003d\"102004717133653297761\" \u003eKen White\u003c/a\u003e\u003c/span\u003e Thanks again for the suggestions!  The components should arrive from Digi-Key today, and the PCBs Monday, so I\u0026#39;ll get them assembled and tested then.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxDXzdWG9qbTAg"
+  }, {
+    "creationTime": "2017-04-17 21:46:47-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "It\u0026#39;s alive!  :)  More info, PCB files, parts list, code, etc: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://evilgeniuslabs.org/fastled-rgb-hsv-tutorial\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://evilgeniuslabs.org/fastled-rgb-hsv-tutorial\u003c/a\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/U0a3XKyKl8L1fpsuLILCgNF5mA41g1uPg1hLG_L42THvhEKoCLx-oVA2aBfZfWxPF69I40gHjeA",
+      "contentType": "image/*",
+      "width": 2742,
+      "height": 3656,
+      "resourceName": "media/CixBRjFRaXBPSk16QkxPRjZtR29kMDE3dElUbVVyYnk3TTZURUdBaUpmN1lhcA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxC78c6l8azTAg"
+  }, {
+    "creationTime": "2017-04-17 23:33:23-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Awesome!  So cool.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VpdnyvyH2dP",
+    "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC/comments/CiN6MTIxanRjeTFtbXppcGR4ZzA0Y2l0dzRleWZkY3RycjQybxCzsMOPia3TAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgisT6nxSCj-AngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "José Manuel",
+      "profilePageUrl": "https://plus.google.com/104252613779916507530",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-34OZtuOz2CU/AAAAAAAAAAI/AAAAAAAACGM/G0iK2skCsN0/s64-c/photo.jpg",
+      "resourceName": "users/104252613779916507530"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Drew Fustini",
+      "profilePageUrl": "https://plus.google.com/+DrewFustini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-3PhsidIxDoU/AAAAAAAAAAI/AAAAAAAHDQI/rq6WzGzmFQI/s64-c/photo.jpg",
+      "resourceName": "users/117542001281850354871"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "OSH Park",
+      "profilePageUrl": "https://plus.google.com/+Oshpark",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-QxgixVgbVCc/AAAAAAAAAAI/AAAAAAAAADk/aCTRH95MeRw/s64-c/photo.jpg",
+      "resourceName": "users/100779964808096572793"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Drew Fustini",
+      "profilePageUrl": "https://plus.google.com/+DrewFustini",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-3PhsidIxDoU/AAAAAAAAAAI/AAAAAAAHDQI/rq6WzGzmFQI/s64-c/photo.jpg",
+      "resourceName": "users/117542001281850354871"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/117542001281850354871",
+        "displayName": "Drew Fustini"
+      }, {
+        "resourceName": "users/110856759083002287912",
+        "displayName": "Marc Miller"
+      }, {
+        "resourceName": "users/113416559182515729363",
+        "displayName": "PaulStoffregen"
+      }, {
+        "resourceName": "users/102004717133653297761",
+        "displayName": "Ken White"
+      }]
+    }
+  }
+}

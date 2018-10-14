@@ -1,0 +1,313 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/3zNMCNRBMoP",
+  "creationTime": "2015-10-08 12:08:08-0400",
+  "updateTime": "2015-10-08 14:50:42-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I built these prototypes out of cardboard a while back, and have been waiting to share them until I built proper bodies out of wood (which still hasn\u0026#39;t happened).  Built three different sizes, each with 60 APA102s: 5.22\u0026quot; small (144/m), 10.44\u0026quot; medium (72/m), and 12.53\u0026quot; large (60/m).  I plan to build them with larger faces to block more direct lighting.  They diffuse very nicely out onto the wall on which they\u0026#39;re hung.\u003cbr\u003e\u003cbr\u003eI really need to step up my woodworking skills, so I found a local guild that has all the expensive equipment, and classes to learn how to use them.  Now I just need more spare time...  :)\u003cbr\u003e\u003cbr\u003eSource: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/SparkRing/blob/master/Firmware/spark-ring/spark-ring.ino\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/SparkRing/blob/master/Firmware/spark-ring/spark-ring.ino\u003c/a\u003e",
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/FZjjxLNB737",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Clock/circular display built with a Spark Core, syncs time automatically via Wi-Fi.  All you have to do is set the time zone.",
+    "album": {
+      "media": [{
+        "url": "https://lh3.googleusercontent.com/-6-w4gWScvrQ/VOPB2tdVKkI/AAAAAAABvQs/qLF5_WnaBhk/w3264-h2448/IMG_20150217_154615.jpg",
+        "contentType": "image/*",
+        "width": 3264,
+        "height": 2448,
+        "resourceName": "media/CixBRjFRaXBQc0doRUJxLTdLVXhwV01TbGhQVVdGblpnR2w2YkxRclJydTJWWA\u003d\u003d"
+      }, {
+        "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116975361238589266?sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac\u0026sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+        "contentType": "video/*",
+        "width": 854,
+        "height": 480,
+        "description": "Clock",
+        "resourceName": "media/CixBRjFRaXBNVlpDTU5XekpINHl2OUg2Y3A4RUswRF9BR1dKVHhxbVBTMlFDVg\u003d\u003d"
+      }, {
+        "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945967332472658?sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac\u0026sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+        "contentType": "video/*",
+        "width": 854,
+        "height": 480,
+        "description": "Rainbow",
+        "resourceName": "media/CixBRjFRaXBNeV8tbWxibTAwM3kxbVlFQVRGY2tSdUtVUk1NSEhWYTc3cTU3Xw\u003d\u003d"
+      }, {
+        "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945964981947794?sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac\u0026sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+        "contentType": "video/*",
+        "width": 854,
+        "height": 480,
+        "description": "Rainbow with sparkles",
+        "resourceName": "media/CixBRjFRaXBNckR2SE11VHZQWEoxYmk4bU1vS3VCVjY1OEJNZVhvNklNcDNLWg\u003d\u003d"
+      }, {
+        "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945967067714738?sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac\u0026sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+        "contentType": "video/*",
+        "width": 854,
+        "height": 480,
+        "description": "Sinelon",
+        "resourceName": "media/CixBRjFRaXBQVGdrMjNBcFFwYlpiblNhSkJyQ0hNVnNYcnc1UllRNkFhbEFHSA\u003d\u003d"
+      }, {
+        "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945967413023746?sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac\u0026sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+        "contentType": "video/*",
+        "width": 854,
+        "height": 480,
+        "description": "Juggle",
+        "resourceName": "media/CixBRjFRaXBPc3FwVm5oLVp6UXpBSzNvTXRGV0RzT0M2cWZPQzVkVWVsQ0hJUg\u003d\u003d"
+      }, {
+        "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945964722252866?sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac\u0026sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+        "contentType": "video/*",
+        "width": 854,
+        "height": 480,
+        "description": "BPM",
+        "resourceName": "media/CixBRjFRaXBPUGhlaURUYk13R3ZETlZheGY5MXVndzZKcG41N19FNTZyU1lfdg\u003d\u003d"
+      }, {
+        "url": "https://plus.google.com/photos/103867089694409269471/albums/6116945853202527297/6116945966320262930?sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac\u0026sqi\u003d109127054924227823508\u0026sqsi\u003df932cd25-77bc-4f5d-ba7a-1917d4b9f9ac",
+        "contentType": "video/*",
+        "width": 854,
+        "height": 480,
+        "description": "Confetti",
+        "resourceName": "media/CixBRjFRaXBQTGpjd0NSSF9tdkt0V2Z6TS1laEw4NXhuaVlqYm45dERkT09MaA\u003d\u003d"
+      }]
+    },
+    "resourceName": "users/103867089694409269471/posts/UghXEzVxg8wU0ngCoAEC"
+  },
+  "comments": [{
+    "creationTime": "2015-10-08 13:28:36-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "WOW!!\u003cbr\u003eTalk about great great designs of the \u0026#39;cheap kind\u0026#39;    ;-)\u003cbr\u003eVery nice yet simple creation. I promise that I will re-use that design but probably not using cardboard    ;-)\u003cbr\u003eThank you very very much for that basic idea.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQkPOvi7OzyAI"
+  }, {
+    "creationTime": "2015-10-08 13:58:58-0400",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "I’m a big fan of the light spreading onto the wall thing - \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/watch?v\u003d6RKPT5N-2zo\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/watch?v\u003d6RKPT5N-2zo\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQg4KC8LmzyAI"
+  }, {
+    "creationTime": "2015-10-08 14:00:02-0400",
+    "author": {
+      "displayName": "Daniel Garcia",
+      "profilePageUrl": "https://plus.google.com/102282558639672545743",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-pO_2P5-5Hpw/AAAAAAAAAAI/AAAAAAAAAJc/HPxHTjIWnoM/s64-c/photo.jpg",
+      "resourceName": "users/102282558639672545743"
+    },
+    "content": "And an even older, cruder one (from the FastSPI_LED days with the LPD6803 chipset) - \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/watch?v\u003dePdzfv3fUGA\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/watch?v\u003dePdzfv3fUGA\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQodb7jrqzyAI"
+  }, {
+    "creationTime": "2015-10-08 14:51:30-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "I love the looping spirals on yours, Daniel!\u003cbr\u003e\u003cbr\u003eThanks, JP!  I admit I thought of you when I decided to go ahead and post these.  As always, I\u0026#39;m looking forward to seeing how you handle the physical construction (something I struggle with every time).  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQyb-5z8WzyAI"
+  }, {
+    "creationTime": "2015-10-08 16:20:36-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Hi \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e, thanks !\u003cbr\u003eI really did appreciate what you showed there and will eventually try to take your idea and expand on it.\u003cbr\u003eWhile watching some of Daniel\u0026#39;s early creations\u0026#39; I came across this video:\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.youtube.com/watch?v\u003d3RT8MtnOmcE\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.youtube.com/watch?v\u003d3RT8MtnOmcE\u003c/a\u003e\u003cbr\u003eNow I have to admit that I was initially thinking of something similar, in wood to use as a cover instead of cardboard but now that I saw that video, I do not think any solid round wood faceplate would be best here.\u003cbr\u003eI\u0026#39;ll give this a bit more thought and come back with any ideas if they come.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQl9fDxNmzyAI"
+  }, {
+    "creationTime": "2015-10-08 16:29:43-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "Wondering about what a simple thin, opaque disk painted to the exact wall color would look like !?\u003cbr\u003eIt would probably be better to  have it be a wider diameter than the actual LED to hide any direct view of them. \u003cbr\u003eI would also drill a hole in that wall and hide any wires coming out that assembly.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQz5-xyduzyAI"
+  }, {
+    "creationTime": "2015-10-08 16:49:21-0400",
+    "author": {
+      "displayName": "allanGEE",
+      "profilePageUrl": "https://plus.google.com/106033221351737716750",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-EuWdnfGn3VY/AAAAAAAAAAI/AAAAAAAAAJA/KA7-ipLAOZc/s64-c/photo.jpg",
+      "resourceName": "users/106033221351737716750"
+    },
+    "content": "Hey Jason, \u003cbr\u003e\u003cbr\u003eDon\u0026#39;t sweat the woodworking.  Just go for it and learn as you go.  Buy the basic tools you need, as you need them.  In this case, probably a jigsaw.  :)  And a wood project you\u0026#39;re going to paint is the BEST -- because you hide mistakes and flaws with filler before painting.  You can also salvage a lot of great wood if you keep your eyes open.  \u003cbr\u003e\u003cbr\u003eThat being said, you should check out your local thrift stores.  I bet you\u0026#39;ll be surprised at how many flat round objects you can find.  Imagine them with a coat of paint and they might suit your project perfectly.  The stuff behind the nice disk could be anything, since no one will see it.\u003cbr\u003e\u003cbr\u003eAnother option would be an old hollow-core interior door.  Drill a hole right through in the center of the upper or lower half as a reference.  Draw a circle on both sides.  You can cut through the thin plywood with repeated cuts from a utility nice. (cut it slightly too big so you can sand the edges later).  The cardboard between the layers acts as  built-in spacer -- and can be cut back from the edges to nest the LEDS.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQ3Lvf-t-zyAI"
+  }, {
+    "creationTime": "2015-10-08 18:39:18-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106626345342202981932\" oid\u003d\"106626345342202981932\" \u003eJP Roy\u003c/a\u003e\u003c/span\u003e, yeah, I plan to hollow it out and mount the electronics inside, and definitely increase the diameter of the face to hide direct view.  I\u0026#39;ve debated what to put on the face, if anything.  Ideas I\u0026#39;ve thought about:\u003cbr\u003e\u003cbr\u003e* Matching wall paint color.  I like this idea the most, because it\u0026#39;s the light that matters, not the physical form of the device.  This would let it \u0026#39;melt\u0026#39; into the wall.\u003cbr\u003e* Moar LEDS!  Like Daniel\u0026#39;s clock, why limit yourself to light diffusing on the wall?  :)\u003cbr\u003e* A clock face.  This seemed the most obvious, especially if actually telling time is a priority.\u003cbr\u003e* Sports logo, movie, comic book, poster, photo etc.  A clear acrylic face where you can place whatever you want.\u003cbr\u003e* Shadow box.  Just make it clear and hollow, and fill it with whatever.  Hide the electronics behind a back panel.\u003cbr\u003e\u003cbr\u003eMorgan Barke has some of the coolest, CNC machined, designs I\u0026#39;ve seen for wood LED clocks: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://barkengmad.com/category/led-clock\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://barkengmad.com/category/led-clock\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQ7tm5xPizyAI"
+  }, {
+    "creationTime": "2015-10-08 18:44:05-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106033221351737716750\" oid\u003d\"106033221351737716750\" \u003eallanGEE\u003c/a\u003e\u003c/span\u003e.  I have a jigsaw, circular saw, router, and Dremel, but haven\u0026#39;t used them much.  I\u0026#39;ve been obsessing on the idea of using the router with a circle guide, or a CNC router, but I think you\u0026#39;re right, it\u0026#39;d be simpler to just use the jigsaw and sand the rough edges.  :)\u003cbr\u003e\u003cbr\u003eI\u0026#39;ve searched for pre-cut circles of wood and other material, but never find the right diameter.  The diameter has to be just right for seamless, evenly-spaced light.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQ_LepzfmzyAI"
+  }, {
+    "creationTime": "2015-10-08 20:32:47-0400",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e\u003cbr\u003eAll good ideas but with all due respect to Daniel, in this case, I think more is actually less...  a simple, pure design would be more attractive in this case (IMHO).\u003cbr\u003eIf you go ahead and do it, consider a way to clip the faceplate on a mounted frame that holds the LEDS. It gives the advantage of being able to just change the faceplate if you are not 100% happy with your original idea ! \u003cbr\u003e ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQ7rTM85G0yAI"
+  }, {
+    "creationTime": "2015-10-09 09:47:36-0400",
+    "updateTime": "2015-10-09 09:49:09-0400",
+    "author": {
+      "displayName": "allanGEE",
+      "profilePageUrl": "https://plus.google.com/106033221351737716750",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-EuWdnfGn3VY/AAAAAAAAAAI/AAAAAAAAAJA/KA7-ipLAOZc/s64-c/photo.jpg",
+      "resourceName": "users/106033221351737716750"
+    },
+    "content": "+Jason Coon, I haven\u0026#39;t done it myself, but apparently cutting a circle with a router isn\u0026#39;t that difficult.  \u003cbr\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.familyhandyman.com/woodworking/how-to-cut-curves-in-wood/view-all#step1\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.familyhandyman.com/woodworking/how-to-cut-curves-in-wood/view-all#step1\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.finewoodworking.com/uploadedimages/Fine_Woodworking_Network/Image_Resources/Magazine/231/011231016_01_router-compass_xl.jpg\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.finewoodworking.com/uploadedimages/Fine_Woodworking_Network/Image_Resources/Magazine/231/011231016_01_router-compass_xl.jpg\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eWhere they suggest screws at the pivot point, I suggest a smooth nail into a slightly smaller pre-drilled hole in your piece.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQyLiMx8O1yAI"
+  }, {
+    "creationTime": "2015-10-10 23:46:43-0400",
+    "author": {
+      "displayName": "Jarrod Wagner",
+      "profilePageUrl": "https://plus.google.com/100368959376184065851",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-_-QvYpLpnjk/AAAAAAAAAAI/AAAAAAAAAEU/wi9LwnuNh50/s64-c/photo.jpg",
+      "resourceName": "users/100368959376184065851"
+    },
+    "content": "I think you would be surprised at how many pre-cut wooden rounds there are already available.\u003cbr\u003e\u003cbr\u003eI think I\u0026#39;ve found what were meant for bog standard coffee tables or diy clock faces out of hardwood for under $20 in diameters from 10\u0026quot;-36\u0026quot;.\u003cbr\u003e\u003cbr\u003eJust something to think about if you\u0026#39;d like to save the hassle of spinning up the tools ;) ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/3zNMCNRBMoP",
+    "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC/comments/CiF6MTMxZWxkYXd5eXJ2bnZzbDIzcWoxMnJtdWVhaHh0MHAQ2vC6_cC5yAI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UggR3uV_e4kUQngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Dirk Vinkx",
+      "profilePageUrl": "https://plus.google.com/111463457504893100350",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-ZUdiWv9c5-s/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVcK_P70CfdCZM4swoZEyodNLMG-w/s64-c/photo.jpg",
+      "resourceName": "users/111463457504893100350"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dushyant Ahuja",
+      "profilePageUrl": "https://plus.google.com/+DushyantAhuja",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-sva8lHLHSMA/AAAAAAAAAAI/AAAAAAAAuKE/S0J3fcd1EFQ/s64-c/photo.jpg",
+      "resourceName": "users/102046189032208678773"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "jason brader",
+      "profilePageUrl": "https://plus.google.com/114818457013981398487",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-uRkk9lZkRgk/AAAAAAAAAAI/AAAAAAAAAKg/p_UbyeNUY9o/s64-c/photo.jpg",
+      "resourceName": "users/114818457013981398487"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dougal Campbell",
+      "profilePageUrl": "https://plus.google.com/+DougalCampbell",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-FXQyDVKRJjc/AAAAAAAAAAI/AAAAAAAAErw/fZAdUCezrNs/s64-c/photo.jpg",
+      "resourceName": "users/104640897934960019410"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dave Slater",
+      "profilePageUrl": "https://plus.google.com/112386618674669384676",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-D56gXRfw0wY/AAAAAAAAAAI/AAAAAAAACBE/fwswndp_gLU/s64-c/photo.jpg",
+      "resourceName": "users/112386618674669384676"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James Armstrong",
+      "profilePageUrl": "https://plus.google.com/+JamesArmstrong3",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-RUmD5yBNKBo/AAAAAAAAAAI/AAAAAAAAbvM/Ak0NECnOQOw/s64-c/photo.jpg",
+      "resourceName": "users/102161322800777005688"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "jason brader",
+      "profilePageUrl": "https://plus.google.com/114818457013981398487",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-uRkk9lZkRgk/AAAAAAAAAAI/AAAAAAAAAKg/p_UbyeNUY9o/s64-c/photo.jpg",
+      "resourceName": "users/114818457013981398487"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/106626345342202981932",
+        "displayName": "JP Roy"
+      }, {
+        "resourceName": "users/106033221351737716750",
+        "displayName": "allanGEE"
+      }]
+    }
+  }
+}

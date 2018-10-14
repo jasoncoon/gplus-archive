@@ -1,0 +1,63 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/DWLdWbocGZp",
+  "creationTime": "2015-08-11 23:48:58-0400",
+  "updateTime": "2015-08-11 23:48:58-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I can\u0026#39;t decide what to do with these.  Any suggestions?  I\u0026#39;m thinking about a 3D dodecahedron or icosahedron.  Or maybe a non-grid 2D arrangement, such as a Fibonacci spiral like \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/109972214378981665730\" oid\u003d\"109972214378981665730\" \u003eJim Bumgardner\u003c/a\u003e\u003c/span\u003e\u0026#39;s.\u003cbr\u003e\u003cbr\u003eI think \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112916219338292742137\" oid\u003d\"112916219338292742137\" \u003eMark Kriegsman\u003c/a\u003e\u003c/span\u003e\u0026#39;s Pride2015 pattern looks pretty fantastic on these, by the way.  Thanks for sharing, Mark!  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com/kriegsman/964de772d64c502760e5\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com/kriegsman/964de772d64c502760e5\u003c/a\u003e I ",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003ddwiMXQ9-x6E",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Just testing these while waiting to mount them into something cool... Running Mark Kriegsman\u0027s Pride2015: https://gist.github.com/kriegsman/964de772d64c50276...",
+    "resourceName": "media/Egtkd2lNWFE5LXg2RQ\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2015-08-12 03:02:39-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Thumbs up for Fibonacci spiral.  But a dodecaicosahedron lamp would be pretty great too.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/DWLdWbocGZp",
+    "resourceName": "users/103867089694409269471/posts/UghKxHsYa9r8Y3gCoAEC/comments/CiF6MTNsemx1eXlrdmx0eHNtZTIzcWoxMnJtdWVhaHh0MHAQrZez7_yixwI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UghKxHsYa9r8Y3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/112916219338292742137",
+        "displayName": "Mark Kriegsman"
+      }, {
+        "resourceName": "users/109972214378981665730",
+        "displayName": "Jim Bumgardner"
+      }]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/gwDAwyBdLhw",
+  "creationTime": "2014-12-24 11:35:42-0500",
+  "updateTime": "2014-12-24 11:35:42-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I picked up a fill-able plastic light bulb ornament and a small sparkly foam ball that fits inside from a local craft shop.  I cut an opening big enough for a 12 NeoPixel ring and hollowed out the ball, wired up a Teensy (although a Trinket or any small Arduino board would probably work).  Everything fits inside nicely.  Now I\u0026#39;ll have to try to fit a battery pack inside...  :)",
+  "album": {
+    "media": [{
+      "url": "https://plus.google.com/photos/103867089694409269471/albums/6096442146308229153/6096442142983078402",
+      "contentType": "video/*",
+      "width": 854,
+      "height": 480,
+      "resourceName": "media/CixBRjFRaXBQUjJ2MUluN1BQaVpBYjRlTkJNSF90VGlXNEtXcC1sTjc5OGprVA\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-gIduWj-PGTY/VJrp1Bg4ZOI/AAAAAAABubo/WZnq9swaSYY/w3264-h2448/IMG_20141224_090952.jpg",
+      "contentType": "image/*",
+      "width": 3264,
+      "height": 2448,
+      "resourceName": "media/CixBRjFRaXBOS2JocEdsSG9aU0hkeVRJNnlOOG5NV1FpSV9URVNYNlFhMEJIVg\u003d\u003d"
+    }]
+  },
+  "comments": [{
+    "creationTime": "2014-12-24 12:34:28-0500",
+    "author": {
+      "displayName": "James Armstrong",
+      "profilePageUrl": "https://plus.google.com/+JamesArmstrong3",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-RUmD5yBNKBo/AAAAAAAAAAI/AAAAAAAAbvM/Ak0NECnOQOw/s64-c/photo.jpg",
+      "resourceName": "users/102161322800777005688"
+    },
+    "content": "I just picked some up yesterday. Were on sale for $1 at craft store. Didn\u0026#39;t know what I was going to do with them at the time but looked cool.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gwDAwyBdLhw",
+    "resourceName": "users/103867089694409269471/posts/UgjuwPG7GVQCMngCoAEC/comments/CiN6MTJ0Y2RvYWVxYXZ2dHNiaTA0Y2l0dzRleWZkY3RycjQybxCR5oKhm9_CAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgjuwPG7GVQCMngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-BLO572tD3sQ/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUejLSktJ0KmRWS_EiWqjSgqwJEOA/s64-c/photo.jpg",
+      "resourceName": "users/101708620681849403392"
+    }
+  }],
+  "postAcl": {
+    "visibleToStandardAcl": {
+      "circles": [{
+        "type": "CIRCLE_TYPE_PUBLIC"
+      }]
+    }
+  }
+}

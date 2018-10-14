@@ -1,0 +1,68 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/Hia2gK1Px8d",
+  "creationTime": "2014-11-26 15:47:29-0500",
+  "updateTime": "2014-11-26 15:47:29-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I think this is my new favorite pattern.  Each \u0026#39;boid\u0026#39; is placed at a random spot at the top of the display.  Its angle of movement is based on simplex noise (from the FastLED library) for its position.  Color cycles through the currently selected palette, which can be changed via the IR remote.\u003cbr\u003e\u003cbr\u003eI think I\u0026#39;m translating from angle to velocity incorrectly, as they always move down and to the right, never up or to the left.  Here\u0026#39;s the code if you\u0026#39;re interested, or can help me figure out what I\u0026#39;m doing wrong: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/blob/master/PatternFlowField.h\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/blob/master/PatternFlowField.h\u003c/a\u003e",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003djTIwK-v8v8M",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Flow Field pattern from Aurora. Source code: https://github.com/pixelmatix/aurora/blob/master/PatternFlowField.h For more information on Aurora: https://gith...",
+    "resourceName": "media/EgtqVEl3Sy12OHY4TQ\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2014-11-26 15:48:46-0500",
+    "updateTime": "2014-11-26 16:40:54-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "This is based on \u0026quot;The Nature of Code\u0026quot;, example 6.4 \u0026quot;Flow field following\u0026quot;: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://natureofcode.com/book/chapter-6-autonomous-agents\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://natureofcode.com/book/chapter-6-autonomous-agents\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Hia2gK1Px8d",
+    "resourceName": "users/103867089694409269471/posts/Ughj8VVVgqciZngCoAEC/comments/CiF6MTNuZ2RiNHB2MnBoZnkzMzIzcWoxMnJtdWVhaHh0MHAQzfeju5KZwgI"
+  }, {
+    "creationTime": "2014-11-26 16:48:21-0500",
+    "author": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    },
+    "content": "It would be interesting to make the flow go around whatever was on the foreground layer, like the current time",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/Hia2gK1Px8d",
+    "resourceName": "users/103867089694409269471/posts/Ughj8VVVgqciZngCoAEC/comments/CiF6MTNuZ2RiNHB2MnBoZnkzMzIzcWoxMnJtdWVhaHh0MHAQ0smI5J-ZwgI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ughj8VVVgqciZngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

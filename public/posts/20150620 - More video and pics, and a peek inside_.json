@@ -1,0 +1,123 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/MCpQ33iKeRb",
+  "creationTime": "2015-06-20 09:45:49-0400",
+  "updateTime": "2015-06-20 09:45:49-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "More video and pics, and a peek inside my latest prototype lamp.  Source code and more details: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/ParticleCoreMatrixLamp\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/ParticleCoreMatrixLamp\u003c/a\u003e",
+  "album": {
+    "media": [{
+      "url": "https://plus.google.com/photos/103867089694409269471/albums/6162246797168578737/6162288125305296098",
+      "contentType": "video/*",
+      "width": 854,
+      "height": 480,
+      "resourceName": "media/CixBRjFRaXBPTWFaN3hGc0lGb0NzS3VfdnJ2Tlp5QnluaTFZUWJMVE40TURyVA\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-uwGBxeCEg78/VYSy0K95X0I/AAAAAAABzFs/gea7YNhAAUU/w2448-h3264/IMG_20150619_182950.jpg",
+      "contentType": "image/*",
+      "width": 2448,
+      "height": 3264,
+      "resourceName": "media/CixBRjFRaXBOcU1DeDNXdlJOOHFBS0JfbzZNZXNCNFhGcGxoTzRISzRjZ05zeQ\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-0irIvKL-EJc/VYSy0HsuNGI/AAAAAAABzFw/cv-G2FbdSck/w2448-h3264/IMG_20150619_182953.jpg",
+      "contentType": "image/*",
+      "width": 2448,
+      "height": 3264,
+      "resourceName": "media/CixBRjFRaXBPa0FwSnJXN3NnMTNlQ09XX19zLU5xRzVCOVlwY1NCMGJVUk5ldw\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-hkwJDsVqIi4/VYSy0OuJBbI/AAAAAAABzGE/lmracopMyJc/w2448-h3264/IMG_20150619_182955.jpg",
+      "contentType": "image/*",
+      "width": 2448,
+      "height": 3264,
+      "resourceName": "media/CixBRjFRaXBOV3JVZ2tiaXdpbjVoa01yQmFHSjhWQXZzcHUxREpZaDNiOEl0RQ\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-5-iUS-iRGDI/VYSy0Pmet2I/AAAAAAABzF4/XMCRVPPXQis/w2448-h3264/IMG_20150619_182957.jpg",
+      "contentType": "image/*",
+      "width": 2448,
+      "height": 3264,
+      "resourceName": "media/CixBRjFRaXBNcVZTeXBmZUx4c0EtRXNaYTBxaUhqLXdtSEZSMTBNV05CZGZ1bQ\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-LKRJuAZToe4/VYSy0Fmxh7I/AAAAAAABzF0/3kLntiw92g4/w2448-h3264/IMG_20150619_184145.jpg",
+      "contentType": "image/*",
+      "width": 2448,
+      "height": 3264,
+      "description": "Since this is a prototype, I just twist-tied the strips to a piece of PVC pipe.",
+      "resourceName": "media/CixBRjFRaXBPaVFFdTR0dmloenoxbHJjWDBkTUxnRWI5Ti16akpJNnNXS1NaWQ\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-r2R1lDfhg-8/VYSy0P5pRvI/AAAAAAABzF8/gj8K1ryOUu0/w2448-h3264/IMG_20150619_184156.jpg",
+      "contentType": "image/*",
+      "width": 2448,
+      "height": 3264,
+      "description": "I soldered straight break away headers to each end, but had to sacrifice one LED per strip so I had a full pad on each end.  I just used jumper wires to connect the strips in a vertical serpentine pattern (and had to provide for this configuration in software later).",
+      "resourceName": "media/CixBRjFRaXBON3hINFd3bVh4RjZpb0xZb3VycmtiSnluMlZqQ3VZbElqMUU3Xw\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-ZnEnteUsxr0/VYSy0FHbJXI/AAAAAAABzGA/j_cdXM9m8Xw/w2448-h3264/IMG_20150619_184218.jpg",
+      "contentType": "image/*",
+      "width": 2448,
+      "height": 3264,
+      "description": "I tucked the Core, power supply and USB cables inside.   I also injected power and ground about half-way through the strips by making a USB power cable, connected it to the extra USB port on the power supply.",
+      "resourceName": "media/CixBRjFRaXBPVGhpSnozc1IybFBLeWE5TUR4LWhZYmtGZFRaZndlWWMwUHhmZA\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-p8QeCrg4cJk/VYSy0NIXz5I/AAAAAAABzGI/gEXY-5zC0RU/w2448-h3264/IMG_20150619_184227.jpg",
+      "contentType": "image/*",
+      "width": 2448,
+      "height": 3264,
+      "description": "I plan to secure the pipe with a PVC end cap with the end cut off, and glued to the bottom of the lamp.  I\u0027ll add a pic when that\u0027s done.",
+      "resourceName": "media/CixBRjFRaXBNb0hMU1haOUNxMkxkd0l4ZlRfWW1tRUdFcjNIZk5aUFYwX3BUaw\u003d\u003d"
+    }, {
+      "url": "https://lh3.googleusercontent.com/-Wo25eOWFjEQ/VYSy0HiF4mI/AAAAAAABzGM/GB1P4HpKo0Y/w2448-h3264/IMG_20150619_184254.jpg",
+      "contentType": "image/*",
+      "width": 2448,
+      "height": 3264,
+      "description": "I removed the lamp\u0027s bulb socket, wired in a small receptacle, and plugged in a small 5V 2A double USB power supply. It fits perfectly inside the pipe.",
+      "resourceName": "media/CixBRjFRaXBOOWNXd2tkdjlXR21IOFlTamZQYTZrTzRFV2xjaHFYS0NfdEdvRw\u003d\u003d"
+    }]
+  },
+  "comments": [{
+    "creationTime": "2015-06-20 13:32:22-0400",
+    "author": {
+      "displayName": "Phil Xu",
+      "profilePageUrl": "https://plus.google.com/107165958651137526067",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-_tIZ4G0vIbA/AAAAAAAAAAI/AAAAAAAAA1Q/g_xzluzooWs/s64-c/photo.jpg",
+      "resourceName": "users/107165958651137526067"
+    },
+    "content": "like dmx",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/MCpQ33iKeRb",
+    "resourceName": "users/103867089694409269471/posts/Ugh4ylDtbVLgZngCoAEC/comments/CiF6MTNuZzFtemV1dWl0ZHRmczIzcWoxMnJtdWVhaHh0MHAQpMX24uaexgI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/Ugh4ylDtbVLgZngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Phil Xu",
+      "profilePageUrl": "https://plus.google.com/107165958651137526067",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-_tIZ4G0vIbA/AAAAAAAAAAI/AAAAAAAAA1Q/g_xzluzooWs/s64-c/photo.jpg",
+      "resourceName": "users/107165958651137526067"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Ravi Palaniappan",
+      "profilePageUrl": "https://plus.google.com/+RaviPalaniappan1",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-1hvDur1dKKI/AAAAAAAAAAI/AAAAAAAAWCk/5Ce_TP2PvhE/s64-c/photo.jpg",
+      "resourceName": "users/109529285750707764428"
+    }
+  }, {
+    "resharer": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    }
+  }],
+  "postAcl": {
+    "visibleToStandardAcl": {
+      "circles": [{
+        "type": "CIRCLE_TYPE_PUBLIC"
+      }]
+    }
+  }
+}

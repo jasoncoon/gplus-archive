@@ -1,0 +1,42 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/2cDi6Z3hJAk",
+  "creationTime": "2014-10-07 08:50:47-0400",
+  "updateTime": "2014-10-07 08:50:47-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Using Craig Lindley\u0026#39;s Light Appliance sketch as a platform for infrafred remote controlled patterns, I made a few games to run on a SmartMatrix display.  Snake was pretty easy to get working.",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dG5TUtR3zWg4",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "https://github.com/pup05/LightAppliance Displayed on a 32x32 RGB LED Matrix from adafruit (http://www.adafruit.com/products/1484) running on a Teensy v3.1 (h...",
+    "resourceName": "media/EgtHNVRVdFIzeldnNA\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2014-10-07 08:50:58-0400",
+    "updateTime": "2014-10-07 08:51:33-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Source is available here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/craiglindley/LightAppliance\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/craiglindley/LightAppliance\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/2cDi6Z3hJAk",
+    "resourceName": "users/103867089694409269471/posts/UggJm-Xpb7XxuXgCoAEC/comments/CiF6MTJ3eWJwenhtdXl6bm5jZDIzcWoxMnJtdWVhaHh0MHAQ_YvrtMqawQI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UggJm-Xpb7XxuXgCoAEC",
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

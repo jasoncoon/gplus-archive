@@ -1,0 +1,213 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/VfAAuUbC2uN",
+  "creationTime": "2016-10-15 14:13:47-0400",
+  "updateTime": "2016-10-15 14:13:47-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "This looks like a handy little board that can be soldered inline and powered from a 10mm, 3 pin LED strip.  It\u0026#39;s based on the Arduino ProMini (ATmega329P, 5V, 16MHz, 32K flash, 2K SRAM, 1K EEPROM).  It\u0026#39;s a little pricey for what it is at $28 + $5 shipping (to US), and doesn\u0026#39;t include a micro USB port (requires a serial converter) but definitely a cool form factor.",
+  "link": {
+    "title": "ChromaTab",
+    "url": "https://www.tindie.com/products/Danjhamer/chromatab",
+    "imageUrl": "https://d3s5r33r268y59.cloudfront.net/20761/products/thumbs/2016-01-03T16:03:46.037Z-ChromaTabStrip.jpg.855x570_q85_pad_rcrop.jpg"
+  },
+  "comments": [{
+    "creationTime": "2016-10-15 14:48:06-0400",
+    "author": {
+      "displayName": "Matt Mets",
+      "profilePageUrl": "https://plus.google.com/114044865355063566596",
+      "resourceName": "users/114044865355063566596"
+    },
+    "content": "Another option for this form factor is our BlinkyTape controller, it\u0026#39;s a bit smaller, has USB built in, and a couple of I/O pads on the back for expansion: :\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VfAAuUbC2uN",
+    "link": {
+      "title": "BlinkyTape Control Board",
+      "url": "http://shop.blinkinlabs.com/products/blinkytape-control-board",
+      "imageUrl": "http://cdn.shopify.com/s/files/1/0430/6273/products/DSC_5936_grande.jpg?v\u003d1453029924"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgirVZn8Vjf1OXgCoAEC/comments/CiN6MTJ3eXByeGxzcXp5aGVwZjA0Y2l0dzRleWZkY3RycjQybxCth9TEvN3PAg"
+  }, {
+    "creationTime": "2016-10-15 14:57:10-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/114044865355063566596\" oid\u003d\"114044865355063566596\" \u003eMatt Mets\u003c/a\u003e\u003c/span\u003e Cool, even better and cheaper!  I went looking before I posted this, and I couldn\u0026#39;t find it for some reason.  I wasn\u0026#39;t sure whether you sold the controller separately.  Now I can\u0026#39;t figure out how I missed it.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VfAAuUbC2uN",
+    "resourceName": "users/103867089694409269471/posts/UgirVZn8Vjf1OXgCoAEC/comments/CiN6MTJ3eXByeGxzcXp5aGVwZjA0Y2l0dzRleWZkY3RycjQybxDg_-nHvt3PAg"
+  }, {
+    "creationTime": "2016-10-15 15:03:00-0400",
+    "author": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    },
+    "content": "I suspect those would be awesome for \u0026#39;hoopers\u0026#39;, especially the blinky Tape.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VfAAuUbC2uN",
+    "resourceName": "users/103867089694409269471/posts/UgirVZn8Vjf1OXgCoAEC/comments/CiN6MTJ3eXByeGxzcXp5aGVwZjA0Y2l0dzRleWZkY3RycjQybxD9msHuv93PAg"
+  }, {
+    "creationTime": "2016-10-15 23:38:44-0400",
+    "author": {
+      "displayName": "Jon Bruno",
+      "profilePageUrl": "https://plus.google.com/105850439698187626520",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-XNIlZvTIHBQ/AAAAAAAAAAI/AAAAAAAAAGM/imzQpe3rhWo/s64-c/photo.jpg",
+      "resourceName": "users/105850439698187626520"
+    },
+    "content": "Hmm. I wonder why they chose to use an atmega329 vs an atmega328\u003cbr\u003eThe 329 has a built in LCD driver but in this form factor that doesn\u0026#39;t seem to be a practical accessory....I\u0026#39;d think if they used a 328 the cost would be much lower.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VfAAuUbC2uN",
+    "resourceName": "users/103867089694409269471/posts/UgirVZn8Vjf1OXgCoAEC/comments/CiN6MTJ3eXByeGxzcXp5aGVwZjA0Y2l0dzRleWZkY3RycjQybxCd--eRs97PAg"
+  }, {
+    "creationTime": "2016-10-16 04:06:40-0400",
+    "author": {
+      "displayName": "Kenneth Tan",
+      "profilePageUrl": "https://plus.google.com/+KennethTanFotografie",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Y1Qz03w8If8/AAAAAAAAAAI/AAAAAAAAmWs/bkzJHSWjV7k/s64-c/photo.jpg",
+      "resourceName": "users/117209805246823222236"
+    },
+    "content": "I also was wondering what the benefit is over a $1.5 328p clone with 3 wires soldered?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VfAAuUbC2uN",
+    "resourceName": "users/103867089694409269471/posts/UgirVZn8Vjf1OXgCoAEC/comments/CiN6MTJ3eXByeGxzcXp5aGVwZjA0Y2l0dzRleWZkY3RycjQybxDtnNGD797PAg"
+  }, {
+    "creationTime": "2016-10-16 09:12:09-0400",
+    "author": {
+      "displayName": "Rob Skold",
+      "profilePageUrl": "https://plus.google.com/100835320494167555759",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qmpfu0PDLkk/AAAAAAAAAAI/AAAAAAAAC74/hLivtDCORik/s64-c/photo.jpg",
+      "resourceName": "users/100835320494167555759"
+    },
+    "content": "Related\u003cbr\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"http://www.ebay.com/itm/272258567389?_trksid\u003dp2055119.m1438.l2649\u0026amp;ssPageName\u003dSTRK%3AMEBIDX%3AIT\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttp://www.ebay.com/itm/272258567389?_trksid\u003dp2055119.m1438.l2649\u0026amp;ssPageName\u003dSTRK%3AMEBIDX%3AIT\u003c/a\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VfAAuUbC2uN",
+    "link": {
+      "title": "Details about  LED RingPixels + WIFI \u003d WifiPixels (16 x WS2812B RGB LED\u0027s + ESP8266)",
+      "url": "http://www.ebay.com/itm/272258567389?_trksid\u003dp2055119.m1438.l2649\u0026ssPageName\u003dSTRK%3AMEBIDX%3AIT",
+      "imageUrl": "http://i.ebayimg.com/images/i/272258567389-0-1/s-l1000.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgirVZn8Vjf1OXgCoAEC/comments/CiN6MTJ3eXByeGxzcXp5aGVwZjA0Y2l0dzRleWZkY3RycjQybxDp4ayns9_PAg"
+  }, {
+    "creationTime": "2016-10-16 14:46:13-0400",
+    "author": {
+      "displayName": "Robert Atkins",
+      "profilePageUrl": "https://plus.google.com/112974620627169436992",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q_fU1LZ0S7c/AAAAAAAAAAI/AAAAAAAAACk/ceI8vaRTgA8/s64-c/photo.jpg",
+      "resourceName": "users/112974620627169436992"
+    },
+    "content": "Oh that\u0026#39;s just brilliant \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/114044865355063566596\" oid\u003d\"114044865355063566596\" \u003eMatt Mets\u003c/a\u003e\u003c/span\u003e! That makes a project I\u0026#39;ve had in the back of my mind for ages viable :-)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VfAAuUbC2uN",
+    "resourceName": "users/103867089694409269471/posts/UgirVZn8Vjf1OXgCoAEC/comments/CiN6MTJ3eXByeGxzcXp5aGVwZjA0Y2l0dzRleWZkY3RycjQybxCXno79_d_PAg"
+  }, {
+    "creationTime": "2016-10-16 22:40:07-0400",
+    "author": {
+      "displayName": "Matt Mets",
+      "profilePageUrl": "https://plus.google.com/114044865355063566596",
+      "resourceName": "users/114044865355063566596"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112974620627169436992\" oid\u003d\"112974620627169436992\" \u003eRobert Atkins\u003c/a\u003e\u003c/span\u003e Awesome!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VfAAuUbC2uN",
+    "resourceName": "users/103867089694409269471/posts/UgirVZn8Vjf1OXgCoAEC/comments/CiN6MTJ3eXByeGxzcXp5aGVwZjA0Y2l0dzRleWZkY3RycjQybxCWrsnz5-DPAg"
+  }, {
+    "creationTime": "2016-10-17 04:28:10-0400",
+    "author": {
+      "displayName": "Solo Han",
+      "profilePageUrl": "https://plus.google.com/100399995128973022616",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-XiyWl0kyl2A/AAAAAAAAAAI/AAAAAAAARl4/-IbHN6j88FI/s64-c/photo.jpg",
+      "resourceName": "users/100399995128973022616"
+    },
+    "content": "I build a same small LED strip controller with a attiny85... only 8Kb flash... but sufficient for small projects wit LED strips. I used parts of a Digispark.\u003cbr\u003e...it\u0026#39;s far under $28, but take me hours to solder together ;-)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/VfAAuUbC2uN",
+    "resourceName": "users/103867089694409269471/posts/UgirVZn8Vjf1OXgCoAEC/comments/CiN6MTJ3eXByeGxzcXp5aGVwZjA0Y2l0dzRleWZkY3RycjQybxC8_9HZteHPAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgirVZn8Vjf1OXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "01001101 01010111",
+      "profilePageUrl": "https://plus.google.com/108600249634054492210",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-IBigpIp2STQ/AAAAAAAAAAI/AAAAAAAAAm8/wWTZAdis0z4/s64-c/photo.jpg",
+      "resourceName": "users/108600249634054492210"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Cristian Martinez",
+      "profilePageUrl": "https://plus.google.com/+CristianMartinez23",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-CAR9Q31W3n0/AAAAAAAAAAI/AAAAAAAAPEQ/HeoRGnZ_9qg/s64-c/photo.jpg",
+      "resourceName": "users/104232521683450572261"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Shankar Srinivasan",
+      "profilePageUrl": "https://plus.google.com/+ShankarSrinivasan_technoart",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Z6D6soTRldM/AAAAAAAAAAI/AAAAAAAAAAA/yLJZ7l3hCnE/s64-c/photo.jpg",
+      "resourceName": "users/102295007202866553837"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Rex Heck",
+      "profilePageUrl": "https://plus.google.com/105984949694313949913",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-66_GP4RrWrQ/AAAAAAAAAAI/AAAAAAAAAfQ/3cafNz9fj2Y/s64-c/photo.jpg",
+      "resourceName": "users/105984949694313949913"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Charity Stolarz",
+      "profilePageUrl": "https://plus.google.com/117248218984375176714",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-CmMxL2eRxl4/AAAAAAAAAAI/AAAAAAAAJG0/0m1fmZjfvmE/s64-c/photo.jpg",
+      "resourceName": "users/117248218984375176714"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "SnarkyPosters",
+      "profilePageUrl": "https://plus.google.com/110005988555574214790",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Yg-KpqEWT6M/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUneY5sYNHcGj_ruEm2ndOcoamSAA/s64-c/photo.jpg",
+      "resourceName": "users/110005988555574214790"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Amanda Walker",
+      "profilePageUrl": "https://plus.google.com/+AmandaWalker",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-RD4bbSv6jHk/AAAAAAAAAAI/AAAAAAAACzc/ESVP8bLzOwY/s64-c/photo.jpg",
+      "resourceName": "users/108053344167695247928"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Alexander Nolting",
+      "profilePageUrl": "https://plus.google.com/+AlexanderNolting",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-9dWI1gTsnOE/AAAAAAAAAAI/AAAAAAAAOxc/vwvJgH7oIsY/s64-c/photo.jpg",
+      "resourceName": "users/109141459210065659338"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Alexander Nolting",
+      "profilePageUrl": "https://plus.google.com/+AlexanderNolting",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-9dWI1gTsnOE/AAAAAAAAAAI/AAAAAAAAOxc/vwvJgH7oIsY/s64-c/photo.jpg",
+      "resourceName": "users/109141459210065659338"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/114044865355063566596",
+        "displayName": "Matt Mets"
+      }, {
+        "resourceName": "users/112974620627169436992",
+        "displayName": "Robert Atkins"
+      }]
+    }
+  }
+}

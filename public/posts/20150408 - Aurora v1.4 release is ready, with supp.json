@@ -1,0 +1,34 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/b6R49gvfPfj",
+  "creationTime": "2015-04-08 19:04:21-0400",
+  "updateTime": "2015-04-08 19:07:20-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "Aurora v1.4 release is ready, with support for the Arduino 1.6.3 and Teensyduino 1.22, new patterns, better palette support, improved TPM streaming mode, bug fixes, and more:\u003cbr\u003e\u003cbr\u003e\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/releases/tag/1.4\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/releases/tag/1.4\u003c/a\u003e\u003cbr\u003e\u003cbr\u003ePlease try it out and use the issue tracker on GitHub to report any problems: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/pixelmatix/aurora/issues\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/pixelmatix/aurora/issues\u003c/a\u003e",
+  "link": {
+    "title": "Release Aurora v1.4 · pixelmatix/aurora · GitHub",
+    "url": "https://github.com/pixelmatix/aurora/releases/tag/1.4",
+    "imageUrl": "https://avatars0.githubusercontent.com/u/6537799?v\u003d3\u0026s\u003d400"
+  },
+  "resourceName": "users/103867089694409269471/posts/UgjL1LOi45e-_ngCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Pixelmatix",
+      "profilePageUrl": "https://plus.google.com/+PixelmatixRGB",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-O-fc1w2RTRA/AAAAAAAAAAI/AAAAAAAAABc/LnX-BPNPYFI/s64-c/photo.jpg",
+      "resourceName": "users/114256455711582099215"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

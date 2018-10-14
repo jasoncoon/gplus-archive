@@ -1,0 +1,240 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/EJsbqE3imgS",
+  "creationTime": "2017-12-19 10:01:42-0500",
+  "updateTime": "2017-12-19 10:01:42-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "via \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113416559182515729363\" oid\u003d\"113416559182515729363\" \u003ePaulStoffregen\u003c/a\u003e\u003c/span\u003e: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://twitter.com/PaulStoffregen/status/943081758882381824\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://twitter.com/PaulStoffregen/status/943081758882381824\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eLittle PCB using MAX485 for sending serial (including WS2812B / NeoPixel) data over long distances in noisy environments.\u003cbr\u003e\u003cbr\u003eThanks for sharing, Paul!",
+  "link": {
+    "title": "OSH Park ~",
+    "url": "https://www.oshpark.com/shared_projects/kM1DRLS1",
+    "imageUrl": "https://www.pjrc.com/teensy/beta/dmx_transmit2.jpg"
+  },
+  "comments": [{
+    "creationTime": "2017-12-19 10:32:50-0500",
+    "author": {
+      "displayName": "Darren Hedlund",
+      "profilePageUrl": "https://plus.google.com/+DarrenHedlund_microcyb",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-xuLHoiEZ9k0/AAAAAAAAAAI/AAAAAAAAGFs/1EEZqzfsZOs/s64-c/photo.jpg",
+      "resourceName": "users/113476846179206503622"
+    },
+    "content": "Nice share!  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/EJsbqE3imgS",
+    "resourceName": "users/103867089694409269471/posts/UghPkG-Godwfx3gCoAEC/comments/CiF6MTMzdnp3NGl4ZnNkcm0yajIzcWoxMnJtdWVhaHh0MHAQidaN8LKW2AI"
+  }, {
+    "creationTime": "2017-12-19 10:57:27-0500",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "What a handy little board. Thanks for sharing, and to \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/113416559182515729363\" oid\u003d\"113416559182515729363\" \u003ePaulStoffregen\u003c/a\u003e\u003c/span\u003e​ for creating.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/EJsbqE3imgS",
+    "resourceName": "users/103867089694409269471/posts/UghPkG-Godwfx3gCoAEC/comments/CiF6MTMzdnp3NGl4ZnNkcm0yajIzcWoxMnJtdWVhaHh0MHAQgLGGsLiW2AI"
+  }, {
+    "creationTime": "2017-12-19 23:41:34-0500",
+    "author": {
+      "displayName": "Chris Rees",
+      "profilePageUrl": "https://plus.google.com/102857052697355852278",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-C_6sBArYGDo/AAAAAAAAAAI/AAAAAAAAAts/IM0voADBx7w/s64-c/photo.jpg",
+      "resourceName": "users/102857052697355852278"
+    },
+    "content": "These work well!   Another issue it solves is differing ground and power sources.  The rs485 Receiver side creates  signaling based off of its power source and not the controllers!   Don’t need to worry about the controller ground being connected to the pixels anymore.... just connect the pixels to the same soorce as the rs485 receiver ground.  many problems solved!   One reason I chose teensy/octo for my controller project is so I can easily add this option if needed.  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/EJsbqE3imgS",
+    "resourceName": "users/103867089694409269471/posts/UghPkG-Godwfx3gCoAEC/comments/CiF6MTMzdnp3NGl4ZnNkcm0yajIzcWoxMnJtdWVhaHh0MHAQ6LfxleOX2AI"
+  }, {
+    "creationTime": "2017-12-19 23:44:26-0500",
+    "author": {
+      "displayName": "Chris Rees",
+      "profilePageUrl": "https://plus.google.com/102857052697355852278",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-C_6sBArYGDo/AAAAAAAAAAI/AAAAAAAAAts/IM0voADBx7w/s64-c/photo.jpg",
+      "resourceName": "users/102857052697355852278"
+    },
+    "content": "I made a very similar prototype last year Pretty much the same components minus a couple caps. Should get over 300ft.   \u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/EJsbqE3imgS",
+    "media": {
+      "url": "https://youtu.be/9pTNgrEvSGo",
+      "contentType": "video/*",
+      "width": 1280,
+      "height": 720,
+      "resourceName": "media/Egs5cFROZ3JFdlNHbw\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UghPkG-Godwfx3gCoAEC/comments/CiF6MTMzdnp3NGl4ZnNkcm0yajIzcWoxMnJtdWVhaHh0MHAQpOPU5-OX2AI"
+  }, {
+    "creationTime": "2017-12-20 07:28:12-0500",
+    "author": {
+      "displayName": "Ezio Perinot",
+      "profilePageUrl": "https://plus.google.com/105609192361870272609",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-vX7NMCA-dN0/AAAAAAAAAAI/AAAAAAAAAas/Z4ZE5YfMj3A/s64-c/photo.jpg",
+      "resourceName": "users/105609192361870272609"
+    },
+    "content": "Very nice. Just what i need. Thanks a lot Paul",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/EJsbqE3imgS",
+    "resourceName": "users/103867089694409269471/posts/UghPkG-Godwfx3gCoAEC/comments/CiF6MTMzdnp3NGl4ZnNkcm0yajIzcWoxMnJtdWVhaHh0MHAQ3d6YvMuY2AI"
+  }, {
+    "creationTime": "2017-12-20 12:40:32-0500",
+    "author": {
+      "displayName": "Gibbedy G",
+      "profilePageUrl": "https://plus.google.com/103978513427512467165",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-LWKSPQ1yBHw/AAAAAAAAAAI/AAAAAAAAASY/HFf7Gmpad3E/s64-c/photo.jpg",
+      "resourceName": "users/103978513427512467165"
+    },
+    "content": "What is the advantage here over the common maxrs485 breakouts you see on eBay. Thanks.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/EJsbqE3imgS",
+    "resourceName": "users/103867089694409269471/posts/UghPkG-Godwfx3gCoAEC/comments/CiF6MTMzdnp3NGl4ZnNkcm0yajIzcWoxMnJtdWVhaHh0MHAQkduppJGZ2AI"
+  }, {
+    "creationTime": "2017-12-20 12:49:00-0500",
+    "updateTime": "2017-12-20 12:50:10-0500",
+    "author": {
+      "displayName": "Chris Rees",
+      "profilePageUrl": "https://plus.google.com/102857052697355852278",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-C_6sBArYGDo/AAAAAAAAAAI/AAAAAAAAAts/IM0voADBx7w/s64-c/photo.jpg",
+      "resourceName": "users/102857052697355852278"
+    },
+    "content": "There are many options including ones you can get on eBay etc.  The one Paul has is optimized for using them as pairs without the need to set jumpers or wires to define receive or send.   Typically rs485 is designed to handle multiple devices on the “bus” wires.  Where this one is point to point the resistors are set properly for end to end .  If your a DIY type this is a great option.   ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/EJsbqE3imgS",
+    "resourceName": "users/103867089694409269471/posts/UghPkG-Godwfx3gCoAEC/comments/CiF6MTMzdnp3NGl4ZnNkcm0yajIzcWoxMnJtdWVhaHh0MHAQgf6SlpOZ2AI"
+  }, {
+    "creationTime": "2017-12-20 19:13:02-0500",
+    "author": {
+      "displayName": "Gibbedy G",
+      "profilePageUrl": "https://plus.google.com/103978513427512467165",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-LWKSPQ1yBHw/AAAAAAAAAAI/AAAAAAAAASY/HFf7Gmpad3E/s64-c/photo.jpg",
+      "resourceName": "users/103978513427512467165"
+    },
+    "content": "I see thanks.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/EJsbqE3imgS",
+    "resourceName": "users/103867089694409269471/posts/UghPkG-Godwfx3gCoAEC/comments/CiF6MTMzdnp3NGl4ZnNkcm0yajIzcWoxMnJtdWVhaHh0MHAQpOy6gemZ2AI"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UghPkG-Godwfx3gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Nikolay Hristov",
+      "profilePageUrl": "https://plus.google.com/+NikolayHristov81",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-jleUWCGWYLQ/AAAAAAAAAAI/AAAAAAAANGU/_5NN_7Kf_e8/s64-c/photo.jpg",
+      "resourceName": "users/102508051272173516103"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ezio Perinot",
+      "profilePageUrl": "https://plus.google.com/105609192361870272609",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-vX7NMCA-dN0/AAAAAAAAAAI/AAAAAAAAAas/Z4ZE5YfMj3A/s64-c/photo.jpg",
+      "resourceName": "users/105609192361870272609"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chris Rees",
+      "profilePageUrl": "https://plus.google.com/102857052697355852278",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-C_6sBArYGDo/AAAAAAAAAAI/AAAAAAAAAts/IM0voADBx7w/s64-c/photo.jpg",
+      "resourceName": "users/102857052697355852278"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ivan Fominskiy",
+      "profilePageUrl": "https://plus.google.com/118394434555643147118",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-SWRMJE66JJM/AAAAAAAAAAI/AAAAAAAAAEk/P1oE6pnMj6g/s64-c/photo.jpg",
+      "resourceName": "users/118394434555643147118"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Franck Marcotte",
+      "profilePageUrl": "https://plus.google.com/102897524645627986583",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-uPU4izkWWTo/AAAAAAAAAAI/AAAAAAAAADE/N6UrzoI3ibo/s64-c/photo.jpg",
+      "resourceName": "users/102897524645627986583"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Zeno Le Héricy",
+      "profilePageUrl": "https://plus.google.com/+Zinventions",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-WkwaVs80HYM/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWmOXgsPed73XSzqQ7CkJpS1luxlw/s64-c/photo.jpg",
+      "resourceName": "users/106809967242296750688"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Yves BAZIN",
+      "profilePageUrl": "https://plus.google.com/+YvesBAZIN",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-aQyQ-5m6JxM/AAAAAAAAAAI/AAAAAAAAAEU/Wm1u9E4muws/s64-c/photo.jpg",
+      "resourceName": "users/105454820533296572604"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tom Schubert",
+      "profilePageUrl": "https://plus.google.com/+TomSchubert",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Wqk8DBhq_ZM/AAAAAAAAAAI/AAAAAAAB13g/8GfFUa-ymcg/s64-c/photo.jpg",
+      "resourceName": "users/101234992960778397599"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Franklin Benitez",
+      "profilePageUrl": "https://plus.google.com/115315829628650136035",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-_vWhb2gYOSk/AAAAAAAAAAI/AAAAAAAABYY/6Fb95kxSWj4/s64-c/photo.jpg",
+      "resourceName": "users/115315829628650136035"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/113416559182515729363",
+        "displayName": "PaulStoffregen"
+      }]
+    }
+  }
+}

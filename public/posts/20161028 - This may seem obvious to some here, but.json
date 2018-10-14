@@ -1,0 +1,239 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/gpSnVMg54yr",
+  "creationTime": "2016-10-28 10:50:35-0400",
+  "updateTime": "2016-10-28 10:50:35-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "This may seem obvious to some here, but I find it brilliant!  I\u0026#39;m currently using the largest inline brick style power supply I can find (5V 15A: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/ljl3Ln\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/ljl3Ln\u003c/a\u003e).  I am ready to step up to a larger open style, but am concerned about the exposed contacts.  I was looking for project boxes and stumbled upon this customizable compact cover with a switch, a standard PC power supply socket for the AC input, and XT60 connectors for high amperage DC output (\u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/iMmnwB\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/iMmnwB\u003c/a\u003e).",
+  "link": {
+    "title": "Ultimate Power Supply Terminal Cover by mike_mattala",
+    "url": "http://www.thingiverse.com/thing:60392",
+    "imageUrl": "https://cdn.thingiverse.com/renders/d2/a3/92/cc/91/20130326_184632_preview_featured.jpg"
+  },
+  "comments": [{
+    "creationTime": "2016-10-28 11:04:20-0400",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "That does look very handy, I\u0026#39;ll have to print one and see how it looks. Thanks for sharing :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxCKp93h4v3PAg"
+  }, {
+    "creationTime": "2016-10-28 11:07:19-0400",
+    "author": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    },
+    "content": "Very Very nice... Good work.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxCftp234_3PAg"
+  }, {
+    "creationTime": "2016-10-28 12:07:46-0400",
+    "author": {
+      "displayName": "allanGEE",
+      "profilePageUrl": "https://plus.google.com/106033221351737716750",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-EuWdnfGn3VY/AAAAAAAAAAI/AAAAAAAAAJA/KA7-ipLAOZc/s64-c/photo.jpg",
+      "resourceName": "users/106033221351737716750"
+    },
+    "content": "I\u0026#39;ve been using XT60\u0026#39;s ever since I discovered them while building quadcopters.  The provide a good solid connection, impossible to reverse polarity (assuming you wire them right the first time), and even the female end provides a little bit of cover to reduce exposed contacts.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxCLhuX48P3PAg"
+  }, {
+    "creationTime": "2016-10-28 12:12:39-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106033221351737716750\" oid\u003d\"106033221351737716750\" \u003eallanGEE\u003c/a\u003e\u003c/span\u003e Glad to hear it. After noticing some barrel connectors and splitters getting rather hot at 5V 15A, I placed an order for a few sets of XT60 connectors and four-way splitters :)  \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://hobbyking.com/en_us/xt60-male-to-four-xt60-female-power-distribution-lead-for-multi-rotor.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://hobbyking.com/en_us/xt60-male-to-four-xt60-female-power-distribution-lead-for-multi-rotor.html\u003c/a\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "link": {
+      "title": "XT60 Male to Four XT60 Female Power Distribution Lead for Multi-Rotor",
+      "url": "https://hobbyking.com/en_us/xt60-male-to-four-xt60-female-power-distribution-lead-for-multi-rotor.html",
+      "imageUrl": "https://hobbyking.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/legacy/catalog/47582.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxCNycaE8v3PAg"
+  }, {
+    "creationTime": "2016-10-28 12:27:40-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "Nice ideas there, thanks.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxDSiaKy9f3PAg"
+  }, {
+    "creationTime": "2016-10-28 12:46:21-0400",
+    "author": {
+      "displayName": "allanGEE",
+      "profilePageUrl": "https://plus.google.com/106033221351737716750",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-EuWdnfGn3VY/AAAAAAAAAAI/AAAAAAAAAJA/KA7-ipLAOZc/s64-c/photo.jpg",
+      "resourceName": "users/106033221351737716750"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e  When you solder wires to them, keep a male and female plugged into each other.  The soldering part of the connector has a little recess that holds quite a bit of solder for a solid connection, so the pin/barrel can heat up quite a bit during the process.  If you keep the pair connected, and only solder one half of the pair at a time, the cooler non-soldered one will ensure nothing shifts in the one you\u0026#39;re soldering to.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxDb0OfI-f3PAg"
+  }, {
+    "creationTime": "2016-10-30 16:18:33-0400",
+    "author": {
+      "displayName": "Robert Atkins",
+      "profilePageUrl": "https://plus.google.com/112974620627169436992",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-q_fU1LZ0S7c/AAAAAAAAAAI/AAAAAAAAACk/ceI8vaRTgA8/s64-c/photo.jpg",
+      "resourceName": "users/112974620627169436992"
+    },
+    "content": "I tried once and found them \u003cb\u003ereally\u003c/b\u003e difficult to solder 4㎟ (11AWG) wire onto. Melted the damned housing. Any tips, aside from the above (which I did do)?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxDTppjdrIPQAg"
+  }, {
+    "creationTime": "2016-10-31 09:17:38-0400",
+    "author": {
+      "displayName": "allanGEE",
+      "profilePageUrl": "https://plus.google.com/106033221351737716750",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-EuWdnfGn3VY/AAAAAAAAAAI/AAAAAAAAAJA/KA7-ipLAOZc/s64-c/photo.jpg",
+      "resourceName": "users/106033221351737716750"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112974620627169436992\" oid\u003d\"112974620627169436992\" \u003eRobert Atkins\u003c/a\u003e\u003c/span\u003e Just in case you\u0026#39;re not already... tin the tips of the wires first.  Set the wire aside where you can grab it quickly... hold the tip of the soldering iron in the little dip on the XT60... melt a pool of solder into it... drop your solder, pick up the wire, then feed the tinned tip into the pool as you pull out the iron.\u003cbr\u003e\u003cbr\u003eI\u0026#39;m wondering if a soldering GUN would work better -- it might heat up the connector faster and allow less time for the heat to spread to the housing?\u003cbr\u003e\u003cbr\u003eAlso, if you try to UNsolder them, it helps a lot to get a small liquid blob of solder on your iron before touching it to the connection you\u0026#39;re unsoldering.  The hot, liquid blob seems to transfer heat faster and get the old solder melting faster.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxCB9qTBkIXQAg"
+  }, {
+    "creationTime": "2016-10-31 10:14:12-0400",
+    "author": {
+      "displayName": "John Hendy",
+      "profilePageUrl": "https://plus.google.com/112862299986769821819",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-DxZVv_yU60s/AAAAAAAAAAI/AAAAAAAAANk/bCX1I-mDPnE/s64-c/photo.jpg",
+      "resourceName": "users/112862299986769821819"
+    },
+    "content": "That link at thingverse appears to be down. Very interested in this as my 16x16 matrix draws a lot more current than the strips I\u0026#39;ve played with in the past. I scored 2 ATX supplies from a surplus store for 4.95ea, and worked like a champ. I\u0026#39;m probably going the bannana jack  route but this is pretty cool as well... ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxCRlviTnYXQAg"
+  }, {
+    "creationTime": "2016-10-31 21:46:51-0400",
+    "author": {
+      "displayName": "Evan Bruno",
+      "profilePageUrl": "https://plus.google.com/117695945072391545473",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qjU9IHZC3Yc/AAAAAAAAAAI/AAAAAAAAAQ0/3_wP1l8-LWM/s64-c/photo.jpg",
+      "resourceName": "users/117695945072391545473"
+    },
+    "content": "I found my local surplus store had a huge crate of these power supplies probably from a companies reset. Anyway they are fully enclosed so there is no risk of ac shock. Just a quick modification, and you can get 12v at up to 18a. Thing is, it\u0026#39;s 12v so if your powering 5v leds, you will need to run them through another voltage regulator of some sort. Hobbyking sells a pretty beastly 20a bec module that I have used in the past. \u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/wYM7P2ggZzLe3giLzOlNSbsmYe_tDwhbm-QQTvmUsB8Jl1uChc0pbkoF3Q4rRuVDy1yU8FyA8A",
+      "contentType": "image/*",
+      "width": 500,
+      "height": 281,
+      "resourceName": "media/CixBRjFRaXBPVmlRdXgtbkpQbjBFejY2WnNuWkNKN3RpTkdVNHZLUmJmUG5HaQ\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxDcie78t4bQAg"
+  }, {
+    "creationTime": "2016-11-01 09:22:14-0400",
+    "author": {
+      "displayName": "allanGEE",
+      "profilePageUrl": "https://plus.google.com/106033221351737716750",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-EuWdnfGn3VY/AAAAAAAAAAI/AAAAAAAAAJA/KA7-ipLAOZc/s64-c/photo.jpg",
+      "resourceName": "users/106033221351737716750"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/117695945072391545473\" oid\u003d\"117695945072391545473\" \u003eEvan Bruno\u003c/a\u003e\u003c/span\u003e  Good find!\u003cbr\u003e\u003cbr\u003eMost of my power sources are pulled from old computers.  For my house lighting project, the power will be located in the garage where I also make lots of sawdust in an attempt to make other things.  So I\u0026#39;m keeping my eyes open for a power \u0026quot;brick\u0026quot; or two -- something without cooling fans and vents that I\u0026#39;l need to keep cleaning.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxD8tuKz04fQAg"
+  }, {
+    "creationTime": "2016-11-02 23:51:53-0400",
+    "author": {
+      "displayName": "Mike Thornbury",
+      "profilePageUrl": "https://plus.google.com/101708620681849403392",
+      "resourceName": "users/101708620681849403392"
+    },
+    "content": "I buy 5V laptop-style bricks from Aliexpress for use with Raspberry Pi projects. \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.aliexpress.com/item/30W-DC-5V-6A-LED-Power-Supply-Adapter-Lighting-Transformers-For-WS2812B-WS2811-LPD8806-WS2801/32719549917.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.aliexpress.com/item/30W-DC-5V-6A-LED-Power-Supply-Adapter-Lighting-Transformers-For-WS2812B-WS2811-LPD8806-WS2801/32719549917.html\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eThat one is 6A, but I have seen them in 10A and more. There are some nice waterproof/sealed ones at around 200W/40A: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.aliexpress.com/item/Waterproof-5V-200W-Constant-Voltage-Power-Adapter-Power-Supply-for-LED-Lights-LED-Electronic-Transformer-Power/32648523133.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.aliexpress.com/item/Waterproof-5V-200W-Constant-Voltage-Power-Adapter-Power-Supply-for-LED-Lights-LED-Electronic-Transformer-Power/32648523133.html\u003c/a\u003e\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/gpSnVMg54yr",
+    "link": {
+      "title": "30W DC 5V 6A LED Power Supply Adapter Lighting Transformers For WS2812B WS2811 LPD8806 WS2801 LED Strip Light",
+      "url": "https://www.aliexpress.com/item/30W-DC-5V-6A-LED-Power-Supply-Adapter-Lighting-Transformers-For-WS2812B-WS2811-LPD8806-WS2801/32719549917.html?ws_ab_test\u003dsearchweb0_0,searchweb201602_2_10091_10090_10088_10089,searchweb201603_1\u0026btsid\u003d4b8e0bd9-eacd-4994-a2db-e27f2f0b6220",
+      "imageUrl": "https://ae01.alicdn.com/kf/HTB1OFzAMVXXXXaLXVXXq6xXFXXXY/-30W-DC-5V-6A-LED-Power-Supply-Adapter-Lighting-Transformers-For-WS2812B-WS2811-LPD8806-WS2801.jpg"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC/comments/CiN6MTNpeHBlenp1enBkcDF6aTA0Y2l0dzRleWZkY3RycjQybxDx-5fT14vQAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgjuDmtVf-rtXXgCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Trevor MacInnis",
+      "profilePageUrl": "https://plus.google.com/+TrevorMacInnis",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-59wtRkJWhZY/AAAAAAAAAAI/AAAAAAAAKd8/L2jNIou1ERk/s64-c/photo.jpg",
+      "resourceName": "users/105086289130573705851"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "dave windsor",
+      "profilePageUrl": "https://plus.google.com/+davewindsor1972",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-kCH0GMMH9Cs/AAAAAAAAAAI/AAAAAAAAMNk/o20k7dOEQWA/s64-c/photo.jpg",
+      "resourceName": "users/104244816294991900225"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dimitre L",
+      "profilePageUrl": "https://plus.google.com/105498196153729567671",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-eGQTkxHL35g/AAAAAAAAAAI/AAAAAAAACNU/Eua1ySAC9-M/s64-c/photo.jpg",
+      "resourceName": "users/105498196153729567671"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Garrett Durland",
+      "profilePageUrl": "https://plus.google.com/+GarrettDurland",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-39Too6TPhOI/AAAAAAAAAAI/AAAAAAAAgzM/mHja04u98c8/s64-c/photo.jpg",
+      "resourceName": "users/102872743704528102328"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Thomas Wolf",
+      "profilePageUrl": "https://plus.google.com/+ThomasWolfEnstein",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Zvi9TlFemUI/AAAAAAAAAAI/AAAAAAAAGKM/B5T1TApP4rQ/s64-c/photo.jpg",
+      "resourceName": "users/107606680371383075409"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/117695945072391545473",
+        "displayName": "Evan Bruno"
+      }, {
+        "resourceName": "users/106033221351737716750",
+        "displayName": "allanGEE"
+      }, {
+        "resourceName": "users/112974620627169436992",
+        "displayName": "Robert Atkins"
+      }]
+    }
+  }
+}

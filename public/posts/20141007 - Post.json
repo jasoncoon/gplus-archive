@@ -1,0 +1,35 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/3qF8VWPx9aU",
+  "creationTime": "2014-10-07 17:28:00-0400",
+  "updateTime": "2014-10-07 17:28:00-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "resharedPost": {
+    "url": "https://plus.google.com/+JasonCoon1/posts/97wcV2R7mGn",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Congratulations to these geniuses!  Without them, our favorite hobby would be a lot less colorful.  :)",
+    "link": {
+      "title": "2014 Nobel Prize In Physics Awarded To the Inventors of the Blue LED - Slashdot",
+      "url": "http://beta.slashdot.org/story/208175"
+    },
+    "resourceName": "users/103867089694409269471/posts/Uggwi15tlgECU3gCoAEC"
+  },
+  "resourceName": "users/103867089694409269471/posts/UggQ7h3uGsPwTXgCoAEC",
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/105354523738870531811",
+        "displayName": "SmartMatrix Users"
+      }
+    }
+  }
+}

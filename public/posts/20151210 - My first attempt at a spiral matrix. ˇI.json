@@ -1,0 +1,495 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/QAStQ54Auht",
+  "creationTime": "2015-12-10 21:43:01-0500",
+  "updateTime": "2015-12-10 21:43:48-0500",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "My first attempt at a spiral matrix.  I\u0026#39;ve been playing around with noise, trying to make different fire and lava lamp patterns.  Source code: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/evilgeniuslabs/torch\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/evilgeniuslabs/torch\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eIt\u0026#39;s a 4 meter strip of 60/m WS2812B wrapped around a section of 3\u0026quot; PVC pipe, which just barely fits snugly inside a small IKEA KVARNÅ table lamp.  Driven with a Teensy 3.1 and FastLED (of course).  Controlled with an IR remote.\u003cbr\u003e\u003cbr\u003eI\u0026#39;m going to try 2.5\u0026quot; PVC pipe next, as I\u0026#39;d like a little more height and more distance between the LEDs and the frosted glass, for more diffusion.\u003cbr\u003e\u003cbr\u003eI didn\u0026#39;t take any assembly pictures, but will if/when I rebuild it with 2.5\u0026quot; pipe.  Here are a few pics of the top: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://goo.gl/photos/CSTDgXTopRSXpjJA7\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://goo.gl/photos/CSTDgXTopRSXpjJA7\u003c/a\u003e",
+  "media": {
+    "url": "http://www.youtube.com/watch?v\u003dUvmhVLCMRTs",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Available from Evil Genius Labs: http://www.evilgeniuslabs.org Cylindrical light art display, built with 240 WS2812B RGB LEDs, controlled with a Particle Pho...",
+    "resourceName": "media/EgtVdm1oVkxDTVJUcw\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2015-12-10 22:09:01-0500",
+    "author": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    },
+    "content": "I like all the different animations you made for it. A bit more distance to the diffuser  will definitely improve it even more...  Well done !!! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxDvwpip6tLJAg"
+  }, {
+    "creationTime": "2015-12-10 23:37:41-0500",
+    "author": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    },
+    "content": "Awesome work! Agree with \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/106626345342202981932\" oid\u003d\"106626345342202981932\" \u003eJP Roy\u003c/a\u003e\u003c/span\u003e distance the LEDs from the diffusion material a bit and maybe even turn down their brightness",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxDE8_GR_tLJAg"
+  }, {
+    "creationTime": "2015-12-11 04:01:33-0500",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "So cool \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e!!  Can\u0026#39;t wait to see the next version!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxCSh5KPudPJAg"
+  }, {
+    "creationTime": "2015-12-11 04:27:32-0500",
+    "updateTime": "2015-12-11 08:49:03-0500",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "A great animation collection! Just a curious question: How does the backside of the torch look like? Do you mirror the animations or is there a discontinuity at the line where the right side of the xy mapping meets the left end?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxDzrfD2vtPJAg"
+  }, {
+    "creationTime": "2015-12-11 07:57:56-0500",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "Great build - and really nice animations!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxDixLj67dPJAg"
+  }, {
+    "creationTime": "2015-12-11 09:34:06-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks, everyone!  I definitely agree, it needs more space for diffusion, that\u0026#39;s next on my to do list.  Stefan, for the noise, fire, and wave patterns, I\u0026#39;m using non-serpentine XY mapping.  There\u0026#39;s a \u0026quot;seam\u0026quot; at the back where the left and right edges of the virtual matrix wrap around and meet.  Other patterns, such as sinelon, just treat it as the 1D strip that it really is, physically.\u003cbr\u003e\u003cbr\u003eOne of the fire patterns is a slightly modified version of MessageTorch, which really inspired me for this build: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/plan44/messagetorch\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/plan44/messagetorch\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxD_gOy5g9TJAg"
+  }, {
+    "creationTime": "2015-12-11 09:45:07-0500",
+    "updateTime": "2015-12-11 09:59:08-0500",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "I know the problem with the seam. My thoughts were the following: on a cylinder I can only see the half of the surface. So I rendered only half of the perimeter and mirrored the result onto the other half. Result: the seam disappears and looks like a simple caleidoscope instead. From the \u0026quot;right\u0026quot; viewing point (basically now we have 2 of them) it looks exactely as in your video. From other viewing positions one can see a part of the original and a part of the mirrored picture. The seam disappeared (and it saved calculation time).",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxC_re70hdTJAg"
+  }, {
+    "creationTime": "2015-12-11 09:47:49-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Cool idea!  I\u0026#39;ll have to try that out now, thanks!  I may try adding it as an option, and map one of the buttons on the IR remote to toggle it on/off.  I also plan to try getting your noise smearing working on it.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxDZzK_ChtTJAg"
+  }, {
+    "creationTime": "2015-12-11 09:49:47-0500",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "To be honest, while watching the video I waited for it. :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxCNt8v6htTJAg"
+  }, {
+    "creationTime": "2015-12-11 10:42:06-0500",
+    "author": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    },
+    "content": "Something I\u0026#39;ve done on circular led layouts: if you have (say) 10 pixels in a circle, declare NUM_LEDS to be a few more, say, 13. Render all your animations into the array of 13 CRGBs. \u003cbr\u003e\u003cbr\u003eThe, just before calling show(), blend the \u0026quot;extra\u0026quot; CRGBs onto the low-numbered end of the LED array, like this(ish)\u003cbr\u003e\u003cbr\u003enblend( leds[0], leds[10], 192);\u003cbr\u003enblend( leds[1], leds[11], 128);\u003cbr\u003enblend( leds[2], leds[12], 64);\u003cbr\u003e\u003cbr\u003eBasically, you\u0026#39;re overlapping the ends of the strip and blending them together. Definitely helps hide  the seam, better for some animations than others. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxDkjYHTktTJAg"
+  }, {
+    "creationTime": "2015-12-12 07:58:11-0500",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "I think Jason should use Marks concept because my one works only with an even number of leds arround the circle. But Jason has 17.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxDZ8rvwr9bJAg"
+  }, {
+    "creationTime": "2015-12-13 05:29:02-0500",
+    "author": {
+      "displayName": "Antonio Valenti",
+      "profilePageUrl": "https://plus.google.com/100340025974433309146",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-cpTi761qc_I/AAAAAAAAAAI/AAAAAAAAAn8/uUL9ZsC8Pyo/s64-c/photo.jpg",
+      "resourceName": "users/100340025974433309146"
+    },
+    "content": "Very nice and interesting! what is the power of the project? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxCZ986z0NjJAg"
+  }, {
+    "creationTime": "2015-12-13 09:56:33-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/100340025974433309146\" oid\u003d\"100340025974433309146\" \u003eAntonio Valenti\u003c/a\u003e\u003c/span\u003e It has a theoretical max draw of 14.4A.  I\u0026#39;m just using a 5V 10A power supply, which isn\u0026#39;t quite enough to run it at full brightness, all white.  So I just avoid doing that.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxD3waqZjNnJAg"
+  }, {
+    "creationTime": "2015-12-13 10:05:46-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/115124694226931502095\" oid\u003d\"115124694226931502095\" \u003eStefan Petrick\u003c/a\u003e\u003c/span\u003e, I\u0026#39;ve been trying, but can\u0026#39;t seem to get NoiseSmearing working on this matrix.  Have you ever tried running it on your 16x16 matrix?  Here\u0026#39;s my (non-functional) attempt: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com/jasoncoon/5f8044404aa621b2b8e9\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com/jasoncoon/5f8044404aa621b2b8e9\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxDr7IChjtnJAg"
+  }, {
+    "creationTime": "2015-12-13 10:37:15-0500",
+    "author": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    },
+    "content": "No, I haven\u0026#39;t tried it on something exept 32x32. I remember my code was horrible, full of magic numbers and hard coded parameters. Last week I tried to understand what I was doing there and was lucky to find my own explanation in the SmartMatrix community. I think the code needs a complete refactoring to be universal usable. I might do that one day but I better don\u0026#39;t announce anything that might not happen.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxD49PulldnJAg"
+  }, {
+    "creationTime": "2015-12-13 10:38:48-0500",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "No worries, I\u0026#39;ll keep hacking away at it, and let you know if I make any progress.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/QAStQ54Auht",
+    "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC/comments/CiN6MTNwc2o1cnR1ZmxoZGpnZTA0Y2l0dzRleWZkY3RycjQybxCMla7SldnJAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgiKe1MVLyWD63gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Rik Rose",
+      "profilePageUrl": "https://plus.google.com/104174658825442775660",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-YLbHoBuLWJ0/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DU0FZt3MCyqs6XCFOENwmxJd0H16A/s64-c/photo.jpg",
+      "resourceName": "users/104174658825442775660"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "DigitalJax",
+      "profilePageUrl": "https://plus.google.com/+DigitalJax",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Y6qiVQXAHto/AAAAAAAAAAI/AAAAAAAAB8g/gyaq9dT9hd0/s64-c/photo.jpg",
+      "resourceName": "users/109880295151012248990"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jasper Poppe",
+      "profilePageUrl": "https://plus.google.com/111925589669990547106",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-MnJMUJ5DorU/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUZSGlie-o1V1KXxi7dCEKsKNciHA/s64-c/photo.jpg",
+      "resourceName": "users/111925589669990547106"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Hanson Quan",
+      "profilePageUrl": "https://plus.google.com/117960734157333817361",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-mGEUFYBkhNk/AAAAAAAAAAI/AAAAAAAAcro/tKTz5STX84o/s64-c/photo.jpg",
+      "resourceName": "users/117960734157333817361"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Gavin McMahon",
+      "profilePageUrl": "https://plus.google.com/+GavinMcMahonDesign",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-utGxOkPQVYc/AAAAAAAAAAI/AAAAAAAAAlk/GVRyUTIEr8U/s64-c/photo.jpg",
+      "resourceName": "users/112919058093588732535"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "alireza abdiyan",
+      "profilePageUrl": "https://plus.google.com/103598531290170183719",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TC_hB0pAxrE/AAAAAAAAAAI/AAAAAAAABnw/05LG3Z0Q4uU/s64-c/photo.jpg",
+      "resourceName": "users/103598531290170183719"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Дмитрий Миленький",
+      "profilePageUrl": "https://plus.google.com/+ДмитрийМиленький",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-kk53FxrWdqk/AAAAAAAAAAI/AAAAAAAAAAA/Ephdl0_INHo/s64-c/photo.jpg",
+      "resourceName": "users/108185098223884072782"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Matt Richard",
+      "profilePageUrl": "https://plus.google.com/110166643140045739599",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NFaQJJ6ZuEU/AAAAAAAAAAI/AAAAAAAAEEo/4mz7KaVgDHk/s64-c/photo.jpg",
+      "resourceName": "users/110166643140045739599"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Lars Walpurgis",
+      "profilePageUrl": "https://plus.google.com/112392188627004225254",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-NBqJ3BQopJo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DUjZtH-NDpU8Y--VLfH8gc42O891A/s64-c/photo.jpg",
+      "resourceName": "users/112392188627004225254"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brian van vlymen",
+      "profilePageUrl": "https://plus.google.com/+Brianvanvlymen",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-T9VcHE6ihfE/AAAAAAAAAAI/AAAAAAAAhV0/b8OK6gHosMI/s64-c/photo.jpg",
+      "resourceName": "users/102962316948693360023"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Gottfried Mayer",
+      "profilePageUrl": "https://plus.google.com/109724468732455410411",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-BLlyVOCgLbQ/AAAAAAAAAAI/AAAAAAAACLw/fZ6ZmM-gz2s/s64-c/photo.jpg",
+      "resourceName": "users/109724468732455410411"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "jason brader",
+      "profilePageUrl": "https://plus.google.com/114818457013981398487",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-uRkk9lZkRgk/AAAAAAAAAAI/AAAAAAAAAKg/p_UbyeNUY9o/s64-c/photo.jpg",
+      "resourceName": "users/114818457013981398487"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kasper Kamperman",
+      "profilePageUrl": "https://plus.google.com/+KasperKamperman",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3apwQwpZUsw/AAAAAAAAAAI/AAAAAAAAM1w/Dd5aRhQnqXw/s64-c/photo.jpg",
+      "resourceName": "users/100115767703084101160"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Thomas Runge",
+      "profilePageUrl": "https://plus.google.com/101332413535253547436",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-qwCff4aUtfs/AAAAAAAAAAI/AAAAAAAABc4/M4xcYgP4CU4/s64-c/photo.jpg",
+      "resourceName": "users/101332413535253547436"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "allanGEE",
+      "profilePageUrl": "https://plus.google.com/106033221351737716750",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-EuWdnfGn3VY/AAAAAAAAAAI/AAAAAAAAAJA/KA7-ipLAOZc/s64-c/photo.jpg",
+      "resourceName": "users/106033221351737716750"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Hung Vu",
+      "profilePageUrl": "https://plus.google.com/112617373002583887721",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-IA3A-wZodfo/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVqTTCh-p2EEL6v4UzvTxZOWYR1PA/s64-c/photo.jpg",
+      "resourceName": "users/112617373002583887721"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chaka September",
+      "profilePageUrl": "https://plus.google.com/+ChakaSeptember",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-HdK8ivtEr78/AAAAAAAAAAI/AAAAAAAACYw/8d2OaPV3yJs/s64-c/photo.jpg",
+      "resourceName": "users/103498195310136776619"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Sebastian Schmidt",
+      "profilePageUrl": "https://plus.google.com/117876340177087119148",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-J3ZWgNQI57w/AAAAAAAAAAI/AAAAAAAAAbg/gPDO9DX-KlM/s64-c/photo.jpg",
+      "resourceName": "users/117876340177087119148"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Funny Sexy",
+      "profilePageUrl": "https://plus.google.com/110291487545088561268",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-XJMZKkNgZpU/AAAAAAAAAAI/AAAAAAAAADM/77ouvPekpXg/s64-c/photo.jpg",
+      "resourceName": "users/110291487545088561268"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Potatochipgamer",
+      "profilePageUrl": "https://plus.google.com/115074341678882621367",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-tcftpN8GSxw/AAAAAAAAAAI/AAAAAAAAAaQ/oSwwJc20-p4/s64-c/photo.jpg",
+      "resourceName": "users/115074341678882621367"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Devilal Suthar",
+      "profilePageUrl": "https://plus.google.com/113461632893229457245",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-W70Hdr7ODAc/AAAAAAAAAAI/AAAAAAAAAmM/ykwzIsyp7EY/s64-c/photo.jpg",
+      "resourceName": "users/113461632893229457245"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jesse H",
+      "profilePageUrl": "https://plus.google.com/+JesseH",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-hjWGS-Qe5h0/AAAAAAAAAAI/AAAAAAAAq_M/0zas7DR9G3A/s64-c/photo.jpg",
+      "resourceName": "users/109857551385602362715"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Leon Yuhanov",
+      "profilePageUrl": "https://plus.google.com/102639486677013343669",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-1Iq3EDHyD7Q/AAAAAAAAAAI/AAAAAAAACy4/jneu09kLL00/s64-c/photo.jpg",
+      "resourceName": "users/102639486677013343669"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dougal Campbell",
+      "profilePageUrl": "https://plus.google.com/+DougalCampbell",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-FXQyDVKRJjc/AAAAAAAAAAI/AAAAAAAAErw/fZAdUCezrNs/s64-c/photo.jpg",
+      "resourceName": "users/104640897934960019410"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Hedayet Ullah",
+      "profilePageUrl": "https://plus.google.com/113956934196203227451",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-m_4C1jFDZKU/AAAAAAAAAAI/AAAAAAAAAVQ/Jm2W5mZPksM/s64-c/photo.jpg",
+      "resourceName": "users/113956934196203227451"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Chris Roberts",
+      "profilePageUrl": "https://plus.google.com/116328175019405297243",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-HHkpVuEXPoI/AAAAAAAAAAI/AAAAAAAADrQ/xpuCMPJIGok/s64-c/photo.jpg",
+      "resourceName": "users/116328175019405297243"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Black berry art",
+      "profilePageUrl": "https://plus.google.com/102231432895603037386",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-dNY7_YRRpmo/AAAAAAAAAAI/AAAAAAAAFL8/RcEkPvFWc8k/s64-c/photo.jpg",
+      "resourceName": "users/102231432895603037386"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christopher Wenz",
+      "profilePageUrl": "https://plus.google.com/108821543843079208951",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-yyL-PIFSD7U/AAAAAAAAAAI/AAAAAAAACIs/kjR1NkGRzcc/s64-c/photo.jpg",
+      "resourceName": "users/108821543843079208951"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Huan Do",
+      "profilePageUrl": "https://plus.google.com/108328420553761846528",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-xkF23prwFYc/AAAAAAAAAAI/AAAAAAAAABk/-VnAH10T3Ao/s64-c/photo.jpg",
+      "resourceName": "users/108328420553761846528"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Prima DetectiveIndia",
+      "profilePageUrl": "https://plus.google.com/114146142959895904089",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-ojPx1O1YSDE/AAAAAAAAAAI/AAAAAAAAAE0/HpFX6LAwW5A/s64-c/photo.jpg",
+      "resourceName": "users/114146142959895904089"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "JP Roy",
+      "profilePageUrl": "https://plus.google.com/106626345342202981932",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-ETBe3fH8GXs/AAAAAAAAAAI/AAAAAAAAAC8/CJfyWBhHwWk/s64-c/photo.jpg",
+      "resourceName": "users/106626345342202981932"
+    }
+  }],
+  "reshares": [{
+    "resharer": {
+      "displayName": "Holger Runkewitz",
+      "profilePageUrl": "https://plus.google.com/110571224505320027863",
+      "resourceName": "users/110571224505320027863"
+    }
+  }, {
+    "resharer": {
+      "displayName": "Sebastian Schmidt",
+      "profilePageUrl": "https://plus.google.com/117876340177087119148",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-J3ZWgNQI57w/AAAAAAAAAAI/AAAAAAAAAbg/gPDO9DX-KlM/s64-c/photo.jpg",
+      "resourceName": "users/117876340177087119148"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/115124694226931502095",
+        "displayName": "Stefan Petrick"
+      }, {
+        "resourceName": "users/106626345342202981932",
+        "displayName": "JP Roy"
+      }, {
+        "resourceName": "users/100340025974433309146",
+        "displayName": "Antonio Valenti"
+      }]
+    }
+  }
+}

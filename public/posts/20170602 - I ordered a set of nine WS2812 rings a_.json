@@ -1,0 +1,718 @@
+{
+  "url": "https://plus.google.com/+JasonCoon1/posts/RVHH6TevGxi",
+  "creationTime": "2017-06-02 10:29:03-0400",
+  "updateTime": "2017-06-02 10:43:42-0400",
+  "author": {
+    "displayName": "Jason Coon",
+    "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+    "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+    "resourceName": "users/103867089694409269471"
+  },
+  "content": "I ordered a set of nine WS2812 rings a while back (60, 48, 40, 32, 24, 16, 12, 8, 1), and finally got them mounted in a frosted glass and metal wall-hung lamp body.  I 3D printed a frame for the LED rings, to keep each ring the same distance from the glass for even diffusion.\u003cbr\u003e\u003cbr\u003eSince the outer ring has 60 LEDs, I plan to port over some clock patterns and NTP time sync soon, but for now I just have it running my ESP8266 FastLED WebServer sketch.  I think Mark\u0026#39;s Pride and ColorWaves patterns look amazing on it!\u003cbr\u003e\u003cbr\u003eMore info: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.evilgeniuslabs.org/psilocybe\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.evilgeniuslabs.org/psilocybe\u003c/a\u003e\u003cbr\u003eCode: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://github.com/jasoncoon/esp8266-fastled-webserver/tree/v1.1\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://github.com/jasoncoon/esp8266-fastled-webserver/tree/v1.1\u003c/a\u003e\u003cbr\u003eRings: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.aliexpress.com/item/Mokungit-1-8-12-16-24-32-40-48-60-93-241-Bits-LEDs-WS2812B-SK6812/32789400837.html\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.aliexpress.com/item/Mokungit-1-8-12-16-24-32-40-48-60-93-241-Bits-LEDs-WS2812B-SK6812/32789400837.html\u003c/a\u003e",
+  "media": {
+    "url": "https://www.youtube.com/watch?v\u003dmms5l1I2q0M",
+    "contentType": "video/*",
+    "width": 1280,
+    "height": 720,
+    "description": "Dome-shaped, wall-hung frosted glass and metal, with an inner 3D printed frame for 240 RGB LEDs. Driven by an ESP8266 microcontroller using the FastLED libra...",
+    "resourceName": "media/EgttbXM1bDFJMnEwTQ\u003d\u003d"
+  },
+  "comments": [{
+    "creationTime": "2017-06-02 10:35:15-0400",
+    "author": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    },
+    "content": "That\u0026#39;s so cool, and I\u0026#39;ve got those rings in stock. I\u0026#39;ll have to make one. Thank you so much :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxDyu6v-sJ_UAg"
+  }, {
+    "creationTime": "2017-06-02 10:37:15-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/116805483424237205778\" oid\u003d\"116805483424237205778\" \u003eJeremy Spencer\u003c/a\u003e\u003c/span\u003e Thanks!  I can share the frame files (STL and/or Fusion 360), if you\u0026#39;d like them.  I think I got the lamp body at IKEA, but now I can\u0026#39;t find it.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCa_tS3sZ_UAg"
+  }, {
+    "creationTime": "2017-06-02 11:19:28-0400",
+    "author": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    },
+    "content": "I\u0026#39;m guessing it\u0026#39;s the LOCK lamp (was $4.99 at Ikea).  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "link": {
+      "title": "Recall Alert: IKEA Overhead Lamps Could Fall From the Ceiling Without Warning",
+      "url": "http://www.popularmechanics.com/home/interior-projects/how-to/a19358/ikea-ceiling-lamp-recall/",
+      "imageUrl": "http://pop.h-cdn.co/assets/16/06/1600x800/landscape-1455034385-ikea-hyby.JPG"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCBhZfvup_UAg"
+  }, {
+    "creationTime": "2017-06-02 11:22:00-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/101433779981299302803\" oid\u003d\"101433779981299302803\" \u003eLouis Beaudoin\u003c/a\u003e\u003c/span\u003e That\u0026#39;s the one.  Of course it\u0026#39;s been recalled...  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCumOS3u5_UAg"
+  }, {
+    "creationTime": "2017-06-02 13:18:28-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "The day it breaks loose it will be the most glorious falling lamp ever.\u003cbr\u003e\u003cbr\u003eOoooh 60 around the outside... Yes, it must be made into a sweet clock!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCL2Zq81Z_UAg"
+  }, {
+    "creationTime": "2017-06-02 13:21:21-0400",
+    "author": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e Can you add that STL to github?  I\u0026#39;d be interested to see what it looks like.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCxobaO1p_UAg"
+  }, {
+    "creationTime": "2017-06-02 13:23:14-0400",
+    "updateTime": "2017-06-02 13:23:35-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/110856759083002287912\" oid\u003d\"110856759083002287912\" \u003eMarc Miller\u003c/a\u003e\u003c/span\u003e definitely will do as soon as I get home.  For now, here are some pics:\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/-IDGBJy_k0Fb6fDWXc5Cjv4yBMjT63qKdgFX1OrGYhnbVRmspeO2RYdPMtDdOuzqrbGts9qFWZE",
+      "contentType": "image/*",
+      "width": 1518,
+      "height": 915,
+      "resourceName": "media/CixBRjFRaXBPMFcyajhBYm51bVZlS1U0c3hTWFdHYkY2QV9zT2Mzc0l1NlEyWA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxDXmKPE1p_UAg"
+  }, {
+    "creationTime": "2017-06-02 13:23:44-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/avJ0g3iSTIImI9P7b1eMHkIX25DvQKTp6I1b-7-Hhdq5LSQDblPS22_9BQjMGQ04msMyMjOLoJE",
+      "contentType": "image/*",
+      "width": 1518,
+      "height": 915,
+      "resourceName": "media/CixBRjFRaXBQNDJLZWx6RFdyUHJNQ3UycUxrcWlCb05zTkNjMGR4T1Iwd0hJRA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxC90NzS1p_UAg"
+  }, {
+    "creationTime": "2017-06-02 13:24:34-0400",
+    "updateTime": "2017-06-02 13:25:04-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "There are more, including a timelapse of the base bottom printing here: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.evilgeniuslabs.org/psilocybe\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.evilgeniuslabs.org/psilocybe\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxC3j8Tq1p_UAg"
+  }, {
+    "creationTime": "2017-06-02 15:24:51-0400",
+    "author": {
+      "displayName": "Dushyant Ahuja",
+      "profilePageUrl": "https://plus.google.com/+DushyantAhuja",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-sva8lHLHSMA/AAAAAAAAAAI/AAAAAAAAuKE/S0J3fcd1EFQ/s64-c/photo.jpg",
+      "resourceName": "users/102046189032208678773"
+    },
+    "content": "This is amazing. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxD5zPLb8Z_UAg"
+  }, {
+    "creationTime": "2017-06-02 16:32:31-0400",
+    "author": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e -  You are doing some very amazing stuff.  I really like it!\u003cbr\u003e\u003cbr\u003eI noticed that you use male headers soldered to the pads of the each of the rings.  Are you using jumper wires to connect each ring to the next ring make a large strip connected to a MCU or are you connecting each ring to a MCU? ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxDU5ITsgKDUAg"
+  }, {
+    "creationTime": "2017-06-02 17:04:36-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks guys!\u003cbr\u003e\u003cbr\u003e\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/102004717133653297761\" oid\u003d\"102004717133653297761\" \u003eKen White\u003c/a\u003e\u003c/span\u003e: Yeah, I used male headers instead of soldering wires directly to the pads in case I want to use the rings in something else in the future.  I debated on using 90 degree headers, but went with straight for a slightly lower profile.  I doesn\u0026#39;t matter in this project, but might in the future.\u003cbr\u003e\u003cbr\u003eI am using female jumper wires to connect the data out of each ring to the data in of the next ring, and to connect each ring to power and ground on a perma-proto board.  In code, I\u0026#39;m treating it as one strip.  I haven\u0026#39;t taken any pictures of the insides, but will the next time I have it apart.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCG6N6BiKDUAg"
+  }, {
+    "creationTime": "2017-06-03 01:17:23-0400",
+    "author": {
+      "displayName": "Kean Maizels",
+      "profilePageUrl": "https://plus.google.com/+KeanMaizels",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-t5aKxTecSaI/AAAAAAAAAAI/AAAAAAAAAz0/aplOgx_8Mpo/s64-c/photo.jpg",
+      "resourceName": "users/101798281270279925409"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e that\u0026#39;s wonderful!",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCpl76U9qDUAg"
+  }, {
+    "creationTime": "2017-06-03 07:18:45-0400",
+    "author": {
+      "displayName": "Dougal Campbell",
+      "profilePageUrl": "https://plus.google.com/+DougalCampbell",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-FXQyDVKRJjc/AAAAAAAAAAI/AAAAAAAAErw/fZAdUCezrNs/s64-c/photo.jpg",
+      "resourceName": "users/104640897934960019410"
+    },
+    "content": "That looks awesome. I especially liked the patterns near the end, particularly the one that starts at 1:00 in the video. ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCvuqj3xqHUAg"
+  }, {
+    "creationTime": "2017-06-03 10:00:05-0400",
+    "updateTime": "2017-06-03 10:00:17-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks!  \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104640897934960019410\" oid\u003d\"104640897934960019410\" \u003eDougal Campbell\u003c/a\u003e\u003c/span\u003e​, I think that\u0026#39;s just rainbow​ twinkles.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxC19vT-6qHUAg"
+  }, {
+    "creationTime": "2017-06-03 10:39:44-0400",
+    "author": {
+      "displayName": "Kjetil Eik",
+      "profilePageUrl": "https://plus.google.com/112499723613505973221",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-VDmxB-bOmIk/AAAAAAAAAAI/AAAAAAAAAQ0/nsFARPjdygw/s64-c/photo.jpg",
+      "resourceName": "users/112499723613505973221"
+    },
+    "content": "Great work Jason! I\u0026#39;ve been thinking about buying those rings for a long time but always hesitated in the end. Your video made me rethink that decision in a an eye blink and hit the order button without any more hesitation :) I\u0026#39;ll most likely use frosted acrylic as a front plate and design a 3D printed enclosure (maybe with veneer outside). Thanks for always being an inspiration! ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxDKgr7t86HUAg"
+  }, {
+    "creationTime": "2017-06-03 10:42:26-0400",
+    "author": {
+      "displayName": "Kjetil Eik",
+      "profilePageUrl": "https://plus.google.com/112499723613505973221",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-VDmxB-bOmIk/AAAAAAAAAAI/AAAAAAAAAQ0/nsFARPjdygw/s64-c/photo.jpg",
+      "resourceName": "users/112499723613505973221"
+    },
+    "content": "PS: What power supply are you using? I don\u0026#39;t trust the cheap no name Chinese 5v 10a bricks but have a 5v 12a Mean Well DIN mounted power supply laying around that I might use for this lamp.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxC61Nm69KHUAg"
+  }, {
+    "creationTime": "2017-06-03 12:41:56-0400",
+    "updateTime": "2017-06-03 12:50:21-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112499723613505973221\" oid\u003d\"112499723613505973221\" \u003eKjetil Eik\u003c/a\u003e\u003c/span\u003e Thank you!  I\u0026#39;ve had pretty good luck so far with these 5V 5A, 10A, \u0026amp; 15A power supply bricks.  I keep an eye on them while testing, and never run them at max current, using FastLED power management.  I wouldn\u0026#39;t mind paying more for a reputable sourced enclosed brick style power supply.  I\u0026#39;ve stayed away from open frame and exposed contact power supplies, since my projects are all fairly small and need to be kid safe.\u003cbr\u003e\u003cbr\u003e5V 5A $15 \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.amazon.com/gp/product/B00KTQD6GU\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.amazon.com/gp/product/B00KTQD6GU\u003c/a\u003e\u003cbr\u003e5V 10A $25 \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.adafruit.com/product/658\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.adafruit.com/product/658\u003c/a\u003e\u003cbr\u003e5V 15A $24 \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.amazon.com/gp/product/B01LXN7MN3\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.amazon.com/gp/product/B01LXN7MN3\u003c/a\u003e\u003cbr\u003e5V 15A $20 \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.amazon.com/gp/product/B0188UW0OM\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.amazon.com/gp/product/B0188UW0OM\u003c/a\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCVysqVj6LUAg"
+  }, {
+    "creationTime": "2017-06-03 13:30:00-0400",
+    "author": {
+      "displayName": "matt p",
+      "profilePageUrl": "https://plus.google.com/100949852406373042221",
+      "resourceName": "users/100949852406373042221"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/103867089694409269471\" oid\u003d\"103867089694409269471\" \u003eJason Coon\u003c/a\u003e\u003c/span\u003e,\u003cbr\u003eCongratulations on yet another spectacular and mesmerising build.\u003cbr\u003e\u003cbr\u003eFirst animation looks like those recent Nasa images of Saturn\u0026#39;s north pole. Serene yet far out! \u003cbr\u003eLight diffusion (frosted glass?) looks perfect. It makes those twinkles quite ethereal. \u003cbr\u003e\u003cbr\u003eQuick question: How do you film your builds so neatly?\u003cbr\u003eI can’t seem to get it. I somehow mislaid my proper camera and am currently stuck with my mobile. Whatever the glossy adds say, that devil device enjoys nothing more than focusing on things which don\u0026#39;t exists (fairies, I think, but alas still no proof), and over-exposing any LED pattern change like some nuke just went off in the neighbour\u0026#39;s garden. Obviously, this tends to make for rather poor viewing.\u003cbr\u003eI would be grateful for any wisdom/advice/tips/tricks you might be willing to share to properly film LEDs in all their shiny blinking glory (e.g. a proper camera? low LED brightness? manual focus? small aperture? something else like post-processing voodoo?)\u003cbr\u003e\u003cbr\u003eThanks\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCJtsr0maLUAg"
+  }, {
+    "creationTime": "2017-06-03 15:03:41-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/100949852406373042221\" oid\u003d\"100949852406373042221\" \u003ematt p\u003c/a\u003e\u003c/span\u003e thank you!  Seriously, all of the positive feedback is most of what keeps me building and sharing new stuff.  :)\u003cbr\u003e\u003cbr\u003eI just use my phone (Nexus 5X).  I have a tripod clip mount for it, and always use a tripod.  I\u0026#39;ve started using the Open Camera app for Android, which gives me more control over focus and exposure.  Bright changing lights really mess with auto focus and auto exposure, gotta turn those off.  I usually turn off all the lights in my dark basement lab.  I turn on the piece to white and adjust the brightness until it\u0026#39;s not too blown out.  I lock the exposure and zoom, then switch to whatever pattern I\u0026#39;m recording.  I repeat until I get the desired look.\u003cbr\u003e\u003cbr\u003eHope that helps!  I\u0026#39;m definitely still learning.  Been thinking about looking for a better camera, debating between DSLR and digital video cameras.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCrtYftrqLUAg"
+  }, {
+    "creationTime": "2017-06-03 17:33:52-0400",
+    "author": {
+      "displayName": "Antonio Valenti",
+      "profilePageUrl": "https://plus.google.com/100340025974433309146",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-cpTi761qc_I/AAAAAAAAAAI/AAAAAAAAAn8/uUL9ZsC8Pyo/s64-c/photo.jpg",
+      "resourceName": "users/100340025974433309146"
+    },
+    "content": "Great work Jason! Your projects are always beautiful.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCImNi10KLUAg"
+  }, {
+    "creationTime": "2017-06-04 22:19:30-0400",
+    "author": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    },
+    "content": "Can I see a picture of how you did the male header pins?  ",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxDAu7iQ0qXUAg"
+  }, {
+    "creationTime": "2017-06-04 22:23:03-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "\u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/104280782569289072986\" oid\u003d\"104280782569289072986\" \u003eBrian Lewis\u003c/a\u003e\u003c/span\u003e it\u0026#39;s not a great picture, but it\u0026#39;s there on my site, at the bottom: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.evilgeniuslabs.org/psilocybe\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.evilgeniuslabs.org/psilocybe\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eI soldered the innermost one on flat, using tape to keep it in place.  Then I used female header and tape to hold the next one at a slight angle while I soldered.  Repeated for each.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxDO6oT20qXUAg"
+  }, {
+    "creationTime": "2017-06-05 09:32:03-0400",
+    "author": {
+      "displayName": "James Callahan",
+      "profilePageUrl": "https://plus.google.com/101169594380997350004",
+      "resourceName": "users/101169594380997350004"
+    },
+    "content": "Awesome!  I\u0026#39;m trying to make sense of the Aliexpress order page and I\u0026#39;m not sure how to interpret what is labeled as \u0026quot;Emitting color\u0026quot;, but then has values such as \u0026quot;24 Rings\u0026quot;.  Your light has 9 rings with the biggest having 60 LEDs.  Any clue on how to decipher the engrish on the Aliexpress page?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCS2se66KbUAg"
+  }, {
+    "creationTime": "2017-06-05 09:36:53-0400",
+    "updateTime": "2017-06-05 09:37:21-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/101169594380997350004\" oid\u003d\"101169594380997350004\" \u003eJames Callahan\u003c/a\u003e\u003c/span\u003e!  I ordered the one that says \u0026quot;241 Rings\u0026quot;, meaning 241 LEDs (60+48+40+32+24+16+12+8+1).  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxDE58fE6abUAg"
+  }, {
+    "creationTime": "2017-06-05 22:24:20-0400",
+    "author": {
+      "displayName": "Bruce Boyes",
+      "profilePageUrl": "https://plus.google.com/+BruceBoyes",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-fzfcW3fmwWg/AAAAAAAAAAI/AAAAAAAAD_w/f83WVXkB4qM/s64-c/photo.jpg",
+      "resourceName": "users/100881391553876035927"
+    },
+    "content": "Really like the color patterns in the video",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxC70LuJlajUAg"
+  }, {
+    "creationTime": "2017-06-06 23:30:07-0400",
+    "updateTime": "2017-06-07 09:54:34-0400",
+    "author": {
+      "displayName": "John Hendy",
+      "profilePageUrl": "https://plus.google.com/112862299986769821819",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-DxZVv_yU60s/AAAAAAAAAAI/AAAAAAAAANk/bCX1I-mDPnE/s64-c/photo.jpg",
+      "resourceName": "users/112862299986769821819"
+    },
+    "content": "Amazing! Thanks for sharing the 3D model gist. I\u0026#39;d just recently gotten the idea to print a \u0026quot;stepped\u0026quot; pattern to match the pitch of a sphere and then mount it in a big hamster ball :)\u003cbr\u003e\u003cbr\u003eWhat is creating the appearance of rotating sides? Like a polygon that rotates?",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxDN8b7S5arUAg"
+  }, {
+    "creationTime": "2017-06-09 17:04:36-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "Thanks! \u003cspan class\u003d\"proflinkWrapper\"\u003e\u003cspan class\u003d\"proflinkPrefix\"\u003e+\u003c/span\u003e\u003ca class\u003d\"proflink bidi_isolate\" href\u003d\"https://plus.google.com/112862299986769821819\" oid\u003d\"112862299986769821819\" \u003eJohn Hendy\u003c/a\u003e\u003c/span\u003e, it\u0026#39;s Mark\u0026#39;s ColorWavesWithPalettes sketch: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://gist.github.com/kriegsman/8281905786e8b2632aeb\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://gist.github.com/kriegsman/8281905786e8b2632aeb\u003c/a\u003e  It uses offset sine waves for hue, saturation and brightness.  I\u0026#39;ve yet to find anything it\u0026#39;s not beautiful on: strips, strings, matrices, rings, etc.  :)",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxC4ou-I1bHUAg"
+  }, {
+    "creationTime": "2017-06-09 17:13:58-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "content": "So, I cleaned this up a bit last night.  I was getting it mounted to the portable wall for Maker Faire KC, and one of the plastic clips that holds the frosted glass front on snapped.  The glass didn\u0026#39;t break, since I had a firm grip on it, but I see why they got recalled.  :)\u003cbr\u003e\u003cbr\u003eI was getting ready to start drawing up a replacement clip to 3D print, but ended up finding some on Thingiverse: \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://www.thingiverse.com/search?q\u003dikea+lock+lamp+clip\" class\u003d\"ot-anchor bidi_isolate\" jslog\u003d\"10929; track:click\" dir\u003d\"ltr\"\u003ehttps://www.thingiverse.com/search?q\u003dikea+lock+lamp+clip\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eHere are some photos I took of the insides while I had it opened up.  It\u0026#39;s still not in its final form, but it\u0026#39;s getting closer.  I\u0026#39;ll probably end up making another Wemos level shifter shield with lots of pins on large 5V and GND rails, mount it properly inside the frame, replace the screw terminal barrel adapter with a JST-SM connected one, replace the female jumper wire ends with JST-SM connectors, find shorter screws to attach the 3D printed frame to the lamp body, etc.\u003cbr\u003e",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/q_J3fIBdUNC-9Di22Bm0g1h3bQZi51CQYCyvw6lh9PlKrPuvLmX4D00cP-CZyRTiRwSHRW0Vrfg",
+      "contentType": "image/*",
+      "width": 4032,
+      "height": 3024,
+      "resourceName": "media/CixBRjFRaXBQRlNwM2FHR2hzamhXaXBpTm5yRVpCME10NDNnN1dPN1M0c0RnVA\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxDpl4aV17HUAg"
+  }, {
+    "creationTime": "2017-06-09 17:14:13-0400",
+    "author": {
+      "displayName": "Jason Coon",
+      "profilePageUrl": "https://plus.google.com/+JasonCoon1",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-We66rpN2yrk/AAAAAAAAAAI/AAAAAAACPx4/JufgiuBx9LU/s64-c/photo.jpg",
+      "resourceName": "users/103867089694409269471"
+    },
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "media": {
+      "url": "https://lh3.googleusercontent.com/PAqI7FMGbhJdJInokrWIn8s7kG9FVKC95GqW-56wNWFFIsOLdM7_sj6dms7H0GVQU2ZHBkn_85g",
+      "contentType": "image/*",
+      "width": 4032,
+      "height": 3024,
+      "resourceName": "media/CixBRjFRaXBQME02aWlpS1VCLVo1R0kzS1FHVGg0TGhOX1g0M3Z1eHlobnJXRg\u003d\u003d"
+    },
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCWg-Kb17HUAg"
+  }, {
+    "creationTime": "2017-06-09 21:06:28-0400",
+    "author": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    },
+    "content": "When/if you get the new level shifter designed, let me know.  I\u0026#39;d be interested in picking a few up.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxDKs96Qi7LUAg"
+  }, {
+    "creationTime": "2017-07-07 06:56:54-0400",
+    "author": {
+      "displayName": "Stefan Rinke",
+      "profilePageUrl": "https://plus.google.com/+StefanRinke",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Mjyrd-LWm4E/AAAAAAAAAAI/AAAAAAAAAs0/ir2iNqVNyYc/s64-c/photo.jpg",
+      "resourceName": "users/107906012431034553445"
+    },
+    "content": "I used a Nino Ayla lamp and two pieces of a hard foam board for mounting the rings inside the lamp. Very simple no 3d printing, but it basically does the job. You simply cut the foam board with a knife to get the right gradient.",
+    "postUrl": "https://plus.google.com/103867089694409269471/posts/RVHH6TevGxi",
+    "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC/comments/CiN6MTNkczNuZzV0M2p2aGd3bTA0Y2l0dzRleWZkY3RycjQybxCayvG6gffUAg"
+  }],
+  "resourceName": "users/103867089694409269471/posts/UgiSZtr8gLNA03gCoAEC",
+  "plusOnes": [{
+    "plusOner": {
+      "displayName": "Mike Katchmar",
+      "profilePageUrl": "https://plus.google.com/109651986377400054686",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-0vBXNh_IPf0/AAAAAAAAAAI/AAAAAAAADQ0/ttIgsw7WIeY/s64-c/photo.jpg",
+      "resourceName": "users/109651986377400054686"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Le Breton",
+      "profilePageUrl": "https://plus.google.com/107147994736583550641",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-aCV0yhrHecI/AAAAAAAAAAI/AAAAAAAAnpY/iMO_TIkng2c/s64-c/photo.jpg",
+      "resourceName": "users/107147994736583550641"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Party Pods",
+      "profilePageUrl": "https://plus.google.com/107247986904447702162",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pAn93l7qEdM/AAAAAAAAAAI/AAAAAAAAAVc/2-SOOYzzOQs/s64-c/photo.jpg",
+      "resourceName": "users/107247986904447702162"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Rinke",
+      "profilePageUrl": "https://plus.google.com/+StefanRinke",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-Mjyrd-LWm4E/AAAAAAAAAAI/AAAAAAAAAs0/ir2iNqVNyYc/s64-c/photo.jpg",
+      "resourceName": "users/107906012431034553445"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andy Smith",
+      "profilePageUrl": "https://plus.google.com/107997388506818606661",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-Ntro0LbtweY/AAAAAAAAAAI/AAAAAAAAAQY/v7Mfj9Sfha8/s64-c/photo.jpg",
+      "resourceName": "users/107997388506818606661"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "nwestwind",
+      "profilePageUrl": "https://plus.google.com/111436139117455068094",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-MwQatDjwAf8/AAAAAAAAAAI/AAAAAAAAAt8/IyRl3qYirkM/s64-c/photo.jpg",
+      "resourceName": "users/111436139117455068094"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Prince Gautam",
+      "profilePageUrl": "https://plus.google.com/105842266223552716442",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-OmElLvp0fyU/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DVoII0fEjN89v9Qzmr35loQbJ1MLg/s64-c/photo.jpg",
+      "resourceName": "users/105842266223552716442"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "alireza abdiyan",
+      "profilePageUrl": "https://plus.google.com/103598531290170183719",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TC_hB0pAxrE/AAAAAAAAAAI/AAAAAAAABnw/05LG3Z0Q4uU/s64-c/photo.jpg",
+      "resourceName": "users/103598531290170183719"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Franck Marcotte",
+      "profilePageUrl": "https://plus.google.com/102897524645627986583",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-uPU4izkWWTo/AAAAAAAAAAI/AAAAAAAAADE/N6UrzoI3ibo/s64-c/photo.jpg",
+      "resourceName": "users/102897524645627986583"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Emmanuel Galanos",
+      "profilePageUrl": "https://plus.google.com/108476251682831350734",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-sUC2ZcS1LbI/AAAAAAAAAAI/AAAAAAAAAFk/m4XKkBlD-rY/s64-c/photo.jpg",
+      "resourceName": "users/108476251682831350734"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mario Wiegleb",
+      "profilePageUrl": "https://plus.google.com/111877398099696932439",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-wVdST4p6WNI/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWyAiS5SwNOlx5yYlk-x8Sg1JMLcw/s64-c/photo.jpg",
+      "resourceName": "users/111877398099696932439"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Anthony Kubak",
+      "profilePageUrl": "https://plus.google.com/101253617465483853877",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-hXIsHGOHL8Q/AAAAAAAAAAI/AAAAAAAABMY/KKjFtw5Pd-c/s64-c/photo.jpg",
+      "resourceName": "users/101253617465483853877"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "zhang billy",
+      "profilePageUrl": "https://plus.google.com/117961873706370410182",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-E6HdPZqA8cs/AAAAAAAAAAI/AAAAAAAACE4/l-EhcY4OUPE/s64-c/photo.jpg",
+      "resourceName": "users/117961873706370410182"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Pankaj Patel",
+      "profilePageUrl": "https://plus.google.com/110803286139666695853",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-HrqAmTwCuoA/AAAAAAAAAAI/AAAAAAAAGDY/lS7pDWvaPBE/s64-c/photo.jpg",
+      "resourceName": "users/110803286139666695853"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Philippe Maegerman",
+      "profilePageUrl": "https://plus.google.com/+pmaegerman",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-rQRPm8io5bc/AAAAAAAAAAI/AAAAAAABZ6o/guIjadM2WUU/s64-c/photo.jpg",
+      "resourceName": "users/102069174973969560746"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Stefan Petrick",
+      "profilePageUrl": "https://plus.google.com/115124694226931502095",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-Wb5FlkWhqD8/AAAAAAAAAAI/AAAAAAAAACA/U2Rn2Shh6lY/s64-c/photo.jpg",
+      "resourceName": "users/115124694226931502095"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Amelia T",
+      "profilePageUrl": "https://plus.google.com/+AmeliaT",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-SQRXif2E3Jo/AAAAAAAAAAI/AAAAAAAAARM/MqKCACGJWfo/s64-c/photo.jpg",
+      "resourceName": "users/110193816007223216283"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "James Callahan",
+      "profilePageUrl": "https://plus.google.com/101169594380997350004",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-XxQqevY4JCA/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DXG0Ut7cCYvntEmpbRZbfV8kutOxQ/s64-c/photo.jpg",
+      "resourceName": "users/101169594380997350004"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ken Bosak",
+      "profilePageUrl": "https://plus.google.com/105766595893395884707",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-N5NRpQFO-Rc/AAAAAAAAAAI/AAAAAAAABAg/enV-AWo0jyg/s64-c/photo.jpg",
+      "resourceName": "users/105766595893395884707"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Christopher Kirkman",
+      "profilePageUrl": "https://plus.google.com/118127046082317810519",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-g7r06yhWBRo/AAAAAAAAAAI/AAAAAAAAE_4/OcS1YFo4UjA/s64-c/photo.jpg",
+      "resourceName": "users/118127046082317810519"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Mark Kriegsman",
+      "profilePageUrl": "https://plus.google.com/112916219338292742137",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-3kYfRy_4hKM/AAAAAAAAAAI/AAAAAAAAA1Y/q8JqHITSyb8/s64-c/photo.jpg",
+      "resourceName": "users/112916219338292742137"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Juergen Bruegl",
+      "profilePageUrl": "https://plus.google.com/116700996827719272404",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-pe8qyFRCSjk/AAAAAAAAAAI/AAAAAAAAAQQ/w-jsdaxIbVo/s64-c/photo.jpg",
+      "resourceName": "users/116700996827719272404"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "1icri - Old Account",
+      "profilePageUrl": "https://plus.google.com/+Techy4198",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-aKO8TFuO3IM/AAAAAAAAAAI/AAAAAAAAD4A/5Douh6kqyaA/s64-c/photo.jpg",
+      "resourceName": "users/109789728586812118406"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Andrew Tuline",
+      "profilePageUrl": "https://plus.google.com/+AndrewTuline",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-nW-voPle54c/AAAAAAAAAAI/AAAAAAAAAAA/XT0pVUQ6T-E/s64-c/photo.jpg",
+      "resourceName": "users/117226587425513750918"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Brian Lewis",
+      "profilePageUrl": "https://plus.google.com/+BrianLewis515",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-m9PrLGDNp7Y/AAAAAAAAAAI/AAAAAAAAmQ4/HWDGdJTzZlY/s64-c/photo.jpg",
+      "resourceName": "users/104280782569289072986"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kjetil Eik",
+      "profilePageUrl": "https://plus.google.com/112499723613505973221",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-VDmxB-bOmIk/AAAAAAAAAAI/AAAAAAAAAQ0/nsFARPjdygw/s64-c/photo.jpg",
+      "resourceName": "users/112499723613505973221"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dougal Campbell",
+      "profilePageUrl": "https://plus.google.com/+DougalCampbell",
+      "avatarImageUrl": "https://lh4.googleusercontent.com/-FXQyDVKRJjc/AAAAAAAAAAI/AAAAAAAAErw/fZAdUCezrNs/s64-c/photo.jpg",
+      "resourceName": "users/104640897934960019410"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ivan Fominskiy",
+      "profilePageUrl": "https://plus.google.com/118394434555643147118",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-SWRMJE66JJM/AAAAAAAAAAI/AAAAAAAAAEk/P1oE6pnMj6g/s64-c/photo.jpg",
+      "resourceName": "users/118394434555643147118"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Kean Maizels",
+      "profilePageUrl": "https://plus.google.com/+KeanMaizels",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-t5aKxTecSaI/AAAAAAAAAAI/AAAAAAAAAz0/aplOgx_8Mpo/s64-c/photo.jpg",
+      "resourceName": "users/101798281270279925409"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Will Tatam",
+      "profilePageUrl": "https://plus.google.com/118177602878977643458",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-Iu1wCCisZoI/AAAAAAAAAAI/AAAAAAAAAEk/beUJ-QIAuQE/s64-c/photo.jpg",
+      "resourceName": "users/118177602878977643458"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Tod Kurt",
+      "profilePageUrl": "https://plus.google.com/+TodKurt",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-_S4CcvdcP8A/AAAAAAAAAAI/AAAAAAAAA0c/UYYcnuqCe0A/s64-c/photo.jpg",
+      "resourceName": "users/105468923980978502540"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Ken White",
+      "profilePageUrl": "https://plus.google.com/102004717133653297761",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-TksGlPNI20E/AAAAAAAAAAI/AAAAAAAAABQ/dSnUc5az_mU/s64-c/photo.jpg",
+      "resourceName": "users/102004717133653297761"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Dushyant Ahuja",
+      "profilePageUrl": "https://plus.google.com/+DushyantAhuja",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-sva8lHLHSMA/AAAAAAAAAAI/AAAAAAAAuKE/S0J3fcd1EFQ/s64-c/photo.jpg",
+      "resourceName": "users/102046189032208678773"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Derrick Williamson",
+      "profilePageUrl": "https://plus.google.com/113817857436136167071",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-e6bsVYhk9nE/AAAAAAAAAAI/AAAAAAAAENk/T1o6nOkA6ZY/s64-c/photo.jpg",
+      "resourceName": "users/113817857436136167071"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Marc Miller",
+      "profilePageUrl": "https://plus.google.com/+MarcMillerTime",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-2UyOG-bNNPc/AAAAAAAAAAI/AAAAAAAAAR4/DNSO8nF7bM8/s64-c/photo.jpg",
+      "resourceName": "users/110856759083002287912"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Bird Techstep",
+      "profilePageUrl": "https://plus.google.com/+BirdTechstep",
+      "avatarImageUrl": "https://lh3.googleusercontent.com/-ikYRaByZwU0/AAAAAAAAAAI/AAAAAAAAHr4/G9tsX6_6ooY/s64-c/photo.jpg",
+      "resourceName": "users/113386699534990590153"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Louis Beaudoin",
+      "profilePageUrl": "https://plus.google.com/+LouisBeaudoin",
+      "avatarImageUrl": "https://lh5.googleusercontent.com/-5v5SAXsZYNc/AAAAAAAAAAI/AAAAAAAALZg/WQ-KH16UJXE/s64-c/photo.jpg",
+      "resourceName": "users/101433779981299302803"
+    }
+  }, {
+    "plusOner": {
+      "displayName": "Jeremy Spencer",
+      "profilePageUrl": "https://plus.google.com/116805483424237205778",
+      "avatarImageUrl": "https://lh6.googleusercontent.com/-V68jC6aCxyI/AAAAAAAAAAI/AAAAAAAAFfs/IJVuI0BB08U/s64-c/photo.jpg",
+      "resourceName": "users/116805483424237205778"
+    }
+  }],
+  "postAcl": {
+    "communityAcl": {
+      "community": {
+        "resourceName": "communities/109127054924227823508",
+        "displayName": "FastLED Users"
+      },
+      "users": [{
+        "resourceName": "users/103867089694409269471",
+        "displayName": "Jason Coon"
+      }, {
+        "resourceName": "users/112862299986769821819",
+        "displayName": "John Hendy"
+      }, {
+        "resourceName": "users/110856759083002287912",
+        "displayName": "Marc Miller"
+      }, {
+        "resourceName": "users/116805483424237205778",
+        "displayName": "Jeremy Spencer"
+      }, {
+        "resourceName": "users/100949852406373042221",
+        "displayName": "matt p"
+      }, {
+        "resourceName": "users/104640897934960019410",
+        "displayName": "Dougal Campbell"
+      }, {
+        "resourceName": "users/101169594380997350004",
+        "displayName": "James Callahan"
+      }, {
+        "resourceName": "users/102004717133653297761",
+        "displayName": "Ken White"
+      }, {
+        "resourceName": "users/104280782569289072986",
+        "displayName": "Brian Lewis"
+      }, {
+        "resourceName": "users/101433779981299302803",
+        "displayName": "Louis Beaudoin"
+      }, {
+        "resourceName": "users/112499723613505973221",
+        "displayName": "Kjetil Eik"
+      }]
+    }
+  }
+}
