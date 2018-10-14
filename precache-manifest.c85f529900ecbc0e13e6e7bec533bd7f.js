@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/gplus-archive/static/css/main.5253aa51.chunk.css"
   },
   {
-    "revision": "dac231905fa1f30cb36e40d1e764f836",
+    "revision": "b0205c06837dec48897d7c086bbf92f1",
     "url": "/gplus-archive/index.html"
   }
 ];
